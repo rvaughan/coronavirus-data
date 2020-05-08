@@ -1,4 +1,4 @@
-name: Fetch latest data
+name: Fetch latest UK data
 
 on:
   push:
