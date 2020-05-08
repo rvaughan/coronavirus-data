@@ -28,7 +28,7 @@ jobs:
     - name: Fetch latest UK data
       run: |-
         cd google
-        conditional-get --etags ../etags.json https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
+        wget -O Global_Mobility_Report.csv https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
         echo "done"
     - name: Commit and push Google data if it changed
       run: |-
