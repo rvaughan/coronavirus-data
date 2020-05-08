@@ -25,15 +25,11 @@ jobs:
     - name: Install Python dependencies
       run: |
         pip install -r requirements.txt
-    - name: Create temporary working directory
-      run: |-
-        mkdir -p tmp_google && cd tmp_google
     - name: Fetch latest UK data
       run: |-
+        mkdir -p tmp_google && cd tmp_google
         conditional-get --etags ../etags.json -v https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
         mv Global_Mobility_Report.csv ../google/Global_Mobility_Report.csv
-    - name: Cleanup temporary working directory
-      run: |-
         cd .. && rm -rf tmp_google
     - name: Commit and push Google data if it changed
       run: |-

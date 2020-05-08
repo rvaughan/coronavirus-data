@@ -25,11 +25,9 @@ jobs:
     - name: Install Python dependencies
       run: |
         pip install -r requirements.txt
-    - name: Create temporary working directory
-      run: |-
-        mkdir -p tmp_usa && cd tmp_usa
     - name: Fetch latest USA data
       run: |-
+        mkdir -p tmp_usa && cd tmp_usa
         conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/states/current.json
         jq . current.json > ../usa/current.json
         conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/states/daily.json
@@ -42,8 +40,6 @@ jobs:
         jq . daily.json > ../usa/daily_us.json
         conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/urls.json
         jq . urls.json > ../usa/urls.json
-    - name: Cleanup temporary working directory
-      run: |-
         cd .. && rm -rf tmp_usa
     - name: Commit and push USA data if it changed
       run: |-

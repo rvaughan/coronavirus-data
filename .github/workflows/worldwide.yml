@@ -25,11 +25,9 @@ jobs:
     - name: Install Python dependencies
       run: |
         pip install -r requirements.txt
-    - name: Create temporary working directory
-      run: |-
-        mkdir -p tmp_worldwide && cd tmp_worldwide
     - name: Fetch latest worldwide data
       run: |-
+        mkdir -p tmp_worldwide && cd tmp_worldwide
         conditional-get --etags ../etags.json -v https://opendata.ecdc.europa.eu/covid19/casedistribution/json/
         jq . index.json > ../worldwide/worldwide.json
         conditional-get --etags ../etags.json -v https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
@@ -38,8 +36,6 @@ jobs:
         mv time_series_covid19_deaths_global.csv ../worldwide
         conditional-get --etags ../etags.json -v https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
         mv time_series_covid19_recovered_global.csv ../worldwide
-    - name: Cleanup temporary working directory
-      run: |-
         cd .. && rm -rf tmp_worldwide
     - name: Commit and push worldwide data if it changed
       run: |-
