@@ -1,0 +1,390 @@
+[
+  {
+    "kind": "url",
+    "name": "Alaska",
+    "url": "https://services1.arcgis.com/WzFsmainVTuD5KML/arcgis/rest/services/COVID_Tests/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=cum_Total&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=true&orderByFields=cum_Total+desc&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=1&sqlFormat=none&f=html&token=",
+    "filter": "css:.ftrTable,html2text,strip",
+    "stateId": "AK"
+  },
+  {
+    "kind": "url",
+    "name": "Alabama",
+    "url": "https://services7.arcgis.com/4RQmZZ0yaZkGR1zy/arcgis/rest/services/COV19_Public_Dashboard_ReadOnly/FeatureServer/0/query?where=CONFIRMED>0&outStatistics=[{\"statisticType\":\"sum\",\"onStatisticField\":\"CONFIRMED\"}]&cacheHint=true",
+    "filter": "css:.ftrTable,html2text,strip",
+    "stateId": "AL"
+  },
+  {
+    "kind": "url",
+    "name": "Arkansas",
+    "url": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus",
+    "filter": "css:#contentBody table:contains(\"Cases\"),html2text,strip",
+    "stateId": "AR"
+  },
+  {
+    "kind": "url",
+    "name": "Arizona",
+    "url": "https://tableau.azdhs.gov/views/UpdatedCOVIDdashboardV2/Story1.png",
+    "filter": "ocr,clean-new-lines",
+    "stateId": "AZ"
+  },
+  {
+    "kind": "url",
+    "name": "California",
+    "url": "https://www.cdph.ca.gov/Programs/OPA/Pages/New-Release-2020.aspx",
+    "filter": "css:table:contains(\"State Officials Announce\") tr:nth-child(1),html2text,strip",
+    "stateId": "CA"
+  },
+  {
+    "kind": "url",
+    "name": "Colorado",
+    "url": "https://covid19.colorado.gov/data",
+    "filter": "css:article .paragraph--type--bp-columns__3col,html2text,strip",
+    "stateId": "CO"
+  },
+  {
+    "kind": "url",
+    "name": "Connecticut",
+    "url": "https://data.ct.gov/api/views/ncg4-6gkj/rows.csv?accessType=DOWNLOAD",
+    "filter": "strip",
+    "stateId": "CT"
+  },
+  {
+    "kind": "url",
+    "name": "Washington DC",
+    "url": "https://coronavirus.dc.gov/page/coronavirus-data",
+    "filter": "css:ul:contains(\"tested\") li:first-child,html2text,strip",
+    "stateId": "DC"
+  },
+  {
+    "kind": "url",
+    "name": "Delaware",
+    "url": "https://services1.arcgis.com/PlCPCPzGOwulHUHo/arcgis/rest/services/DEMA_COVID_County_Boundary_Time_VIEW/FeatureServer/0/query?where=1=1&outFields=NAME,Recovered,Total_Death,Hospitalizations,NegativeCOVID,Presumptive_Positive,Pending&returnGeometry=false&cacheHint=true",
+    "filter": "css:.ftrTable,html2text,strip",
+    "stateId": "DE"
+  },
+  {
+    "kind": "url",
+    "name": "Florida",
+    "url": "https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/ArcGIS/rest/services/Florida_Testing/FeatureServer/0/query?where=1%3D1&returnGeometry=true&cacheHint=false&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22T_positive%22%7D%2C%0D%0A%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22T_negative%22%7D%2C%0D%0A%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22T_total%22%7D%0D%0A%5D&f=html",
+    "filter": "css:.ftrTable,html2text,strip",
+    "stateId": "FL"
+  },
+  {
+    "kind": "url",
+    "name": "Georgia",
+    "url": "https://ga-covid19.ondemand.sas.com/report-images/ve1035-375x200.svg",
+    "filter": "html2text,strip",
+    "stateId": "GA"
+  },
+  {
+    "kind": "url",
+    "name": "Hawaii",
+    "url": "https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/",
+    "filter": "css:table:contains(\"Total Cases\"),html2text,strip",
+    "stateId": "HI"
+  },
+  {
+    "kind": "url",
+    "name": "Iowa",
+    "url": "https://phantomjscloud.com/api/browser/v2/ak-7r01w-m166n-bm6wx-r4vn0-4m2m9/?request={url:'https://public.domo.com/embed/pages/erJAp',renderType:'html','requestSettings':{'waitInterval':6000}}",
+    "filter": "css:pg-layout-frame:contains(\"Individuals\"),html2text,strip",
+    "stateId": "IA"
+  },
+  {
+    "kind": "url",
+    "name": "Idaho",
+    "url": "https://coronavirus.idaho.gov/",
+    "filter": "css:.wp-block-column .wp-block-columns:contains(\"Cases\"),html2text,strip",
+    "stateId": "ID"
+  },
+  {
+    "kind": "url",
+    "name": "Illinois",
+    "url": "http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json",
+    "stateId": "IL"
+  },
+  {
+    "kind": "url",
+    "name": "Indiana",
+    "url": "https://hub.mph.in.gov/datastore/dump/182b6742-edac-442d-8eeb-62f96b17773e?format=json",
+    "stateId": "IN"
+  },
+  {
+    "kind": "url",
+    "name": "Kansas",
+    "url": "https://public.tableau.com/views/COVID-19TableauVersion2/CaseSummary.png?%3AshowVizHome=no",
+    "filter": "ocr,clean-new-lines,grep:Last updated",
+    "stateId": "KS"
+  },
+  {
+    "kind": "url",
+    "name": "Kentucky",
+    "url": "https://chfs.ky.gov/agencies/dph/Pages/covid19.aspx",
+    "filter": "css:p:contains(\"Current as of\") + div.row,html2text",
+    "stateId": "KY"
+  },
+  {
+    "kind": "url",
+    "name": "Louisiana",
+    "url": "https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/State_Level_Information_1/FeatureServer/0/query?where=1=1&returnGeometry=false&outFields=*&cacheHint=true",
+    "filter": "css:.ftrTable,html2text,strip",
+    "stateId": "LA"
+  },
+  {
+    "kind": "url",
+    "name": "Massachusetts",
+    "url": "https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring",
+    "filter": "css:table,html2text",
+    "stateId": "MA"
+  },
+  {
+    "kind": "url",
+    "name": "Maryland",
+    "url": "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/MD_COVID19_Case_Counts_by_County/FeatureServer/0/query?where=1%3D1&cacheHint=true&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22TotalCaseCount%22%7D%5D&f=html",
+    "filter": "css:.ftrTable,html2text,strip",
+    "stateId": "MD"
+  },
+  {
+    "kind": "url",
+    "name": "Maine",
+    "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
+    "filter": "css:table:contains(\"Data\"),html2text",
+    "stateId": "ME"
+  },
+  {
+    "kind": "url",
+    "name": "Michigan",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "filter": "css:table,html2text,strip",
+    "stateId": "MI"
+  },
+  {
+    "kind": "url",
+    "name": "Minnesota",
+    "url": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+    "filter": "css:p:contains(\"Total approximate number of completed tests\"),html2text",
+    "stateId": "MN"
+  },
+  {
+    "kind": "url",
+    "name": "Missouri",
+    "url": "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php",
+    "filter": "css:.text-danger,html2text,strip",
+    "stateId": "MO"
+  },
+  {
+    "kind": "url",
+    "name": "Mississippi",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "filter": "css:.msdh .shadedBlue,html2text",
+    "stateId": "MS"
+  },
+  {
+    "kind": "url",
+    "name": "Montana",
+    "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/COVID_Cases_Production_View/FeatureServer/0/query?where=Total<>0&outStatistics=[{\"statisticType\":\"sum\",\"onStatisticField\":\"Total\"},{\"statisticType\":\"sum\",\"onStatisticField\":\"TotalDeaths\"},{\"statisticType\":\"sum\",\"onStatisticField\":\"HospitalizationCount\"},{\"statisticType\":\"sum\",\"onStatisticField\":\"TotalRecovered\"}]&cacheHint=true",
+    "filter": "css:.ftrTable,html2text,strip",
+    "stateId": "MT"
+  },
+  {
+    "kind": "url",
+    "name": "Nebraska",
+    "url": "https://gis.ne.gov/Agency/rest/services/COVID19_County_Layer/MapServer/3/query?f=json&where=NE_JURIS%3D%27yes%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outStatistics=%5B%7B%22statisticType%22%3A%22count%22%2C%22onStatisticField%22%3A%22ID%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D",
+    "stateId": "NE"
+  },
+  {
+    "kind": "url",
+    "name": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/",
+    "filter": "css:table,html2text,strip",
+    "stateId": "NH"
+  },
+  {
+    "kind": "url",
+    "name": "New Jersey",
+    "url": "https://www.nj.gov/health/",
+    "filter": "css:.slickCarousel-DOH .card-body table,html2text",
+    "stateId": "NJ"
+  },
+  {
+    "kind": "url",
+    "name": "New Mexico",
+    "url": "https://e7p503ngy5.execute-api.us-west-2.amazonaws.com/prod/GetPublicStatewideData",
+    "stateId": "NM"
+  },
+  {
+    "kind": "url",
+    "name": "Nevada",
+    "url": "https://phantomjscloud.com/api/browser/v2/ak-7r01w-m166n-bm6wx-r4vn0-4m2m9/?request={url:'https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9',renderType:'html'}",
+    "filter": "css:[aria-label*=\"Test\"] title,html2text,strip",
+    "stateId": "NV"
+  },
+  {
+    "kind": "url",
+    "name": "New York",
+    "url": "https://phantomjscloud.com/api/browser/v2/ak-7r01w-m166n-bm6wx-r4vn0-4m2m9/?request={url:'https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Map?:embed=yes%26:toolbar=no',renderType:'jpg','requestSettings':{'waitInterval':4000},'renderSettings':{'clipRectangle':{'width':310,'height':85,'left':1400},'viewport':{'width':2048,'height':2048}}}",
+    "filter": "ocr,clean-new-lines",
+    "stateId": "NY"
+  },
+  {
+    "kind": "url",
+    "name": "North Carolina",
+    "url": "https://www.ncdhhs.gov/covid-19-case-count-nc",
+    "filter": "css:table,html2text",
+    "stateId": "NC"
+  },
+  {
+    "kind": "url",
+    "name": "North Dakota",
+    "url": "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases",
+    "filter": "css:.circle,html2text,strip",
+    "stateId": "ND"
+  },
+  {
+    "kind": "url",
+    "name": "Ohio",
+    "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
+    "filter": "css:.odx-content-section .stats-cards__item,html2text,strip",
+    "stateId": "OH"
+  },
+  {
+    "kind": "url",
+    "name": "Oklahoma",
+    "url": "https://storage.googleapis.com/ok-covid-gcs-public-download/covid19_cases_summary.pdf",
+    "filter": "sha1sum",
+    "ssl_no_verify": true,
+    "stateId": "OK"
+  },
+  {
+    "kind": "url",
+    "name": "Oregon",
+    "url": "https://govstatus.egov.com/OR-OHA-COVID-19",
+    "filter": "css:table:contains(\"Total persons\"),html2text",
+    "stateId": "OR"
+  },
+  {
+    "kind": "url",
+    "name": "Pennsylvania",
+    "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
+    "filter": "css:table:contains(\"Negative\"),html2text",
+    "stateId": "PA"
+  },
+  {
+    "kind": "url",
+    "name": "Rhode Island",
+    "url": "https://services1.arcgis.com/dkWT1XL4nglP5MLP/ArcGIS/rest/services/COVID_Public_Map_TEST/FeatureServer/2/query?where=City_Town+%3D+'TOTAL'&objectIds=&time=&resultType=none&outFields=*&cacheHint=false&f=html",
+    "filter": "css:.ftrTable,html2text,strip",
+    "stateId": "RI"
+  },
+  {
+    "kind": "url",
+    "name": "South Carolina",
+    "url": "https://scdhec.gov/monitoring-testing-covid-19",
+    "filter": "css:table:contains(\"Negative tests\"),html2text",
+    "stateId": "SC"
+  },
+  {
+    "kind": "url",
+    "name": "South Dakota",
+    "url": "https://phantomjscloud.com/api/browser/v2/ak-7r01w-m166n-bm6wx-r4vn0-4m2m9/?request={url:'https://app.powerbigov.us/view?r=eyJrIjoiM2NjNzhmMTEtMzVhNi00ZGJlLTkxYjQtNjkyNDlkMTMyN2IwIiwidCI6IjcwYWY1NDdjLTY5YWItNDE2ZC1iNGE2LTU0M2I1Y2U1MmI5OSJ9',renderType:'html'}",
+    "filter": "css:div.visualContainer:contains(\"LAST UPDATED\"),html2text,strip",
+    "stateId": "SD"
+  },
+  {
+    "kind": "url",
+    "name": "Tennessee",
+    "url": "https://apps.health.tn.gov/AEM_embed/TDH-2019-Novel-Coronavirus-Epi-and-Surveillance.pdf",
+    "filter": "sha1sum",
+    "stateId": "TN"
+  },
+  {
+    "kind": "url",
+    "name": "Texas",
+    "url": "https://services5.arcgis.com/ACaLB9ifngzawspq/arcgis/rest/services/COVID19County_ViewLayer/FeatureServer/0/query?where=Count_%3C%3E0&returnGeometry=false&outFields=*&cacheHint=true&outStatistics=[{%22statisticType%22:%22sum%22,%22onStatisticField%22:%22Count_%22}]",
+    "filter": "css:.ftrTable,html2text,strip",
+    "stateId": "TX"
+  },
+  {
+    "kind": "url",
+    "name": "Utah",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "filter": "css:#row,html2text,strip",
+    "stateId": "UT"
+  },
+  {
+    "kind": "url",
+    "name": "Virginia",
+    "url": "https://public.tableau.com/views/VirginiaCOVID-19Dashboard/VirginiaCOVID-19Dashboard.png?:showVizHome=no",
+    "filter": "ocr,clean-new-lines",
+    "stateId": "VA"
+  },
+  {
+    "kind": "url",
+    "name": "Vermont",
+    "url": "https://services1.arcgis.com/BkFxaEFNwHqX3tAw/arcgis/rest/services/county_summary/FeatureServer/0/query?where=1%3D1&outFields=*&cacheHint=true&orderByFields=date+DESC&resultRecordCount=1&f=html",
+    "filter": "css:.ftrTable,html2text,strip",
+    "stateId": "VT"
+  },
+  {
+    "kind": "url",
+    "name": "Washington",
+    "url": "https://phantomjscloud.com/api/browser/v2/ak-7r01w-m166n-bm6wx-r4vn0-4m2m9/?request={url:'https://msit.powerbi.com/view?r=eyJrIjoiMzU1YjFjMzktZjk5ZS00OTA5LTkyMDQtNjNiZmQ0OWRmM2I1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9',renderType:'html'}",
+    "filter": "css:.bodyCells .cell-interactive,html2text,strip",
+    "stateId": "WA"
+  },
+  {
+    "kind": "url",
+    "name": "Wisconsin",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/2/query?where=1=1&outFields=NEGATIVE,POSITIVE,DEATHS&returnGeometry=false&useCacheHint=true",
+    "filter": "css:.ftrTable,html2text,strip",
+    "stateId": "WI"
+  },
+  {
+    "kind": "url",
+    "name": "West Virginia",
+    "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
+    "filter": "css:table:contains(\"Daily\"),html2text",
+    "stateId": "WV"
+  },
+  {
+    "kind": "url",
+    "name": "Wyoming",
+    "url": "https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/",
+    "filter": "css:.et_pb_text_inner:contains(\"Testing Numbers\"),html2text",
+    "stateId": "WY"
+  },
+  {
+    "kind": "url",
+    "name": "American Samoa",
+    "url": "https://www.americansamoa.gov/covid-19-advisories",
+    "filter": "css:main div[id$=\"gridContainer\"],html2text,strip",
+    "stateId": "AS"
+  },
+  {
+    "kind": "url",
+    "name": "Commonwealth of the Northern Mariana Islands",
+    "url": "https://www.chcc.gov.mp/coronavirusinformation.php",
+    "filter": "css:.bannerback,html2text",
+    "stateId": "MP"
+  },
+  {
+    "kind": "url",
+    "name": "Guam",
+    "url": "https://ghs.guam.gov/coronavirus-covid-19",
+    "filter": "css:.Blog .post:contains(\"COVID\") .post-content,html2text,strip",
+    "stateId": "GU"
+  },
+  {
+    "kind": "url",
+    "name": "Puerto Rico",
+    "url": "http://www.salud.gov.pr/Pages/coronavirus.aspx",
+    "filter": "css:table:contains(\"POSTIVOS\"),html2text,strip",
+    "stateId": "PR"
+  },
+  {
+    "kind": "url",
+    "name": "Virgin Islands",
+    "url": "https://doh.vi.gov/",
+    "filter": "css:.page-content-sidebar .block:contains(\"COVID-19\"),html2text,strip"
+  }
+]
