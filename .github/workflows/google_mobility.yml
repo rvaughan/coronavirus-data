@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
     - name: Create temporary working directory
       run: |-
-        mkdir -p tmp_google && tmp_google
+        mkdir -p tmp_google && cd tmp_google
     - name: Fetch latest UK data
       run: |-
         conditional-get --etags ../etags.json -v https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv

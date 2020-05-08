@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
     - name: Create temporary working directory
       run: |-
-        mkdir -p tmp_usa && tmp_usa
+        mkdir -p tmp_usa && cd tmp_usa
     - name: Fetch latest USA data
       run: |-
         conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/states/current.json

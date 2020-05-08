@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
     - name: Create temporary working directory
       run: |-
-        mkdir -p tmp_worldwide && tmp_worldwide
+        mkdir -p tmp_worldwide && cd tmp_worldwide
     - name: Fetch latest worldwide data
       run: |-
         conditional-get --etags ../etags.json -v https://opendata.ecdc.europa.eu/covid19/casedistribution/json/

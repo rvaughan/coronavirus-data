@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
     - name: Create temporary working directory
       run: |-
-        mkdir -p tmp_uk && tmp_uk
+        mkdir -p tmp_uk && cd tmp_uk
     - name: Fetch latest UK data
       run: |-
         conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/data/data_latest.json
