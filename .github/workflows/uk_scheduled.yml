@@ -36,6 +36,10 @@ jobs:
         jq . countries.geojson > ../uk/countries.geojson
         conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/regions.geojson
         jq . regions.geojson > ../uk/regions.geojson
+        conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/json/coronavirus-cases_latest.json
+        jq . coronavirus-cases_latest.json > ../uk/coronavirus-cases_latest.json
+        conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/json/coronavirus-deaths_latest.json
+        jq . coronavirus-deaths_latest.json > ../uk/coronavirus-deaths_latest.json
         cd .. && rm -rf tmp_uk
     - name: Commit and push UK data if it changed
       run: |-
