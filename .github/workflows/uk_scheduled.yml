@@ -29,18 +29,20 @@ jobs:
       run: |-
         mkdir -p tmp_uk && cd tmp_uk
         conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/data/data_latest.json
-        jq . data_latest.json > ../uk/data_latest.json
+        (test -f data_latest.json && jq . data_latest.json > ../uk/data_latest.json) || echo "No update for data_latest.json, skipping."
         conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/utlas.geojson
-        jq . utlas.geojson > ../uk/utlas.geojson
+        (test -f utlas.geojson && jq . utlas.geojson > ../uk/utlas.geojson) || echo "No update for utlas.geojson, skipping."
         conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/countries.geojson
-        jq . countries.geojson > ../uk/countries.geojson
+        (test -f countries.geojson && jq . countries.geojson > ../uk/countries.geojson) || echo "No update for countries.geojson, skipping."
         conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/regions.geojson
-        jq . regions.geojson > ../uk/regions.geojson
+        (test -f regions.geojson && jq . regions.geojson > ../uk/regions.geojson) || echo "No update for regions.geojson, skipping."
         conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/json/coronavirus-cases_latest.json
-        jq . coronavirus-cases_latest.json > ../uk/coronavirus-cases_latest.json
+        (test -f coronavirus-cases_latest.json && jq . coronavirus-cases_latest.json > ../uk/coronavirus-cases_latest.json) || echo "No update for coronavirus-cases_latest.json, skipping."
         conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/json/coronavirus-deaths_latest.json
-        jq . coronavirus-deaths_latest.json > ../uk/coronavirus-deaths_latest.json
+        (test -f coronavirus-deaths_latest.json && jq . coronavirus-deaths_latest.json > ../uk/coronavirus-deaths_latest.json) || echo "No update for coronavirus-deaths_latest.json, skipping."
         cd .. && rm -rf tmp_uk
+        cd uk
+        conditional-get --etags ../etags.json -v http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx
     - name: Commit and push UK data if it changed
       run: |-
         git config user.name "Automated"

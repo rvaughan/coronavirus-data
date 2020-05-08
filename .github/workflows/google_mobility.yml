@@ -27,10 +27,8 @@ jobs:
         pip install -r requirements.txt
     - name: Fetch latest UK data
       run: |-
-        mkdir -p tmp_google && cd tmp_google
+        cd google
         conditional-get --etags ../etags.json -v https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
-        mv Global_Mobility_Report.csv ../google/Global_Mobility_Report.csv
-        cd .. && rm -rf tmp_google
     - name: Commit and push Google data if it changed
       run: |-
         git config user.name "Automated"

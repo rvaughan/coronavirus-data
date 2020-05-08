@@ -29,17 +29,17 @@ jobs:
       run: |-
         mkdir -p tmp_usa && cd tmp_usa
         conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/states/current.json
-        jq . current.json > ../usa/current.json
+        (test -f current.json && jq . current.json > ../usa/current.json) || echo "No update for data_latest.json, skipping."
         conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/states/daily.json
-        jq . daily.json > ../usa/daily_state.json
+        (test -f daily.json && jq . daily.json > ../usa/daily_state.json) || echo "No update for daily.json, skipping."
         conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/states/info.json
-        jq . info.json > ../usa/info.geojson
+        (test -f info.json && jq . info.json > ../usa/info.geojson) || echo "No update for info.json, skipping."
         conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/us/current.json
-        jq . current.json > ../usa/current.json
+        (test -f current.json && jq . current.json > ../usa/current.json) || echo "No update for current.json, skipping."
         conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/us/daily.json
-        jq . daily.json > ../usa/daily_us.json
+        (test -f daily.json && jq . daily.json > ../usa/daily_us.json) || echo "No update for daily.json, skipping."
         conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/urls.json
-        jq . urls.json > ../usa/urls.json
+        (test -f urls.json && jq . urls.json > ../usa/urls.json) || echo "No update for urls.json, skipping."
         cd .. && rm -rf tmp_usa
     - name: Commit and push USA data if it changed
       run: |-
