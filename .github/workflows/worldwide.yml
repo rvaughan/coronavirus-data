@@ -30,7 +30,7 @@ jobs:
         mkdir -p tmp_worldwide && tmp_worldwide
     - name: Fetch latest worldwide data
       run: |-
-        conditional-get -v https://opendata.ecdc.europa.eu/covid19/casedistribution/json/
+        conditional-get --etags ../etags.json -v https://opendata.ecdc.europa.eu/covid19/casedistribution/json/
         jq . index.json > ../worldwide/worldwide.json
     - name: Cleanup temporary working directory
       run: |-

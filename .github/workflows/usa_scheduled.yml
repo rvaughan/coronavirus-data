@@ -30,17 +30,17 @@ jobs:
         mkdir -p tmp_usa && tmp_usa
     - name: Fetch latest USA data
       run: |-
-        conditional-get -v https://covidtracking.com/api/v1/states/current.json
+        conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/states/current.json
         jq . current.json > ../usa/current.json
-        conditional-get -v https://covidtracking.com/api/v1/states/daily.json
+        conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/states/daily.json
         jq . daily.json > ../usa/daily_state.json
-        conditional-get -v https://covidtracking.com/api/v1/states/info.json
+        conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/states/info.json
         jq . info.json > ../usa/info.geojson
-        conditional-get -v https://covidtracking.com/api/v1/us/current.json
+        conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/us/current.json
         jq . current.json > ../usa/current.json
-        conditional-get -v https://covidtracking.com/api/v1/us/daily.json
+        conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/us/daily.json
         jq . daily.json > ../usa/daily_us.json
-        conditional-get -v https://covidtracking.com/api/v1/urls.json
+        conditional-get --etags ../etags.json -v https://covidtracking.com/api/v1/urls.json
         jq . urls.json > ../usa/urls.json
     - name: Cleanup temporary working directory
       run: |-

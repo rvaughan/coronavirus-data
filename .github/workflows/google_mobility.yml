@@ -30,7 +30,7 @@ jobs:
         mkdir -p tmp_google && tmp_google
     - name: Fetch latest UK data
       run: |-
-        conditional-get -v https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
+        conditional-get --etags ../etags.json -v https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
         mv Global_Mobility_Report.csv ../google/Global_Mobility_Report.csv
     - name: Cleanup temporary working directory
       run: |-

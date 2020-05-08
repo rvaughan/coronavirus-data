@@ -30,13 +30,13 @@ jobs:
         mkdir -p tmp_uk && tmp_uk
     - name: Fetch latest UK data
       run: |-
-        conditional-get -v https://c19downloads.azureedge.net/downloads/data/data_latest.json
+        conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/data/data_latest.json
         jq . data_latest.json > ../uk/data_latest.json
-        conditional-get -v https://c19pub.azureedge.net/utlas.geojson
+        conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/utlas.geojson
         jq . utlas.geojson > ../uk/utlas.geojson
-        conditional-get -v https://c19pub.azureedge.net/countries.geojson
+        conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/countries.geojson
         jq . countries.geojson > ../uk/countries.geojson
-        conditional-get -v https://c19pub.azureedge.net/regions.geojson
+        conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/regions.geojson
         jq . regions.geojson > ../uk/regions.geojson
     - name: Cleanup temporary working directory
       run: |-
