@@ -1,0 +1,45 @@
+name: Fetch latest worldwide data
+
+on:
+  repository_dispatch:
+  schedule:
+    - cron:  '00 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v1
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Create temporary working directory
+      run: |-
+        mkdir -p tmp_worldwide && tmp_worldwide
+    - name: Fetch latest worldwide data
+      run: |-
+        conditional-get -v https://opendata.ecdc.europa.eu/covid19/casedistribution/json/
+        jq . index.json > ../worldwide/worldwide.json
+    - name: Cleanup temporary working directory
+      run: |-
+        cd .. && rm -rf tmp_worldwide
+    - name: Commit and push worldwide data if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest worldwide data: ${timestamp}" || exit 0
+        git push

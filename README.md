@@ -15,3 +15,7 @@ The UK data is pulled from https://coronavirus.data.gov.uk/ twice an hour.
 ![Fetch latest USA data](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20data/badge.svg)
 
 The USA data is pulled from https://covidtracking.com/api once an hour.
+
+## Worldwide Data
+
+The worldwide data is pulled from https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide once an hour.
