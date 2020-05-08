@@ -32,9 +32,10 @@ jobs:
         (test -f index.json && jq . index.json > ../worldwide/worldwide.json) || echo "No update for index.json, skipping."
         cd .. && rm -rf tmp_worldwide
         cd worldwide
-        conditional-get --etags ../etags.json -v https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
-        conditional-get --etags ../etags.json -v https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
-        conditional-get --etags ../etags.json -v https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+        conditional-get --etags ../etags.json https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+        conditional-get --etags ../etags.json https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+        conditional-get --etags ../etags.json https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+        echo "done"
     - name: Commit and push worldwide data if it changed
       run: |-
         git config user.name "Automated"
