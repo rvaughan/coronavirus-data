@@ -1,7 +1,6 @@
 name: Fetch latest UK data
 
 on:
-  push:
   repository_dispatch:
   schedule:
     - cron:  '25,55 * * * *'
@@ -26,16 +25,22 @@ jobs:
     - name: Install Python dependencies
       run: |
         pip install -r requirements.txt
+    - name: Create temporary working directory
+      run: |-
+        mkdir -p tmp_uk && tmp_uk
     - name: Fetch latest UK data
       run: |-
         conditional-get -v https://c19downloads.azureedge.net/downloads/data/data_latest.json
-        jq . data_latest.json > data_latest.json.tmp && mv data_latest.json.tmp uk/data_latest.json
+        jq . data_latest.json > ../uk/data_latest.json
         conditional-get -v https://c19pub.azureedge.net/utlas.geojson
-        jq . utlas.geojson > utlas.geojson.tmp && mv utlas.geojson.tmp uk/utlas.geojson
+        jq . utlas.geojson > ../uk/utlas.geojson
         conditional-get -v https://c19pub.azureedge.net/countries.geojson
-        jq . countries.geojson > countries.geojson.tmp && mv countries.geojson.tmp uk/countries.geojson
+        jq . countries.geojson > ../uk/countries.geojson
         conditional-get -v https://c19pub.azureedge.net/regions.geojson
-        jq . regions.geojson > regions.geojson.tmp && mv regions.geojson.tmp uk/regions.geojson
+        jq . regions.geojson > ../uk/regions.geojson
+    - name: Cleanup temporary working directory
+      run: |-
+        cd .. && rm -rf tmp_uk
     - name: Commit and push UK data if it changed
       run: |-
         git config user.name "Automated"

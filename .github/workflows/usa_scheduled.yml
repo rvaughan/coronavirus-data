@@ -1,7 +1,6 @@
 name: Fetch latest USA data
 
 on:
-  push:
   repository_dispatch:
   schedule:
     - cron:  '30 * * * *'
@@ -26,20 +25,25 @@ jobs:
     - name: Install Python dependencies
       run: |
         pip install -r requirements.txt
+    - name: Create temporary working directory
+      run: |-
+        mkdir -p tmp_usa && tmp_usa
     - name: Fetch latest USA data
       run: |-
         conditional-get -v https://covidtracking.com/api/v1/states/current.json
-        jq . current.json > current.json.tmp && mv current.json.tmp usa/current.json
+        jq . current.json > ../usa/current.json
         conditional-get -v https://covidtracking.com/api/v1/states/daily.json
-        jq . daily.json > daily_state.json.tmp && mv daily_state.json.tmp usa/daily_state.json
+        jq . daily.json > ../usa/daily_state.json
         conditional-get -v https://covidtracking.com/api/v1/states/info.json
-        jq . info.json > info.json.tmp && mv info.geojson.tmp usa/info.geojson
+        jq . info.json > ../usa/info.geojson
         conditional-get -v https://covidtracking.com/api/v1/us/current.json
-        jq . current.json > current.json.tmp && mv current.json.tmp usa/current.json
+        jq . current.json > ../usa/current.json
         conditional-get -v https://covidtracking.com/api/v1/us/daily.json
-        jq . daily.json > daily_us.json.tmp && mv daily_us.json.tmp usa/daily_us.json
+        jq . daily.json > ../usa/daily_us.json
         conditional-get -v https://covidtracking.com/api/v1/urls.json
-        jq . urls.json > urls.json.tmp && mv urls.json.tmp usa/urls.json
+        jq . urls.json > ../usa/urls.json
+    - name: Cleanup temporary working directory
+        cd .. && rm -rf tmp_usa
     - name: Commit and push USA data if it changed
       run: |-
         git config user.name "Automated"
