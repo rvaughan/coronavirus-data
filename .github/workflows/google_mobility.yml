@@ -1,0 +1,45 @@
+name: Fetch latest Google Mobility data
+
+on:
+  repository_dispatch:
+  schedule:
+    - cron:  '00 12 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v1
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Create temporary working directory
+      run: |-
+        mkdir -p tmp_google && tmp_google
+    - name: Fetch latest UK data
+      run: |-
+        conditional-get -v https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
+        mv Global_Mobility_Report.csv ../google/Global_Mobility_Report.csv
+    - name: Cleanup temporary working directory
+      run: |-
+        cd .. && rm -rf tmp_google
+    - name: Commit and push Google data if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest Google mobility data: ${timestamp}" || exit 0
+        git push
