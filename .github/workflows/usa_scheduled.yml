@@ -43,6 +43,7 @@ jobs:
         conditional-get -v https://covidtracking.com/api/v1/urls.json
         jq . urls.json > ../usa/urls.json
     - name: Cleanup temporary working directory
+      run: |-
         cd .. && rm -rf tmp_usa
     - name: Commit and push USA data if it changed
       run: |-
