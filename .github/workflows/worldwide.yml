@@ -32,6 +32,12 @@ jobs:
       run: |-
         conditional-get --etags ../etags.json -v https://opendata.ecdc.europa.eu/covid19/casedistribution/json/
         jq . index.json > ../worldwide/worldwide.json
+        conditional-get --etags ../etags.json -v https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+        mv time_series_covid19_confirmed_global.csv ../worldwide
+        conditional-get --etags ../etags.json -v https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+        mv time_series_covid19_deaths_global.csv ../worldwide
+        conditional-get --etags ../etags.json -v https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+        mv time_series_covid19_recovered_global.csv ../worldwide
     - name: Cleanup temporary working directory
       run: |-
         cd .. && rm -rf tmp_worldwide
