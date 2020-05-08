@@ -1,0 +1,50 @@
+name: Fetch latest USA data
+
+on:
+  push:
+  repository_dispatch:
+  schedule:
+    - cron:  '30 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v1
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Fetch latest USA data
+      run: |-
+        conditional-get -v https://covidtracking.com/api/v1/states/current.json
+        jq . current.json > current.json.tmp && mv current.json.tmp usa/current.json
+        conditional-get -v https://covidtracking.com/api/v1/states/daily.json
+        jq . daily.json > daily_state.json.tmp && mv daily_state.json.tmp usa/daily_state.json
+        conditional-get -v https://covidtracking.com/api/v1/states/info.json
+        jq . info.json > info.json.tmp && mv info.geojson.tmp usa/info.geojson
+        conditional-get -v https://covidtracking.com/api/v1/us/current.json
+        jq . current.json > current.json.tmp && mv current.json.tmp usa/current.json
+        conditional-get -v https://covidtracking.com/api/v1/us/daily.json
+        jq . daily.json > daily_us.json.tmp && mv daily_us.json.tmp usa/daily_us.json
+        conditional-get -v https://covidtracking.com/api/v1/urls.json
+        jq . urls.json > urls.json.tmp && mv urls.json.tmp usa/urls.json
+    - name: Commit and push USA data if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest USA data: ${timestamp}" || exit 0
+        git push
