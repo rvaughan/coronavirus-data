@@ -13,7 +13,12 @@ The Google mobility data is pulled from https://www.google.com/covid19/mobility/
 ## UK Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20UK%20data/badge.svg)
 
-The UK data is pulled from https://coronavirus.data.gov.uk/ twice an hour.
+The UK data is pulled twice an hour from the following sources:
+
+  * [England and Wales Data](https://coronavirus.data.gov.uk/)
+  * [Northern Ireland](https://www.nisra.gov.uk/publications/weekly-deaths)
+  * [Scottish Data](https://www.nrscotland.gov.uk/covid19stats)
+  * [Wales Data](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary)
 
 ## USA Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20data/badge.svg)
