@@ -2,6 +2,9 @@
 
 This repository contains all of the data that I can find about Coronavirus numbers from around the globe.
 
+The repository is completely automated via [GitHub Actions](https://github.com/features/actions) as a bit
+of an experiment, largely inspired by [Simon Williams](https://github.com/simonw/coronavirus-data-gov-archive) repository.
+
 ## Google Mobility Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Google%20Mobility%20data/badge.svg)
 
