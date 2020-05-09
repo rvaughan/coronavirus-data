@@ -42,7 +42,9 @@ jobs:
         (test -f coronavirus-deaths_latest.json && jq . coronavirus-deaths_latest.json > ../uk/coronavirus-deaths_latest.json) || echo "No update for coronavirus-deaths_latest.json, skipping."
         cd .. && rm -rf tmp_uk
         cd uk
-        conditional-get --etags ../etags.json -v http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx
+        mkdir -p wales && cd wales
+        conditional-get --etags ../../etags.json -v http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx
+        cd ..
         mkdir -p scotland && cd scotland
         wget -O week_14.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-14.zip
         wget -O week_15.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-15.zip
