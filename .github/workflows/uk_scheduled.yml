@@ -43,6 +43,16 @@ jobs:
         cd .. && rm -rf tmp_uk
         cd uk
         conditional-get --etags ../etags.json -v http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx
+        mkdir -p scotland && cd scotland
+        wget -O week_14.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-14.zip
+        wget -O week_15.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-15.zip
+        wget -O week_16.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-16.zip
+        wget -O week_17.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-17.zip
+        wget -O week_18.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-18.zip
+        cd ..
+        mkdir -p northern_ireland && cd northern_ireland
+        wget -O weekly_deaths_2020.xls https://www.nisra.gov.uk/sites/nisra.gov.uk/files/publications/Weekly_Deaths.xls
+        wget -O historical_deaths_2009-2019.xls https://www.nisra.gov.uk/sites/nisra.gov.uk/files/publications/Weekly_Deaths%20-%20Historical.xls
     - name: Commit and push UK data if it changed
       run: |-
         git config user.name "Automated"
