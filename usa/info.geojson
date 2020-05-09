@@ -575,7 +575,7 @@
     "state": "UT",
     "covid19SiteOld": "https://health.utah.gov/coronavirus",
     "covid19Site": "https://coronavirus-dashboard.utah.gov/",
-    "covid19SiteSecondary": null,
+    "covid19SiteSecondary": "https://coronavirus-dashboard.utah.gov/#hospitalizations",
     "twitter": "@utahdepofhealth",
     "pui": "Only positives",
     "pum": false,
