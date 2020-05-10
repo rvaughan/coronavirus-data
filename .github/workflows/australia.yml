@@ -1,0 +1,39 @@
+name: Fetch latest Australian data
+
+on:
+  repository_dispatch:
+  schedule:
+    - cron:  '00 1 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v1
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Fetch latest worldwide data
+      run: |-
+        cd australia
+        wget -q -O Australia_COVID_Data.xlsx https://3f45b3d0-c53e-4b8a-937c-834399edc758.filesusr.com/ugd/de9cb2_08a8c576d32e4673a28c34fbf6c0feb3.xlsx?dn=Australia%20COVID%20Data.xlsx
+    - name: Commit and push worldwide data if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest Australian data: ${timestamp}" || exit 0
+        git push

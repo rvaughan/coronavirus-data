@@ -5,6 +5,13 @@ This repository contains all of the data that I can find about Coronavirus numbe
 The repository is completely automated via [GitHub Actions](https://github.com/features/actions) as a bit
 of an experiment, largely inspired by [Simon Williams](https://github.com/simonw/coronavirus-data-gov-archive) repository.
 
+## Australian Data
+![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Australian%20data/badge.svg)
+
+  * [Covid 19 Data](https://www.covid19data.com.au/)
+  * [Covid Australia](https://www.covidaustralia.com)
+  * [Covid Live](https://covidlive.com.au/)
+
 ## Google Mobility Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Google%20Mobility%20data/badge.svg)
 
