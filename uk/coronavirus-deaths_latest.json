@@ -1,9 +1,261 @@
 {
   "metadata": {
-    "lastUpdatedAt": "2020-05-15T12:56:57.107992Z",
-    "disclaimer": "Deaths and lab-confirmed case counts for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 3 May 2020, Daily and total deaths are as of 2 May 2020. See the About the data page (link at top of this page) for details. The England total excludes 392 lab-confirmed cases that are not yet in the automated reporting system. These are included in the total number of lab-confirmed UK cases."
+    "lastUpdatedAt": "2020-05-15T12:59:03.639639Z",
+    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 12 May 2020, Daily and total deaths are as of 11 May 2020. See the About the data page (link at top of this page) for details. The England total excludes 392 lab-confirmed cases that are not yet in the automated reporting system. These are included in the total number of lab-confirmed UK cases."
   },
   "countries": [
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-12",
+      "dailyChangeInDeaths": 16,
+      "cumulativeDeaths": 1132
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-12",
+      "dailyChangeInDeaths": 5,
+      "cumulativeDeaths": 1862
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-12",
+      "dailyChangeInDeaths": 3,
+      "cumulativeDeaths": 438
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-12",
+      "dailyChangeInDeaths": 603,
+      "cumulativeDeaths": 29260
+    },
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-11",
+      "dailyChangeInDeaths": 5,
+      "cumulativeDeaths": 1116
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-11",
+      "dailyChangeInDeaths": 10,
+      "cumulativeDeaths": 1857
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-11",
+      "dailyChangeInDeaths": 5,
+      "cumulativeDeaths": 435
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-11",
+      "dailyChangeInDeaths": 190,
+      "cumulativeDeaths": 28657
+    },
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-10",
+      "dailyChangeInDeaths": 12,
+      "cumulativeDeaths": 1111
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-10",
+      "dailyChangeInDeaths": 36,
+      "cumulativeDeaths": 1847
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-10",
+      "dailyChangeInDeaths": 4,
+      "cumulativeDeaths": 430
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-10",
+      "dailyChangeInDeaths": 217,
+      "cumulativeDeaths": 28467
+    },
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-09",
+      "dailyChangeInDeaths": 9,
+      "cumulativeDeaths": 1099
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-09",
+      "dailyChangeInDeaths": 49,
+      "cumulativeDeaths": 1811
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-09",
+      "dailyChangeInDeaths": 4,
+      "cumulativeDeaths": 426
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-09",
+      "dailyChangeInDeaths": 283,
+      "cumulativeDeaths": 28250
+    },
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-08",
+      "dailyChangeInDeaths": 28,
+      "cumulativeDeaths": 1090
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-08",
+      "dailyChangeInDeaths": 59,
+      "cumulativeDeaths": 1762
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-08",
+      "dailyChangeInDeaths": 4,
+      "cumulativeDeaths": 422
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-08",
+      "dailyChangeInDeaths": 535,
+      "cumulativeDeaths": 27967
+    },
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-07",
+      "dailyChangeInDeaths": 18,
+      "cumulativeDeaths": 1062
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-07",
+      "dailyChangeInDeaths": 83,
+      "cumulativeDeaths": 1703
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-07",
+      "dailyChangeInDeaths": 14,
+      "cumulativeDeaths": 418
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-07",
+      "dailyChangeInDeaths": 424,
+      "cumulativeDeaths": 27432
+    },
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-06",
+      "dailyChangeInDeaths": 21,
+      "cumulativeDeaths": 1044
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-06",
+      "dailyChangeInDeaths": 44,
+      "cumulativeDeaths": 1620
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-06",
+      "dailyChangeInDeaths": 17,
+      "cumulativeDeaths": 404
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-06",
+      "dailyChangeInDeaths": 567,
+      "cumulativeDeaths": 27008
+    },
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-05",
+      "dailyChangeInDeaths": 26,
+      "cumulativeDeaths": 1023
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-05",
+      "dailyChangeInDeaths": 5,
+      "cumulativeDeaths": 1576
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-05",
+      "dailyChangeInDeaths": 6,
+      "cumulativeDeaths": 387
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-05",
+      "dailyChangeInDeaths": 656,
+      "cumulativeDeaths": 26441
+    },
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-04",
+      "dailyChangeInDeaths": 14,
+      "cumulativeDeaths": 997
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-04",
+      "dailyChangeInDeaths": 12,
+      "cumulativeDeaths": 1571
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-04",
+      "dailyChangeInDeaths": 5,
+      "cumulativeDeaths": 381
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-04",
+      "dailyChangeInDeaths": 257,
+      "cumulativeDeaths": 25785
+    },
     {
       "areaCode": "W92000004",
       "areaName": "Wales",
@@ -1420,6 +1672,69 @@
     }
   ],
   "overview": [
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-12",
+      "dailyChangeInDeaths": 627,
+      "cumulativeDeaths": 32692
+    },
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-11",
+      "dailyChangeInDeaths": 210,
+      "cumulativeDeaths": 32065
+    },
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-10",
+      "dailyChangeInDeaths": 269,
+      "cumulativeDeaths": 31855
+    },
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-09",
+      "dailyChangeInDeaths": 345,
+      "cumulativeDeaths": 31586
+    },
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-08",
+      "dailyChangeInDeaths": 626,
+      "cumulativeDeaths": 31241
+    },
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-07",
+      "dailyChangeInDeaths": 539,
+      "cumulativeDeaths": 30615
+    },
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-06",
+      "dailyChangeInDeaths": 649,
+      "cumulativeDeaths": 30076
+    },
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-05",
+      "dailyChangeInDeaths": 693,
+      "cumulativeDeaths": 29427
+    },
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-04",
+      "dailyChangeInDeaths": 288,
+      "cumulativeDeaths": 28734
+    },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
