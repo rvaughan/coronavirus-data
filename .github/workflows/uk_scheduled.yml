@@ -53,7 +53,7 @@ jobs:
         wget -O week_18.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-18.zip
         cd ..
         mkdir -p northern_ireland && cd northern_ireland
-        wget -O weekly_deaths_2020.xls https://www.nisra.gov.uk/sites/nisra.gov.uk/files/publications/Weekly_Deaths.xls
+        wget -O weekly_deaths_2020.xls https://www.nisra.gov.uk/sites/nisra.gov.uk/files/publications/Weekly_Deaths.XLS
         wget -O historical_deaths_2009-2019.xls https://www.nisra.gov.uk/sites/nisra.gov.uk/files/publications/Weekly_Deaths%20-%20Historical.xls
     - name: Commit and push UK data if it changed
       run: |-
