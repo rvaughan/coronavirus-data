@@ -58,8 +58,8 @@
   {
     "kind": "url",
     "name": "Delaware",
-    "url": "https://services1.arcgis.com/PlCPCPzGOwulHUHo/arcgis/rest/services/DEMA_COVID_County_Boundary_Time_VIEW/FeatureServer/0/query?where=1=1&outFields=NAME,Recovered,Total_Death,Hospitalizations,NegativeCOVID,Presumptive_Positive,Pending&returnGeometry=false&cacheHint=true",
-    "filter": "css:.ftrTable,html2text,strip",
+    "url": "https://myhealthycommunity.dhss.delaware.gov/embed/covid19/",
+    "filter": "css:div.c-summary-metric,html2text,strip",
     "stateId": "DE"
   },
   {
