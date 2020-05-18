@@ -26,6 +26,7 @@ The UK data is pulled twice an hour from the following sources:
   * [Northern Ireland](https://www.nisra.gov.uk/publications/weekly-deaths)
   * [Scottish Data](https://www.nrscotland.gov.uk/covid19stats)
   * [Wales Data](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary)
+  * [UK R Number](https://www.gov.uk/government/news/government-publishes-latest-r-number)
 
 ## USA Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20data/badge.svg)

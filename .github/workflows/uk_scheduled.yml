@@ -42,6 +42,7 @@ jobs:
         (test -f coronavirus-deaths_latest.json && jq . coronavirus-deaths_latest.json > ../uk/coronavirus-deaths_latest.json) || echo "No update for coronavirus-deaths_latest.json, skipping."
         cd .. && rm -rf tmp_uk
         cd uk
+        wget -O r_number.html https://www.gov.uk/government/news/government-publishes-latest-r-number
         mkdir -p wales && cd wales
         conditional-get --etags ../../etags.json -v http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx
         cd ..
