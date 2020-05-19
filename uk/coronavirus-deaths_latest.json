@@ -1,9 +1,37 @@
 {
   "metadata": {
-    "lastUpdatedAt": "2020-05-18T15:51:24.105094Z",
-    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 18 May 2020. Daily and total deaths are as of 17 May 2020. See the About the data page (link at top of this page) for details. The England total excludes 392 lab-confirmed cases that are not yet in the automated reporting system. These are included in the total number of lab-confirmed UK cases. "
+    "lastUpdatedAt": "2020-05-19T17:18:16.296815Z",
+    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 19 May 2020. Daily and total deaths are as of 18 May 2020. See the About the data page (link at top of this page) for details. The England total excludes 392 lab-confirmed cases that are not yet in the automated reporting system. These are included in the total number of lab-confirmed UK cases. The number of daily positive cases is likely to be a small overestimate, due to data processing issues. If necessary, this will be revised in future published figures. "
   },
   "countries": [
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-19",
+      "dailyChangeInDeaths": 17,
+      "cumulativeDeaths": 1224
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-19",
+      "dailyChangeInDeaths": 2,
+      "cumulativeDeaths": 2105
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-19",
+      "dailyChangeInDeaths": 6,
+      "cumulativeDeaths": 482
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-19",
+      "dailyChangeInDeaths": 520,
+      "cumulativeDeaths": 31530
+    },
     {
       "areaCode": "W92000004",
       "areaName": "Wales",
@@ -1840,6 +1868,13 @@
     }
   ],
   "overview": [
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-19",
+      "dailyChangeInDeaths": 545,
+      "cumulativeDeaths": 35341
+    },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
