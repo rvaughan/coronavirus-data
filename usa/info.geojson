@@ -498,7 +498,7 @@
     "twitter": "@PAHealthDept",
     "pui": "Only positives",
     "pum": false,
-    "notes": "County level data may differ from the state totals. We are not adding deaths back into positives",
+    "notes": "County level data may differ from the state totals. We are not adding deaths back into positives. On 4/27, Pennsylvania revised down its total deaths from 1,622 to 1,421 to exclude some probable deaths that needed further confirmation to be linked to COVID 19.",
     "fips": "42",
     "name": "Pennsylvania"
   },
@@ -510,7 +510,7 @@
     "twitter": "@DeptSaludPR",
     "pui": "No Data",
     "pum": false,
-    "notes": "Death counts include both confirmed and presumed COVID deaths.\nWhen it is reported, we add inconclusive results to pending.\nPositive counts reflect individual who test positive, combining both molecular and serological tests.\nNegative counts haven't been reported since 4/23. Working to get numbers back",
+    "notes": "Death counts include both confirmed and presumed COVID deaths.\nWhen it is reported, we add inconclusive results to pending.\nPositive counts reflect individual who test positive, combining both molecular and serological tests.\nOn 4/22 Puerto Rico revised down its positive count from 1,298 to 915 to exclude double-counted cases.",
     "fips": "72",
     "name": "Puerto Rico"
   },
