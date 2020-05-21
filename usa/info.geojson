@@ -74,7 +74,7 @@
     "state": "CO",
     "covid19SiteOld": "https://www.colorado.gov/pacific/cdphe/2019-novel-coronavirus",
     "covid19Site": "https://covid19.colorado.gov/case-data",
-    "covid19SiteSecondary": null,
+    "covid19SiteSecondary": "https://covid19.colorado.gov/covid-19-data",
     "twitter": "@cdphe",
     "pui": "Positives + Negatives",
     "pum": false,
