@@ -168,8 +168,8 @@
   {
     "kind": "url",
     "name": "Missouri",
-    "url": "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php",
-    "filter": "css:.text-danger,html2text,strip",
+    "url": "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/",
+    "filter": "css:div.table-responsive,html2text,strip",
     "stateId": "MO"
   },
   {
