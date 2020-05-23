@@ -294,7 +294,7 @@
     "twitter": "@MichiganHHS",
     "pui": "All data",
     "pum": true,
-    "notes": "Michigan has reported each day's negative results since 3/10 but has never totaled them. We sum all the negative results and report the total. Michigan reports specimens tested instead of people tested. \nRecovered counts are updated once a week. \nAs of May 16, Michigan uses 'total specimens' reported on lab testing page",
+    "notes": "Michigan has reported each day's negative results since 3/10 but has never totaled them. We sum all the negative results and report the total. Michigan reports specimens tested instead of people tested. \nRecovered counts are updated once a week. \nAs of May 16, Michigan uses 'total specimens' reported on lab testing page\nAs of May 23rd, Michigan separates out antibody and PCR tests. Total testing numbers might be impacted",
     "fips": "26",
     "name": "Michigan"
   },
@@ -318,7 +318,7 @@
     "twitter": "@HealthyLivingMo",
     "pui": "Only positives",
     "pum": false,
-    "notes": "Negative = Total - Positive. As of April 27, Missouri is reporting people tested.\nMissouri has a lag in reporting total patients tested; this figure does not include patients tested as of a particular day until the following day's data update\nAs of 5/22, MO started separating out PCR and Antibody tests",
+    "notes": "Negative = Total - Positive. As of April 27, Missouri is reporting people tested.\nMissouri has a lag in reporting total patients tested; this figure does not include patients tested as of a particular day until the following day's data update\nAs of 5/22, MO started separating out PCR and antibody tests. Total tests might be impacted",
     "fips": "29",
     "name": "Missouri"
   },
@@ -342,7 +342,7 @@
     "twitter": "@msdh",
     "pui": "Only positives",
     "pum": false,
-    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly. As of April 27, Mississippi is reporting people tested.",
+    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly. As of April 27, Mississippi is reporting people tested.\nAs of 5/23, MS started separating out PCR and antibody tests. Total tests might be impacted",
     "fips": "28",
     "name": "Mississippi"
   },
@@ -569,7 +569,7 @@
     "twitter": "@TexasDSHS",
     "pui": "Only positives",
     "pum": false,
-    "notes": "As of May 16, Texas is reporting mostly specimens tested, except for the small number of tests performed by public labs, which are de-duplicated",
+    "notes": "As of May 16, Texas is reporting mostly specimens tested, except for the small number of tests performed by public labs, which are de-duplicated\nAs of May 23rd, Texas is separating out PCR and antibody tests. Total tests might be impacted",
     "fips": "48",
     "name": "Texas"
   },
@@ -653,7 +653,7 @@
     "twitter": "@WV_DHHR",
     "pui": "All data",
     "pum": false,
-    "notes": "Negatives = Totals - Positives. As of April 16, WV reports hospitalization + ICU + ventilator counts from 49 of 55 counties. Before April 16, those counts were unreliable -- based on reported percentages of completed investigations, an unpublished number.",
+    "notes": "Negatives = Totals - Positives. As of April 16, WV reports hospitalization + ICU + ventilator counts from 49 of 55 counties. Before April 16, those counts were unreliable -- based on reported percentages of completed investigations, an unpublished number.\nAs of May 23rd, West Virginia starts separating out PCR and antibody tests. Total tests might be impacted.",
     "fips": "54",
     "name": "West Virginia"
   },
