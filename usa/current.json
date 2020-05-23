@@ -1,7 +1,7 @@
 [
   {
     "positive": 1613894,
-    "negative": 12148367,
+    "negative": 12170892,
     "pending": 4084,
     "hospitalizedCurrently": 37873,
     "hospitalizedCumulative": 172037,
@@ -10,13 +10,13 @@
     "onVentilatorCurrently": 4620,
     "onVentilatorCumulative": 638,
     "recovered": 361239,
-    "hash": "e0c0c14feae4fe588c13d1621f31014f93a41db9",
-    "lastModified": "2020-05-23T22:13:56.033Z",
+    "hash": "f49ae4efcd68884ca6656d437ff7d5f8353f7497",
+    "lastModified": "2020-05-23T23:13:27.146Z",
     "death": 91261,
     "hospitalized": 172037,
-    "total": 13766345,
-    "totalTestResults": 13762261,
-    "posNeg": 13762261,
+    "total": 13788870,
+    "totalTestResults": 13784786,
+    "posNeg": 13784786,
     "notes": "NOTE: \"total\", \"posNeg\", \"hospitalized\" will be removed in the future."
   }
 ]
