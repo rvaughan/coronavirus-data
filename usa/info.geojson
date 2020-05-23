@@ -138,7 +138,7 @@
     "twitter": "@GaDPH",
     "pui": "Only positives",
     "pum": false,
-    "notes": "Positive includes deaths. Positives occasionally update before totals.\nWe use the state's \"as of\" time as our Update Time. \nAs of May 16, Georgia  is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested",
+    "notes": "Positive includes deaths. Positives occasionally update before totals.\nWe use the state's \"as of\" time as our Update Time. \nAs of May 16, Georgia  is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested. \nGeorgia is reporting combined serology and molecular tests. As of May 22nd, these two numbers have not been separated out",
     "fips": "13",
     "name": "Georgia"
   },
