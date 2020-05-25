@@ -1,0 +1,40 @@
+name: Fetch latest Swedish data
+
+on:
+  repository_dispatch:
+  schedule:
+    - cron:  '15 1,13 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v1
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Fetch latest Swedish data
+      run: |-
+        mkdir -p sweden
+        cd sweden
+        wget -q -O sweden.xls "https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data""
+    - name: Commit and push Swedish data if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest Swedish data: ${timestamp}" || exit 0
+        git push

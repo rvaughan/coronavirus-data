@@ -42,6 +42,11 @@ The Google mobility data is pulled from https://www.google.com/covid19/mobility/
 
   * [Covid 19 Data](https://github.com/datadista/datasets)
 
+## Swedish Data
+![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Swedish%20data/badge.svg)
+
+  * [Covid 19 Data](xxx)
+
 ## UK Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20UK%20data/badge.svg)
 
