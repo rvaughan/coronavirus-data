@@ -17,6 +17,11 @@ of an experiment, largely inspired by [Simon Williams](https://github.com/simonw
 
   * [Covid 19 Data](https://epistat.sciensano.be)
 
+## French Data
+![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20French%20data/badge.svg)
+
+  * [Covid 19 Data](https://github.com/opencovid19-fr/data)
+
 ## Google Mobility Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Google%20Mobility%20data/badge.svg)
 

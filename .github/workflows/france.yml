@@ -1,0 +1,40 @@
+name: Fetch latest French data
+
+on:
+  repository_dispatch:
+  schedule:
+    - cron:  '15 1,13 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v1
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Fetch latest French data
+      run: |-
+        mkdir -p france
+        cd france
+        wget -q -O france.csv "https://raw.githubusercontent.com/opencovid19-fr/data/master/data-sources/sante-publique-france/covid_hospit.csv"
+    - name: Commit and push French data if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest French data: ${timestamp}" || exit 0
+        git push
