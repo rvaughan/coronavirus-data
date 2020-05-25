@@ -3,7 +3,8 @@
 This repository contains all of the data that I can find about Coronavirus numbers from around the globe.
 
 The repository is completely automated via [GitHub Actions](https://github.com/features/actions) as a bit
-of an experiment, largely inspired by [Simon Williams](https://github.com/simonw/coronavirus-data-gov-archive) repository.
+of an experiment, largely inspired by [Simon Williams](https://github.com/simonw/coronavirus-data-gov-archive)
+repository, and with leveraging of [The Economists](https://www.economist.com) [Covid 19](https://www.economist.com/graphic-detail/2020/04/16/tracking-covid-19-excess-deaths-across-countries) story [datasets](https://github.com/TheEconomist/covid-19-excess-deaths-tracker).
 
 ## Australian Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Australian%20data/badge.svg)
