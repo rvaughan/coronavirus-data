@@ -234,7 +234,7 @@
     "twitter": "@CHFSKy",
     "pui": "All data",
     "pum": false,
-    "notes": "Negative = Total - Positive.\nPositives sometimes update before totals do; when this happens, we keep the last calculated negative. As of April 27, Kentucky is reporting people tested.",
+    "notes": "Negative = Total - Positive.\nPositives sometimes update before totals do; when this happens, we keep the last calculated negative. As of April 27, Kentucky is reporting people tested.\nOn 5/23, KY revised down the total number of tests.",
     "fips": "21",
     "name": "Kentucky"
   },
@@ -342,7 +342,7 @@
     "twitter": "@msdh",
     "pui": "Only positives",
     "pum": false,
-    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly. As of April 27, Mississippi is reporting people tested.\nAs of 5/23, MS started separating out PCR and antibody tests. Total tests might be impacted",
+    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly. As of April 27, Mississippi is reporting people tested.\nAs of 5/23, MS started separating out PCR and antibody tests. Total tests might be impacted. MS notes that hospitalization data for 5/23 is incomplete.",
     "fips": "28",
     "name": "Mississippi"
   },
