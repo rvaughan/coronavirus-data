@@ -27,6 +27,11 @@ of an experiment, largely inspired by [Simon Williams](https://github.com/simonw
 
 The Google mobility data is pulled from https://www.google.com/covid19/mobility/ once a day.
 
+## Italian Data
+![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Italian%20data/badge.svg)
+
+  * [Covid 19 Data](https://github.com/pcm-dpc/COVID-19)
+
 ## Latin America Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Latin%20America%20data/badge.svg)
 
