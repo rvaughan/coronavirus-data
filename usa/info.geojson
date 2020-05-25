@@ -54,7 +54,7 @@
     "twitter": "@azdhs",
     "pui": "All data",
     "pum": false,
-    "notes": "Dashboard now has a new tab that details total tested. \nNegative = Total - Positive.\nWe do not currently track it, but hospitalization and ICU data is available from [Maricopa County](https://www.maricopa.gov/5460/Coronavirus-Disease-2019) and [Pima County](https://webcms.pima.gov/cms/One.aspx?portalId=169&pageId=527452).\nAs of May 8, Arizona is reporting specimens tested, including both PCR and serology tests. Because some people may be tested more than once, this number is probably higher than the number of people tested",
+    "notes": "Dashboard now has a new tab that details total tested. \nNegative = Total - Positive.\nWe do not currently track it, but hospitalization and ICU data is available from [Maricopa County](https://www.maricopa.gov/5460/Coronavirus-Disease-2019) and [Pima County](https://webcms.pima.gov/cms/One.aspx?portalId=169&pageId=527452).\nAs of May 8, Arizona is reporting specimens tested, including both PCR and antibody tests. Because some people may be tested more than once, this number is probably higher than the number of people tested",
     "fips": "04",
     "name": "Arizona"
   },
@@ -102,7 +102,7 @@
     "twitter": "@_DCHealth",
     "pui": "All data",
     "pum": false,
-    "notes": "Positive and Negative include both public and commercial labs. As of April 27, District of Columbia is reporting people tested.",
+    "notes": "Positive and Negative include both public and commercial labs. As of April 27, District of Columbia is reporting people tested.\nTotal tests reported by DC dropped by about 11,000 from 5/24 to 5/25.",
     "fips": "11",
     "name": "District Of Columbia"
   },
@@ -126,7 +126,7 @@
     "twitter": "@HealthyFla",
     "pui": "All data",
     "pum": true,
-    "notes": "We report using the raw data provided by FDOH but we include both Florida residents and non-residents.\nOn March 26, the dashboard stopped including non-residents in its visible counts, but they're still tracked behind the scenes.  \nOn March 21, negatives jumped due to a methodology change: tests of people not investigated as PUIs are now included. \nAs of May 15, Florida is reporting both specimens and people tested. We report positives and negatives based on the number of people tested.",
+    "notes": "We report using the raw data provided by FDOH but we include both Florida residents and non-residents.\nOn March 26, the dashboard stopped including non-residents in its visible counts, but they're still tracked behind the scenes.  \nOn March 21, negatives jumped due to a methodology change: tests of people not investigated as PUIs are now included. \nAs of May 15, Florida is reporting both specimens (PCR and antibody) and people tested. We report positives and negatives based on the number of people tested.",
     "fips": "12",
     "name": "Florida"
   },
@@ -138,7 +138,7 @@
     "twitter": "@GaDPH",
     "pui": "Only positives",
     "pum": false,
-    "notes": "Positive includes deaths. Positives occasionally update before totals.\nWe use the state's \"as of\" time as our Update Time. \nAs of May 16, Georgia  is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested. \nGeorgia is reporting combined serology and molecular tests. As of May 22nd, these two numbers have not been separated out",
+    "notes": "Positive includes deaths. Positives occasionally update before totals.\nWe use the state's \"as of\" time as our Update Time. \nAs of May 16, Georgia is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested. \nGeorgia is reporting combined antibody and PCR tests. As of May 22nd, these two numbers have not been separated out",
     "fips": "13",
     "name": "Georgia"
   },
@@ -282,7 +282,7 @@
     "twitter": "@mainedhhs",
     "pui": "Only positives",
     "pum": false,
-    "notes": "As of May 13, Maine is reporting total specimens tested; this number is updated once a week on Wednesdays. Because some people may be tested more than once, this number is probably higher than the number of people tested.",
+    "notes": "As of May 13, Maine is reporting total specimens tested; this number is updated once a week on Wednesdays. Because some people may be tested more than once, this number is probably higher than the number of people tested.\nAs of May 20, Maine is separating out PCR tests and antibody tests; we report the number of PCR tests. Total testing numbers might be impacted.",
     "fips": "23",
     "name": "Maine"
   },
@@ -294,7 +294,7 @@
     "twitter": "@MichiganHHS",
     "pui": "All data",
     "pum": true,
-    "notes": "Michigan has reported each day's negative results since 3/10 but has never totaled them. We sum all the negative results and report the total. Michigan reports specimens tested instead of people tested. \nRecovered counts are updated once a week. \nAs of May 16, Michigan uses 'total specimens' reported on lab testing page\nAs of May 23rd, Michigan separates out antibody and PCR tests. Total testing numbers might be impacted",
+    "notes": "Michigan has reported each day's negative results since 3/10 but has never totaled them. We sum all the negative results and report the total. Michigan reports specimens tested instead of people tested. \nRecovered counts are updated once a week. \nAs of May 16, Michigan uses 'total specimens' reported on lab testing page\nAs of May 23, Michigan is separating out antibody and PCR tests; we report the number of PCR tests. Total testing numbers might be impacted.",
     "fips": "26",
     "name": "Michigan"
   },
@@ -306,7 +306,7 @@
     "twitter": "@mnhealth",
     "pui": "All data",
     "pum": false,
-    "notes": "Since 3/23, Negative = Total - Positive.",
+    "notes": "Since March 23, Negative = Total - Positive.",
     "fips": "27",
     "name": "Minnesota"
   },
@@ -318,7 +318,7 @@
     "twitter": "@HealthyLivingMo",
     "pui": "Only positives",
     "pum": false,
-    "notes": "Negative = Total - Positive. As of April 27, Missouri is reporting people tested.\nMissouri has a lag in reporting total patients tested; this figure does not include patients tested as of a particular day until the following day's data update\nAs of 5/22, MO started separating out PCR and antibody tests. Total tests might be impacted",
+    "notes": "Negative = Total - Positive. As of April 27, Missouri is reporting people tested.\nMissouri has a lag in reporting total patients tested; this figure does not include patients tested as of a particular day until the following day's data update\nAs of May 22, Missouri is separating out PCR and antibody tests; we report the number of PCR tests. Total tests might be impacted",
     "fips": "29",
     "name": "Missouri"
   },
@@ -330,7 +330,7 @@
     "twitter": "@cnmichcc",
     "pui": "No Data",
     "pum": false,
-    "notes": "As of May 16, Northern Mariana Islands  is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested",
+    "notes": "As of May 16, Northern Mariana Islands is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested",
     "fips": "69",
     "name": "Northern Mariana Islands"
   },
@@ -342,7 +342,7 @@
     "twitter": "@msdh",
     "pui": "Only positives",
     "pum": false,
-    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly. As of April 27, Mississippi is reporting people tested.\nAs of 5/23, MS started separating out PCR and antibody tests. Total tests might be impacted. MS notes that hospitalization data for 5/23 is incomplete.",
+    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly. As of April 27, Mississippi is reporting people tested.\nAs of May 23, Mississippi is separating out PCR and antibody tests. Total tests might be impacted. Mississippi notes that hospitalization data for 5/23 is incomplete.",
     "fips": "28",
     "name": "Mississippi"
   },
@@ -510,7 +510,7 @@
     "twitter": "@DeptSaludPR",
     "pui": "No Data",
     "pum": false,
-    "notes": "Death counts include both confirmed and presumed COVID deaths.\nWhen it is reported, we add inconclusive results to pending.\nPositive counts reflect individual who test positive, combining both molecular and serological tests.\nOn 4/22 Puerto Rico revised down its positive count from 1,298 to 915 to exclude double-counted cases.",
+    "notes": "Death counts include both confirmed and presumed COVID deaths.\nWhen it is reported, we add inconclusive results to pending.\nPositive counts reflect individual who test positive, combining both PCR and antibody.\nOn 4/22 Puerto Rico revised down its positive count from 1,298 to 915 to exclude double-counted cases.",
     "fips": "72",
     "name": "Puerto Rico"
   },
@@ -569,7 +569,7 @@
     "twitter": "@TexasDSHS",
     "pui": "Only positives",
     "pum": false,
-    "notes": "As of May 16, Texas is reporting mostly specimens tested, except for the small number of tests performed by public labs, which are de-duplicated\nAs of May 23rd, Texas is separating out PCR and antibody tests. Total tests might be impacted",
+    "notes": "As of May 16, Texas is reporting mostly specimens tested, except for the small number of tests performed by public labs, which are de-duplicated.\nAs of May 23, Texas is separating out PCR and antibody tests; we report the number of PCR tests. Total tests might be impacted.",
     "fips": "48",
     "name": "Texas"
   },
@@ -593,7 +593,7 @@
     "twitter": "@vdhgov",
     "pui": "Positives + Negatives",
     "pum": true,
-    "notes": "Virginia hospitalization statistics from [Hospital dashboard](https://www.vhha.com/communications/virginia-hospital-covid-19-data-dashboard/)  We assume the count \"hospitalized in the ICU\" includes the count \"currently on a ventilator.\" Cumulative Hospitalized is computed from currently hospitalized + discharged on the Virginia Hospitals dashboard. \nAs of May 16, Virginia  is reporting specimens tested, including both a number of PCR tests and a total number of specimens tested (which also includes serology tests). Because some people may be tested more than once, this number is probably higher than the number of people tested",
+    "notes": "Virginia hospitalization statistics from [Hospital dashboard](https://www.vhha.com/communications/virginia-hospital-covid-19-data-dashboard/)  We assume the count \"hospitalized in the ICU\" includes the count \"currently on a ventilator.\" Cumulative Hospitalized is computed from currently hospitalized + discharged on the Virginia Hospitals dashboard. \nAs of May 15, Virginia is reporting specimens tested; including both a value for PCR tests only and all tests (PCR and antibody tests combined). We report the number of PCR tests. Total tests may be impacted.",
     "fips": "51",
     "name": "Virginia"
   },
@@ -653,7 +653,7 @@
     "twitter": "@WV_DHHR",
     "pui": "All data",
     "pum": false,
-    "notes": "Negatives = Totals - Positives. As of April 16, WV reports hospitalization + ICU + ventilator counts from 49 of 55 counties. Before April 16, those counts were unreliable -- based on reported percentages of completed investigations, an unpublished number.\nAs of May 23, West Virginia started separating out PCR and antibody tests; we report the number of PCR tests. Total tests might be impacted.",
+    "notes": "Negatives = Totals - Positives. As of April 16, WV reports hospitalization + ICU + ventilator counts from 49 of 55 counties. Before April 16, those counts were unreliable -- based on reported percentages of completed investigations, an unpublished number.\nAs of May 23, West Virginia is separating out PCR and antibody tests; we report the number of PCR tests. Total tests might be impacted.",
     "fips": "54",
     "name": "West Virginia"
   },
