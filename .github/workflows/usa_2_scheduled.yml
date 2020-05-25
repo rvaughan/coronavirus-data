@@ -27,6 +27,7 @@ jobs:
         pip install -r requirements.txt
     - name: Fetch latest USA data
       run: |-
+        mkdir -p usa
         cd usa
         wget -q -O covid_deaths_usafacts.csv "https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_deaths_usafacts.csv"
         wget -q -O new_york_city_latest.csv "https://raw.githubusercontent.com/nychealth/coronavirus-data/master/Deaths/probable-confirmed-dod.csv"
