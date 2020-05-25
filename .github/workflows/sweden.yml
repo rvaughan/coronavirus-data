@@ -29,7 +29,7 @@ jobs:
       run: |-
         mkdir -p sweden
         cd sweden
-        wget -q -O sweden.xls "https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data""
+        wget -q -O sweden.xls "https://www.arcgis.com/sharing/rest/content/items/b5e7488e117749c19881cce45db13f7e/data"
     - name: Commit and push Swedish data if it changed
       run: |-
         git config user.name "Automated"
