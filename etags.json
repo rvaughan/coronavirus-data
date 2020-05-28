@@ -9,10 +9,10 @@
     "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv": "W/\"9a92dab2fdea74c228ac3bf6af81ce9ca11741d90c5a3ede3332b6f256259939\"",
     "https://c19downloads.azureedge.net/downloads/json/coronavirus-cases_latest.json": "\"0x8D8031CFBF63566\"",
     "https://c19downloads.azureedge.net/downloads/json/coronavirus-deaths_latest.json": "\"0x8D8031CFBF831AD\"",
-    "https://covidtracking.com/api/v1/states/current.json": "\"a78f5af57cbd2cddd8e617a0d5e81dc0-ssl-df\"",
-    "https://covidtracking.com/api/v1/states/daily.json": "\"11d82d21f062274c5054517de9340188-ssl-df\"",
-    "https://covidtracking.com/api/v1/states/info.json": "\"6abcbee2629062505b889fa8a6de758a-ssl-df\"",
-    "https://covidtracking.com/api/v1/us/current.json": "\"a332c424be0d8153dec48acfbf1a47fc-ssl\"",
-    "https://covidtracking.com/api/v1/us/daily.json": "\"4235709d03e403488493d1e91dd90136-ssl-df\"",
-    "https://covidtracking.com/api/v1/urls.json": "\"853c45c9b1bbf5a16af6e03ab2617bc5-ssl-df\""
+    "https://covidtracking.com/api/v1/states/current.json": "\"65e7469328069a8bf5638aa11598d4be-ssl-df\"",
+    "https://covidtracking.com/api/v1/states/daily.json": "\"3c4017cd156a1ae70db9fdf11be09785-ssl-df\"",
+    "https://covidtracking.com/api/v1/states/info.json": "\"a902a8f9f9244322096421e5d321b0a1-ssl-df\"",
+    "https://covidtracking.com/api/v1/us/current.json": "\"7368a24601fb0890d11703a0a16d2528-ssl\"",
+    "https://covidtracking.com/api/v1/us/daily.json": "\"e20a067ffb3ce2981d5fdc3fda066a09-ssl-df\"",
+    "https://covidtracking.com/api/v1/urls.json": "\"a876ccf64410c7279caac895d21fd9ff-ssl-df\""
 }
