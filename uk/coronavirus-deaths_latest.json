@@ -1,9 +1,37 @@
 {
   "metadata": {
-    "lastUpdatedAt": "2020-05-29T16:21:57.429096Z",
-    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 29 May 2020. Daily and total deaths are as of 28 May 2020. See the About the data page (link at top of this page) for details.  The number of cases reported in the under 5 age group is lower than the figures reported in previous days.  Some cases have been removed pending data quality checks."
+    "lastUpdatedAt": "2020-05-30T15:21:41.731034Z",
+    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 30 May 2020. Daily and total deaths are as of 29 May 2020. See the About the data page (link at top of this page) for details. The overnight change in the UK is lower than expected because it has been identified that a group of test results from the previous 2 months, from a single NHS laboratory, were incorrectly reported to the national data-set as positive. Only a small proportion (<1%) of cases has been removed from the cumulative England total, but for some areas in the West Midlands (the region affected by this data correction), the proportions of cases removed will be greater. \n"
   },
   "countries": [
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-30",
+      "dailyChangeInDeaths": 14,
+      "cumulativeDeaths": 1331
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-30",
+      "dailyChangeInDeaths": 15,
+      "cumulativeDeaths": 2331
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-30",
+      "dailyChangeInDeaths": 3,
+      "cumulativeDeaths": 521
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-30",
+      "dailyChangeInDeaths": 183,
+      "cumulativeDeaths": 34193
+    },
     {
       "areaCode": "W92000004",
       "areaName": "Wales",
@@ -2148,6 +2176,13 @@
     }
   ],
   "overview": [
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-30",
+      "dailyChangeInDeaths": 215,
+      "cumulativeDeaths": 38376
+    },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
