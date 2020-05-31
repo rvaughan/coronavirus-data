@@ -1,9 +1,37 @@
 {
   "metadata": {
-    "lastUpdatedAt": "2020-05-30T15:21:41.731034Z",
-    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 30 May 2020. Daily and total deaths are as of 29 May 2020. See the About the data page (link at top of this page) for details. The overnight change in the UK is lower than expected because it has been identified that a group of test results from the previous 2 months, from a single NHS laboratory, were incorrectly reported to the national data-set as positive. Only a small proportion (<1%) of cases has been removed from the cumulative England total, but for some areas in the West Midlands (the region affected by this data correction), the proportions of cases removed will be greater. \n"
+    "lastUpdatedAt": "2020-05-31T15:05:57.839222Z",
+    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 31 May 2020. Daily and total deaths are as of 30 May 2020. See the About the data page (link at top of this page) for details. It has been identified that a group of test results from the previous 2 months, from a single NHS laboratory, were incorrectly reported to the national data-set as positive. Only a small proportion (<1%) of cases has been removed from the cumulative England total, but for some areas in the West Midlands (the region affected by this data correction), the proportions of cases removed will be greater."
   },
   "countries": [
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-05-31",
+      "dailyChangeInDeaths": 11,
+      "cumulativeDeaths": 1342
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-05-31",
+      "dailyChangeInDeaths": 22,
+      "cumulativeDeaths": 2353
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-05-31",
+      "dailyChangeInDeaths": 1,
+      "cumulativeDeaths": 522
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-05-31",
+      "dailyChangeInDeaths": 79,
+      "cumulativeDeaths": 34272
+    },
     {
       "areaCode": "W92000004",
       "areaName": "Wales",
@@ -2176,6 +2204,13 @@
     }
   ],
   "overview": [
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-05-31",
+      "dailyChangeInDeaths": 113,
+      "cumulativeDeaths": 38489
+    },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
