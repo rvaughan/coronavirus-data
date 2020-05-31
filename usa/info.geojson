@@ -450,7 +450,7 @@
     "twitter": "@healthnygov",
     "pui": "Only positives",
     "pum": false,
-    "notes": "Numbers come from [press conference](https://www.governor.ny.gov). \nRecovered = discharged. As of April 27, New York is reporting people tested. Cumulative hospitalized and recovered are calculated using the 3 day average change in hospitalization benchmarked from April 12.",
+    "notes": "Numbers come from [press conference](https://www.governor.ny.gov). \nRecovered = discharged. As of April 27, New York is reporting people tested. Cumulative hospitalized and recovered are calculated using the 3 day average change in hospitalization benchmarked from April 12.\nThere is a significant gap between deaths reported by New York City and New York State. As of 5/31, the difference between the state reported deaths, which we use, and the NYC deaths was 5717",
     "fips": "36",
     "name": "New York"
   },
