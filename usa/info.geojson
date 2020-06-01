@@ -162,7 +162,7 @@
     "twitter": "@HIgov_Health",
     "pui": "Only positives",
     "pum": false,
-    "notes": "Data now pulled from their [new Dashboard Project](https://www.hawaiidata.org/covid19).\nAs of May 16, Hawaii is reporting people tested\nOn May 23rd, Hawaii revised down 5 cases due to updated testing information\nOn May 25th, Hawaii revised down 1 cumulative hospitalization patient",
+    "notes": "Data now pulled from their [new Dashboard Project](https://www.hawaiidata.org/covid19).\nAs of May 16, Hawaii is reporting people tested\nOn May 23rd, Hawaii revised down 5 cases due to updated testing information\nOn May 25th, Hawaii revised down 1 cumulative hospitalization patient\nAs of June 1st, Hawaii started reporting total number of unique people tested. Total tests might be impacted",
     "fips": "15",
     "name": "Hawaii"
   },
