@@ -1,5 +1,7 @@
 [
   {
+    "date": 20200601,
+    "states": 56,
     "positive": 1799761,
     "negative": 15540921,
     "pending": 3455,
@@ -10,13 +12,18 @@
     "onVentilatorCurrently": 3661,
     "onVentilatorCumulative": 704,
     "recovered": 458231,
-    "hash": "045b0a3272f40a3e23d3b4e8e1205800c1a52d2d",
-    "lastModified": "2020-06-02T09:13:42.565Z",
+    "dateChecked": "2020-06-01T00:00:00Z",
     "death": 99005,
     "hospitalized": 212704,
+    "lastModified": "2020-06-01T00:00:00Z",
     "total": 17344137,
     "totalTestResults": 17340682,
     "posNeg": 17340682,
-    "notes": "NOTE: \"total\", \"posNeg\", \"hospitalized\" will be removed in the future."
+    "deathIncrease": 469,
+    "hospitalizedIncrease": 2621,
+    "negativeIncrease": 387600,
+    "positiveIncrease": 16191,
+    "totalTestResultsIncrease": 403791,
+    "hash": "186946194666d1b6bd6fa72cec7d4c3e387b35b3"
   }
 ]
