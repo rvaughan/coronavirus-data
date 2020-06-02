@@ -14,5 +14,5 @@
     "https://covidtracking.com/api/v1/states/info.json": "\"f7bd693dc88d9d5708ee0df63e836b6b-ssl-df\"",
     "https://covidtracking.com/api/v1/us/current.json": "\"36e57c144cbf863ab5d347df77d4d9b5-ssl\"",
     "https://covidtracking.com/api/v1/us/daily.json": "\"5829dbb9d0bf2781eb49e8e1f2c3144b-ssl-df\"",
-    "https://covidtracking.com/api/v1/urls.json": "\"3a418996aea3766a5a0b91f2df8104c7-ssl-df\""
+    "https://covidtracking.com/api/v1/urls.json": "\"3a418996aea3766a5a0b91f2df8104c7-ssl\""
 }
