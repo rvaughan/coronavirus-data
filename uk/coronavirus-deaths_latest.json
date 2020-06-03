@@ -1,9 +1,37 @@
 {
   "metadata": {
-    "lastUpdatedAt": "2020-06-02T15:43:18.773606Z",
-    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 2 June 2020. Daily and total deaths are as of 1 June 2020. Note that the definition for deaths in England changed on 1 June 2020. See the About the data page (link at top of this page) for details. The total number of lab-confirmed UK cases increased by 1,653 from 1 June 2020 to 2 June 2020. This is because of the addition of 40 historical cases in Scotland."
+    "lastUpdatedAt": "2020-06-03T15:01:19.880302Z",
+    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 3 June 2020. Daily and total deaths are as of 2 June 2020. Note that the definition for deaths in England changed on 1 June 2020. See the About the data page (link at top of this page) for details. "
   },
   "countries": [
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-06-03",
+      "dailyChangeInDeaths": 17,
+      "cumulativeDeaths": 1371
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-06-03",
+      "dailyChangeInDeaths": 12,
+      "cumulativeDeaths": 2375
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-06-03",
+      "dailyChangeInDeaths": 2,
+      "cumulativeDeaths": 526
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-06-03",
+      "dailyChangeInDeaths": 328,
+      "cumulativeDeaths": 35456
+    },
     {
       "areaCode": "W92000004",
       "areaName": "Wales",
@@ -2260,6 +2288,13 @@
     }
   ],
   "overview": [
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-06-03",
+      "dailyChangeInDeaths": 359,
+      "cumulativeDeaths": 39728
+    },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
