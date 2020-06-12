@@ -19,11 +19,11 @@
     "total": 21889884,
     "totalTestResults": 21888068,
     "posNeg": 21888068,
-    "deathIncrease": 898,
+    "deathIncrease": 901,
     "hospitalizedIncrease": 1381,
-    "negativeIncrease": 399823,
+    "negativeIncrease": 381107,
     "positiveIncrease": 20425,
-    "totalTestResultsIncrease": 420248,
+    "totalTestResultsIncrease": 401532,
     "hash": "119729b6b515561ba4f02685668246d504890046"
   }
 ]
