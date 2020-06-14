@@ -6,6 +6,10 @@ The repository is completely automated via [GitHub Actions](https://github.com/f
 of an experiment, largely inspired by [Simon Williams](https://github.com/simonw/coronavirus-data-gov-archive)
 repository, and with leveraging of [The Economists](https://www.economist.com) [Covid 19](https://www.economist.com/graphic-detail/2020/04/16/tracking-covid-19-excess-deaths-across-countries) story [datasets](https://github.com/TheEconomist/covid-19-excess-deaths-tracker).
 
+## Apple Data
+
+  * [Apple Mobility Data](https://www.apple.com/covid19/mobility)
+
 ## Australian Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Australian%20data/badge.svg)
 
