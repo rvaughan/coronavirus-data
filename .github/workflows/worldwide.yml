@@ -28,7 +28,7 @@ jobs:
     - name: Fetch latest worldwide data
       run: |-
         mkdir -p tmp_worldwide && cd tmp_worldwide
-        conditional-get --etags ../etags.json -v https://opendata.ecdc.europa.eu/covid19/casedistribution/json/ -o index.json
+        conditional-get --etags ../etags.json -v https://opendata.ecdc.europa.eu/covid19/casedistribution/json -o index.json
         (test -f index.json && jq . index.json > ../worldwide/worldwide.json) || echo "No update for index.json, skipping."
         cd .. && rm -rf tmp_worldwide
         cd worldwide
