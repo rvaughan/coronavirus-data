@@ -365,7 +365,7 @@
   },
   {
     "state": "MS",
-    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly.\nAs of May 23, Mississippi is separating out PCR and antibody tests; we report PCR specimens tested. Total tests might be impacted. Mississippi notes that hospitalization data for May 23 is incomplete.\nOn June 11th, due to a technicall issue, Mississippi did not provide new updates",
+    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly.\nAs of May 23, Mississippi is separating out PCR and antibody tests; we report PCR specimens tested. Total tests might be impacted. Mississippi notes that hospitalization data for May 23 is incomplete.\nOn June 11th, due to a technical issue, Mississippi did not provide new updates. Beginning June 17th MS paused reporting data: \"Our daily COVID-19 update will be limited as we work to resolve technical problems in our data reporting system.\" Current lab-confirmed hospitalization cases from MSDH Twitter 6/19. ",
     "covid19Site": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
     "covid19SiteSecondary": "",
     "covid19SiteTertiary": "",
@@ -521,7 +521,7 @@
   },
   {
     "state": "OR",
-    "notes": "Total includes Oregon & Montana residents tested in Idaho. As of April 27, Oregon is reporting people tested. \nFor June 15, we report deaths, cases and negatives from Oregon’s press release from [June 14](https://www.oregon.gov/oha/ERD/Pages/Oregon-reports-101-new-confirmed-presumptive-COVID-19-cases-2-new-deaths.aspx).",
+    "notes": "Total includes Oregon & Montana residents tested in Idaho. As of April 27, Oregon is reporting people tested. \nFor June 15, we report deaths, cases and negatives from Oregon’s press release from [June 14](https://www.oregon.gov/oha/ERD/Pages/Oregon-reports-101-new-confirmed-presumptive-COVID-19-cases-2-new-deaths.aspx). On 6/20/20, per weekend report, two cases in Polk County previously reported as COVID-19 were determined to be non-COVID-19 and numbers updated to reflect the change.",
     "covid19Site": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
     "covid19SiteSecondary": "https://public.tableau.com/profile/oregon.health.authority.covid.19#!/vizhome/OregonHealthAuthorityCOVID-19DataDashboard/COVID-19EPICases?:display_count=y&:toolbar=n&:origin=viz_share_link&:showShareOptions=false",
     "covid19SiteTertiary": "",
