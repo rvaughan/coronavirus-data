@@ -4,7 +4,7 @@
     "notes": "Total tests are taken from the annotations on the charts on the page. \nNegatives = (Totals – Positives)\nPositives occasionally update before totals do; do not revise negatives down, keep the last calculated negative.\nLast Updated (Local Time) = (today's date + time = 00:00) \nAs of May 16, Alaska reports specimens tested; because some people may be tested more than once, this number may be higher than the number of people tested.",
     "covid19Site": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx",
     "covid19SiteSecondary": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx",
-    "covid19SiteTertiary": "",
+    "covid19SiteTertiary": "https://alaska-dhss.maps.arcgis.com/apps/opsdashboard/index.html#/8782a14ef52342e99f866a3b8a3e624a",
     "twitter": "@Alaska_DHSS",
     "covid19SiteOld": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx",
     "name": "Alaska",
@@ -365,7 +365,7 @@
   },
   {
     "state": "MS",
-    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly.\nAs of May 23, Mississippi is separating out PCR and antibody tests; we report PCR specimens tested. Total tests might be impacted. Mississippi notes that hospitalization data for May 23 is incomplete.\nOn June 11th, due to a technical issue, Mississippi did not provide new updates. Beginning June 17th MS paused reporting data: \"Our daily COVID-19 update will be limited as we work to resolve technical problems in our data reporting system.\" Current lab-confirmed hospitalization cases from MSDH Twitter 6/19. \nAs of 6/21 all case and testing data was last updated 6/16 at 18:00. Currently hospitalized, in ICU, and on ventilator data was updated 6/20. ",
+    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly.\nAs of May 23, Mississippi is separating out PCR and antibody tests; we report PCR specimens tested. Total tests might be impacted. Mississippi notes that hospitalization data for May 23 is incomplete.\nOn June 11th, due to a technical issue, Mississippi did not provide new updates. Beginning June 17th MS paused reporting data: \"Our daily COVID-19 update will be limited as we work to resolve technical problems in our data reporting system.\" Current lab-confirmed hospitalization cases from MSDH Twitter 6/19. \nAs of 6/21 all case and testing data was last updated 6/16 at 18:00. Currently hospitalized, in ICU, and on ventilator data was updated 6/20. \nOn 6/22 MS added five days' backlog of case and death data.",
     "covid19Site": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
     "covid19SiteSecondary": "",
     "covid19SiteTertiary": "",
@@ -677,7 +677,7 @@
   },
   {
     "state": "WA",
-    "notes": "Washington reports confirmed cases, laboratory tests, and deaths as of the previous day. WA did not report new negative test results between March 31 and April 15.\nOn April 18, data cleaning removed 190 confirmed cases that were discovered to be out of state residents tested in WA labs. As of April 27, Washington is reporting people tested. On June 18, due to a previous mistake in reporting negative cases, Washington state revised down the total number of tests. Additionally, Washington state also plans to re-adjust their total death numbers due to a standard adjustment",
+    "notes": "Washington reports confirmed cases, laboratory tests, and deaths as of the previous day. WA did not report new negative test results between March 31 and April 15.\nOn April 18, data cleaning removed 190 confirmed cases that were discovered to be out of state residents tested in WA labs. As of April 27, Washington is reporting people tested. On June 18, due to a previous mistake in reporting negative cases, Washington state revised down the total number of tests. Additionally, Washington state also plans to re-adjust their total death numbers due to a standard adjustment.\nOn June 22, we updated historic numbers of cases and tests from data on WA's dashboard. This update will temporarily cause an aritifical decline in cases and numbers between June 21 and June 22. ",
     "covid19Site": "https://www.doh.wa.gov/Emergencies/NovelCoronavirusOutbreak2020COVID19/DataDashboard",
     "covid19SiteSecondary": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "covid19SiteTertiary": "",
