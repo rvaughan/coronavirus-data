@@ -1,9 +1,37 @@
 {
   "metadata": {
-    "lastUpdatedAt": "2020-06-22T15:00:54.984881Z",
-    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 22 June 2020. Daily and total deaths are as of 21 June 2020."
+    "lastUpdatedAt": "2020-06-23T15:29:45.465696Z",
+    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the Department of Health and Social Care based on data from the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 23 June 2020. Daily and total deaths are as of 22 June 2020. Due to improvements in how the COVID-19 death data is processed in England, a further 109 deaths that occurred in April, May and June 2020 have been confirmed in addition to 166 new deaths reported to PHE today. This means that the cumulative deaths total is 109 higher than the change between yesterday's deaths total and today's. Due to historic revisions to Pillar 1 data in Wales, the cumulative total for lab-confirmed UK cases is 47 higher than the number obtained by adding the daily figure to yesterday's total."
   },
   "countries": [
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-06-23",
+      "dailyChangeInDeaths": 5,
+      "cumulativeDeaths": 1483
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-06-23",
+      "dailyChangeInDeaths": 0,
+      "cumulativeDeaths": 2472
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-06-23",
+      "dailyChangeInDeaths": 0,
+      "cumulativeDeaths": 545
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-06-23",
+      "dailyChangeInDeaths": 166,
+      "cumulativeDeaths": 38427
+    },
     {
       "areaCode": "W92000004",
       "areaName": "Wales",
@@ -30,7 +58,7 @@
       "areaName": "England",
       "reportingDate": "2020-06-22",
       "dailyChangeInDeaths": 14,
-      "cumulativeDeaths": 38152
+      "cumulativeDeaths": 38261
     },
     {
       "areaCode": "W92000004",
@@ -58,7 +86,7 @@
       "areaName": "England",
       "reportingDate": "2020-06-21",
       "dailyChangeInDeaths": 39,
-      "cumulativeDeaths": 38138
+      "cumulativeDeaths": 38247
     },
     {
       "areaCode": "W92000004",
@@ -85,8 +113,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-20",
-      "dailyChangeInDeaths": 120,
-      "cumulativeDeaths": 38099
+      "dailyChangeInDeaths": 122,
+      "cumulativeDeaths": 38208
     },
     {
       "areaCode": "W92000004",
@@ -114,7 +142,7 @@
       "areaName": "England",
       "reportingDate": "2020-06-19",
       "dailyChangeInDeaths": 167,
-      "cumulativeDeaths": 37979
+      "cumulativeDeaths": 38086
     },
     {
       "areaCode": "W92000004",
@@ -141,8 +169,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-18",
-      "dailyChangeInDeaths": 120,
-      "cumulativeDeaths": 37812
+      "dailyChangeInDeaths": 122,
+      "cumulativeDeaths": 37919
     },
     {
       "areaCode": "W92000004",
@@ -170,7 +198,7 @@
       "areaName": "England",
       "reportingDate": "2020-06-17",
       "dailyChangeInDeaths": 168,
-      "cumulativeDeaths": 37692
+      "cumulativeDeaths": 37797
     },
     {
       "areaCode": "W92000004",
@@ -197,8 +225,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-16",
-      "dailyChangeInDeaths": 225,
-      "cumulativeDeaths": 37524
+      "dailyChangeInDeaths": 228,
+      "cumulativeDeaths": 37629
     },
     {
       "areaCode": "W92000004",
@@ -226,7 +254,7 @@
       "areaName": "England",
       "reportingDate": "2020-06-15",
       "dailyChangeInDeaths": 33,
-      "cumulativeDeaths": 37299
+      "cumulativeDeaths": 37401
     },
     {
       "areaCode": "W92000004",
@@ -254,7 +282,7 @@
       "areaName": "England",
       "reportingDate": "2020-06-14",
       "dailyChangeInDeaths": 26,
-      "cumulativeDeaths": 37266
+      "cumulativeDeaths": 37368
     },
     {
       "areaCode": "W92000004",
@@ -281,8 +309,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-13",
-      "dailyChangeInDeaths": 171,
-      "cumulativeDeaths": 37240
+      "dailyChangeInDeaths": 173,
+      "cumulativeDeaths": 37342
     },
     {
       "areaCode": "W92000004",
@@ -309,8 +337,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-12",
-      "dailyChangeInDeaths": 186,
-      "cumulativeDeaths": 37069
+      "dailyChangeInDeaths": 188,
+      "cumulativeDeaths": 37169
     },
     {
       "areaCode": "W92000004",
@@ -337,8 +365,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-11",
-      "dailyChangeInDeaths": 133,
-      "cumulativeDeaths": 36883
+      "dailyChangeInDeaths": 134,
+      "cumulativeDeaths": 36981
     },
     {
       "areaCode": "W92000004",
@@ -365,8 +393,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-10",
-      "dailyChangeInDeaths": 229,
-      "cumulativeDeaths": 36750
+      "dailyChangeInDeaths": 234,
+      "cumulativeDeaths": 36847
     },
     {
       "areaCode": "W92000004",
@@ -393,8 +421,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-09",
-      "dailyChangeInDeaths": 277,
-      "cumulativeDeaths": 36521
+      "dailyChangeInDeaths": 280,
+      "cumulativeDeaths": 36613
     },
     {
       "areaCode": "W92000004",
@@ -422,7 +450,7 @@
       "areaName": "England",
       "reportingDate": "2020-06-08",
       "dailyChangeInDeaths": 52,
-      "cumulativeDeaths": 36244
+      "cumulativeDeaths": 36333
     },
     {
       "areaCode": "W92000004",
@@ -450,7 +478,7 @@
       "areaName": "England",
       "reportingDate": "2020-06-07",
       "dailyChangeInDeaths": 65,
-      "cumulativeDeaths": 36192
+      "cumulativeDeaths": 36281
     },
     {
       "areaCode": "W92000004",
@@ -477,8 +505,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-06",
-      "dailyChangeInDeaths": 179,
-      "cumulativeDeaths": 36127
+      "dailyChangeInDeaths": 182,
+      "cumulativeDeaths": 36216
     },
     {
       "areaCode": "W92000004",
@@ -505,8 +533,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-05",
-      "dailyChangeInDeaths": 343,
-      "cumulativeDeaths": 35948
+      "dailyChangeInDeaths": 344,
+      "cumulativeDeaths": 36034
     },
     {
       "areaCode": "W92000004",
@@ -533,8 +561,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-04",
-      "dailyChangeInDeaths": 149,
-      "cumulativeDeaths": 35605
+      "dailyChangeInDeaths": 150,
+      "cumulativeDeaths": 35690
     },
     {
       "areaCode": "W92000004",
@@ -561,8 +589,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-03",
-      "dailyChangeInDeaths": 328,
-      "cumulativeDeaths": 35456
+      "dailyChangeInDeaths": 334,
+      "cumulativeDeaths": 35540
     },
     {
       "areaCode": "W92000004",
@@ -589,8 +617,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-06-02",
-      "dailyChangeInDeaths": 315,
-      "cumulativeDeaths": 35128
+      "dailyChangeInDeaths": 317,
+      "cumulativeDeaths": 35206
     },
     {
       "areaCode": "W92000004",
@@ -618,7 +646,7 @@
       "areaName": "England",
       "reportingDate": "2020-06-01",
       "dailyChangeInDeaths": 96,
-      "cumulativeDeaths": 34813
+      "cumulativeDeaths": 34889
     },
     {
       "areaCode": "W92000004",
@@ -646,7 +674,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-31",
       "dailyChangeInDeaths": 81,
-      "cumulativeDeaths": 34717
+      "cumulativeDeaths": 34793
     },
     {
       "areaCode": "W92000004",
@@ -673,8 +701,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-30",
-      "dailyChangeInDeaths": 194,
-      "cumulativeDeaths": 34636
+      "dailyChangeInDeaths": 198,
+      "cumulativeDeaths": 34712
     },
     {
       "areaCode": "W92000004",
@@ -702,7 +730,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-29",
       "dailyChangeInDeaths": 349,
-      "cumulativeDeaths": 34442
+      "cumulativeDeaths": 34514
     },
     {
       "areaCode": "W92000004",
@@ -729,8 +757,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-28",
-      "dailyChangeInDeaths": 384,
-      "cumulativeDeaths": 34093
+      "dailyChangeInDeaths": 387,
+      "cumulativeDeaths": 34165
     },
     {
       "areaCode": "W92000004",
@@ -757,8 +785,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-27",
-      "dailyChangeInDeaths": 405,
-      "cumulativeDeaths": 33709
+      "dailyChangeInDeaths": 414,
+      "cumulativeDeaths": 33778
     },
     {
       "areaCode": "W92000004",
@@ -786,7 +814,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-26",
       "dailyChangeInDeaths": 117,
-      "cumulativeDeaths": 33304
+      "cumulativeDeaths": 33364
     },
     {
       "areaCode": "W92000004",
@@ -813,8 +841,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-25",
-      "dailyChangeInDeaths": 104,
-      "cumulativeDeaths": 33187
+      "dailyChangeInDeaths": 105,
+      "cumulativeDeaths": 33247
     },
     {
       "areaCode": "W92000004",
@@ -842,7 +870,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-24",
       "dailyChangeInDeaths": 417,
-      "cumulativeDeaths": 33083
+      "cumulativeDeaths": 33142
     },
     {
       "areaCode": "W92000004",
@@ -869,8 +897,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-23",
-      "dailyChangeInDeaths": 249,
-      "cumulativeDeaths": 32666
+      "dailyChangeInDeaths": 250,
+      "cumulativeDeaths": 32725
     },
     {
       "areaCode": "W92000004",
@@ -897,8 +925,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-22",
-      "dailyChangeInDeaths": 300,
-      "cumulativeDeaths": 32417
+      "dailyChangeInDeaths": 307,
+      "cumulativeDeaths": 32475
     },
     {
       "areaCode": "W92000004",
@@ -926,7 +954,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-21",
       "dailyChangeInDeaths": 274,
-      "cumulativeDeaths": 32117
+      "cumulativeDeaths": 32168
     },
     {
       "areaCode": "W92000004",
@@ -953,8 +981,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-20",
-      "dailyChangeInDeaths": 313,
-      "cumulativeDeaths": 31843
+      "dailyChangeInDeaths": 319,
+      "cumulativeDeaths": 31894
     },
     {
       "areaCode": "W92000004",
@@ -981,8 +1009,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-19",
-      "dailyChangeInDeaths": 520,
-      "cumulativeDeaths": 31530
+      "dailyChangeInDeaths": 523,
+      "cumulativeDeaths": 31575
     },
     {
       "areaCode": "W92000004",
@@ -1010,7 +1038,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-18",
       "dailyChangeInDeaths": 144,
-      "cumulativeDeaths": 31010
+      "cumulativeDeaths": 31052
     },
     {
       "areaCode": "W92000004",
@@ -1038,7 +1066,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-17",
       "dailyChangeInDeaths": 113,
-      "cumulativeDeaths": 30866
+      "cumulativeDeaths": 30908
     },
     {
       "areaCode": "W92000004",
@@ -1065,8 +1093,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-16",
-      "dailyChangeInDeaths": 389,
-      "cumulativeDeaths": 30753
+      "dailyChangeInDeaths": 401,
+      "cumulativeDeaths": 30795
     },
     {
       "areaCode": "W92000004",
@@ -1094,7 +1122,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-15",
       "dailyChangeInDeaths": 336,
-      "cumulativeDeaths": 30364
+      "cumulativeDeaths": 30394
     },
     {
       "areaCode": "W92000004",
@@ -1122,7 +1150,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-14",
       "dailyChangeInDeaths": 355,
-      "cumulativeDeaths": 30028
+      "cumulativeDeaths": 30058
     },
     {
       "areaCode": "W92000004",
@@ -1149,8 +1177,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-13",
-      "dailyChangeInDeaths": 413,
-      "cumulativeDeaths": 29673
+      "dailyChangeInDeaths": 415,
+      "cumulativeDeaths": 29703
     },
     {
       "areaCode": "W92000004",
@@ -1177,8 +1205,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-12",
-      "dailyChangeInDeaths": 603,
-      "cumulativeDeaths": 29260
+      "dailyChangeInDeaths": 606,
+      "cumulativeDeaths": 29288
     },
     {
       "areaCode": "W92000004",
@@ -1205,8 +1233,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-11",
-      "dailyChangeInDeaths": 190,
-      "cumulativeDeaths": 28657
+      "dailyChangeInDeaths": 191,
+      "cumulativeDeaths": 28682
     },
     {
       "areaCode": "W92000004",
@@ -1234,7 +1262,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-10",
       "dailyChangeInDeaths": 217,
-      "cumulativeDeaths": 28467
+      "cumulativeDeaths": 28491
     },
     {
       "areaCode": "W92000004",
@@ -1262,7 +1290,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-09",
       "dailyChangeInDeaths": 283,
-      "cumulativeDeaths": 28250
+      "cumulativeDeaths": 28274
     },
     {
       "areaCode": "W92000004",
@@ -1289,8 +1317,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-08",
-      "dailyChangeInDeaths": 535,
-      "cumulativeDeaths": 27967
+      "dailyChangeInDeaths": 536,
+      "cumulativeDeaths": 27991
     },
     {
       "areaCode": "W92000004",
@@ -1317,8 +1345,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-07",
-      "dailyChangeInDeaths": 424,
-      "cumulativeDeaths": 27432
+      "dailyChangeInDeaths": 425,
+      "cumulativeDeaths": 27455
     },
     {
       "areaCode": "W92000004",
@@ -1345,8 +1373,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-06",
-      "dailyChangeInDeaths": 567,
-      "cumulativeDeaths": 27008
+      "dailyChangeInDeaths": 570,
+      "cumulativeDeaths": 27030
     },
     {
       "areaCode": "W92000004",
@@ -1373,8 +1401,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-05",
-      "dailyChangeInDeaths": 656,
-      "cumulativeDeaths": 26441
+      "dailyChangeInDeaths": 657,
+      "cumulativeDeaths": 26460
     },
     {
       "areaCode": "W92000004",
@@ -1402,7 +1430,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-04",
       "dailyChangeInDeaths": 257,
-      "cumulativeDeaths": 25785
+      "cumulativeDeaths": 25803
     },
     {
       "areaCode": "W92000004",
@@ -1430,7 +1458,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-03",
       "dailyChangeInDeaths": 246,
-      "cumulativeDeaths": 25528
+      "cumulativeDeaths": 25546
     },
     {
       "areaCode": "W92000004",
@@ -1458,7 +1486,7 @@
       "areaName": "England",
       "reportingDate": "2020-05-02",
       "dailyChangeInDeaths": 519,
-      "cumulativeDeaths": 25282
+      "cumulativeDeaths": 25300
     },
     {
       "areaCode": "W92000004",
@@ -1485,8 +1513,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-05-01",
-      "dailyChangeInDeaths": 653,
-      "cumulativeDeaths": 24763
+      "dailyChangeInDeaths": 654,
+      "cumulativeDeaths": 24781
     },
     {
       "areaCode": "W92000004",
@@ -1514,7 +1542,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-30",
       "dailyChangeInDeaths": 560,
-      "cumulativeDeaths": 24110
+      "cumulativeDeaths": 24127
     },
     {
       "areaCode": "W92000004",
@@ -1542,7 +1570,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-29",
       "dailyChangeInDeaths": 632,
-      "cumulativeDeaths": 23550
+      "cumulativeDeaths": 23567
     },
     {
       "areaCode": "W92000004",
@@ -1569,8 +1597,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-04-28",
-      "dailyChangeInDeaths": 869,
-      "cumulativeDeaths": 22918
+      "dailyChangeInDeaths": 871,
+      "cumulativeDeaths": 22935
     },
     {
       "areaCode": "W92000004",
@@ -1598,7 +1626,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-27",
       "dailyChangeInDeaths": 307,
-      "cumulativeDeaths": 22049
+      "cumulativeDeaths": 22064
     },
     {
       "areaCode": "W92000004",
@@ -1626,7 +1654,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-26",
       "dailyChangeInDeaths": 343,
-      "cumulativeDeaths": 21742
+      "cumulativeDeaths": 21757
     },
     {
       "areaCode": "W92000004",
@@ -1654,7 +1682,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-25",
       "dailyChangeInDeaths": 741,
-      "cumulativeDeaths": 21399
+      "cumulativeDeaths": 21414
     },
     {
       "areaCode": "W92000004",
@@ -1681,8 +1709,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-04-24",
-      "dailyChangeInDeaths": 824,
-      "cumulativeDeaths": 20658
+      "dailyChangeInDeaths": 825,
+      "cumulativeDeaths": 20673
     },
     {
       "areaCode": "W92000004",
@@ -1710,7 +1738,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-23",
       "dailyChangeInDeaths": 603,
-      "cumulativeDeaths": 19834
+      "cumulativeDeaths": 19848
     },
     {
       "areaCode": "W92000004",
@@ -1738,7 +1766,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-22",
       "dailyChangeInDeaths": 739,
-      "cumulativeDeaths": 19231
+      "cumulativeDeaths": 19245
     },
     {
       "areaCode": "W92000004",
@@ -1765,8 +1793,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-04-21",
-      "dailyChangeInDeaths": 1122,
-      "cumulativeDeaths": 18492
+      "dailyChangeInDeaths": 1123,
+      "cumulativeDeaths": 18506
     },
     {
       "areaCode": "W92000004",
@@ -1794,7 +1822,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-20",
       "dailyChangeInDeaths": 539,
-      "cumulativeDeaths": 17370
+      "cumulativeDeaths": 17383
     },
     {
       "areaCode": "W92000004",
@@ -1822,7 +1850,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-19",
       "dailyChangeInDeaths": 384,
-      "cumulativeDeaths": 16831
+      "cumulativeDeaths": 16844
     },
     {
       "areaCode": "W92000004",
@@ -1850,7 +1878,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-18",
       "dailyChangeInDeaths": 1011,
-      "cumulativeDeaths": 16447
+      "cumulativeDeaths": 16460
     },
     {
       "areaCode": "W92000004",
@@ -1877,8 +1905,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-04-17",
-      "dailyChangeInDeaths": 826,
-      "cumulativeDeaths": 15436
+      "dailyChangeInDeaths": 827,
+      "cumulativeDeaths": 15449
     },
     {
       "areaCode": "W92000004",
@@ -1906,7 +1934,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-16",
       "dailyChangeInDeaths": 907,
-      "cumulativeDeaths": 14610
+      "cumulativeDeaths": 14622
     },
     {
       "areaCode": "W92000004",
@@ -1934,7 +1962,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-15",
       "dailyChangeInDeaths": 732,
-      "cumulativeDeaths": 13703
+      "cumulativeDeaths": 13715
     },
     {
       "areaCode": "W92000004",
@@ -1961,8 +1989,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-04-14",
-      "dailyChangeInDeaths": 1010,
-      "cumulativeDeaths": 12971
+      "dailyChangeInDeaths": 1013,
+      "cumulativeDeaths": 12983
     },
     {
       "areaCode": "W92000004",
@@ -1990,7 +2018,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-13",
       "dailyChangeInDeaths": 694,
-      "cumulativeDeaths": 11961
+      "cumulativeDeaths": 11970
     },
     {
       "areaCode": "W92000004",
@@ -2018,7 +2046,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-12",
       "dailyChangeInDeaths": 606,
-      "cumulativeDeaths": 11267
+      "cumulativeDeaths": 11276
     },
     {
       "areaCode": "W92000004",
@@ -2045,8 +2073,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-04-11",
-      "dailyChangeInDeaths": 745,
-      "cumulativeDeaths": 10661
+      "dailyChangeInDeaths": 746,
+      "cumulativeDeaths": 10670
     },
     {
       "areaCode": "W92000004",
@@ -2074,7 +2102,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-10",
       "dailyChangeInDeaths": 1038,
-      "cumulativeDeaths": 9916
+      "cumulativeDeaths": 9924
     },
     {
       "areaCode": "W92000004",
@@ -2101,8 +2129,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-04-09",
-      "dailyChangeInDeaths": 987,
-      "cumulativeDeaths": 8878
+      "dailyChangeInDeaths": 994,
+      "cumulativeDeaths": 8886
     },
     {
       "areaCode": "W92000004",
@@ -2130,7 +2158,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-08",
       "dailyChangeInDeaths": 924,
-      "cumulativeDeaths": 7891
+      "cumulativeDeaths": 7892
     },
     {
       "areaCode": "W92000004",
@@ -2158,7 +2186,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-07",
       "dailyChangeInDeaths": 1010,
-      "cumulativeDeaths": 6967
+      "cumulativeDeaths": 6968
     },
     {
       "areaCode": "W92000004",
@@ -2186,7 +2214,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-06",
       "dailyChangeInDeaths": 532,
-      "cumulativeDeaths": 5957
+      "cumulativeDeaths": 5958
     },
     {
       "areaCode": "W92000004",
@@ -2214,7 +2242,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-05",
       "dailyChangeInDeaths": 578,
-      "cumulativeDeaths": 5425
+      "cumulativeDeaths": 5426
     },
     {
       "areaCode": "W92000004",
@@ -2242,7 +2270,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-04",
       "dailyChangeInDeaths": 689,
-      "cumulativeDeaths": 4847
+      "cumulativeDeaths": 4848
     },
     {
       "areaCode": "W92000004",
@@ -2270,7 +2298,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-03",
       "dailyChangeInDeaths": 655,
-      "cumulativeDeaths": 4158
+      "cumulativeDeaths": 4159
     },
     {
       "areaCode": "W92000004",
@@ -2298,7 +2326,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-02",
       "dailyChangeInDeaths": 603,
-      "cumulativeDeaths": 3503
+      "cumulativeDeaths": 3504
     },
     {
       "areaCode": "W92000004",
@@ -2326,7 +2354,7 @@
       "areaName": "England",
       "reportingDate": "2020-04-01",
       "dailyChangeInDeaths": 613,
-      "cumulativeDeaths": 2900
+      "cumulativeDeaths": 2901
     },
     {
       "areaCode": "W92000004",
@@ -2354,7 +2382,7 @@
       "areaName": "England",
       "reportingDate": "2020-03-31",
       "dailyChangeInDeaths": 368,
-      "cumulativeDeaths": 2287
+      "cumulativeDeaths": 2288
     },
     {
       "areaCode": "W92000004",
@@ -2382,7 +2410,7 @@
       "areaName": "England",
       "reportingDate": "2020-03-30",
       "dailyChangeInDeaths": 353,
-      "cumulativeDeaths": 1919
+      "cumulativeDeaths": 1920
     },
     {
       "areaCode": "W92000004",
@@ -2410,7 +2438,7 @@
       "areaName": "England",
       "reportingDate": "2020-03-29",
       "dailyChangeInDeaths": 195,
-      "cumulativeDeaths": 1566
+      "cumulativeDeaths": 1567
     },
     {
       "areaCode": "W92000004",
@@ -2438,7 +2466,7 @@
       "areaName": "England",
       "reportingDate": "2020-03-28",
       "dailyChangeInDeaths": 279,
-      "cumulativeDeaths": 1371
+      "cumulativeDeaths": 1372
     },
     {
       "areaCode": "W92000004",
@@ -2466,7 +2494,7 @@
       "areaName": "England",
       "reportingDate": "2020-03-27",
       "dailyChangeInDeaths": 272,
-      "cumulativeDeaths": 1092
+      "cumulativeDeaths": 1093
     },
     {
       "areaCode": "W92000004",
@@ -2494,7 +2522,7 @@
       "areaName": "England",
       "reportingDate": "2020-03-26",
       "dailyChangeInDeaths": 169,
-      "cumulativeDeaths": 820
+      "cumulativeDeaths": 821
     },
     {
       "areaCode": "W92000004",
@@ -2521,8 +2549,8 @@
       "areaCode": "E92000001",
       "areaName": "England",
       "reportingDate": "2020-03-25",
-      "dailyChangeInDeaths": 177,
-      "cumulativeDeaths": 651
+      "dailyChangeInDeaths": 178,
+      "cumulativeDeaths": 652
     },
     {
       "areaCode": "W92000004",
@@ -2823,632 +2851,639 @@
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
+      "reportingDate": "2020-06-23",
+      "dailyChangeInDeaths": 171,
+      "cumulativeDeaths": 42927
+    },
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
       "reportingDate": "2020-06-22",
       "dailyChangeInDeaths": 15,
-      "cumulativeDeaths": 42647
+      "cumulativeDeaths": 42756
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-21",
       "dailyChangeInDeaths": 43,
-      "cumulativeDeaths": 42632
+      "cumulativeDeaths": 42741
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-20",
-      "dailyChangeInDeaths": 128,
-      "cumulativeDeaths": 42589
+      "dailyChangeInDeaths": 130,
+      "cumulativeDeaths": 42698
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-19",
       "dailyChangeInDeaths": 173,
-      "cumulativeDeaths": 42461
+      "cumulativeDeaths": 42568
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-18",
-      "dailyChangeInDeaths": 135,
-      "cumulativeDeaths": 42288
+      "dailyChangeInDeaths": 137,
+      "cumulativeDeaths": 42395
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-17",
       "dailyChangeInDeaths": 184,
-      "cumulativeDeaths": 42153
+      "cumulativeDeaths": 42258
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-16",
-      "dailyChangeInDeaths": 233,
-      "cumulativeDeaths": 41969
+      "dailyChangeInDeaths": 236,
+      "cumulativeDeaths": 42074
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-15",
       "dailyChangeInDeaths": 38,
-      "cumulativeDeaths": 41736
+      "cumulativeDeaths": 41838
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-14",
       "dailyChangeInDeaths": 36,
-      "cumulativeDeaths": 41698
+      "cumulativeDeaths": 41800
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-13",
-      "dailyChangeInDeaths": 181,
-      "cumulativeDeaths": 41662
+      "dailyChangeInDeaths": 183,
+      "cumulativeDeaths": 41764
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-12",
-      "dailyChangeInDeaths": 202,
-      "cumulativeDeaths": 41481
+      "dailyChangeInDeaths": 204,
+      "cumulativeDeaths": 41581
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-11",
-      "dailyChangeInDeaths": 151,
-      "cumulativeDeaths": 41279
+      "dailyChangeInDeaths": 152,
+      "cumulativeDeaths": 41377
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-10",
-      "dailyChangeInDeaths": 245,
-      "cumulativeDeaths": 41128
+      "dailyChangeInDeaths": 250,
+      "cumulativeDeaths": 41225
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-09",
-      "dailyChangeInDeaths": 286,
-      "cumulativeDeaths": 40883
+      "dailyChangeInDeaths": 289,
+      "cumulativeDeaths": 40975
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-08",
       "dailyChangeInDeaths": 55,
-      "cumulativeDeaths": 40597
+      "cumulativeDeaths": 40686
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-07",
       "dailyChangeInDeaths": 77,
-      "cumulativeDeaths": 40542
+      "cumulativeDeaths": 40631
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-06",
-      "dailyChangeInDeaths": 204,
-      "cumulativeDeaths": 40465
+      "dailyChangeInDeaths": 207,
+      "cumulativeDeaths": 40554
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-05",
-      "dailyChangeInDeaths": 357,
-      "cumulativeDeaths": 40261
+      "dailyChangeInDeaths": 358,
+      "cumulativeDeaths": 40347
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-04",
-      "dailyChangeInDeaths": 176,
-      "cumulativeDeaths": 39904
+      "dailyChangeInDeaths": 177,
+      "cumulativeDeaths": 39989
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-03",
-      "dailyChangeInDeaths": 359,
-      "cumulativeDeaths": 39728
+      "dailyChangeInDeaths": 365,
+      "cumulativeDeaths": 39812
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-02",
-      "dailyChangeInDeaths": 324,
-      "cumulativeDeaths": 39369
+      "dailyChangeInDeaths": 326,
+      "cumulativeDeaths": 39447
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-06-01",
       "dailyChangeInDeaths": 111,
-      "cumulativeDeaths": 39045
+      "cumulativeDeaths": 39121
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-31",
       "dailyChangeInDeaths": 115,
-      "cumulativeDeaths": 38934
+      "cumulativeDeaths": 39010
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-30",
-      "dailyChangeInDeaths": 226,
-      "cumulativeDeaths": 38819
+      "dailyChangeInDeaths": 230,
+      "cumulativeDeaths": 38895
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-29",
       "dailyChangeInDeaths": 373,
-      "cumulativeDeaths": 38593
+      "cumulativeDeaths": 38665
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-28",
-      "dailyChangeInDeaths": 413,
-      "cumulativeDeaths": 38220
+      "dailyChangeInDeaths": 416,
+      "cumulativeDeaths": 38292
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-27",
-      "dailyChangeInDeaths": 434,
-      "cumulativeDeaths": 37807
+      "dailyChangeInDeaths": 443,
+      "cumulativeDeaths": 37876
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-26",
       "dailyChangeInDeaths": 136,
-      "cumulativeDeaths": 37373
+      "cumulativeDeaths": 37433
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-25",
-      "dailyChangeInDeaths": 121,
-      "cumulativeDeaths": 37237
+      "dailyChangeInDeaths": 122,
+      "cumulativeDeaths": 37297
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-24",
       "dailyChangeInDeaths": 441,
-      "cumulativeDeaths": 37116
+      "cumulativeDeaths": 37175
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-23",
-      "dailyChangeInDeaths": 282,
-      "cumulativeDeaths": 36675
+      "dailyChangeInDeaths": 283,
+      "cumulativeDeaths": 36734
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-22",
-      "dailyChangeInDeaths": 351,
-      "cumulativeDeaths": 36393
+      "dailyChangeInDeaths": 358,
+      "cumulativeDeaths": 36451
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-21",
       "dailyChangeInDeaths": 338,
-      "cumulativeDeaths": 36042
+      "cumulativeDeaths": 36093
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-20",
-      "dailyChangeInDeaths": 363,
-      "cumulativeDeaths": 35704
+      "dailyChangeInDeaths": 369,
+      "cumulativeDeaths": 35755
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-19",
-      "dailyChangeInDeaths": 545,
-      "cumulativeDeaths": 35341
+      "dailyChangeInDeaths": 548,
+      "cumulativeDeaths": 35386
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-18",
       "dailyChangeInDeaths": 160,
-      "cumulativeDeaths": 34796
+      "cumulativeDeaths": 34838
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-17",
       "dailyChangeInDeaths": 170,
-      "cumulativeDeaths": 34636
+      "cumulativeDeaths": 34678
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-16",
-      "dailyChangeInDeaths": 468,
-      "cumulativeDeaths": 34466
+      "dailyChangeInDeaths": 480,
+      "cumulativeDeaths": 34508
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-15",
       "dailyChangeInDeaths": 384,
-      "cumulativeDeaths": 33998
+      "cumulativeDeaths": 34028
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-14",
       "dailyChangeInDeaths": 428,
-      "cumulativeDeaths": 33614
+      "cumulativeDeaths": 33644
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-13",
-      "dailyChangeInDeaths": 494,
-      "cumulativeDeaths": 33186
+      "dailyChangeInDeaths": 496,
+      "cumulativeDeaths": 33216
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-12",
-      "dailyChangeInDeaths": 627,
-      "cumulativeDeaths": 32692
+      "dailyChangeInDeaths": 630,
+      "cumulativeDeaths": 32720
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-11",
-      "dailyChangeInDeaths": 210,
-      "cumulativeDeaths": 32065
+      "dailyChangeInDeaths": 211,
+      "cumulativeDeaths": 32090
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-10",
       "dailyChangeInDeaths": 269,
-      "cumulativeDeaths": 31855
+      "cumulativeDeaths": 31879
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-09",
       "dailyChangeInDeaths": 345,
-      "cumulativeDeaths": 31586
+      "cumulativeDeaths": 31610
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-08",
-      "dailyChangeInDeaths": 626,
-      "cumulativeDeaths": 31241
+      "dailyChangeInDeaths": 627,
+      "cumulativeDeaths": 31265
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-07",
-      "dailyChangeInDeaths": 539,
-      "cumulativeDeaths": 30615
+      "dailyChangeInDeaths": 540,
+      "cumulativeDeaths": 30638
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-06",
-      "dailyChangeInDeaths": 649,
-      "cumulativeDeaths": 30076
+      "dailyChangeInDeaths": 652,
+      "cumulativeDeaths": 30098
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-05",
-      "dailyChangeInDeaths": 693,
-      "cumulativeDeaths": 29427
+      "dailyChangeInDeaths": 694,
+      "cumulativeDeaths": 29446
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-04",
       "dailyChangeInDeaths": 288,
-      "cumulativeDeaths": 28734
+      "cumulativeDeaths": 28752
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-03",
       "dailyChangeInDeaths": 315,
-      "cumulativeDeaths": 28446
+      "cumulativeDeaths": 28464
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-02",
       "dailyChangeInDeaths": 621,
-      "cumulativeDeaths": 28131
+      "cumulativeDeaths": 28149
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-05-01",
-      "dailyChangeInDeaths": 739,
-      "cumulativeDeaths": 27510
+      "dailyChangeInDeaths": 740,
+      "cumulativeDeaths": 27528
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-30",
       "dailyChangeInDeaths": 674,
-      "cumulativeDeaths": 26771
+      "cumulativeDeaths": 26788
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-29",
       "dailyChangeInDeaths": 795,
-      "cumulativeDeaths": 26097
+      "cumulativeDeaths": 26114
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-28",
-      "dailyChangeInDeaths": 909,
-      "cumulativeDeaths": 25302
+      "dailyChangeInDeaths": 911,
+      "cumulativeDeaths": 25319
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-27",
       "dailyChangeInDeaths": 338,
-      "cumulativeDeaths": 24393
+      "cumulativeDeaths": 24408
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-26",
       "dailyChangeInDeaths": 420,
-      "cumulativeDeaths": 24055
+      "cumulativeDeaths": 24070
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-25",
       "dailyChangeInDeaths": 843,
-      "cumulativeDeaths": 23635
+      "cumulativeDeaths": 23650
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-24",
-      "dailyChangeInDeaths": 1005,
-      "cumulativeDeaths": 22792
+      "dailyChangeInDeaths": 1006,
+      "cumulativeDeaths": 22807
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-23",
       "dailyChangeInDeaths": 727,
-      "cumulativeDeaths": 21787
+      "cumulativeDeaths": 21801
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-22",
       "dailyChangeInDeaths": 837,
-      "cumulativeDeaths": 21060
+      "cumulativeDeaths": 21074
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-21",
-      "dailyChangeInDeaths": 1172,
-      "cumulativeDeaths": 20223
+      "dailyChangeInDeaths": 1173,
+      "cumulativeDeaths": 20237
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-20",
       "dailyChangeInDeaths": 559,
-      "cumulativeDeaths": 19051
+      "cumulativeDeaths": 19064
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-19",
       "dailyChangeInDeaths": 498,
-      "cumulativeDeaths": 18492
+      "cumulativeDeaths": 18505
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-18",
       "dailyChangeInDeaths": 1115,
-      "cumulativeDeaths": 17994
+      "cumulativeDeaths": 18007
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-17",
-      "dailyChangeInDeaths": 935,
-      "cumulativeDeaths": 16879
+      "dailyChangeInDeaths": 936,
+      "cumulativeDeaths": 16892
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-16",
       "dailyChangeInDeaths": 1029,
-      "cumulativeDeaths": 15944
+      "cumulativeDeaths": 15956
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-15",
       "dailyChangeInDeaths": 842,
-      "cumulativeDeaths": 14915
+      "cumulativeDeaths": 14927
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-14",
-      "dailyChangeInDeaths": 1044,
-      "cumulativeDeaths": 14073
+      "dailyChangeInDeaths": 1047,
+      "cumulativeDeaths": 14085
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-13",
       "dailyChangeInDeaths": 744,
-      "cumulativeDeaths": 13029
+      "cumulativeDeaths": 13038
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-12",
       "dailyChangeInDeaths": 686,
-      "cumulativeDeaths": 12285
+      "cumulativeDeaths": 12294
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-11",
-      "dailyChangeInDeaths": 839,
-      "cumulativeDeaths": 11599
+      "dailyChangeInDeaths": 840,
+      "cumulativeDeaths": 11608
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-10",
       "dailyChangeInDeaths": 1152,
-      "cumulativeDeaths": 10760
+      "cumulativeDeaths": 10768
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-09",
-      "dailyChangeInDeaths": 1103,
-      "cumulativeDeaths": 9608
+      "dailyChangeInDeaths": 1110,
+      "cumulativeDeaths": 9616
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-08",
       "dailyChangeInDeaths": 1034,
-      "cumulativeDeaths": 8505
+      "cumulativeDeaths": 8506
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-07",
       "dailyChangeInDeaths": 1038,
-      "cumulativeDeaths": 7471
+      "cumulativeDeaths": 7472
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-06",
       "dailyChangeInDeaths": 568,
-      "cumulativeDeaths": 6433
+      "cumulativeDeaths": 6434
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-05",
       "dailyChangeInDeaths": 644,
-      "cumulativeDeaths": 5865
+      "cumulativeDeaths": 5866
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-04",
       "dailyChangeInDeaths": 760,
-      "cumulativeDeaths": 5221
+      "cumulativeDeaths": 5222
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-03",
       "dailyChangeInDeaths": 714,
-      "cumulativeDeaths": 4461
+      "cumulativeDeaths": 4462
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-02",
       "dailyChangeInDeaths": 652,
-      "cumulativeDeaths": 3747
+      "cumulativeDeaths": 3748
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-04-01",
       "dailyChangeInDeaths": 670,
-      "cumulativeDeaths": 3095
+      "cumulativeDeaths": 3096
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-03-31",
       "dailyChangeInDeaths": 382,
-      "cumulativeDeaths": 2425
+      "cumulativeDeaths": 2426
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-03-30",
       "dailyChangeInDeaths": 374,
-      "cumulativeDeaths": 2043
+      "cumulativeDeaths": 2044
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-03-29",
       "dailyChangeInDeaths": 214,
-      "cumulativeDeaths": 1669
+      "cumulativeDeaths": 1670
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-03-28",
       "dailyChangeInDeaths": 294,
-      "cumulativeDeaths": 1455
+      "cumulativeDeaths": 1456
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-03-27",
       "dailyChangeInDeaths": 284,
-      "cumulativeDeaths": 1161
+      "cumulativeDeaths": 1162
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-03-26",
       "dailyChangeInDeaths": 183,
-      "cumulativeDeaths": 877
+      "cumulativeDeaths": 878
     },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
       "reportingDate": "2020-03-25",
-      "dailyChangeInDeaths": 186,
-      "cumulativeDeaths": 694
+      "dailyChangeInDeaths": 187,
+      "cumulativeDeaths": 695
     },
     {
       "areaCode": "K02000001",
