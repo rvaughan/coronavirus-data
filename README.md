@@ -64,6 +64,7 @@ The UK data is pulled twice an hour from the following sources:
   * [Wales Data](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary)
   * [UK R Number](https://www.gov.uk/government/news/government-publishes-latest-r-number)
   * [SAGE Guidance](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response)
+  * [Independant SAGE Guidance](https://www.independentsage.org/)
 
 ## USA Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20data/badge.svg)
