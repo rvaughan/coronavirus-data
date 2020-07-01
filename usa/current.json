@@ -5,9 +5,9 @@
     "positive": 2665073,
     "negative": 30075249,
     "pending": 2604,
-    "hospitalizedCurrently": 40987,
+    "hospitalizedCurrently": 35937,
     "hospitalizedCumulative": 243846,
-    "inIcuCurrently": 7003,
+    "inIcuCurrently": 5494,
     "inIcuCumulative": 10752,
     "onVentilatorCurrently": 2098,
     "onVentilatorCumulative": 1027,
@@ -24,6 +24,6 @@
     "negativeIncrease": 490835,
     "positiveIncrease": 43242,
     "totalTestResultsIncrease": 534077,
-    "hash": "fe93ee362c7728a628aaf1e1b034125bf1bf1d86"
+    "hash": "6e25f40ec3f4a618b192c559108e2419c86edc43"
   }
 ]
