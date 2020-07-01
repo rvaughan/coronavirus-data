@@ -65,6 +65,8 @@ The UK data is pulled twice an hour from the following sources:
   * [UK R Number](https://www.gov.uk/government/news/government-publishes-latest-r-number)
   * [SAGE Guidance](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response)
   * [Independant SAGE Guidance](https://www.independentsage.org/)
+  * [PHE National COVID-19 surveillance reports](https://www.gov.uk/government/publications/national-covid-19-surveillance-reports)
+  * [Scottish Coronavirus (COVID-19): trends in daily data](https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/)
 
 ## USA Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20data/badge.svg)
