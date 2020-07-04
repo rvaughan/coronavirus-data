@@ -144,7 +144,7 @@
   },
   {
     "state": "GA",
-    "notes": "Positive includes deaths. Positives occasionally update before totals.\nWe use the state's \"as of\" time as our Update Time. \nAs of May 16, Georgia is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested. \nAs of May 27, GA started separating serology tests from PCR. Total test numbers were impacted by around 74,000.",
+    "notes": "Positive includes deaths. Positives occasionally update before totals.\nWe use the state's \"as of\" time as our Update Time. \nAs of May 16, Georgia is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested. \nAs of May 27, GA started separating serology tests from PCR. Total test numbers were impacted by around 74,000.\nGA makes changes to its cumulative case counts for previous dates, so its historical time series and trends for case counts might not match ours. When we can, we will update our own historical time series to match theirs.",
     "covid19Site": "https://dph.georgia.gov/covid-19-daily-status-report",
     "covid19SiteSecondary": "https://augustagis.maps.arcgis.com/apps/opsdashboard/index.html#/4eec20925b6b4f338368df0ffcba472d",
     "covid19SiteTertiary": "",
@@ -703,7 +703,7 @@
   },
   {
     "state": "WV",
-    "notes": "Negatives = Totals - Positives. As of April 16, WV reports hospitalization + ICU + ventilator counts from 49 of 55 counties. Before April 16, those counts were unreliable -- based on reported percentages of completed investigations, an unpublished number.\nAs of May 23, West Virginia is separating out PCR and antibody tests; we report the number of PCR tests. Total tests might be impacted. ",
+    "notes": "Negatives = Totals - Positives. As of April 16, WV reports hospitalization + ICU + ventilator counts from 49 of 55 counties. Before April 16, those counts were unreliable -- based on reported percentages of completed investigations, an unpublished number.\nAs of May 23, West Virginia is separating out PCR and antibody tests; we report the number of PCR tests. Total tests might be impacted. \nAs of July 4, WV makes changes to its previous data for antibody testing, so its historical time series might not match ours until we backfill our data to match theirs.",
     "covid19Site": "https://dhhr.wv.gov/Coronavirus%20Disease-COVID-19/Pages/default.aspx",
     "covid19SiteSecondary": "https://app.powerbigov.us/view?r=eyJrIjoiYmIyYTE0YWYtZDMyOS00YjAzLTgxZTItZDIyMmNlYTZmMWVkIiwidCI6IjhhMjZjZjAyLTQzNGEtNDMxZS04Y2FkLTdlYWVmOTdlZjQ4NCJ9&pageName=ReportSection3aff85597cada99d298f&pageName=ReportSection9f5bc3be6e9ebda92968",
     "covid19SiteTertiary": "https://app.powerbigov.us/view?r=eyJrIjoiYmIyYTE0YWYtZDMyOS00YjAzLTgxZTItZDIyMmNlYTZmMWVkIiwidCI6IjhhMjZjZjAyLTQzNGEtNDMxZS04Y2FkLTdlYWVmOTdlZjQ4NCJ9&pageName=ReportSection4bb4fbc7d2bc2ad57511",
