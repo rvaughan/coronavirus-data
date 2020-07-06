@@ -274,7 +274,7 @@
   },
   {
     "state": "MA",
-    "notes": "As of April 20, Cumulative Hospitalized + ICU includes both confirmed and suspected cases.\nOn June 30, MA decreased the number of cumulative hospitalization, confirmed and probable deaths \"due to ongoing data cleaning which identifies and removes duplicate reports.\" ",
+    "notes": "MA reports both the number of tests performed and the number of people tested. Both data points are available in our API, but MA data on our web pages is reported in units of people tested\nAs of April 20, Cumulative Hospitalized + ICU includes both confirmed and suspected cases.\nOn June 30, MA decreased the number of cumulative hospitalization, confirmed and probable deaths \"due to ongoing data cleaning which identifies and removes duplicate reports.\" ",
     "covid19Site": "https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring",
     "covid19SiteSecondary": "",
     "covid19SiteTertiary": "",
