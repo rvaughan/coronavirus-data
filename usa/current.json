@@ -13,17 +13,17 @@
     "onVentilatorCumulative": 1084,
     "recovered": 936476,
     "dateChecked": "2020-07-07T00:00:00Z",
-    "death": 123834,
+    "death": 123826,
     "hospitalized": 251499,
     "lastModified": "2020-07-07T00:00:00Z",
     "total": 36880242,
     "totalTestResults": 36878106,
     "posNeg": 36878106,
-    "deathIncrease": 919,
+    "deathIncrease": 922,
     "hospitalizedIncrease": 1960,
     "negativeIncrease": 601203,
     "positiveIncrease": 51888,
     "totalTestResultsIncrease": 653091,
-    "hash": "cab4f6608831b43ae6d5983ef343d33f646f57f8"
+    "hash": "226a99b3ee5007a2e1291bf778454cfbb8922627"
   }
 ]
