@@ -40,7 +40,7 @@
   },
   {
     "state": "AS",
-    "notes": "AS does not have a regularly updated data source. We monitor AS social media, emergency declarations, and local media for updates.",
+    "notes": "AS does not have a regularly updated data source. We monitor AS social media, emergency declarations, and local media for updates.\nOn July 1, American Samoa reported on its Facebook page that it had acquired testing machines and kits and had conducted 816 tests all with negative results.",
     "covid19Site": "https://www.americansamoa.gov/covid-19-advisories",
     "covid19SiteSecondary": "https://www.facebook.com/amsamgov/",
     "covid19SiteTertiary": "",
@@ -365,7 +365,7 @@
   },
   {
     "state": "MS",
-    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly.\nAs of May 23, Mississippi is separating out PCR and antibody tests; we report PCR specimens tested. Total tests might be impacted. Mississippi notes that hospitalization data for May 23 is incomplete.\nOn June 11th, due to a technical issue, Mississippi did not provide new updates. Beginning June 17th MS paused reporting data: \"Our daily COVID-19 update will be limited as we work to resolve technical problems in our data reporting system.\" Current lab-confirmed hospitalization cases from MSDH Twitter 6/19. \nAs of 6/21 all case and testing data was last updated 6/16 at 18:00. Currently hospitalized, in ICU, and on ventilator data was updated 6/20. \nOn 6/22 MS added five days' backlog of case and death data.",
+    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly.\nAs of May 23, Mississippi is separating out PCR and antibody tests; we report PCR specimens tested. Total tests might be impacted. Mississippi notes that hospitalization data for May 23 is incomplete.\nOn June 11th, due to a technical issue, Mississippi did not provide new updates. Beginning June 17th MS paused reporting data: \"Our daily COVID-19 update will be limited as we work to resolve technical problems in our data reporting system.\" Current lab-confirmed hospitalization cases from MSDH Twitter 6/19. \nAs of 6/21 all case and testing data was last updated 6/16 at 18:00. Currently hospitalized, in ICU, and on ventilator data was updated 6/20. \nOn 6/22 MS added five days' backlog of case and death data.\nOn 7/7 we erroneously reported additional Negatives for MS. We have corrected the error.",
     "covid19Site": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
     "covid19SiteSecondary": "",
     "covid19SiteTertiary": "",
