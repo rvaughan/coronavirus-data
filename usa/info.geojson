@@ -1,7 +1,7 @@
 [
   {
     "state": "AK",
-    "notes": "Total tests are taken from the annotations on the charts on the page. \nNegatives = (Totals – Positives)\nPositives occasionally update before totals do; do not revise negatives down, keep the last calculated negative.\nLast Updated (Local Time) = (today's date + time = 00:00) \nAs of May 16, Alaska reports specimens tested; because some people may be tested more than once, this number may be higher than the number of people tested.",
+    "notes": "Negatives = (Totals – Positives)\nPositives occasionally update before totals do; do not revise negatives down, keep the last calculated negative. \nAs of May 16, Alaska reports specimens tested; because some people may be tested more than once, this number may be higher than the number of people tested.",
     "covid19Site": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx",
     "covid19SiteSecondary": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx",
     "covid19SiteTertiary": "https://alaska-dhss.maps.arcgis.com/apps/opsdashboard/index.html#/8782a14ef52342e99f866a3b8a3e624a",
@@ -40,7 +40,7 @@
   },
   {
     "state": "AS",
-    "notes": "AS does not have a regularly updated data source. We monitor AS social media, emergency declarations, and local media for updates.",
+    "notes": "AS does not have a regularly updated data source. We monitor AS social media, emergency declarations, and local media for updates.\nOn July 1, American Samoa reported on its Facebook page that it had acquired testing machines and kits and had conducted 816 tests all with negative results.",
     "covid19Site": "https://www.americansamoa.gov/covid-19-advisories",
     "covid19SiteSecondary": "https://www.facebook.com/amsamgov/",
     "covid19SiteTertiary": "",
@@ -66,7 +66,7 @@
   },
   {
     "state": "CA",
-    "notes": "Before April 1 CA was inconsistent in the timing of reporting so we used faster-updating sources, we then standardized on the state data dashboard(s). This led to a drop in cases and deaths, as the state's data lags county sources.\nThe state reported a huge batch of negative tests on April 4 and again on April 22.\nAs of April 22, California now reports specimens tested instead of people tested. Because some people may be tested more than once, this number is probably higher than the number of people tested.",
+    "notes": "Before April 1 CA was inconsistent in the timing of reporting so we used faster-updating sources, we then standardized on the state data dashboard(s). This led to a drop in cases and deaths, as the state's data lags county sources.\nThe state reported a huge batch of negative tests on April 4 and again on April 22.\nAs of April 22, California now reports specimens tested instead of people tested. Because some people may be tested more than once, this number is probably higher than the number of people tested.\nOn July 8, CA data included a backlog of data from Los Angeles County, which had not reported for several days. About 1000 of the 11,000 new cases are due to this spike in reporting.",
     "covid19Site": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx",
     "covid19SiteSecondary": "https://www.cdph.ca.gov/Programs/OPA/Pages/New-Release-2020.aspx",
     "covid19SiteTertiary": "",
@@ -79,7 +79,7 @@
   },
   {
     "state": "CO",
-    "notes": "Negative = People Tested - Cases. Cases include people who test positive for COVID-19 AND people who have symptoms of COVID-19 and are a close contact to someone who tested positive. As of April 27, Colorado is reporting people tested. On 6/14, CO revised some previous daily discharged number. This caused an overall decline in their recovered count. On 5/15 (which we caught on our update 5/16), Colorado started providing a new figure for deaths where COVID-19 is listed on the death certificate, in addition to the figure it already provided, deaths among laboratory-confirmed and probable cases (whether or not COVID was a cause of death). On 7/1, we revised our historical data to reflect the deaths certificate figure instead of the deaths among cases. As such, it appears as if there is a drop from 1091 deaths on 5/15 to 878 on 5/16 in our data.",
+    "notes": "Negative = People Tested - Cases. Cases include people who test positive for COVID-19 AND people who have symptoms of COVID-19 and are a close contact to someone who tested positive. While Colorado publishes a confirmed/probable breakdown, this breakdown pertains to cases resulting in deaths rather than death certificates with COVID-19 listed as a contributing cause. As such, we do not count from it to maintain consistency with the total deaths figure from death certificates.As of April 27, Colorado is reporting people tested. On 6/14, CO revised some previous daily discharged number. This caused an overall decline in their recovered count. On 5/15 (which we caught on our update 5/16), Colorado started providing a new figure for deaths where COVID-19 is listed on the death certificate, in addition to the figure it already provided, deaths among laboratory-confirmed and probable cases (whether or not COVID was a cause of death). On 7/1, we revised our historical data to reflect the deaths certificate figure instead of the deaths among cases. As such, it appears as if there is a drop from 1091 deaths on 5/15 to 878 on 5/16 in our data.",
     "covid19Site": "https://covid19.colorado.gov/case-data",
     "covid19SiteSecondary": "https://covid19.colorado.gov/covid-19-data",
     "covid19SiteTertiary": "https://covid19.colorado.gov/hospital-data",
@@ -144,7 +144,7 @@
   },
   {
     "state": "GA",
-    "notes": "Positive includes deaths. Positives occasionally update before totals.\nWe use the state's \"as of\" time as our Update Time. \nAs of May 16, Georgia is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested. \nAs of May 27, GA started separating serology tests from PCR. Total test numbers were impacted by around 74,000.",
+    "notes": "Positive includes deaths. Positives occasionally update before totals.\nWe use the state's \"as of\" time as our Update Time. \nAs of May 16, Georgia is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested. \nAs of May 27, GA started separating serology tests from PCR. Total test numbers were impacted by around 74,000.\nGA makes changes to its cumulative case counts for previous dates, so its historical time series and trends for case counts might not match ours. When we can, we will update our own historical time series to match theirs.",
     "covid19Site": "https://dph.georgia.gov/covid-19-daily-status-report",
     "covid19SiteSecondary": "https://augustagis.maps.arcgis.com/apps/opsdashboard/index.html#/4eec20925b6b4f338368df0ffcba472d",
     "covid19SiteTertiary": "",
@@ -170,7 +170,7 @@
   },
   {
     "state": "HI",
-    "notes": "Data now pulled from their [new Dashboard Project](https://www.hawaiidata.org/covid19).\nAs of May 16, Hawaii is reporting people tested\nOn May 23, Hawaii revised down 5 cases due to updated testing information.\nOn May 25, Hawaii revised down 1 cumulative hospitalization patient.\nOn June 5, Hawaii revised down 1 case released from isolation.\nAs of June 1, Hawaii started reporting total number of unique people tested. Total tests impacted by around 6,000.",
+    "notes": "As of May 16, Hawaii is reporting people tested\nOn May 23, Hawaii revised down 5 cases due to updated testing information.\nOn May 25, Hawaii revised down 1 cumulative hospitalization patient.\nOn June 5, Hawaii revised down 1 case released from isolation.\nAs of June 1, Hawaii started reporting total number of unique people tested. Total tests impacted by around 6,000.",
     "covid19Site": "https://health.hawaii.gov/coronavirusdisease2019/",
     "covid19SiteSecondary": "https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/",
     "covid19SiteTertiary": "",
@@ -235,7 +235,7 @@
   },
   {
     "state": "KS",
-    "notes": "On April 23rd, Kansas reported 112 deaths.  On April 24th, they revised this down to 111 deaths.\nAs of May 7, 2020, confirmed and probable cases are included in the case totals.",
+    "notes": "On April 23rd, Kansas reported 112 deaths.  On April 24th, they revised this down to 111 deaths.\nAs of May 7, 2020, confirmed and probable cases are included in the case totals.\nFrom July 1-3 we reported incorrect numbers for KS Positive Cases (PCR). We have corrected the error.",
     "covid19Site": "https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas",
     "covid19SiteSecondary": "http://www.kdheks.gov/coronavirus/",
     "covid19SiteTertiary": "",
@@ -274,7 +274,7 @@
   },
   {
     "state": "MA",
-    "notes": "Positives include results from the CDC. Total tested includes repeat testing on individuals. State lab numbers are as of 8 am, other lab numbers are as of 11:30 am. Commercial lab numbers are subject to change. \nAs of April 20, Cumulative Hospitalized + ICU includes both confirmed and suspected cases.\nOn June 30, MA decreased the number of cumulative hospitalization, confirmed and probable deaths \"due to ongoing data cleaning which identifies and removes duplicate reports.\" ",
+    "notes": "MA reports both the number of tests performed and the number of people tested. Both data points are available in our API, but MA data on our web pages is reported in units of people tested. On June 30, MA decreased the number of cumulative hospitalization, confirmed and probable deaths \"due to ongoing data cleaning which identifies and removes duplicate reports.\" ",
     "covid19Site": "https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring",
     "covid19SiteSecondary": "",
     "covid19SiteTertiary": "",
@@ -300,7 +300,7 @@
   },
   {
     "state": "ME",
-    "notes": "As of May 13, Maine is reporting total specimens tested; this number is updated once a week on Wednesdays. Because some people may be tested more than once, this number is probably higher than the number of people tested.\nAs of May 20, Maine is separating out PCR tests and antibody tests; we report the number of PCR tests. Total testing numbers might be impacted. On June 23 Maine began reporting the dates of cases, deaths, recoveries, and hospitalizations on the day they occurred instead of the day the event was reported.",
+    "notes": "As of May 13, Maine is reporting total specimens tested; this number is updated once a week on Wednesdays. Because some people may be tested more than once, this number is probably higher than the number of people tested.\nAs of May 20, Maine is separating out PCR tests and antibody tests; we report the number of PCR tests. Total testing numbers might be impacted. On 6/23, Maine began reporting the dates of cases, deaths, recoveries, and hospitalizations on the day they occurred instead of the day the event was reported. On 6/23, Maine began providing separate figures for confirmed and probable deaths.",
     "covid19Site": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus/data.shtml",
     "covid19SiteSecondary": "",
     "covid19SiteTertiary": "",
@@ -313,7 +313,7 @@
   },
   {
     "state": "MI",
-    "notes": "Michigan has reported each day's negative results since 3/10 but has never totaled them. We sum all the negative results and report the total. Michigan reports specimens tested instead of people tested. \nRecovered counts are updated once a week. \nAs of May 16, Michigan uses 'total specimens' reported on lab testing page\nAs of May 23, Michigan is separating out antibody and PCR tests; we report the number of PCR tests. Total testing numbers might be impacted. As of June 5, positives include both confirmed and probable cases of COVID-19, as reported by the Michigan Department of Health & Human Services.\nOn 6/11 MI DDHS provided an XLS with historical time series and we updated our data  to reflect the correct dates of probable and confirmed cases and deaths. ",
+    "notes": "Michigan has reported each day's negative results since 3/10 but has never totaled them. We sum all the negative results and report the total. Michigan reports specimens tested instead of people tested. \nRecovered counts are updated once a week. \nAs of May 16, Michigan uses 'total specimens' reported on lab testing page\nAs of May 23, Michigan is separating out antibody and PCR tests; we report the number of PCR tests. Total testing numbers might be impacted. As of June 5, positives include both confirmed and probable cases of COVID-19, as reported by the Michigan Department of Health & Human Services.\nOn 6/11 MI DDHS provided an XLS with historical time series and we updated our data  to reflect the correct dates of probable and confirmed cases and deaths. \nAs of 7/7, MI updates its death figures three times a week after conducting reviews of death certificates. As a result, new deaths may not always reflect deaths in the past 24 hours.",
     "covid19Site": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html",
     "covid19SiteSecondary": "https://www.michigan.gov/coronavirus/0,9753,7-406-98159-523641--,00.html",
     "covid19SiteTertiary": "",
@@ -354,7 +354,7 @@
     "state": "MP",
     "notes": "As of May 16, Northern Mariana Islands is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested",
     "covid19Site": "https://www.chcc.gov.mp/coronavirusinformation.php",
-    "covid19SiteSecondary": "",
+    "covid19SiteSecondary": "https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5",
     "covid19SiteTertiary": "",
     "twitter": "@cnmichcc",
     "covid19SiteOld": "https://www.chcc.gov.mp/coronavirusinformation.php",
@@ -365,7 +365,7 @@
   },
   {
     "state": "MS",
-    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly.\nAs of May 23, Mississippi is separating out PCR and antibody tests; we report PCR specimens tested. Total tests might be impacted. Mississippi notes that hospitalization data for May 23 is incomplete.\nOn June 11th, due to a technical issue, Mississippi did not provide new updates. Beginning June 17th MS paused reporting data: \"Our daily COVID-19 update will be limited as we work to resolve technical problems in our data reporting system.\" Current lab-confirmed hospitalization cases from MSDH Twitter 6/19. \nAs of 6/21 all case and testing data was last updated 6/16 at 18:00. Currently hospitalized, in ICU, and on ventilator data was updated 6/20. \nOn 6/22 MS added five days' backlog of case and death data.",
+    "notes": "Negatives = Total - Positives.\nHospitalizations are calculated by calculating multiplying % of hospitalized times total cases, pending clarification from the state. Recoveries are estimated, and updated twice weekly.\nAs of May 23, Mississippi is separating out PCR and antibody tests; we report PCR specimens tested. Total tests might be impacted. Mississippi notes that hospitalization data for May 23 is incomplete.\nOn June 11th, due to a technical issue, Mississippi did not provide new updates. Beginning June 17th MS paused reporting data: \"Our daily COVID-19 update will be limited as we work to resolve technical problems in our data reporting system.\" Current lab-confirmed hospitalization cases from MSDH Twitter 6/19. \nAs of 6/21 all case and testing data was last updated 6/16 at 18:00. Currently hospitalized, in ICU, and on ventilator data was updated 6/20. \nOn 6/22 MS added five days' backlog of case and death data.\nOn 7/7 we erroneously reported additional Negatives for MS. We have corrected the error.",
     "covid19Site": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
     "covid19SiteSecondary": "",
     "covid19SiteTertiary": "",
@@ -404,7 +404,7 @@
   },
   {
     "state": "ND",
-    "notes": "As of May 2, North Dakota is reporting people tested. On 5/3, ND began providing counts of deaths for lab-confirmed individuals with death records still pending, and lab-confirmed individuals who died but not due to COVID. As of 7/1, we have edited our figures to exclude these numbers from our death counts, resulting in an apparent drop from 24 deaths on 5/2 to 16 on 5/3.",
+    "notes": "As of May 2, North Dakota is reporting people tested. On 5/3, ND began providing counts of deaths for lab-confirmed individuals with death records still pending, and lab-confirmed individuals who died but not due to COVID. As of 7/1, we have edited our figures to exclude these numbers from our death counts, resulting in an apparent drop from 24 deaths on 5/2 to 16 on 5/3. On 6/18, ND revised down its confirmed death count from 66 to 64. On \n6/24, ND revised its confirmed death count from 67 to 66 to remove an \nout-of-state case.",
     "covid19Site": "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases",
     "covid19SiteSecondary": "",
     "covid19SiteTertiary": "",
@@ -417,7 +417,7 @@
   },
   {
     "state": "NE",
-    "notes": "The count of 56 on 4/27 included a death erroneously entered into NE’s electronic system. NE removed it from the total count on 4/28\nWe do not currently track it, but partial hospitalization data are available from [Douglas County](https://dogis.maps.arcgis.com/apps/opsdashboard/index.html#/21bec056a9a6449abcca89a329868fd6)",
+    "notes": "The count of 56 on 4/27 included a death erroneously entered into NE’s electronic system. NE removed it from the total count on 4/28\nWe do not currently track it, but partial hospitalization data are available from [Douglas County](https://dogis.maps.arcgis.com/apps/opsdashboard/index.html#/21bec056a9a6449abcca89a329868fd6)\n\nOn 7/8 deaths decreased by one with no explanation.",
     "covid19Site": "https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd",
     "covid19SiteSecondary": "",
     "covid19SiteTertiary": "",
@@ -443,7 +443,7 @@
   },
   {
     "state": "NJ",
-    "notes": "Positive count includes deaths. Hospitalization + ICU counts include both positive cases and persons under investigation. As of May 11, New Jersey is reporting total PCR specimens tested.\nOn May 16, New Jersey had a significant jump in recovered (about 7,000) due to backfilling previous days after a shift in how this figure was reported on April 28.\nOn June 25th, New Jersey reported 1854 probable deaths that occured in the past. This causes a perecived increase in the daily number of deaths.",
+    "notes": "Positive count includes deaths. Hospitalization + ICU counts include both positive cases and persons under investigation. As of May 11, New Jersey is reporting total PCR specimens tested.\nOn May 16, New Jersey had a significant jump in recovered (about 7,000) due to backfilling previous days after a shift in how this figure was reported on April 28.\nOn June 25th, New Jersey reported 1854 probable deaths that occured in the past. This causes a perecived increase in the daily number of deaths.\nOn July 8, New Jersey reported another 89 probable deaths that occurred previously. This again artificially inflated the day's reported death toll. We are waiting to receive a dated time series from NJ to properly backfill the data.",
     "covid19Site": "https://covid19.nj.gov/#live-updates",
     "covid19SiteSecondary": "https://maps.arcgis.com/apps/MapSeries/index.html?appid=c2efd1898e48452e83d7218329e953d7&entry=2",
     "covid19SiteTertiary": "",
@@ -523,7 +523,7 @@
     "state": "OR",
     "notes": "Total includes Oregon & Montana residents tested in Idaho. As of April 27, Oregon is reporting people tested. \nFor June 15, we report deaths, cases and negatives from Oregon’s press release from [June 14](https://www.oregon.gov/oha/ERD/Pages/Oregon-reports-101-new-confirmed-presumptive-COVID-19-cases-2-new-deaths.aspx). On 6/20/20, per weekend report, two cases in Polk County previously reported as COVID-19 were determined to be non-COVID-19 and numbers updated to reflect the change.",
     "covid19Site": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "covid19SiteSecondary": "https://public.tableau.com/profile/oregon.health.authority.covid.19#!/vizhome/OregonHealthAuthorityCOVID-19DataDashboard/COVID-19EPICases?:display_count=y&:toolbar=n&:origin=viz_share_link&:showShareOptions=false",
+    "covid19SiteSecondary": "https://public.tableau.com/profile/oregon.health.authority.covid.19#!/vizhome/OregonCOVID-19Update/CaseandTesting",
     "covid19SiteTertiary": "",
     "twitter": "@OHAOregon",
     "covid19SiteOld": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
@@ -547,7 +547,7 @@
   },
   {
     "state": "PR",
-    "notes": "Death counts include both confirmed and presumed COVID deaths.\nWhen it is reported, we add inconclusive results to pending.\nPositive counts reflect individual who test positive, combining both PCR and antibody.\nOn 4/22 Puerto Rico revised down its positive count from 1,298 to 915 to exclude double-counted cases.\nPuerto Rico reported negative testing numbers through April 23, after no updates we removed these from our data on May 6. Total test numbers were impacted by around 9,000.",
+    "notes": "Death counts include both confirmed and presumed COVID deaths.\nWhen it is reported, we add inconclusive results to pending.\nPositive counts reflect individual who test positive, combining both PCR and antibody.\nOn 4/22 Puerto Rico revised down its positive count from 1,298 to 915 to exclude double-counted cases.\nPuerto Rico reported negative testing numbers through April 23, after no updates we removed these from our data on May 6. Total test numbers were impacted by around 9,000.\nOn July 7, we added back negative testing numbers based on sporadic press reports in May and June.",
     "covid19Site": "https://estadisticas.pr/en/covid-19",
     "covid19SiteSecondary": "https://bioseguridad.maps.arcgis.com/apps/opsdashboard/index.html#/3bfb64c9a91944bc8c41edd8ff27e6df",
     "covid19SiteTertiary": "",
@@ -560,9 +560,9 @@
   },
   {
     "state": "RI",
-    "notes": "Recovered numbers are from hospital discharges.",
+    "notes": "Recovered numbers are from hospital discharges. On 7/8 RI started reporting test numbers in people in addition to specimens. We backfilled the data from their CSV. Since people is the default reporting metric in CTP for tests, this represents a drop in tests from previous reporting of approximately 50k tests. The number of PCR tests, positives, and negatives is available in our API.",
     "covid19Site": "https://health.ri.gov/data/covid-19/",
-    "covid19SiteSecondary": "",
+    "covid19SiteSecondary": "https://docs.google.com/spreadsheets/d/1c2QrNMz8pIbYEKzMJL7Uh2dtThOJa2j1sSMwiDo5Gz4/edit#gid=264100583",
     "covid19SiteTertiary": "",
     "twitter": "@rihealth",
     "covid19SiteOld": "https://health.ri.gov/diseases/respiratory/?parm=163",
@@ -690,10 +690,10 @@
   },
   {
     "state": "WI",
-    "notes": "Negatives include only Wisconsin residents whose negative test results were reported electronically to DHS. This underestimates total negative test results. \nDeaths must be reported by health providers or coroners, and recorded by local health departments, to be counted. As of April 27, Wisconsin is reporting people tested. \nOn March 30, WI revised down negatives from 16550 to 15856.\nOn June 25th, Wisconsin reported probable cases for the first time, including a large number of cases from earlier in the pandemic. Initially this manifested as a large single day jump in cases, but in the late evening we updated our historical case numbers to include these on the appropriate days based on historical data provided to us by the state.",
+    "notes": "Negatives include only Wisconsin residents whose negative test results were reported electronically to DHS. This underestimates total negative test results. \nDeaths must be reported by health providers or coroners, and recorded by local health departments, to be counted. As of April 27, Wisconsin is reporting people tested. \nOn March 30, WI revised down negatives from 16550 to 15856.\nOn June 25th, Wisconsin reported probable cases for the first time, including a large number of cases from earlier in the pandemic. Initially this manifested as a large single day jump in cases, but in the late evening we updated our historical case numbers to include these on the appropriate days based on historical data provided to us by the state. In early June, Wisconsin started breaking out its probable deaths. On 6/29, we caught these figures, and only have data for them past that date.",
     "covid19Site": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
-    "covid19SiteSecondary": "",
-    "covid19SiteTertiary": "",
+    "covid19SiteSecondary": "https://www.dhs.wisconsin.gov/covid-19/data.htm",
+    "covid19SiteTertiary": "https://www.dhs.wisconsin.gov/covid-19/hosp-data.htm",
     "twitter": "@DHSWI",
     "covid19SiteOld": "https://www.dhs.wisconsin.gov/disease/covid-19.htm",
     "name": "Wisconsin",
@@ -703,7 +703,7 @@
   },
   {
     "state": "WV",
-    "notes": "Negatives = Totals - Positives. As of April 16, WV reports hospitalization + ICU + ventilator counts from 49 of 55 counties. Before April 16, those counts were unreliable -- based on reported percentages of completed investigations, an unpublished number.\nAs of May 23, West Virginia is separating out PCR and antibody tests; we report the number of PCR tests. Total tests might be impacted. ",
+    "notes": "Negatives = Totals - Positives. As of April 16, WV reports hospitalization + ICU + ventilator counts from 49 of 55 counties. Before April 16, those counts were unreliable -- based on reported percentages of completed investigations, an unpublished number.\nAs of May 23, West Virginia is separating out PCR and antibody tests; we report the number of PCR tests. Total tests might be impacted. \nAs of July 4, WV makes changes to its previous data for antibody testing, so its historical time series might not match ours until we backfill our data to match theirs.",
     "covid19Site": "https://dhhr.wv.gov/Coronavirus%20Disease-COVID-19/Pages/default.aspx",
     "covid19SiteSecondary": "https://app.powerbigov.us/view?r=eyJrIjoiYmIyYTE0YWYtZDMyOS00YjAzLTgxZTItZDIyMmNlYTZmMWVkIiwidCI6IjhhMjZjZjAyLTQzNGEtNDMxZS04Y2FkLTdlYWVmOTdlZjQ4NCJ9&pageName=ReportSection3aff85597cada99d298f&pageName=ReportSection9f5bc3be6e9ebda92968",
     "covid19SiteTertiary": "https://app.powerbigov.us/view?r=eyJrIjoiYmIyYTE0YWYtZDMyOS00YjAzLTgxZTItZDIyMmNlYTZmMWVkIiwidCI6IjhhMjZjZjAyLTQzNGEtNDMxZS04Y2FkLTdlYWVmOTdlZjQ4NCJ9&pageName=ReportSection4bb4fbc7d2bc2ad57511",
