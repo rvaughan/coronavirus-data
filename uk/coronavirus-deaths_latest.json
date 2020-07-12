@@ -1,9 +1,37 @@
 {
   "metadata": {
-    "lastUpdatedAt": "2020-07-11T17:20:20.938429Z",
-    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 11 July 2020. Daily and total deaths are as of 10 July 2020."
+    "lastUpdatedAt": "2020-07-12T15:04:23.847464Z",
+    "disclaimer": "Deaths and lab-confirmed case counts and rates for England and subnational areas are provided by Public Health England. All data for the rest of the UK are provided by the devolved administrations. Maps include Ordnance Survey data © Crown copyright and database right 2020 and Office for National Statistics data © Crown copyright and database right 2020. Daily and total case counts are as of 12 July 2020. Daily and total deaths are as of 11 July 2020. Northern Ireland do not report Covid-19 data at weekends. Daily figures for tests and positive cases are therefore GB only. Historical Northern Ireland data are included in the UK cumulative totals. Any cases or deaths in Northern Ireland over the weekend will be included in the cumulative totals on Monday.\n"
   },
   "countries": [
+    {
+      "areaCode": "W92000004",
+      "areaName": "Wales",
+      "reportingDate": "2020-07-12",
+      "dailyChangeInDeaths": 0,
+      "cumulativeDeaths": 1541
+    },
+    {
+      "areaCode": "S92000003",
+      "areaName": "Scotland",
+      "reportingDate": "2020-07-12",
+      "dailyChangeInDeaths": 0,
+      "cumulativeDeaths": 2490
+    },
+    {
+      "areaCode": "N92000002",
+      "areaName": "Northern Ireland",
+      "reportingDate": "2020-07-12",
+      "dailyChangeInDeaths": -10,
+      "cumulativeDeaths": 544
+    },
+    {
+      "areaCode": "E92000001",
+      "areaName": "England",
+      "reportingDate": "2020-07-12",
+      "dailyChangeInDeaths": 21,
+      "cumulativeDeaths": 40234
+    },
     {
       "areaCode": "W92000004",
       "areaName": "Wales",
@@ -3352,6 +3380,13 @@
     }
   ],
   "overview": [
+    {
+      "areaCode": "K02000001",
+      "areaName": "United Kingdom",
+      "reportingDate": "2020-07-12",
+      "dailyChangeInDeaths": 21,
+      "cumulativeDeaths": 44819
+    },
     {
       "areaCode": "K02000001",
       "areaName": "United Kingdom",
