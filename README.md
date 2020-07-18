@@ -63,7 +63,7 @@ The UK data is pulled twice an hour from the following sources:
   * [Scottish Data](https://www.nrscotland.gov.uk/covid19stats)
   * [Wales Data](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary)
   * [UK R Number](https://www.gov.uk/government/news/government-publishes-latest-r-number)
-  * [SAGE Guidance](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response)
+  * [SAGE Guidance](https://www.gov.uk/government/collections/scientific-evidence-supporting-the-government-response-to-coronavirus-covid-19)
   * [Independant SAGE Guidance](https://www.independentsage.org/)
   * [PHE National COVID-19 surveillance reports](https://www.gov.uk/government/publications/national-covid-19-surveillance-reports)
   * [Scottish Coronavirus (COVID-19): trends in daily data](https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/)
