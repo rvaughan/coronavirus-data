@@ -1,0 +1,334 @@
+{
+  "headlineNumbers": [
+    {
+      "caption": "Patients admitted",
+      "valueItems": [
+        {
+          "label": "Daily",
+          "value": "newAdmissions",
+          "tooltip": "Daily number of COVID-19 patients admitted to hospital, reported on {date}"
+        },
+        {
+          "label": "Total",
+          "value": "cumAdmissions",
+          "tooltip": "Cumulative total number of COVID-19 patients admitted to hospital, reported on {date}"
+        }
+      ]
+    },
+    {
+      "caption": "Patients in hospital",
+      "valueItems": [
+        {
+          "value": "hospitalCases",
+          "tooltip": "Number of COVID-19 patients currently in hospital, reported on {date}"
+        }
+      ]
+    },
+    {
+      "caption": "Patients on ventilation",
+      "valueItems": [
+        {
+          "value": "covidOccupiedMVBeds",
+          "tooltip": "Number of COVID-19 patients currently in mechanical ventilation beds, reported on {date}"
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "heading": "Patients admitted to hospital",
+      "cardType": "chart",
+      "fullWidth": true,
+      "download": [
+        "newAdmissions",
+        "cumAdmissions"
+      ],
+      "tabs": [
+        {
+          "heading": "Daily",
+          "tabType": "chart",
+          "barType": "normal",
+          "fields": [
+            {
+              "label": "Admissions",
+              "value": "newAdmissions",
+              "tooltip": "Daily number of COVID-19 patients admitted to hospital",
+              "type": "bar",
+              "colour": 0,
+              "rollingAverage": false
+            },
+            {
+              "label": "Admissions (7-day average)",
+              "value": "newAdmissions",
+              "tooltip": "7 day rolling average of the daily number of admissions",
+              "type": "line",
+              "colour": 3,
+              "fill": false,
+              "rollingAverage": {
+                "window": 7,
+                "clipEnd": 0
+              }
+            }
+          ]
+        },
+        {
+          "heading": "Cumulative",
+          "tabType": "chart",
+          "fields": [
+            {
+              "label": "Admissions",
+              "value": "cumAdmissions",
+              "tooltip": "Cumulative total number of COVID-19 patients admitted to hospital",
+              "type": "line",
+              "colour": 0,
+              "fill": true,
+              "rollingAverage": false
+            }
+          ]
+        },
+        {
+          "heading": "Data",
+          "tabType": "table",
+          "fields": [
+            {
+              "label": "Date reported",
+              "value": "date",
+              "type": "date",
+              "tooltip": "Date reported by healthcare providers"
+            },
+            {
+              "label": "Daily admissions",
+              "value": "newAdmissions",
+              "type": "numeric",
+              "tooltip": "Daily number of COVID-19 patients admitted to hospital"
+            },
+            {
+              "label": "Total admissions",
+              "value": "cumAdmissions",
+              "type": "numeric",
+              "tooltip": "Cumulative total number of COVID-19 patients admitted to hospital"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Patients admitted to hospital, by age",
+      "caption": "Counts",
+      "cardType": "ageSexBreakdown",
+      "fullWidth": false,
+      "download": [
+        "cumAdmissionsByAge",
+        "cumAdmissionsByAgeRate"
+      ],
+      "tabs": [
+        {
+          "heading": "Chart",
+          "tabType": "chart",
+          "barType": "group",
+          "groupKey": "age",
+          "groupValues": [
+            "value",
+            "rate"
+          ],
+          "requiredMetrics": [
+            "cumAdmissionsByAge"
+          ],
+          "fields": [
+            {
+              "label": "Admissions",
+              "value": "cumAdmissionsByAgeValue",
+              "tooltip": "Total number of COVID-19 patients admitted to hospital",
+              "type": "bar",
+              "colour": 0
+            }
+          ]
+        },
+        {
+          "heading": "Data",
+          "tabType": "table",
+          "groupKey": "age",
+          "groupValues": [
+            "value",
+            "rate"
+          ],
+          "requiredMetrics": [
+            "cumAdmissionsByAge"
+          ],
+          "fields": [
+            {
+              "label": "Age",
+              "value": "age",
+              "type": "string",
+              "tooltip": "Age group"
+            },
+            {
+              "label": "Admissions",
+              "value": "cumAdmissionsByAgeValue",
+              "type": "numeric",
+              "tooltip": "Total number of COVID-19 patients admitted to hospital"
+            },
+            {
+              "label": "Admission rate",
+              "value": "cumAdmissionsByAgeRate",
+              "type": "numeric",
+              "tooltip": "COVID-19 admissions per 100,000 resident population"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Admission rates by age",
+      "caption": "Rates per 100,000 resident population",
+      "cardType": "ageSexBreakdown",
+      "fullWidth": false,
+      "download": [
+        "cumAdmissionsByAge",
+        "cumAdmissionsByAgeRate"
+      ],
+      "tabs": [
+        {
+          "heading": "Chart",
+          "tabType": "chart",
+          "barType": "group",
+          "groupKey": "age",
+          "groupValues": [
+            "value",
+            "rate"
+          ],
+          "requiredMetrics": [
+            "cumAdmissionsByAge"
+          ],
+          "fields": [
+            {
+              "label": "Admission rate",
+              "value": "cumAdmissionsByAgeRate",
+              "tooltip": "COVID-19 admissions per 100,000 resident population",
+              "type": "bar",
+              "colour": 0
+            }
+          ]
+        },
+        {
+          "heading": "Data",
+          "tabType": "table",
+          "groupKey": "age",
+          "groupValues": [
+            "value",
+            "rate"
+          ],
+          "requiredMetrics": [
+            "cumAdmissionsByAge"
+          ],
+          "fields": [
+            {
+              "label": "Age",
+              "value": "age",
+              "type": "string",
+              "tooltip": "Age group"
+            },
+            {
+              "label": "Admissions",
+              "value": "cumAdmissionsByAgeValue",
+              "type": "numeric",
+              "tooltip": "Total number of COVID-19 patients admitted to hospital"
+            },
+            {
+              "label": "Admission rate",
+              "value": "cumAdmissionsByAgeRate",
+              "type": "numeric",
+              "tooltip": "COVID-19 admissions per 100,000 resident population"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Patients in hospital",
+      "cardType": "chart",
+      "fullWidth": true,
+      "download": [
+        "hospitalCases"
+      ],
+      "tabs": [
+        {
+          "heading": "Daily",
+          "tabType": "chart",
+          "fields": [
+            {
+              "label": "COVID-19 patients",
+              "value": "hospitalCases",
+              "tooltip": "Number of COVID-19 patients currently in hospital",
+              "type": "line",
+              "colour": 0,
+              "fill": true,
+              "rollingAverage": false
+            }
+          ]
+        },
+        {
+          "heading": "Data",
+          "tabType": "table",
+          "fields": [
+            {
+              "label": "Date reported",
+              "value": "date",
+              "type": "date",
+              "tooltip": "Date reported by healthcare providers"
+            },
+            {
+              "label": "COVID-19 patients",
+              "value": "hospitalCases",
+              "type": "numeric",
+              "tooltip": "Number of COVID-19 patients currently in hospital"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Patients in mechanical ventilation beds",
+      "cardType": "chart",
+      "fullWidth": true,
+      "download": [
+        "covidOccupiedMVBeds"
+      ],
+      "tabs": [
+        {
+          "heading": "Daily",
+          "tabType": "chart",
+          "barType": "stack",
+          "fields": [
+            {
+              "label": "COVID-19 patients",
+              "value": "covidOccupiedMVBeds",
+              "tooltip": "Number of COVID-19 patients currently in mechanical ventilation beds",
+              "type": "line",
+              "colour": 0,
+              "rollingAverage": false
+            }
+          ]
+        },
+        {
+          "heading": "Data",
+          "tabType": "table",
+          "fields": [
+            {
+              "label": "Date reported",
+              "value": "date",
+              "type": "date",
+              "tooltip": "Date reported by healthcare providers"
+            },
+            {
+              "label": "COVID-19 patients",
+              "value": "covidOccupiedMVBeds",
+              "type": "numeric",
+              "tooltip": "Daily number of COVID-19 patients in mechanical ventilation beds"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
