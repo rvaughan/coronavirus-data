@@ -40,6 +40,14 @@ jobs:
         (test -f coronavirus-cases_latest.json && jq . coronavirus-cases_latest.json > ../uk/coronavirus-cases_latest.json) || echo "No update for coronavirus-cases_latest.json, skipping."
         conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/json/coronavirus-deaths_latest.json
         (test -f coronavirus-deaths_latest.json && jq . coronavirus-deaths_latest.json > ../uk/coronavirus-deaths_latest.json) || echo "No update for coronavirus-deaths_latest.json, skipping."
+        conditional-get --etags ../etags.json -v https://c19pubstaging.azureedge.net/assets/cms/healthcare.json
+        (test -f healthcare.json && jq . healthcare.json > ../uk/healthcare.json) || echo "No update for healthcare.json, skipping."
+        conditional-get --etags ../etags.json -o new_admissions.json -v https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22newAdmissions%22:%22newAdmissions%22%7D
+        (test -f new_admissions.json && jq . new_admissions.json > ../uk/new_admissions.json) || echo "No update for new_admissions.json, skipping."
+        conditional-get --etags ../etags.json -o hospital_admissions.json -v https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22hospitalCases%22:%22hospitalCases%22%7D
+        (test -f hospital_admissions.json && jq . hospital_admissions.json > ../uk/hospital_admissions.json) || echo "No update for hospital_admissions.json, skipping."
+        conditional-get --etags ../etags.json -o occupied_beds.json -v https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22covidOccupiedMVBeds%22:%22covidOccupiedMVBeds%22%7D
+        (test -f occupied_beds.json && jq . occupied_beds.json > ../uk/occupied_beds.json) || echo "No update for occupied_beds.json, skipping."
         cd .. && rm -rf tmp_uk
         cd uk
         wget -O r_number.html https://www.gov.uk/government/news/government-publishes-latest-r-number
