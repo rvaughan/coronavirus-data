@@ -1,0 +1,462 @@
+{
+  "length": 114,
+  "maxPageLimit": 1000,
+  "data": [
+    {
+      "date": "2020-07-24",
+      "covidOccupiedMVBeds": 104
+    },
+    {
+      "date": "2020-07-23",
+      "covidOccupiedMVBeds": 111
+    },
+    {
+      "date": "2020-07-22",
+      "covidOccupiedMVBeds": 110
+    },
+    {
+      "date": "2020-07-21",
+      "covidOccupiedMVBeds": 137
+    },
+    {
+      "date": "2020-07-20",
+      "covidOccupiedMVBeds": 129
+    },
+    {
+      "date": "2020-07-19",
+      "covidOccupiedMVBeds": 130
+    },
+    {
+      "date": "2020-07-18",
+      "covidOccupiedMVBeds": 136
+    },
+    {
+      "date": "2020-07-17",
+      "covidOccupiedMVBeds": 143
+    },
+    {
+      "date": "2020-07-16",
+      "covidOccupiedMVBeds": 142
+    },
+    {
+      "date": "2020-07-15",
+      "covidOccupiedMVBeds": 153
+    },
+    {
+      "date": "2020-07-14",
+      "covidOccupiedMVBeds": 145
+    },
+    {
+      "date": "2020-07-13",
+      "covidOccupiedMVBeds": 162
+    },
+    {
+      "date": "2020-07-12",
+      "covidOccupiedMVBeds": 159
+    },
+    {
+      "date": "2020-07-11",
+      "covidOccupiedMVBeds": 168
+    },
+    {
+      "date": "2020-07-10",
+      "covidOccupiedMVBeds": 191
+    },
+    {
+      "date": "2020-07-09",
+      "covidOccupiedMVBeds": 188
+    },
+    {
+      "date": "2020-07-08",
+      "covidOccupiedMVBeds": 185
+    },
+    {
+      "date": "2020-07-07",
+      "covidOccupiedMVBeds": 197
+    },
+    {
+      "date": "2020-07-06",
+      "covidOccupiedMVBeds": 209
+    },
+    {
+      "date": "2020-07-05",
+      "covidOccupiedMVBeds": 217
+    },
+    {
+      "date": "2020-07-04",
+      "covidOccupiedMVBeds": 220
+    },
+    {
+      "date": "2020-07-03",
+      "covidOccupiedMVBeds": 231
+    },
+    {
+      "date": "2020-07-02",
+      "covidOccupiedMVBeds": 239
+    },
+    {
+      "date": "2020-07-01",
+      "covidOccupiedMVBeds": 259
+    },
+    {
+      "date": "2020-06-30",
+      "covidOccupiedMVBeds": 279
+    },
+    {
+      "date": "2020-06-29",
+      "covidOccupiedMVBeds": 262
+    },
+    {
+      "date": "2020-06-28",
+      "covidOccupiedMVBeds": 270
+    },
+    {
+      "date": "2020-06-27",
+      "covidOccupiedMVBeds": 270
+    },
+    {
+      "date": "2020-06-26",
+      "covidOccupiedMVBeds": 268
+    },
+    {
+      "date": "2020-06-25",
+      "covidOccupiedMVBeds": 276
+    },
+    {
+      "date": "2020-06-24",
+      "covidOccupiedMVBeds": 316
+    },
+    {
+      "date": "2020-06-23",
+      "covidOccupiedMVBeds": 311
+    },
+    {
+      "date": "2020-06-22",
+      "covidOccupiedMVBeds": 340
+    },
+    {
+      "date": "2020-06-21",
+      "covidOccupiedMVBeds": 310
+    },
+    {
+      "date": "2020-06-20",
+      "covidOccupiedMVBeds": 315
+    },
+    {
+      "date": "2020-06-19",
+      "covidOccupiedMVBeds": 330
+    },
+    {
+      "date": "2020-06-18",
+      "covidOccupiedMVBeds": 352
+    },
+    {
+      "date": "2020-06-17",
+      "covidOccupiedMVBeds": 357
+    },
+    {
+      "date": "2020-06-16",
+      "covidOccupiedMVBeds": 378
+    },
+    {
+      "date": "2020-06-15",
+      "covidOccupiedMVBeds": 385
+    },
+    {
+      "date": "2020-06-14",
+      "covidOccupiedMVBeds": 393
+    },
+    {
+      "date": "2020-06-13",
+      "covidOccupiedMVBeds": 390
+    },
+    {
+      "date": "2020-06-12",
+      "covidOccupiedMVBeds": 393
+    },
+    {
+      "date": "2020-06-11",
+      "covidOccupiedMVBeds": 390
+    },
+    {
+      "date": "2020-06-10",
+      "covidOccupiedMVBeds": 439
+    },
+    {
+      "date": "2020-06-09",
+      "covidOccupiedMVBeds": 491
+    },
+    {
+      "date": "2020-06-08",
+      "covidOccupiedMVBeds": 509
+    },
+    {
+      "date": "2020-06-07",
+      "covidOccupiedMVBeds": 515
+    },
+    {
+      "date": "2020-06-06",
+      "covidOccupiedMVBeds": 540
+    },
+    {
+      "date": "2020-06-05",
+      "covidOccupiedMVBeds": 554
+    },
+    {
+      "date": "2020-06-04",
+      "covidOccupiedMVBeds": 571
+    },
+    {
+      "date": "2020-06-03",
+      "covidOccupiedMVBeds": 602
+    },
+    {
+      "date": "2020-06-02",
+      "covidOccupiedMVBeds": 636
+    },
+    {
+      "date": "2020-06-01",
+      "covidOccupiedMVBeds": 652
+    },
+    {
+      "date": "2020-05-31",
+      "covidOccupiedMVBeds": 679
+    },
+    {
+      "date": "2020-05-30",
+      "covidOccupiedMVBeds": 704
+    },
+    {
+      "date": "2020-05-29",
+      "covidOccupiedMVBeds": 719
+    },
+    {
+      "date": "2020-05-28",
+      "covidOccupiedMVBeds": 751
+    },
+    {
+      "date": "2020-05-27",
+      "covidOccupiedMVBeds": 783
+    },
+    {
+      "date": "2020-05-26",
+      "covidOccupiedMVBeds": 847
+    },
+    {
+      "date": "2020-05-25",
+      "covidOccupiedMVBeds": 863
+    },
+    {
+      "date": "2020-05-24",
+      "covidOccupiedMVBeds": 886
+    },
+    {
+      "date": "2020-05-23",
+      "covidOccupiedMVBeds": 926
+    },
+    {
+      "date": "2020-05-22",
+      "covidOccupiedMVBeds": 964
+    },
+    {
+      "date": "2020-05-21",
+      "covidOccupiedMVBeds": 1008
+    },
+    {
+      "date": "2020-05-20",
+      "covidOccupiedMVBeds": 1034
+    },
+    {
+      "date": "2020-05-19",
+      "covidOccupiedMVBeds": 1106
+    },
+    {
+      "date": "2020-05-18",
+      "covidOccupiedMVBeds": 1141
+    },
+    {
+      "date": "2020-05-17",
+      "covidOccupiedMVBeds": 1196
+    },
+    {
+      "date": "2020-05-16",
+      "covidOccupiedMVBeds": 1234
+    },
+    {
+      "date": "2020-05-15",
+      "covidOccupiedMVBeds": 1302
+    },
+    {
+      "date": "2020-05-14",
+      "covidOccupiedMVBeds": 1314
+    },
+    {
+      "date": "2020-05-13",
+      "covidOccupiedMVBeds": 1342
+    },
+    {
+      "date": "2020-05-12",
+      "covidOccupiedMVBeds": 1414
+    },
+    {
+      "date": "2020-05-11",
+      "covidOccupiedMVBeds": 1485
+    },
+    {
+      "date": "2020-05-10",
+      "covidOccupiedMVBeds": 1538
+    },
+    {
+      "date": "2020-05-09",
+      "covidOccupiedMVBeds": 1585
+    },
+    {
+      "date": "2020-05-08",
+      "covidOccupiedMVBeds": 1641
+    },
+    {
+      "date": "2020-05-07",
+      "covidOccupiedMVBeds": 1685
+    },
+    {
+      "date": "2020-05-06",
+      "covidOccupiedMVBeds": 1802
+    },
+    {
+      "date": "2020-05-05",
+      "covidOccupiedMVBeds": 1874
+    },
+    {
+      "date": "2020-05-04",
+      "covidOccupiedMVBeds": 1936
+    },
+    {
+      "date": "2020-05-03",
+      "covidOccupiedMVBeds": 2009
+    },
+    {
+      "date": "2020-05-02",
+      "covidOccupiedMVBeds": 2068
+    },
+    {
+      "date": "2020-05-01",
+      "covidOccupiedMVBeds": 2178
+    },
+    {
+      "date": "2020-04-30",
+      "covidOccupiedMVBeds": 2224
+    },
+    {
+      "date": "2020-04-29",
+      "covidOccupiedMVBeds": 2286
+    },
+    {
+      "date": "2020-04-28",
+      "covidOccupiedMVBeds": 2347
+    },
+    {
+      "date": "2020-04-27",
+      "covidOccupiedMVBeds": 2454
+    },
+    {
+      "date": "2020-04-26",
+      "covidOccupiedMVBeds": 2580
+    },
+    {
+      "date": "2020-04-25",
+      "covidOccupiedMVBeds": 2702
+    },
+    {
+      "date": "2020-04-24",
+      "covidOccupiedMVBeds": 2703
+    },
+    {
+      "date": "2020-04-23",
+      "covidOccupiedMVBeds": 2867
+    },
+    {
+      "date": "2020-04-22",
+      "covidOccupiedMVBeds": 2964
+    },
+    {
+      "date": "2020-04-21",
+      "covidOccupiedMVBeds": 3036
+    },
+    {
+      "date": "2020-04-20",
+      "covidOccupiedMVBeds": 3130
+    },
+    {
+      "date": "2020-04-19",
+      "covidOccupiedMVBeds": 3176
+    },
+    {
+      "date": "2020-04-18",
+      "covidOccupiedMVBeds": 3247
+    },
+    {
+      "date": "2020-04-17",
+      "covidOccupiedMVBeds": 3162
+    },
+    {
+      "date": "2020-04-16",
+      "covidOccupiedMVBeds": 3222
+    },
+    {
+      "date": "2020-04-15",
+      "covidOccupiedMVBeds": 3228
+    },
+    {
+      "date": "2020-04-14",
+      "covidOccupiedMVBeds": 3234
+    },
+    {
+      "date": "2020-04-13",
+      "covidOccupiedMVBeds": 3277
+    },
+    {
+      "date": "2020-04-12",
+      "covidOccupiedMVBeds": 3301
+    },
+    {
+      "date": "2020-04-11",
+      "covidOccupiedMVBeds": 3274
+    },
+    {
+      "date": "2020-04-10",
+      "covidOccupiedMVBeds": 3228
+    },
+    {
+      "date": "2020-04-09",
+      "covidOccupiedMVBeds": 2963
+    },
+    {
+      "date": "2020-04-08",
+      "covidOccupiedMVBeds": 2967
+    },
+    {
+      "date": "2020-04-07",
+      "covidOccupiedMVBeds": 2864
+    },
+    {
+      "date": "2020-04-06",
+      "covidOccupiedMVBeds": 2644
+    },
+    {
+      "date": "2020-04-05",
+      "covidOccupiedMVBeds": 2469
+    },
+    {
+      "date": "2020-04-04",
+      "covidOccupiedMVBeds": 2309
+    },
+    {
+      "date": "2020-04-03",
+      "covidOccupiedMVBeds": 2120
+    },
+    {
+      "date": "2020-04-02",
+      "covidOccupiedMVBeds": 1813
+    }
+  ]
+}
