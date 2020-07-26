@@ -42,17 +42,17 @@ jobs:
         (test -f coronavirus-deaths_latest.json && jq . coronavirus-deaths_latest.json > ../uk/coronavirus-deaths_latest.json) || echo "No update for coronavirus-deaths_latest.json, skipping."
         conditional-get --etags ../etags.json -v https://c19pubstaging.azureedge.net/assets/cms/healthcare.json
         (test -f healthcare.json && jq . healthcare.json > ../uk/healthcare.json) || echo "No update for healthcare.json, skipping."
-        conditional-get --etags ../etags.json -o new_admissions.json -v https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22newAdmissions%22:%22newAdmissions%22%7D
+        wget -O new_admissions.json https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22newAdmissions%22:%22newAdmissions%22%7D
         (test -f new_admissions.json && jq . new_admissions.json > ../uk/new_admissions.json) || echo "No update for new_admissions.json, skipping."
-        conditional-get --etags ../etags.json -o hospital_admissions.json -v https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22hospitalCases%22:%22hospitalCases%22%7D
+        wget -O hospital_admissions.json https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22hospitalCases%22:%22hospitalCases%22%7D
         (test -f hospital_admissions.json && jq . hospital_admissions.json > ../uk/hospital_admissions.json) || echo "No update for hospital_admissions.json, skipping."
-        conditional-get --etags ../etags.json -o occupied_beds.json -v https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22covidOccupiedMVBeds%22:%22covidOccupiedMVBeds%22%7D
+        wget -O occupied_beds.json https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22covidOccupiedMVBeds%22:%22covidOccupiedMVBeds%22%7D
         (test -f occupied_beds.json && jq . occupied_beds.json > ../uk/occupied_beds.json) || echo "No update for occupied_beds.json, skipping."
         cd .. && rm -rf tmp_uk
         cd uk
         wget -O r_number.html https://www.gov.uk/government/news/government-publishes-latest-r-number
         mkdir -p wales && cd wales
-        conditional-get --etags ../../etags.json -v http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx
+        wget -O Rapid_COVID-19_surveillance_data.xlsx http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx
         cd ..
         mkdir -p scotland && cd scotland
         # wget -O week_14.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-14.zip
@@ -62,12 +62,12 @@ jobs:
         # wget -O week_18.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-18.zip
         # wget -O week_19.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-19.zip
         # wget -O week_20.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-20.zip
-        wget -O week_21.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-21.zip
-        wget -O week_22.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-22.zip
-        wget -O week_23.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-23.zip
-        wget -O week_24.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-24.zip
-        wget -O week_25.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-25.zip
-        wget -O week_26.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-26.zip
+        # wget -O week_21.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-21.zip
+        # wget -O week_22.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-22.zip
+        # wget -O week_23.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-23.zip
+        # wget -O week_24.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-24.zip
+        # wget -O week_25.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-25.zip
+        # wget -O week_26.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-26.zip
         wget -O week_27.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-27.zip
         cd ..
         mkdir -p northern_ireland && cd northern_ireland
