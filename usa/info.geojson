@@ -235,7 +235,7 @@
   },
   {
     "state": "KS",
-    "notes": "On April 23rd, Kansas reported 112 deaths.  On April 24th, they revised this down to 111 deaths.\nAs of May 7, 2020, confirmed and probable cases are included in the case totals.\nFrom July 1-3 we reported incorrect numbers for KS Positive Cases (PCR). We have corrected the error.\nOn July 15 KS began reporting additional data from hospitals. Cumulative on ventilator dropped by 1 with no explanation. Currently hospitalized with COVID-19 data dates from 7/10. ",
+    "notes": "On April 23rd, Kansas reported 112 deaths.  On April 24th, they revised this down to 111 deaths.\nAs of May 7, 2020, confirmed and probable cases are included in the case totals.\nFrom July 1-3 we reported incorrect numbers for KS Positive Cases (PCR). We have corrected the error.\nOn July 15 KS began reporting additional data from hospitals. Cumulative on ventilator dropped by 1 with no explanation. Currently hospitalized with COVID-19 data dates from 7/10. \nOn July 27th, Kansas reported a lower number of negative tests, the count went down from 252,858 to 252,764",
     "covid19Site": "https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas",
     "covid19SiteSecondary": "http://www.kdheks.gov/coronavirus/",
     "covid19SiteTertiary": "https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas",
@@ -573,7 +573,7 @@
   },
   {
     "state": "SC",
-    "notes": "As of May 22, South Carolina is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested. As of June 11, South Carolina is separating out PCR and antibody tests; we report the number of PCR tests. Total test numbers were impacted by around 22,000. On July 27th, the SC DHEC announced that it will not be reporting hospitalization-related data until its transition to new reporting systems is complete.",
+    "notes": "As of May 22, South Carolina is reporting specimens tested. Because some people may be tested more than once, this number is probably higher than the number of people tested. As of June 11, South Carolina is separating out PCR and antibody tests; we report the number of PCR tests. Total test numbers were impacted by around 22,000. On July 27, the SC DHEC announced that it will not be reporting hospitalization-related data until its transition to new reporting systems is complete.",
     "covid19Site": "https://scdhec.gov/health/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19",
     "covid19SiteSecondary": "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-demographic-data-covid-19",
     "covid19SiteTertiary": "https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19",
@@ -586,7 +586,7 @@
   },
   {
     "state": "SD",
-    "notes": null,
+    "notes": "On July 27, South Dakota reduced the count of negative tests from 98531 to 98383.",
     "covid19Site": "https://doh.sd.gov/news/Coronavirus.aspx",
     "covid19SiteSecondary": "",
     "covid19SiteTertiary": "",
@@ -612,7 +612,7 @@
   },
   {
     "state": "TX",
-    "notes": "As of May 16, Texas is reporting mostly specimens tested, except for the small number of tests performed by public labs, which are de-duplicated.\nAs of May 23, Texas is separating out PCR and antibody tests; we report the number of PCR tests. Total tests might be impacted. \nTX notes that \"The reported cases for June 16 include 2,622 new cases and 1,476 cases that were previously diagnosed among Texas Department of Criminal Justice inmates but that had not been reported by local health departments (887 from Anderson County and 589 from Brazoria County).\"\nOn July 22, we began reporting ICU hospitalizations for TX. We are currently looking through historical data to maintain an accurate time-series.\nOn July 23, Texas reported that there will be incomplete current hospitalization numbers due to its transition to the HHS reporting system. We are carrying over yesterday's data point to maintain a consistent time-series and will backfill with the updated numbers once available. On July 25, TX reported that 2092 probable cases had been removed from the statewide case totals by the Corpus Christi-Nueces County Public Health District. That removal meant that the number of total cases for TX appeared smaller than it was. The actual number of new cases in TX that day was 8112, not 6020. ",
+    "notes": "As of May 16, Texas is reporting mostly specimens tested, except for the small number of tests performed by public labs, which are de-duplicated.\nAs of May 23, Texas is separating out PCR and antibody tests; we report the number of PCR tests. Total tests might be impacted. \nTX notes that \"The reported cases for June 16 include 2,622 new cases and 1,476 cases that were previously diagnosed among Texas Department of Criminal Justice inmates but that had not been reported by local health departments (887 from Anderson County and 589 from Brazoria County).\"\nOn July 22, we began reporting ICU hospitalizations for TX. We are currently looking through historical data to maintain an accurate time-series.\nOn July 23, Texas reported that there will be incomplete current hospitalization numbers due to its transition to the HHS reporting system. We are carrying over yesterday's data point to maintain a consistent time-series and will backfill with the updated numbers once available. On July 25, TX reported that 2092 probable cases had been removed from the statewide case totals by the Corpus Christi-Nueces County Public Health District. That removal meant that the number of total cases for TX appeared smaller than it was. The actual number of new cases in TX that day was 8112, not 6020. \nOn July 27, TX added 675 additional deaths through death certificate reviews. However only 44 deaths were truly new deaths on July 27th. This will inflate the daily increase in deaths until the timeseries has been backfilled based on this revision",
     "covid19Site": "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83",
     "covid19SiteSecondary": "https://dshs.texas.gov/news/updates.shtm#coronavirus",
     "covid19SiteTertiary": "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/0d8bdf9be927459d9cb11b9eaef6101f",
