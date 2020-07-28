@@ -1,7 +1,11 @@
 {
-  "length": 114,
+  "length": 111,
   "maxPageLimit": 1000,
   "data": [
+    {
+      "date": "2020-07-27",
+      "covidOccupiedMVBeds": 97
+    },
     {
       "date": "2020-07-24",
       "covidOccupiedMVBeds": 104
@@ -21,14 +25,6 @@
     {
       "date": "2020-07-20",
       "covidOccupiedMVBeds": 129
-    },
-    {
-      "date": "2020-07-19",
-      "covidOccupiedMVBeds": 130
-    },
-    {
-      "date": "2020-07-18",
-      "covidOccupiedMVBeds": 136
     },
     {
       "date": "2020-07-17",
@@ -77,14 +73,6 @@
     {
       "date": "2020-07-06",
       "covidOccupiedMVBeds": 209
-    },
-    {
-      "date": "2020-07-05",
-      "covidOccupiedMVBeds": 217
-    },
-    {
-      "date": "2020-07-04",
-      "covidOccupiedMVBeds": 220
     },
     {
       "date": "2020-07-03",

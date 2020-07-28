@@ -1,7 +1,19 @@
 {
-  "length": 119,
+  "length": 122,
   "maxPageLimit": 1000,
   "data": [
+    {
+      "date": "2020-07-26",
+      "hospitalCases": 1286
+    },
+    {
+      "date": "2020-07-25",
+      "hospitalCases": 1257
+    },
+    {
+      "date": "2020-07-24",
+      "hospitalCases": 1346
+    },
     {
       "date": "2020-07-23",
       "hospitalCases": 1445
@@ -32,23 +44,23 @@
     },
     {
       "date": "2020-07-16",
-      "hospitalCases": 1691
+      "hospitalCases": 1690
     },
     {
       "date": "2020-07-15",
-      "hospitalCases": 1835
+      "hospitalCases": 1834
     },
     {
       "date": "2020-07-14",
-      "hospitalCases": 1865
+      "hospitalCases": 1864
     },
     {
       "date": "2020-07-13",
-      "hospitalCases": 1960
+      "hospitalCases": 1959
     },
     {
       "date": "2020-07-12",
-      "hospitalCases": 1951
+      "hospitalCases": 1950
     },
     {
       "date": "2020-07-11",
