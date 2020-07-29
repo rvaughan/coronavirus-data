@@ -38,6 +38,18 @@
     {
       "heading": "Patients admitted to hospital",
       "cardType": "chart",
+      "locationAware": {
+        "included": {
+          "areaType": [],
+          "areaName": []
+        },
+        "excluded": {
+          "areaType": [
+            "overview"
+          ],
+          "areaName": []
+        }
+      },
       "fullWidth": true,
       "download": [
         "newAdmissions",
@@ -113,66 +125,103 @@
       ]
     },
     {
-      "heading": "Patients admitted to hospital, by age",
-      "caption": "Counts",
-      "cardType": "ageSexBreakdown",
-      "fullWidth": false,
+      "heading": "Patients admitted to hospital, by nation",
+      "cardType": "multiAreaStatic",
+      "locationAware": {
+        "included": {
+          "areaType": [
+            "overview"
+          ]
+        }
+      },
+      "fullWidth": true,
       "download": [
-        "cumAdmissionsByAge",
-        "cumAdmissionsByAgeRate"
+        "newAdmissions",
+        "cumAdmissions"
       ],
       "tabs": [
         {
-          "heading": "Chart",
+          "heading": "Daily",
           "tabType": "chart",
-          "barType": "group",
-          "groupKey": "age",
-          "groupValues": [
-            "value",
-            "rate"
+          "barType": "stack",
+          "colours": [
+            0,
+            9,
+            3,
+            10
           ],
-          "requiredMetrics": [
-            "cumAdmissionsByAge"
+          "params": [
+            {
+              "key": "areaType",
+              "sign": "=",
+              "value": "nation"
+            }
           ],
           "fields": [
             {
-              "label": "Admissions",
-              "value": "cumAdmissionsByAgeValue",
-              "tooltip": "Total number of COVID-19 patients admitted to hospital",
+              "label": "",
+              "value": "newAdmissions",
+              "tooltip": "Daily number of COVID-19 patients admitted to hospital",
               "type": "bar",
-              "colour": 0
+              "rollingAverage": false
+            }
+          ]
+        },
+        {
+          "heading": "Cumulative",
+          "tabType": "chart",
+          "barType": "stack",
+          "colours": [
+            0,
+            9,
+            3,
+            10
+          ],
+          "params": [
+            {
+              "key": "areaType",
+              "sign": "=",
+              "value": "nation"
+            }
+          ],
+          "fields": [
+            {
+              "label": "",
+              "value": "cumAdmissions",
+              "tooltip": "Cumulative total number of COVID-19 patients admitted to hospital",
+              "type": "bar",
+              "rollingAverage": false
             }
           ]
         },
         {
           "heading": "Data",
           "tabType": "table",
-          "groupKey": "age",
-          "groupValues": [
-            "value",
-            "rate"
-          ],
-          "requiredMetrics": [
-            "cumAdmissionsByAge"
+          "params": [
+            {
+              "key": "areaType",
+              "sign": "=",
+              "value": "nation"
+            }
           ],
           "fields": [
             {
-              "label": "Age",
-              "value": "age",
-              "type": "string",
-              "tooltip": "Age group"
+              "label": "Date reported",
+              "value": "date",
+              "type": "date",
+              "tooltip": "Date reported by healthcare providers"
             },
             {
-              "label": "Admissions",
-              "value": "cumAdmissionsByAgeValue",
+              "label": "daily",
+              "value": "newAdmissions",
               "type": "numeric",
-              "tooltip": "Total number of COVID-19 patients admitted to hospital"
+              "tooltip": "Daily number of COVID-19 patients admitted to hospital"
             },
             {
-              "label": "Admission rate",
-              "value": "cumAdmissionsByAgeRate",
+              "label": "total",
+              "value": "cumAdmissions",
               "type": "numeric",
-              "tooltip": "COVID-19 admissions per 100,000 resident population"
+              "tooltip": "Cumulative total number of COVID-19 patients admitted to hospital"
             }
           ]
         }
@@ -247,6 +296,13 @@
     {
       "heading": "Patients in hospital",
       "cardType": "chart",
+      "locationAware": {
+        "excluded": {
+          "areaType": [
+            "overview"
+          ]
+        }
+      },
       "fullWidth": true,
       "download": [
         "hospitalCases"
@@ -288,9 +344,157 @@
       ]
     },
     {
+      "heading": "Patients in hospital, by nation",
+      "cardType": "multiAreaStatic",
+      "locationAware": {
+        "included": {
+          "areaType": [
+            "overview"
+          ]
+        }
+      },
+      "fullWidth": true,
+      "download": [
+        "hospitalCases"
+      ],
+      "tabs": [
+        {
+          "heading": "Daily",
+          "tabType": "chart",
+          "barType": "stack",
+          "colours": [
+            0,
+            9,
+            3,
+            10
+          ],
+          "params": [
+            {
+              "key": "areaType",
+              "sign": "=",
+              "value": "nation"
+            }
+          ],
+          "fields": [
+            {
+              "label": "",
+              "value": "hospitalCases",
+              "tooltip": "Number of COVID-19 patients currently in hospital",
+              "type": "bar",
+              "rollingAverage": false
+            }
+          ]
+        },
+        {
+          "heading": "Data",
+          "tabType": "table",
+          "params": [
+            {
+              "key": "areaType",
+              "sign": "=",
+              "value": "nation"
+            }
+          ],
+          "fields": [
+            {
+              "label": "Date reported",
+              "value": "date",
+              "type": "date",
+              "tooltip": "Date reported by healthcare providers"
+            },
+            {
+              "label": "daily",
+              "value": "hospitalCases",
+              "type": "numeric",
+              "tooltip": "Number of COVID-19 patients currently in hospital"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Patients in hospital, by NHS Region",
+      "cardType": "multiAreaStatic",
+      "locationAware": {
+        "included": {
+          "areaName": [
+            "England"
+          ]
+        }
+      },
+      "fullWidth": true,
+      "download": [
+        "hospitalCases"
+      ],
+      "tabs": [
+        {
+          "heading": "Daily",
+          "tabType": "chart",
+          "barType": "stack",
+          "colours": [
+            0,
+            9,
+            3,
+            10,
+            6,
+            1,
+            4
+          ],
+          "params": [
+            {
+              "key": "areaType",
+              "sign": "=",
+              "value": "nhsRegion"
+            }
+          ],
+          "fields": [
+            {
+              "label": "",
+              "value": "hospitalCases",
+              "tooltip": "Number of COVID-19 patients currently in hospital",
+              "type": "bar",
+              "rollingAverage": false
+            }
+          ]
+        },
+        {
+          "heading": "Data",
+          "tabType": "table",
+          "params": [
+            {
+              "key": "areaType",
+              "sign": "=",
+              "value": "nhsRegion"
+            }
+          ],
+          "fields": [
+            {
+              "label": "Date reported",
+              "value": "date",
+              "type": "date",
+              "tooltip": "Date reported by healthcare providers"
+            },
+            {
+              "label": "daily",
+              "value": "hospitalCases",
+              "type": "numeric",
+              "tooltip": "Number of COVID-19 patients currently in hospital"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "heading": "Patients in mechanical ventilation beds",
       "cardType": "chart",
       "fullWidth": true,
+      "locationAware": {
+        "excluded": {
+          "areaType": [
+            "overview"
+          ]
+        }
+      },
       "download": [
         "covidOccupiedMVBeds"
       ],
@@ -325,6 +529,75 @@
               "value": "covidOccupiedMVBeds",
               "type": "numeric",
               "tooltip": "Daily number of COVID-19 patients in mechanical ventilation beds"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Patients in mechanical ventilation beds, by nation",
+      "cardType": "multiAreaStatic",
+      "fullWidth": true,
+      "locationAware": {
+        "included": {
+          "areaType": [
+            "overview"
+          ]
+        }
+      },
+      "download": [
+        "covidOccupiedMVBeds"
+      ],
+      "tabs": [
+        {
+          "heading": "Daily",
+          "tabType": "chart",
+          "barType": "stack",
+          "colours": [
+            0,
+            9,
+            3,
+            10
+          ],
+          "params": [
+            {
+              "key": "areaType",
+              "sign": "=",
+              "value": "nation"
+            }
+          ],
+          "fields": [
+            {
+              "label": "",
+              "value": "covidOccupiedMVBeds",
+              "tooltip": "Number of COVID-19 patients currently in mechanical ventilation beds",
+              "type": "bar",
+              "rollingAverage": false
+            }
+          ]
+        },
+        {
+          "heading": "Data",
+          "tabType": "table",
+          "params": [
+            {
+              "key": "areaType",
+              "sign": "=",
+              "value": "nation"
+            }
+          ],
+          "fields": [
+            {
+              "label": "Date reported",
+              "value": "date",
+              "type": "date",
+              "tooltip": "Date reported by healthcare providers"
+            },
+            {
+              "label": "daily",
+              "value": "covidOccupiedMVBeds",
+              "type": "numeric",
+              "tooltip": "Number of COVID-19 patients currently in mechanical ventilation beds"
             }
           ]
         }
