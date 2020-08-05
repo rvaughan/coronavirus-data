@@ -451,6 +451,9 @@
       },
       "fullWidth": true,
       "abstract": "Daily count of confirmed COVID-19 patients in hospital at midnight the preceding night. Data from the four nations may not be directly comparable as data about COVID-19 patients in hospitals are collected differently. Data are not reported by each nation every day. The UK figure is the sum of the four nations' figures and can only be calculated when all nations' data are available.\n",
+      "download": [
+        "hospitalCases"
+      ],
       "options": {
         "type": "radio",
         "heading": null,
@@ -460,9 +463,6 @@
         ]
       },
       "By nation": {
-        "download": [
-          "hospitalCases"
-        ],
         "tabs": [
           {
             "heading": "Daily",
@@ -731,6 +731,9 @@
         }
       },
       "abstract": "Confirmed COVID-19 patients in mechanical ventilation beds. Data from the four nations may not be directly comparable as data about COVID-19 patients in hospitals are collected differently. Data are not reported by each nation every day and England data are not available before 2 April. The UK figure is the sum of the four nations' figures and can only be calculated when all nations' data are available.\n",
+      "download": [
+        "covidOccupiedMVBeds"
+      ],
       "options": {
         "type": "radio",
         "heading": null,
@@ -740,9 +743,6 @@
         ]
       },
       "By nation": {
-        "download": [
-          "covidOccupiedMVBeds"
-        ],
         "tabs": [
           {
             "heading": "Daily",
