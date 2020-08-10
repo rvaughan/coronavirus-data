@@ -92,9 +92,8 @@
               "label": "Admissions",
               "value": "cumAdmissions",
               "tooltip": "Cumulative total number of COVID-19 patients admitted to hospital",
-              "type": "line",
+              "type": "bar",
               "colour": 0,
-              "fill": true,
               "rollingAverage": false
             }
           ]
