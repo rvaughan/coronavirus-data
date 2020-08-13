@@ -1,7 +1,35 @@
 {
-  "length": 129,
+  "length": 136,
   "maxPageLimit": 1000,
   "data": [
+    {
+      "date": "2020-08-05",
+      "newAdmissions": 129
+    },
+    {
+      "date": "2020-08-04",
+      "newAdmissions": 126
+    },
+    {
+      "date": "2020-08-03",
+      "newAdmissions": 89
+    },
+    {
+      "date": "2020-08-02",
+      "newAdmissions": 109
+    },
+    {
+      "date": "2020-08-01",
+      "newAdmissions": 133
+    },
+    {
+      "date": "2020-07-31",
+      "newAdmissions": 104
+    },
+    {
+      "date": "2020-07-30",
+      "newAdmissions": 109
+    },
     {
       "date": "2020-07-29",
       "newAdmissions": 142
@@ -12,7 +40,7 @@
     },
     {
       "date": "2020-07-27",
-      "newAdmissions": 114
+      "newAdmissions": 115
     },
     {
       "date": "2020-07-26",
@@ -32,7 +60,7 @@
     },
     {
       "date": "2020-07-22",
-      "newAdmissions": 183
+      "newAdmissions": 184
     },
     {
       "date": "2020-07-21",
@@ -288,7 +316,7 @@
     },
     {
       "date": "2020-05-19",
-      "newAdmissions": 858
+      "newAdmissions": 859
     },
     {
       "date": "2020-05-18",
@@ -324,7 +352,7 @@
     },
     {
       "date": "2020-05-10",
-      "newAdmissions": 1025
+      "newAdmissions": 1024
     },
     {
       "date": "2020-05-09",
@@ -348,11 +376,11 @@
     },
     {
       "date": "2020-05-04",
-      "newAdmissions": 1143
+      "newAdmissions": 1144
     },
     {
       "date": "2020-05-03",
-      "newAdmissions": 1206
+      "newAdmissions": 1205
     },
     {
       "date": "2020-05-02",
@@ -396,7 +424,7 @@
     },
     {
       "date": "2020-04-22",
-      "newAdmissions": 1504
+      "newAdmissions": 1503
     },
     {
       "date": "2020-04-21",
@@ -408,7 +436,7 @@
     },
     {
       "date": "2020-04-19",
-      "newAdmissions": 1704
+      "newAdmissions": 1703
     },
     {
       "date": "2020-04-18",
@@ -416,7 +444,7 @@
     },
     {
       "date": "2020-04-17",
-      "newAdmissions": 1702
+      "newAdmissions": 1701
     },
     {
       "date": "2020-04-16",
@@ -440,7 +468,7 @@
     },
     {
       "date": "2020-04-11",
-      "newAdmissions": 1996
+      "newAdmissions": 1995
     },
     {
       "date": "2020-04-10",
@@ -472,7 +500,7 @@
     },
     {
       "date": "2020-04-03",
-      "newAdmissions": 2959
+      "newAdmissions": 2958
     },
     {
       "date": "2020-04-02",
