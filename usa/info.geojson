@@ -27,7 +27,7 @@
   },
   {
     "state": "AR",
-    "notes": null,
+    "notes": "On Aug 15, due to deduplication and the removal of out-of-state cases, drops were noted in total cases, cumulative hospitalizations, and cumulative ICU admissions.",
     "covid19Site": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus",
     "covid19SiteSecondary": "https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/f533ac8a8b6040e5896b05b47b17a647",
     "covid19SiteTertiary": "",
