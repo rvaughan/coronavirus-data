@@ -127,7 +127,7 @@
     "total": 63735479,
     "totalTestResults": 63731305,
     "posNeg": 63731305,
-    "deathIncrease": 1503,
+    "deathIncrease": 1517,
     "hospitalizedIncrease": 3055,
     "negativeIncrease": 423013,
     "positiveIncrease": 56035,
@@ -148,7 +148,7 @@
     "onVentilatorCumulative": 1612,
     "recovered": 1714960,
     "dateChecked": "2020-08-11T00:00:00Z",
-    "death": 156273,
+    "death": 156259,
     "hospitalized": 337062,
     "lastModified": "2020-08-11T00:00:00Z",
     "total": 63256375,
@@ -159,7 +159,7 @@
     "negativeIncrease": 683489,
     "positiveIncrease": 55594,
     "totalTestResultsIncrease": 739083,
-    "hash": "4b53c5c61a1b558e1b41cc8e6327f7359c17b4b1"
+    "hash": "54f2ac34d19c2712302f0f2e7ce47be5399b1c64"
   },
   {
     "date": 20200810,
@@ -175,7 +175,7 @@
     "onVentilatorCumulative": 1592,
     "recovered": 1670755,
     "dateChecked": "2020-08-10T00:00:00Z",
-    "death": 154947,
+    "death": 154933,
     "hospitalized": 334347,
     "lastModified": "2020-08-10T00:00:00Z",
     "total": 62517140,
@@ -186,7 +186,7 @@
     "negativeIncrease": 674422,
     "positiveIncrease": 41807,
     "totalTestResultsIncrease": 716229,
-    "hash": "80e59c48dcdce8c0fa8760d93a4d1bf0c1a58c35"
+    "hash": "13377e6d2d1e6a6c01b98cc1837a5cfe889e074d"
   },
   {
     "date": 20200809,
@@ -202,7 +202,7 @@
     "onVentilatorCumulative": 1578,
     "recovered": 1656888,
     "dateChecked": "2020-08-09T00:00:00Z",
-    "death": 154521,
+    "death": 154507,
     "hospitalized": 332693,
     "lastModified": "2020-08-09T00:00:00Z",
     "total": 61800816,
@@ -213,7 +213,7 @@
     "negativeIncrease": 661522,
     "positiveIncrease": 51319,
     "totalTestResultsIncrease": 712841,
-    "hash": "83d72910d9f712693eee3f8ca13182a53c81547a"
+    "hash": "cbf8f937232e060a03bb8192316e8ec0fc501982"
   },
   {
     "date": 20200808,
@@ -229,7 +229,7 @@
     "onVentilatorCumulative": 1561,
     "recovered": 1643142,
     "dateChecked": "2020-08-08T00:00:00Z",
-    "death": 153905,
+    "death": 153891,
     "hospitalized": 331855,
     "lastModified": "2020-08-08T00:00:00Z",
     "total": 61087992,
@@ -240,7 +240,7 @@
     "negativeIncrease": 614455,
     "positiveIncrease": 54091,
     "totalTestResultsIncrease": 668546,
-    "hash": "b538b3af9fdc175ec448e61facfd4b323fa32452"
+    "hash": "3a5effe3dd2ff57571b846932c9733493541aeff"
   },
   {
     "date": 20200807,
@@ -256,7 +256,7 @@
     "onVentilatorCumulative": 1549,
     "recovered": 1623870,
     "dateChecked": "2020-08-07T00:00:00Z",
-    "death": 152816,
+    "death": 152802,
     "hospitalized": 330424,
     "lastModified": "2020-08-07T00:00:00Z",
     "total": 60419546,
@@ -267,7 +267,7 @@
     "negativeIncrease": 701363,
     "positiveIncrease": 61520,
     "totalTestResultsIncrease": 762883,
-    "hash": "5993b88a31d3b6f804a4bde28c014e3b77a9f592"
+    "hash": "af93fb18d4ab94b8f4f1353444143ef5d47deed8"
   },
   {
     "date": 20200806,
@@ -283,7 +283,7 @@
     "onVentilatorCumulative": 1534,
     "recovered": 1598624,
     "dateChecked": "2020-08-06T00:00:00Z",
-    "death": 151483,
+    "death": 151469,
     "hospitalized": 322388,
     "lastModified": "2020-08-06T00:00:00Z",
     "total": 59656578,
@@ -294,7 +294,7 @@
     "negativeIncrease": 677516,
     "positiveIncrease": 54184,
     "totalTestResultsIncrease": 731700,
-    "hash": "c85e8de66179ee297a8cb5f4f04e8eb62834a3ea"
+    "hash": "37012a70bfae1afd6412649ba442bd58fc4434ab"
   },
   {
     "date": 20200805,
@@ -310,7 +310,7 @@
     "onVentilatorCumulative": 1524,
     "recovered": 1577851,
     "dateChecked": "2020-08-05T00:00:00Z",
-    "death": 150232,
+    "death": 150218,
     "hospitalized": 319706,
     "lastModified": "2020-08-05T00:00:00Z",
     "total": 58924817,
@@ -321,7 +321,7 @@
     "negativeIncrease": 629272,
     "positiveIncrease": 52265,
     "totalTestResultsIncrease": 681537,
-    "hash": "10305450170926990fe4d7cbeffad5c36420eda4"
+    "hash": "f0c03abb0aa15453fb834547b10efb27652259b3"
   },
   {
     "date": 20200804,
@@ -337,7 +337,7 @@
     "onVentilatorCumulative": 1493,
     "recovered": 1528979,
     "dateChecked": "2020-08-04T00:00:00Z",
-    "death": 148886,
+    "death": 148872,
     "hospitalized": 317437,
     "lastModified": "2020-08-04T00:00:00Z",
     "total": 58243227,
@@ -348,7 +348,7 @@
     "negativeIncrease": 644018,
     "positiveIncrease": 51568,
     "totalTestResultsIncrease": 695586,
-    "hash": "33889ba0e895114ad0ea3f8685b4f74f4e958f65"
+    "hash": "344ef462193dc0f7a7380e33f7e2b0cb158a1e3e"
   },
   {
     "date": 20200803,
@@ -364,7 +364,7 @@
     "onVentilatorCumulative": 1463,
     "recovered": 1513446,
     "dateChecked": "2020-08-03T00:00:00Z",
-    "death": 147631,
+    "death": 147617,
     "hospitalized": 312947,
     "lastModified": "2020-08-03T00:00:00Z",
     "total": 57547514,
@@ -375,7 +375,7 @@
     "negativeIncrease": 682129,
     "positiveIncrease": 49561,
     "totalTestResultsIncrease": 731690,
-    "hash": "f86664384d43ebc30678434057b80ca948f96b85"
+    "hash": "dbffb74d2f40b21292565f5b0c7ef8c9a330f624"
   },
   {
     "date": 20200802,
@@ -391,7 +391,7 @@
     "onVentilatorCumulative": 1448,
     "recovered": 1468689,
     "dateChecked": "2020-08-02T00:00:00Z",
-    "death": 147112,
+    "death": 147098,
     "hospitalized": 311223,
     "lastModified": "2020-08-02T00:00:00Z",
     "total": 56816050,
@@ -402,7 +402,7 @@
     "negativeIncrease": 664903,
     "positiveIncrease": 48266,
     "totalTestResultsIncrease": 713169,
-    "hash": "983c480d5f22ec091a167af917fde77b975cab7c"
+    "hash": "3834d17d10924ac5739bbdbb94f04145c58eeb8a"
   },
   {
     "date": 20200801,
@@ -418,7 +418,7 @@
     "onVentilatorCumulative": 1445,
     "recovered": 1461885,
     "dateChecked": "2020-08-01T00:00:00Z",
-    "death": 146614,
+    "death": 146600,
     "hospitalized": 310406,
     "lastModified": "2020-08-01T00:00:00Z",
     "total": 56102968,
@@ -429,7 +429,7 @@
     "negativeIncrease": 665318,
     "positiveIncrease": 60692,
     "totalTestResultsIncrease": 726010,
-    "hash": "f661069b4ad97f9352fc7859db516ad992159d6a"
+    "hash": "4b6ef3b2c118958642b4dd3cf6841b991b097645"
   },
   {
     "date": 20200731,
@@ -445,7 +445,7 @@
     "onVentilatorCumulative": 1437,
     "recovered": 1438160,
     "dateChecked": "2020-07-31T00:00:00Z",
-    "death": 145425,
+    "death": 145411,
     "hospitalized": 308088,
     "lastModified": "2020-07-31T00:00:00Z",
     "total": 55376939,
@@ -456,7 +456,7 @@
     "negativeIncrease": 658227,
     "positiveIncrease": 67755,
     "totalTestResultsIncrease": 725982,
-    "hash": "36ef61cf78444c30e46521e463e58f7455246121"
+    "hash": "53c1a534fb6e694173c3a72575761e7530c30fcc"
   },
   {
     "date": 20200730,
@@ -472,7 +472,7 @@
     "onVentilatorCumulative": 1415,
     "recovered": 1413957,
     "dateChecked": "2020-07-30T00:00:00Z",
-    "death": 144114,
+    "death": 144100,
     "hospitalized": 305461,
     "lastModified": "2020-07-30T00:00:00Z",
     "total": 54650948,
@@ -483,7 +483,7 @@
     "negativeIncrease": 736388,
     "positiveIncrease": 69466,
     "totalTestResultsIncrease": 805854,
-    "hash": "7be08ec9befba2afef926c3c2d79da3e1fe5022a"
+    "hash": "4742894ff8e11af897d1f9f6be23a7ebfb89dfd9"
   },
   {
     "date": 20200729,
@@ -499,7 +499,7 @@
     "onVentilatorCumulative": 1400,
     "recovered": 1390568,
     "dateChecked": "2020-07-29T00:00:00Z",
-    "death": 142855,
+    "death": 142841,
     "hospitalized": 302078,
     "lastModified": "2020-07-29T00:00:00Z",
     "total": 53844987,
@@ -510,7 +510,7 @@
     "negativeIncrease": 786357,
     "positiveIncrease": 66969,
     "totalTestResultsIncrease": 853326,
-    "hash": "b6ad4d2f6ad3febfe0c519e1574d4109083ae818"
+    "hash": "12e062db06995b69f900cbeb776d21407c6a3314"
   },
   {
     "date": 20200728,
@@ -526,7 +526,7 @@
     "onVentilatorCumulative": 1372,
     "recovered": 1355363,
     "dateChecked": "2020-07-28T00:00:00Z",
-    "death": 141363,
+    "death": 141349,
     "hospitalized": 299144,
     "lastModified": "2020-07-28T00:00:00Z",
     "total": 52991421,
@@ -537,7 +537,7 @@
     "negativeIncrease": 679258,
     "positiveIncrease": 56229,
     "totalTestResultsIncrease": 735487,
-    "hash": "9ef751b1dd540719796b4e76bbfdc5e4e0a1caa3"
+    "hash": "6f3b0b70eee61abfc1492c8abc3dba6b7acd97e6"
   },
   {
     "date": 20200727,
@@ -553,7 +553,7 @@
     "onVentilatorCumulative": 1356,
     "recovered": 1325804,
     "dateChecked": "2020-07-27T00:00:00Z",
-    "death": 140242,
+    "death": 140228,
     "hospitalized": 294472,
     "lastModified": "2020-07-27T00:00:00Z",
     "total": 52255732,
@@ -564,7 +564,7 @@
     "negativeIncrease": 705706,
     "positiveIncrease": 55134,
     "totalTestResultsIncrease": 760840,
-    "hash": "ccae35651e71fcf1185115dbea847cfea2b3cb10"
+    "hash": "5d9669a144e544215dc77120d74b21423b8ca8d8"
   },
   {
     "date": 20200726,
@@ -580,7 +580,7 @@
     "onVentilatorCumulative": 1336,
     "recovered": 1297863,
     "dateChecked": "2020-07-26T00:00:00Z",
-    "death": 139183,
+    "death": 139169,
     "hospitalized": 292782,
     "lastModified": "2020-07-26T00:00:00Z",
     "total": 51494855,
@@ -591,7 +591,7 @@
     "negativeIncrease": 794098,
     "positiveIncrease": 61713,
     "totalTestResultsIncrease": 855811,
-    "hash": "5592ba4aad7584f37b65f738979cafd7eb6526f3"
+    "hash": "5514f2e156a370a91cc741fe529da36beb56f838"
   },
   {
     "date": 20200725,
@@ -607,7 +607,7 @@
     "onVentilatorCumulative": 1300,
     "recovered": 1279414,
     "dateChecked": "2020-07-25T00:00:00Z",
-    "death": 138625,
+    "death": 138611,
     "hospitalized": 291347,
     "lastModified": "2020-07-25T00:00:00Z",
     "total": 50639060,
@@ -618,7 +618,7 @@
     "negativeIncrease": 719286,
     "positiveIncrease": 65075,
     "totalTestResultsIncrease": 784361,
-    "hash": "e1b69c4ea02cf776d81d29f248e1eb0bb232145e"
+    "hash": "523998ffa110b2f28f2bcfe9147c24f03e96d56a"
   },
   {
     "date": 20200724,
@@ -634,7 +634,7 @@
     "onVentilatorCumulative": 1297,
     "recovered": 1261624,
     "dateChecked": "2020-07-24T00:00:00Z",
-    "death": 137602,
+    "death": 137588,
     "hospitalized": 289370,
     "lastModified": "2020-07-24T00:00:00Z",
     "total": 49854731,
@@ -645,7 +645,7 @@
     "negativeIncrease": 851672,
     "positiveIncrease": 75204,
     "totalTestResultsIncrease": 926876,
-    "hash": "550571b75d3dcc789772e361222d723f8641b092"
+    "hash": "0694025d401175de95270adfc5ece1f673e9e8c6"
   },
   {
     "date": 20200723,
@@ -661,7 +661,7 @@
     "onVentilatorCumulative": 1280,
     "recovered": 1233269,
     "dateChecked": "2020-07-23T00:00:00Z",
-    "death": 136426,
+    "death": 136412,
     "hospitalized": 286338,
     "lastModified": "2020-07-23T00:00:00Z",
     "total": 48927625,
@@ -672,7 +672,7 @@
     "negativeIncrease": 769235,
     "positiveIncrease": 71354,
     "totalTestResultsIncrease": 840589,
-    "hash": "7277b3aea43c14894e3d97e457cc9fb2c108470e"
+    "hash": "2171bbf5320187e952c1a49b12ab272449f89ccb"
   },
   {
     "date": 20200722,
@@ -688,7 +688,7 @@
     "onVentilatorCumulative": 1258,
     "recovered": 1210849,
     "dateChecked": "2020-07-22T00:00:00Z",
-    "death": 135371,
+    "death": 135357,
     "hospitalized": 283829,
     "lastModified": "2020-07-22T00:00:00Z",
     "total": 48086908,
@@ -699,7 +699,7 @@
     "negativeIncrease": 726352,
     "positiveIncrease": 69150,
     "totalTestResultsIncrease": 795502,
-    "hash": "6075a3d7880d805d0be5857b33d52eb11201b17c"
+    "hash": "75532496a6fced578c1d7b0514a8b1dd39585d86"
   },
   {
     "date": 20200721,
@@ -715,7 +715,7 @@
     "onVentilatorCumulative": 1242,
     "recovered": 1182931,
     "dateChecked": "2020-07-21T00:00:00Z",
-    "death": 134200,
+    "death": 134186,
     "hospitalized": 281581,
     "lastModified": "2020-07-21T00:00:00Z",
     "total": 47291552,
@@ -726,7 +726,7 @@
     "negativeIncrease": 686606,
     "positiveIncrease": 63642,
     "totalTestResultsIncrease": 750248,
-    "hash": "6b57a4b200fc637be03f7225ca41095b037b292a"
+    "hash": "025cc8e9a519e15d74bdd1905f0a3bcd035b7aad"
   },
   {
     "date": 20200720,
@@ -742,7 +742,7 @@
     "onVentilatorCumulative": 1223,
     "recovered": 1160087,
     "dateChecked": "2020-07-20T00:00:00Z",
-    "death": 133162,
+    "death": 133148,
     "hospitalized": 279030,
     "lastModified": "2020-07-20T00:00:00Z",
     "total": 46541110,
@@ -753,7 +753,7 @@
     "negativeIncrease": 654044,
     "positiveIncrease": 56971,
     "totalTestResultsIncrease": 711015,
-    "hash": "c4a06eab59d6d3961cfea16b58e6c0dd11225859"
+    "hash": "41c39463036c614bcf2ee346f2589bd5b86649bc"
   },
   {
     "date": 20200719,
@@ -769,18 +769,18 @@
     "onVentilatorCumulative": 1216,
     "recovered": 1131171,
     "dateChecked": "2020-07-19T00:00:00Z",
-    "death": 132799,
+    "death": 132785,
     "hospitalized": 277383,
     "lastModified": "2020-07-19T00:00:00Z",
     "total": 45830144,
     "totalTestResults": 45827092,
     "posNeg": 45827092,
-    "deathIncrease": 526,
+    "deathIncrease": 527,
     "hospitalizedIncrease": 944,
     "negativeIncrease": 733624,
     "positiveIncrease": 64884,
     "totalTestResultsIncrease": 798508,
-    "hash": "ad1e2db5b99ac632b0cc2ccff4eea0c2f1bb13a2"
+    "hash": "47bbfca1ede85f8b8356f279a119219c7ccc14a6"
   },
   {
     "date": 20200718,
@@ -796,7 +796,7 @@
     "onVentilatorCumulative": 1211,
     "recovered": 1122720,
     "dateChecked": "2020-07-18T00:00:00Z",
-    "death": 132273,
+    "death": 132258,
     "hospitalized": 276439,
     "lastModified": "2020-07-18T00:00:00Z",
     "total": 45031616,
@@ -807,7 +807,7 @@
     "negativeIncrease": 696452,
     "positiveIncrease": 65180,
     "totalTestResultsIncrease": 761632,
-    "hash": "a9847a44debc871ff8657019da6e1d2b8d19bf75"
+    "hash": "bb6c51b03565b09c5a32b8e486c7dbbe42d1bee0"
   },
   {
     "date": 20200717,
@@ -823,7 +823,7 @@
     "onVentilatorCumulative": 1200,
     "recovered": 1106844,
     "dateChecked": "2020-07-17T00:00:00Z",
-    "death": 131401,
+    "death": 131386,
     "hospitalized": 274436,
     "lastModified": "2020-07-17T00:00:00Z",
     "total": 44269954,
@@ -834,7 +834,7 @@
     "negativeIncrease": 760159,
     "positiveIncrease": 77233,
     "totalTestResultsIncrease": 837392,
-    "hash": "dd404346e4b07e9bc7db8d63376498e740b4c5f9"
+    "hash": "480372e423ffa234fe1528963768c10ed2ddf143"
   },
   {
     "date": 20200716,
@@ -850,7 +850,7 @@
     "onVentilatorCumulative": 1175,
     "recovered": 1090645,
     "dateChecked": "2020-07-16T00:00:00Z",
-    "death": 130450,
+    "death": 130435,
     "hospitalized": 271758,
     "lastModified": "2020-07-16T00:00:00Z",
     "total": 43432489,
@@ -861,7 +861,7 @@
     "negativeIncrease": 756611,
     "positiveIncrease": 70953,
     "totalTestResultsIncrease": 827564,
-    "hash": "1b309b7fee7e3d00cb7e909ab2b5f056e8e88916"
+    "hash": "3c592f99fc8225e6195370a6ba09ff41183662de"
   },
   {
     "date": 20200715,
@@ -877,7 +877,7 @@
     "onVentilatorCumulative": 1166,
     "recovered": 1075882,
     "dateChecked": "2020-07-15T00:00:00Z",
-    "death": 129503,
+    "death": 129488,
     "hospitalized": 269543,
     "lastModified": "2020-07-15T00:00:00Z",
     "total": 42604943,
@@ -888,7 +888,7 @@
     "negativeIncrease": 696615,
     "positiveIncrease": 65382,
     "totalTestResultsIncrease": 761997,
-    "hash": "3272f63047fcba1434be778c24ce8765642bd578"
+    "hash": "d0112781b0a96af8543eda91cf8acdd6efd756f2"
   },
   {
     "date": 20200714,
@@ -904,7 +904,7 @@
     "onVentilatorCumulative": 1154,
     "recovered": 1049098,
     "dateChecked": "2020-07-14T00:00:00Z",
-    "death": 128645,
+    "death": 128630,
     "hospitalized": 267127,
     "lastModified": "2020-07-14T00:00:00Z",
     "total": 41840959,
@@ -915,7 +915,7 @@
     "negativeIncrease": 707103,
     "positiveIncrease": 62879,
     "totalTestResultsIncrease": 769982,
-    "hash": "38d2c9e5c61f49ee80c6da72fae09f5684c67148"
+    "hash": "e5d67343a64e96ccc2faed0ff7c156c3c4e883da"
   },
   {
     "date": 20200713,
@@ -931,7 +931,7 @@
     "onVentilatorCumulative": 1142,
     "recovered": 1031939,
     "dateChecked": "2020-07-13T00:00:00Z",
-    "death": 127909,
+    "death": 127894,
     "hospitalized": 264865,
     "lastModified": "2020-07-13T00:00:00Z",
     "total": 41072627,
@@ -942,7 +942,7 @@
     "negativeIncrease": 635111,
     "positiveIncrease": 58465,
     "totalTestResultsIncrease": 693576,
-    "hash": "195117535e74d2dcc3962d7164febcf4536d5777"
+    "hash": "f1af3d323f6fb94ff75798a4b01476c431436bcd"
   },
   {
     "date": 20200712,
@@ -958,7 +958,7 @@
     "onVentilatorCumulative": 1136,
     "recovered": 1006326,
     "dateChecked": "2020-07-12T00:00:00Z",
-    "death": 127582,
+    "death": 127567,
     "hospitalized": 263651,
     "lastModified": "2020-07-12T00:00:00Z",
     "total": 40379080,
@@ -969,7 +969,7 @@
     "negativeIncrease": 697346,
     "positiveIncrease": 60978,
     "totalTestResultsIncrease": 758324,
-    "hash": "a0f7424bbef7aa102d27d55a42bcc741b3afd30e"
+    "hash": "f4113648f081de671479b5c3fba21de4debe18f7"
   },
   {
     "date": 20200711,
@@ -985,7 +985,7 @@
     "onVentilatorCumulative": 1128,
     "recovered": 995576,
     "dateChecked": "2020-07-11T00:00:00Z",
-    "death": 127106,
+    "death": 127091,
     "hospitalized": 262712,
     "lastModified": "2020-07-11T00:00:00Z",
     "total": 39620735,
@@ -996,7 +996,7 @@
     "negativeIncrease": 635437,
     "positiveIncrease": 63007,
     "totalTestResultsIncrease": 698444,
-    "hash": "b8fcede0f8474a00faef614b0a5415bc81320a9d"
+    "hash": "2312f3a14eb9856456d611b1238cdc9835b477a8"
   },
   {
     "date": 20200710,
@@ -1012,7 +1012,7 @@
     "onVentilatorCumulative": 1118,
     "recovered": 983185,
     "dateChecked": "2020-07-10T00:00:00Z",
-    "death": 126349,
+    "death": 126334,
     "hospitalized": 257571,
     "lastModified": "2020-07-10T00:00:00Z",
     "total": 38922166,
@@ -1023,7 +1023,7 @@
     "negativeIncrease": 744161,
     "positiveIncrease": 66645,
     "totalTestResultsIncrease": 810806,
-    "hash": "df2c638d58730e5ad823a896cc43fc17fdb9fc70"
+    "hash": "5a94f985ad406d2b365ac38c5db4bd946b64259b"
   },
   {
     "date": 20200709,
@@ -1039,7 +1039,7 @@
     "onVentilatorCumulative": 1138,
     "recovered": 969111,
     "dateChecked": "2020-07-09T00:00:00Z",
-    "death": 125495,
+    "death": 125480,
     "hospitalized": 255253,
     "lastModified": "2020-07-09T00:00:00Z",
     "total": 38111397,
@@ -1050,7 +1050,7 @@
     "negativeIncrease": 644214,
     "positiveIncrease": 58836,
     "totalTestResultsIncrease": 703050,
-    "hash": "83b4e87c2c585c71adc00272158235ed8d3c639c"
+    "hash": "830468496804e1e5b989da5514ac5da8e2505621"
   },
   {
     "date": 20200708,
@@ -1066,7 +1066,7 @@
     "onVentilatorCumulative": 1103,
     "recovered": 953420,
     "dateChecked": "2020-07-08T00:00:00Z",
-    "death": 124628,
+    "death": 124613,
     "hospitalized": 253534,
     "lastModified": "2020-07-08T00:00:00Z",
     "total": 37408177,
@@ -1077,7 +1077,7 @@
     "negativeIncrease": 566955,
     "positiveIncrease": 62147,
     "totalTestResultsIncrease": 629102,
-    "hash": "ee6d2fb56dcf8f00d8a52b929952969e8e0c44a3"
+    "hash": "b9b9447f5d77da762feb2ebd2ef3973152e8be4f"
   },
   {
     "date": 20200707,
@@ -1093,7 +1093,7 @@
     "onVentilatorCumulative": 1084,
     "recovered": 936476,
     "dateChecked": "2020-07-07T00:00:00Z",
-    "death": 123821,
+    "death": 123806,
     "hospitalized": 251499,
     "lastModified": "2020-07-07T00:00:00Z",
     "total": 36778851,
@@ -1104,7 +1104,7 @@
     "negativeIncrease": 583025,
     "positiveIncrease": 51766,
     "totalTestResultsIncrease": 634791,
-    "hash": "6d1c4346c74a06bb603e07c86e79993eb620aa07"
+    "hash": "09fcc44dd1799f5ff49c092d694560dc4269fe9a"
   },
   {
     "date": 20200706,
@@ -1120,7 +1120,7 @@
     "onVentilatorCumulative": 1070,
     "recovered": 924148,
     "dateChecked": "2020-07-06T00:00:00Z",
-    "death": 122898,
+    "death": 122883,
     "hospitalized": 249539,
     "lastModified": "2020-07-06T00:00:00Z",
     "total": 36143831,
@@ -1131,7 +1131,7 @@
     "negativeIncrease": 459601,
     "positiveIncrease": 41600,
     "totalTestResultsIncrease": 501201,
-    "hash": "360247617d181d7cfbf484c2a4d9de23c6b85d89"
+    "hash": "69719e5fa4df81be189783e21ab14dfa63853dd9"
   },
   {
     "date": 20200705,
@@ -1147,7 +1147,7 @@
     "onVentilatorCumulative": 1064,
     "recovered": 902558,
     "dateChecked": "2020-07-05T00:00:00Z",
-    "death": 122655,
+    "death": 122640,
     "hospitalized": 248745,
     "lastModified": "2020-07-05T00:00:00Z",
     "total": 35642608,
@@ -1158,7 +1158,7 @@
     "negativeIncrease": 635661,
     "positiveIncrease": 45789,
     "totalTestResultsIncrease": 681450,
-    "hash": "04950d8672eaafa982f197d25fcc94c98eaad26d"
+    "hash": "e99f07e2598dcb5b96442a370453f94dca36a5e4"
   },
   {
     "date": 20200704,
@@ -1174,7 +1174,7 @@
     "onVentilatorCumulative": 1063,
     "recovered": 894325,
     "dateChecked": "2020-07-04T00:00:00Z",
-    "death": 122446,
+    "death": 122431,
     "hospitalized": 248155,
     "lastModified": "2020-07-04T00:00:00Z",
     "total": 34961356,
@@ -1185,7 +1185,7 @@
     "negativeIncrease": 587437,
     "positiveIncrease": 54734,
     "totalTestResultsIncrease": 642171,
-    "hash": "c593b11f1ce4c4285670373e6aacebd3f5000e5f"
+    "hash": "b33f20a9bc5744054cd14d940fdd3c700af39190"
   },
   {
     "date": 20200703,
@@ -1201,7 +1201,7 @@
     "onVentilatorCumulative": 1059,
     "recovered": 883561,
     "dateChecked": "2020-07-03T00:00:00Z",
-    "death": 122140,
+    "death": 122125,
     "hospitalized": 247284,
     "lastModified": "2020-07-03T00:00:00Z",
     "total": 34319339,
@@ -1212,7 +1212,7 @@
     "negativeIncrease": 656726,
     "positiveIncrease": 54223,
     "totalTestResultsIncrease": 710949,
-    "hash": "b49fb18e980972733c677c6b023cad77be1a0198"
+    "hash": "36f6f4a85e7073b3c778d4f8a63e938e1bf9e9a3"
   },
   {
     "date": 20200702,
@@ -1228,7 +1228,7 @@
     "onVentilatorCumulative": 1041,
     "recovered": 875127,
     "dateChecked": "2020-07-02T00:00:00Z",
-    "death": 121542,
+    "death": 121527,
     "hospitalized": 245849,
     "lastModified": "2020-07-02T00:00:00Z",
     "total": 33608361,
@@ -1239,7 +1239,7 @@
     "negativeIncrease": 608490,
     "positiveIncrease": 53826,
     "totalTestResultsIncrease": 662316,
-    "hash": "d7a98e2e64ef2b48a480eb1119ba5f3e7d1768c6"
+    "hash": "664b0a09b4078239a36c5a750bf14f5626bf110b"
   },
   {
     "date": 20200701,
@@ -1255,7 +1255,7 @@
     "onVentilatorCumulative": 1027,
     "recovered": 823151,
     "dateChecked": "2020-07-01T00:00:00Z",
-    "death": 120847,
+    "death": 120832,
     "hospitalized": 243846,
     "lastModified": "2020-07-01T00:00:00Z",
     "total": 32946441,
@@ -1266,7 +1266,7 @@
     "negativeIncrease": 582612,
     "positiveIncrease": 50674,
     "totalTestResultsIncrease": 633286,
-    "hash": "f09890718050b4cc02a1f339db343a3a1e9d93f2"
+    "hash": "541ae1d9f8d46e483ba32ab05da7c72ab8527561"
   },
   {
     "date": 20200630,
@@ -1282,7 +1282,7 @@
     "onVentilatorCumulative": 1008,
     "recovered": 813788,
     "dateChecked": "2020-06-30T00:00:00Z",
-    "death": 120146,
+    "death": 120131,
     "hospitalized": 242408,
     "lastModified": "2020-06-30T00:00:00Z",
     "total": 32312983,
@@ -1293,7 +1293,7 @@
     "negativeIncrease": 576601,
     "positiveIncrease": 47462,
     "totalTestResultsIncrease": 624063,
-    "hash": "91a7a0461507c645a03f0bdbd6ceef151aace178"
+    "hash": "5c64296ce57f4c1c244fd4b2568b0bf0fca7b763"
   },
   {
     "date": 20200629,
@@ -1309,7 +1309,7 @@
     "onVentilatorCumulative": 990,
     "recovered": 798360,
     "dateChecked": "2020-06-29T00:00:00Z",
-    "death": 119550,
+    "death": 119535,
     "hospitalized": 240826,
     "lastModified": "2020-06-29T00:00:00Z",
     "total": 31688682,
@@ -1320,7 +1320,7 @@
     "negativeIncrease": 607649,
     "positiveIncrease": 39175,
     "totalTestResultsIncrease": 646824,
-    "hash": "5ff5b04654cdf250fca70193eab1f40227f2a56b"
+    "hash": "5b3cf746ff974270da1e3187979faf63e6925960"
   },
   {
     "date": 20200628,
@@ -1336,7 +1336,7 @@
     "onVentilatorCumulative": 983,
     "recovered": 778321,
     "dateChecked": "2020-06-28T00:00:00Z",
-    "death": 119218,
+    "death": 119203,
     "hospitalized": 240156,
     "lastModified": "2020-06-28T00:00:00Z",
     "total": 31041862,
@@ -1347,7 +1347,7 @@
     "negativeIncrease": 542041,
     "positiveIncrease": 41857,
     "totalTestResultsIncrease": 583898,
-    "hash": "f9a97db06e66bf726b8a7c3f148df2d7c98051ce"
+    "hash": "831885bee5986903299cf6c74b060d5d6ebe8094"
   },
   {
     "date": 20200627,
@@ -1363,7 +1363,7 @@
     "onVentilatorCumulative": 977,
     "recovered": 772465,
     "dateChecked": "2020-06-27T00:00:00Z",
-    "death": 118947,
+    "death": 118932,
     "hospitalized": 239576,
     "lastModified": "2020-06-27T00:00:00Z",
     "total": 30457952,
@@ -1374,7 +1374,7 @@
     "negativeIncrease": 555603,
     "positiveIncrease": 43783,
     "totalTestResultsIncrease": 599386,
-    "hash": "7f1db9d48e96c951d5ad6a13e30656d87236f693"
+    "hash": "75f4eaf10314827620ffbe1cfd64a7606497dbb6"
   },
   {
     "date": 20200626,
@@ -1390,7 +1390,7 @@
     "onVentilatorCumulative": 966,
     "recovered": 763966,
     "dateChecked": "2020-06-26T00:00:00Z",
-    "death": 118436,
+    "death": 118421,
     "hospitalized": 238519,
     "lastModified": "2020-06-26T00:00:00Z",
     "total": 29858581,
@@ -1401,7 +1401,7 @@
     "negativeIncrease": 562326,
     "positiveIncrease": 44421,
     "totalTestResultsIncrease": 606747,
-    "hash": "2568c5fac68b762c6f0cfe1d8fc62e4a23947adb"
+    "hash": "a13b08c3885cbeef12768b9cd3874c12346e2244"
   },
   {
     "date": 20200625,
@@ -1417,7 +1417,7 @@
     "onVentilatorCumulative": 951,
     "recovered": 756719,
     "dateChecked": "2020-06-25T00:00:00Z",
-    "death": 117799,
+    "death": 117784,
     "hospitalized": 236993,
     "lastModified": "2020-06-25T00:00:00Z",
     "total": 29251766,
@@ -1428,7 +1428,7 @@
     "negativeIncrease": 598076,
     "positiveIncrease": 39072,
     "totalTestResultsIncrease": 637148,
-    "hash": "e1735d66dee5e633a6d3efd84116fa9a459161b2"
+    "hash": "89a8c880e6435d1932309d75fecf66aac0cfcdec"
   },
   {
     "date": 20200624,
@@ -1444,7 +1444,7 @@
     "onVentilatorCumulative": 934,
     "recovered": 747565,
     "dateChecked": "2020-06-24T00:00:00Z",
-    "death": 117152,
+    "death": 117137,
     "hospitalized": 235736,
     "lastModified": "2020-06-24T00:00:00Z",
     "total": 28614534,
@@ -1455,7 +1455,7 @@
     "negativeIncrease": 480518,
     "positiveIncrease": 38684,
     "totalTestResultsIncrease": 519202,
-    "hash": "14154cb4110fdd9f46246a0b7a05d2a20fb42722"
+    "hash": "85226922a94a349e6fa3f20d682de82e44f60bc2"
   },
   {
     "date": 20200623,
@@ -1471,7 +1471,7 @@
     "onVentilatorCumulative": 918,
     "recovered": 738952,
     "dateChecked": "2020-06-23T00:00:00Z",
-    "death": 116428,
+    "death": 116413,
     "hospitalized": 234426,
     "lastModified": "2020-06-23T00:00:00Z",
     "total": 28095174,
@@ -1482,7 +1482,7 @@
     "negativeIncrease": 458698,
     "positiveIncrease": 33021,
     "totalTestResultsIncrease": 491719,
-    "hash": "cc6c54151d3a4c88cba8cf2c783807142f34d243"
+    "hash": "baedb48cf3aaa9f59efbed1a76058d0e977ce3d3"
   },
   {
     "date": 20200622,
@@ -1498,7 +1498,7 @@
     "onVentilatorCumulative": 909,
     "recovered": 731602,
     "dateChecked": "2020-06-22T00:00:00Z",
-    "death": 115718,
+    "death": 115703,
     "hospitalized": 233169,
     "lastModified": "2020-06-22T00:00:00Z",
     "total": 27603592,
@@ -1509,7 +1509,7 @@
     "negativeIncrease": 439588,
     "positiveIncrease": 27017,
     "totalTestResultsIncrease": 466605,
-    "hash": "a304d80213cbdb9a177775f770fd540280bbacb5"
+    "hash": "3c39a2ca7e21c3a7268de081795f49a4a4fd3549"
   },
   {
     "date": 20200621,
@@ -1525,7 +1525,7 @@
     "onVentilatorCumulative": 904,
     "recovered": 713537,
     "dateChecked": "2020-06-21T00:00:00Z",
-    "death": 115432,
+    "death": 115417,
     "hospitalized": 232369,
     "lastModified": "2020-06-21T00:00:00Z",
     "total": 27137043,
@@ -1536,7 +1536,7 @@
     "negativeIncrease": 483814,
     "positiveIncrease": 27284,
     "totalTestResultsIncrease": 511098,
-    "hash": "84ac519f9d622b96824264a33fb869d51728f054"
+    "hash": "0d5bae5183534944236e8995f568c34c60770b50"
   },
   {
     "date": 20200620,
@@ -1552,7 +1552,7 @@
     "onVentilatorCumulative": 888,
     "recovered": 708864,
     "dateChecked": "2020-06-20T00:00:00Z",
-    "death": 115138,
+    "death": 115123,
     "hospitalized": 231855,
     "lastModified": "2020-06-20T00:00:00Z",
     "total": 26625969,
@@ -1563,7 +1563,7 @@
     "negativeIncrease": 527221,
     "positiveIncrease": 31994,
     "totalTestResultsIncrease": 559215,
-    "hash": "d7ce1fc381a23f775450c15972a8fe57f733ee61"
+    "hash": "1886b05434ee1770503ba5111b00c7cef87e706f"
   },
   {
     "date": 20200619,
@@ -1579,7 +1579,7 @@
     "onVentilatorCumulative": 884,
     "recovered": 698119,
     "dateChecked": "2020-06-19T00:00:00Z",
-    "death": 114509,
+    "death": 114494,
     "hospitalized": 231110,
     "lastModified": "2020-06-19T00:00:00Z",
     "total": 26066678,
@@ -1590,7 +1590,7 @@
     "negativeIncrease": 542946,
     "positiveIncrease": 31046,
     "totalTestResultsIncrease": 573992,
-    "hash": "e69cd059856ce17968ad113bab5367196b934e10"
+    "hash": "9a07cca24c68fcc679fbf8d2871e5b93a75fc2a8"
   },
   {
     "date": 20200618,
@@ -1606,7 +1606,7 @@
     "onVentilatorCumulative": 869,
     "recovered": 690692,
     "dateChecked": "2020-06-18T00:00:00Z",
-    "death": 113854,
+    "death": 113839,
     "hospitalized": 229497,
     "lastModified": "2020-06-18T00:00:00Z",
     "total": 25492557,
@@ -1617,7 +1617,7 @@
     "negativeIncrease": 488666,
     "positiveIncrease": 27527,
     "totalTestResultsIncrease": 516193,
-    "hash": "da48d121e1f111f77eb9f78344d33aff732067f2"
+    "hash": "c591b039ea2a2236cbf23a9cfcf922042e1da1c6"
   },
   {
     "date": 20200617,
@@ -1633,7 +1633,7 @@
     "onVentilatorCumulative": 857,
     "recovered": 680916,
     "dateChecked": "2020-06-17T00:00:00Z",
-    "death": 113149,
+    "death": 113134,
     "hospitalized": 228457,
     "lastModified": "2020-06-17T00:00:00Z",
     "total": 24976206,
@@ -1644,7 +1644,7 @@
     "negativeIncrease": 461417,
     "positiveIncrease": 23873,
     "totalTestResultsIncrease": 485290,
-    "hash": "fb3339e1b3a9ec65e6fdbeda8a38ba8bd01c0455"
+    "hash": "3136926db96c1340a97d88fc7e1a67f998e8e75a"
   },
   {
     "date": 20200616,
@@ -1660,7 +1660,7 @@
     "onVentilatorCumulative": 845,
     "recovered": 672228,
     "dateChecked": "2020-06-16T00:00:00Z",
-    "death": 112382,
+    "death": 112367,
     "hospitalized": 227327,
     "lastModified": "2020-06-16T00:00:00Z",
     "total": 24490775,
@@ -1671,7 +1671,7 @@
     "negativeIncrease": 441094,
     "positiveIncrease": 23435,
     "totalTestResultsIncrease": 464529,
-    "hash": "f6e34c71fc241075e324e434d3c385731d4878a0"
+    "hash": "12add677f58abaf9aeb8cf31c4beeae8c050fc96"
   },
   {
     "date": 20200615,
@@ -1687,7 +1687,7 @@
     "onVentilatorCumulative": 835,
     "recovered": 665059,
     "dateChecked": "2020-06-15T00:00:00Z",
-    "death": 111651,
+    "death": 111636,
     "hospitalized": 226026,
     "lastModified": "2020-06-15T00:00:00Z",
     "total": 24026261,
@@ -1698,7 +1698,7 @@
     "negativeIncrease": 414301,
     "positiveIncrease": 18510,
     "totalTestResultsIncrease": 432811,
-    "hash": "c2eec2f9509d326254a18d3cfe78921ea12fc959"
+    "hash": "770473526db3fa2a7029d1758e5516913bf329f9"
   },
   {
     "date": 20200614,
@@ -1714,7 +1714,7 @@
     "onVentilatorCumulative": 834,
     "recovered": 650541,
     "dateChecked": "2020-06-14T00:00:00Z",
-    "death": 111270,
+    "death": 111255,
     "hospitalized": 225483,
     "lastModified": "2020-06-14T00:00:00Z",
     "total": 23593503,
@@ -1725,7 +1725,7 @@
     "negativeIncrease": 463847,
     "positiveIncrease": 21373,
     "totalTestResultsIncrease": 485220,
-    "hash": "7adf9828642b18cb6168254ad6c985086b9f2ba3"
+    "hash": "bf1c81d6ea39de2b1e14708f5ecd27409ac55249"
   },
   {
     "date": 20200613,
@@ -1741,7 +1741,7 @@
     "onVentilatorCumulative": 830,
     "recovered": 645331,
     "dateChecked": "2020-06-13T00:00:00Z",
-    "death": 110914,
+    "death": 110899,
     "hospitalized": 224843,
     "lastModified": "2020-06-13T00:00:00Z",
     "total": 23108309,
@@ -1752,7 +1752,7 @@
     "negativeIncrease": 471087,
     "positiveIncrease": 25341,
     "totalTestResultsIncrease": 496428,
-    "hash": "d30d5d7aa4f4bd695856db11b4470ca81172d386"
+    "hash": "944d791d2632a61fad9aac646f2eaf2fab174d53"
   },
   {
     "date": 20200612,
@@ -1768,7 +1768,7 @@
     "onVentilatorCumulative": 814,
     "recovered": 636111,
     "dateChecked": "2020-06-12T00:00:00Z",
-    "death": 110220,
+    "death": 110205,
     "hospitalized": 223738,
     "lastModified": "2020-06-12T00:00:00Z",
     "total": 22611966,
@@ -1779,7 +1779,7 @@
     "negativeIncrease": 599648,
     "positiveIncrease": 23477,
     "totalTestResultsIncrease": 623125,
-    "hash": "d81e08d5c77059d534354129a52901a13fbd1bb4"
+    "hash": "abf324ee033b2df0c30230c7c60dd755c443145e"
   },
   {
     "date": 20200611,
@@ -1795,7 +1795,7 @@
     "onVentilatorCumulative": 792,
     "recovered": 629017,
     "dateChecked": "2020-06-11T00:00:00Z",
-    "death": 109444,
+    "death": 109429,
     "hospitalized": 222493,
     "lastModified": "2020-06-11T00:00:00Z",
     "total": 21988874,
@@ -1806,7 +1806,7 @@
     "negativeIncrease": 437423,
     "positiveIncrease": 22032,
     "totalTestResultsIncrease": 459455,
-    "hash": "08c9656f0408958f8e8a50a3230b874c64756f32"
+    "hash": "d09ed218c11e6c3929b7d733688fe7b59aa16c39"
   },
   {
     "date": 20200610,
@@ -1822,7 +1822,7 @@
     "onVentilatorCumulative": 780,
     "recovered": 618125,
     "dateChecked": "2020-06-10T00:00:00Z",
-    "death": 108545,
+    "death": 108530,
     "hospitalized": 221126,
     "lastModified": "2020-06-10T00:00:00Z",
     "total": 21529340,
@@ -1833,7 +1833,7 @@
     "negativeIncrease": 408196,
     "positiveIncrease": 20803,
     "totalTestResultsIncrease": 428999,
-    "hash": "a254b540b6fdd3aac74d854a6b8e17e19f34b1b5"
+    "hash": "e744b61b200a79fb8b2fa1b5b35759fabe6ab66f"
   },
   {
     "date": 20200609,
@@ -1849,7 +1849,7 @@
     "onVentilatorCumulative": 771,
     "recovered": 609476,
     "dateChecked": "2020-06-09T00:00:00Z",
-    "death": 107658,
+    "death": 107643,
     "hospitalized": 219642,
     "lastModified": "2020-06-09T00:00:00Z",
     "total": 21100265,
@@ -1860,7 +1860,7 @@
     "negativeIncrease": 402549,
     "positiveIncrease": 17175,
     "totalTestResultsIncrease": 419724,
-    "hash": "f2b673166357c3060d18bf44127d619ea7c8a968"
+    "hash": "98b733fc74f1abcab637f81830c42be872f5267f"
   },
   {
     "date": 20200608,
@@ -1876,7 +1876,7 @@
     "onVentilatorCumulative": 762,
     "recovered": 603143,
     "dateChecked": "2020-06-08T00:00:00Z",
-    "death": 106756,
+    "death": 106741,
     "hospitalized": 218115,
     "lastModified": "2020-06-08T00:00:00Z",
     "total": 20680486,
@@ -1887,7 +1887,7 @@
     "negativeIncrease": 378134,
     "positiveIncrease": 17012,
     "totalTestResultsIncrease": 395146,
-    "hash": "c29a14b5fb4e496ccfc492e1e636854ef69e614f"
+    "hash": "c491697710f674c272c6ce59736b49c7cec4a79b"
   },
   {
     "date": 20200607,
@@ -1903,7 +1903,7 @@
     "onVentilatorCumulative": 753,
     "recovered": 590988,
     "dateChecked": "2020-06-07T00:00:00Z",
-    "death": 106095,
+    "death": 106080,
     "hospitalized": 217401,
     "lastModified": "2020-06-07T00:00:00Z",
     "total": 20285467,
@@ -1914,7 +1914,7 @@
     "negativeIncrease": 403548,
     "positiveIncrease": 18823,
     "totalTestResultsIncrease": 422371,
-    "hash": "50fbf9ae8fe3728c8f13e0095a1ee66e7d8a3227"
+    "hash": "0a718b49726375f0a5b5c04a8b68536dd92f3b38"
   },
   {
     "date": 20200606,
@@ -1930,7 +1930,7 @@
     "onVentilatorCumulative": 750,
     "recovered": 585470,
     "dateChecked": "2020-06-06T00:00:00Z",
-    "death": 105648,
+    "death": 105633,
     "hospitalized": 216716,
     "lastModified": "2020-06-06T00:00:00Z",
     "total": 19863159,
@@ -1941,7 +1941,7 @@
     "negativeIncrease": 520713,
     "positiveIncrease": 23106,
     "totalTestResultsIncrease": 543819,
-    "hash": "baff29cadb5ab6a3301def96422806d3ece096f0"
+    "hash": "a25b766a2310794b3ad2eb47884b92f5cb6c3c59"
   },
   {
     "date": 20200605,
@@ -1957,7 +1957,7 @@
     "onVentilatorCumulative": 740,
     "recovered": 576327,
     "dateChecked": "2020-06-05T00:00:00Z",
-    "death": 104920,
+    "death": 104905,
     "hospitalized": 215699,
     "lastModified": "2020-06-05T00:00:00Z",
     "total": 19319293,
@@ -1968,7 +1968,7 @@
     "negativeIncrease": 482923,
     "positiveIncrease": 23352,
     "totalTestResultsIncrease": 506275,
-    "hash": "adedfaaa882eb169e12a21797ab2bbd40ef23223"
+    "hash": "cc24b3918cdd9546773cddb8b9784e846af3b30e"
   },
   {
     "date": 20200604,
@@ -1984,7 +1984,7 @@
     "onVentilatorCumulative": 723,
     "recovered": 569623,
     "dateChecked": "2020-06-04T00:00:00Z",
-    "death": 104094,
+    "death": 104079,
     "hospitalized": 214259,
     "lastModified": "2020-06-04T00:00:00Z",
     "total": 18814743,
@@ -1995,7 +1995,7 @@
     "negativeIncrease": 440145,
     "positiveIncrease": 20839,
     "totalTestResultsIncrease": 460984,
-    "hash": "d5a4647365e35878ff7da0f9ea9cecf66ff8d3b4"
+    "hash": "0a29b68532f2a26b0b7d116a5f3953a2e58ac0ee"
   },
   {
     "date": 20200603,
@@ -2011,7 +2011,7 @@
     "onVentilatorCumulative": 717,
     "recovered": 557366,
     "dateChecked": "2020-06-03T00:00:00Z",
-    "death": 103201,
+    "death": 103186,
     "hospitalized": 217100,
     "lastModified": "2020-06-03T00:00:00Z",
     "total": 18353841,
@@ -2022,7 +2022,7 @@
     "negativeIncrease": 446402,
     "positiveIncrease": 20312,
     "totalTestResultsIncrease": 466714,
-    "hash": "6bf1d9df3131411118e4fa8f665e9fbc45d5a322"
+    "hash": "e386ff25addec9b1710b6247bf312cde5bb250c9"
   },
   {
     "date": 20200602,
@@ -2038,7 +2038,7 @@
     "onVentilatorCumulative": 710,
     "recovered": 541976,
     "dateChecked": "2020-06-02T00:00:00Z",
-    "death": 102208,
+    "death": 102193,
     "hospitalized": 214845,
     "lastModified": "2020-06-02T00:00:00Z",
     "total": 17887625,
@@ -2049,7 +2049,7 @@
     "negativeIncrease": 398664,
     "positiveIncrease": 19982,
     "totalTestResultsIncrease": 418646,
-    "hash": "cf9a6e33bfd3e8bdfe2cc17be95ea938de966780"
+    "hash": "2e8e4331eb7deaf8c767ae91f95c57ba9541d1af"
   },
   {
     "date": 20200601,
@@ -2065,7 +2065,7 @@
     "onVentilatorCumulative": 704,
     "recovered": 536339,
     "dateChecked": "2020-06-01T00:00:00Z",
-    "death": 101245,
+    "death": 101230,
     "hospitalized": 213260,
     "lastModified": "2020-06-01T00:00:00Z",
     "total": 17468380,
@@ -2076,7 +2076,7 @@
     "negativeIncrease": 391912,
     "positiveIncrease": 20415,
     "totalTestResultsIncrease": 412327,
-    "hash": "4f64779872debd0bcd6d61581765aebef047ee4c"
+    "hash": "aec43407986fbe24891fa8e6ea8dbd3b51ebf9f5"
   },
   {
     "date": 20200531,
@@ -2092,7 +2092,7 @@
     "onVentilatorCumulative": 704,
     "recovered": 522866,
     "dateChecked": "2020-05-31T00:00:00Z",
-    "death": 100576,
+    "death": 100561,
     "hospitalized": 210464,
     "lastModified": "2020-05-31T00:00:00Z",
     "total": 17055868,
@@ -2103,7 +2103,7 @@
     "negativeIncrease": 374532,
     "positiveIncrease": 21639,
     "totalTestResultsIncrease": 396171,
-    "hash": "846a3cd841aff3a18bd0b9dd017e5ec625d86652"
+    "hash": "f150c090c688b29d60bf816ca7a500b52d5a39fb"
   },
   {
     "date": 20200530,
@@ -2119,7 +2119,7 @@
     "onVentilatorCumulative": 698,
     "recovered": 494569,
     "dateChecked": "2020-05-30T00:00:00Z",
-    "death": 99923,
+    "death": 99908,
     "hospitalized": 209488,
     "lastModified": "2020-05-30T00:00:00Z",
     "total": 16658095,
@@ -2130,7 +2130,7 @@
     "negativeIncrease": 401992,
     "positiveIncrease": 23762,
     "totalTestResultsIncrease": 425754,
-    "hash": "49b2a51698caa1260fc99338240669420e67a588"
+    "hash": "ac50cb0d2029b34e5607d56adadeb7679340096b"
   },
   {
     "date": 20200529,
@@ -2146,7 +2146,7 @@
     "onVentilatorCumulative": 689,
     "recovered": 484554,
     "dateChecked": "2020-05-29T00:00:00Z",
-    "death": 98991,
+    "death": 98976,
     "hospitalized": 208064,
     "lastModified": "2020-05-29T00:00:00Z",
     "total": 16233651,
@@ -2157,7 +2157,7 @@
     "negativeIncrease": 463707,
     "positiveIncrease": 23522,
     "totalTestResultsIncrease": 487229,
-    "hash": "ba9fb295cc97245139da2c5e44da0ffa41341cf0"
+    "hash": "2b9f962621891d40422c2bcefdd6858c7f4a033e"
   },
   {
     "date": 20200528,
@@ -2173,7 +2173,7 @@
     "onVentilatorCumulative": 676,
     "recovered": 478099,
     "dateChecked": "2020-05-28T00:00:00Z",
-    "death": 97807,
+    "death": 97792,
     "hospitalized": 206349,
     "lastModified": "2020-05-28T00:00:00Z",
     "total": 15745350,
@@ -2184,7 +2184,7 @@
     "negativeIncrease": 411869,
     "positiveIncrease": 22601,
     "totalTestResultsIncrease": 434470,
-    "hash": "a783d337ab840245d1acf3816e2efd4b291cdb1f"
+    "hash": "a90d22c2414e1409b380120e3faa610aa740c95a"
   },
   {
     "date": 20200527,
@@ -2200,7 +2200,7 @@
     "onVentilatorCumulative": 666,
     "recovered": 391508,
     "dateChecked": "2020-05-27T00:00:00Z",
-    "death": 96576,
+    "death": 96561,
     "hospitalized": 204719,
     "lastModified": "2020-05-27T00:00:00Z",
     "total": 15312106,
@@ -2211,7 +2211,7 @@
     "negativeIncrease": 289048,
     "positiveIncrease": 19385,
     "totalTestResultsIncrease": 308433,
-    "hash": "29c09e7dcc3ed2e1350e96ff86049b3620b569a8"
+    "hash": "a95a03bd3f2af256a8b604ec14caceb50a478c3f"
   },
   {
     "date": 20200526,
@@ -2227,7 +2227,7 @@
     "onVentilatorCumulative": 650,
     "recovered": 384902,
     "dateChecked": "2020-05-26T00:00:00Z",
-    "death": 95254,
+    "death": 95239,
     "hospitalized": 203006,
     "lastModified": "2020-05-26T00:00:00Z",
     "total": 15002090,
@@ -2238,7 +2238,7 @@
     "negativeIncrease": 289303,
     "positiveIncrease": 16629,
     "totalTestResultsIncrease": 305932,
-    "hash": "b02b6f55210bc9b73f6d7dc5ce78ea826c48852a"
+    "hash": "f19a1d618219bd5a71246288dbcb475941f6f0ae"
   },
   {
     "date": 20200525,
@@ -2254,7 +2254,7 @@
     "onVentilatorCumulative": 642,
     "recovered": 379157,
     "dateChecked": "2020-05-25T00:00:00Z",
-    "death": 94608,
+    "death": 94593,
     "hospitalized": 185686,
     "lastModified": "2020-05-25T00:00:00Z",
     "total": 14697977,
@@ -2265,7 +2265,7 @@
     "negativeIncrease": 403790,
     "positiveIncrease": 18798,
     "totalTestResultsIncrease": 422588,
-    "hash": "d842ff1b9b38113ad81337601b712257eed40315"
+    "hash": "d2cd9ff3a75bcb1394a646024a10868329fd2f59"
   },
   {
     "date": 20200524,
@@ -2281,7 +2281,7 @@
     "onVentilatorCumulative": 639,
     "recovered": 366736,
     "dateChecked": "2020-05-24T00:00:00Z",
-    "death": 94048,
+    "death": 94033,
     "hospitalized": 184684,
     "lastModified": "2020-05-24T00:00:00Z",
     "total": 14275881,
@@ -2292,7 +2292,7 @@
     "negativeIncrease": 361400,
     "positiveIncrease": 20105,
     "totalTestResultsIncrease": 381505,
-    "hash": "b4a3b775111e2353e3c11567339ba79a15998c28"
+    "hash": "b4b9f1d3333999eb9d656cdaef7e6c84f8ca8509"
   },
   {
     "date": 20200523,
@@ -2308,7 +2308,7 @@
     "onVentilatorCumulative": 638,
     "recovered": 361239,
     "dateChecked": "2020-05-23T00:00:00Z",
-    "death": 93368,
+    "death": 93353,
     "hospitalized": 183763,
     "lastModified": "2020-05-23T00:00:00Z",
     "total": 13894600,
@@ -2319,7 +2319,7 @@
     "negativeIncrease": 368410,
     "positiveIncrease": 21590,
     "totalTestResultsIncrease": 390000,
-    "hash": "ee0270ac39d345509d45423d2c5427f75040f524"
+    "hash": "730a662772fa2bef9a74ad3f6f10e5a76dd15def"
   },
   {
     "date": 20200522,
@@ -2335,7 +2335,7 @@
     "onVentilatorCumulative": 633,
     "recovered": 350135,
     "dateChecked": "2020-05-22T00:00:00Z",
-    "death": 92305,
+    "death": 92290,
     "hospitalized": 182385,
     "lastModified": "2020-05-22T00:00:00Z",
     "total": 13504225,
@@ -2346,7 +2346,7 @@
     "negativeIncrease": 384533,
     "positiveIncrease": 24555,
     "totalTestResultsIncrease": 409088,
-    "hash": "791770df5542bc74852811103808430195a6c2ee"
+    "hash": "5065157474a0dfed76e2820a3b37bd7fff1b797f"
   },
   {
     "date": 20200521,
@@ -2362,7 +2362,7 @@
     "onVentilatorCumulative": 616,
     "recovered": 298418,
     "dateChecked": "2020-05-21T00:00:00Z",
-    "death": 90963,
+    "death": 90948,
     "hospitalized": 178339,
     "lastModified": "2020-05-21T00:00:00Z",
     "total": 13095069,
@@ -2373,7 +2373,7 @@
     "negativeIncrease": 435306,
     "positiveIncrease": 26513,
     "totalTestResultsIncrease": 461819,
-    "hash": "36e75ae6e4579f23b6420f122a6ad3e532c13dae"
+    "hash": "c53881993f3a9b277e101fc70065b6771e401a26"
   },
   {
     "date": 20200520,
@@ -2389,7 +2389,7 @@
     "onVentilatorCumulative": 613,
     "recovered": 294312,
     "dateChecked": "2020-05-20T00:00:00Z",
-    "death": 89569,
+    "death": 89554,
     "hospitalized": 173709,
     "lastModified": "2020-05-20T00:00:00Z",
     "total": 12632582,
@@ -2400,7 +2400,7 @@
     "negativeIncrease": 385840,
     "positiveIncrease": 21319,
     "totalTestResultsIncrease": 407159,
-    "hash": "647fe83e295b280ce13ec4f7dfeed58118ffaee8"
+    "hash": "a188c17acec52a9e8714698c8c0aecabcd48d4be"
   },
   {
     "date": 20200519,
@@ -2416,7 +2416,7 @@
     "onVentilatorCumulative": 606,
     "recovered": 289484,
     "dateChecked": "2020-05-19T00:00:00Z",
-    "death": 88168,
+    "death": 88153,
     "hospitalized": 171713,
     "lastModified": "2020-05-19T00:00:00Z",
     "total": 12225394,
@@ -2427,7 +2427,7 @@
     "negativeIncrease": 380486,
     "positiveIncrease": 20853,
     "totalTestResultsIncrease": 401339,
-    "hash": "4f1384c32db1fb8d3b47576360d91e433af62a14"
+    "hash": "377832e6594ae97ba008794b99e88d9fe5b6e42b"
   },
   {
     "date": 20200518,
@@ -2443,7 +2443,7 @@
     "onVentilatorCumulative": 602,
     "recovered": 283178,
     "dateChecked": "2020-05-18T00:00:00Z",
-    "death": 86842,
+    "death": 86827,
     "hospitalized": 170116,
     "lastModified": "2020-05-18T00:00:00Z",
     "total": 11824707,
@@ -2454,7 +2454,7 @@
     "negativeIncrease": 333721,
     "positiveIncrease": 20992,
     "totalTestResultsIncrease": 354713,
-    "hash": "0e4d7f600a7410b83f72c95c6e1e5c27dfc81928"
+    "hash": "c1d5e4eabf2bc082efd3a3fe3e35d2861b1c4d76"
   },
   {
     "date": 20200517,
@@ -2470,7 +2470,7 @@
     "onVentilatorCumulative": 593,
     "recovered": 272265,
     "dateChecked": "2020-05-17T00:00:00Z",
-    "death": 85992,
+    "death": 85977,
     "hospitalized": 168959,
     "lastModified": "2020-05-17T00:00:00Z",
     "total": 11469847,
@@ -2481,7 +2481,7 @@
     "negativeIncrease": 350983,
     "positiveIncrease": 20171,
     "totalTestResultsIncrease": 371154,
-    "hash": "6a2ab3e737c3fc3c5be5ae9ccbff8bd83da2c77d"
+    "hash": "54d7195d24599545898d0899baca8e119f6a6262"
   },
   {
     "date": 20200516,
@@ -2497,7 +2497,7 @@
     "onVentilatorCumulative": 592,
     "recovered": 268376,
     "dateChecked": "2020-05-16T00:00:00Z",
-    "death": 85143,
+    "death": 85128,
     "hospitalized": 167760,
     "lastModified": "2020-05-16T00:00:00Z",
     "total": 11099032,
@@ -2508,7 +2508,7 @@
     "negativeIncrease": 337419,
     "positiveIncrease": 24701,
     "totalTestResultsIncrease": 362120,
-    "hash": "8a6939917667c40c02e107b5644e27e2cd6a79ee"
+    "hash": "608fb7ab306ac0b6dc3de6b387cec0f79afc2b24"
   },
   {
     "date": 20200515,
@@ -2524,7 +2524,7 @@
     "onVentilatorCumulative": 589,
     "recovered": 250747,
     "dateChecked": "2020-05-15T00:00:00Z",
-    "death": 84154,
+    "death": 84139,
     "hospitalized": 165904,
     "lastModified": "2020-05-15T00:00:00Z",
     "total": 10735581,
@@ -2535,7 +2535,7 @@
     "negativeIncrease": 333613,
     "positiveIncrease": 24710,
     "totalTestResultsIncrease": 358323,
-    "hash": "153c6ca606f57b471c70552450ee1353a6aeda97"
+    "hash": "b30dd449431529a1f062d0e729882b727bcdef02"
   },
   {
     "date": 20200514,
@@ -2551,7 +2551,7 @@
     "onVentilatorCumulative": 582,
     "recovered": 246414,
     "dateChecked": "2020-05-14T00:00:00Z",
-    "death": 82647,
+    "death": 82632,
     "hospitalized": 164551,
     "lastModified": "2020-05-14T00:00:00Z",
     "total": 10377474,
@@ -2562,7 +2562,7 @@
     "negativeIncrease": 337369,
     "positiveIncrease": 26705,
     "totalTestResultsIncrease": 364074,
-    "hash": "808104eacb9fb97a3c074e8a6400dc64a8e93eb4"
+    "hash": "7e14a776cb10fe9a89bd1735a41ee932e6ad9a3e"
   },
   {
     "date": 20200513,
@@ -2578,18 +2578,18 @@
     "onVentilatorCumulative": 572,
     "recovered": 243430,
     "dateChecked": "2020-05-13T00:00:00Z",
-    "death": 80767,
+    "death": 80752,
     "hospitalized": 161345,
     "lastModified": "2020-05-13T00:00:00Z",
     "total": 10012710,
     "totalTestResults": 10010727,
     "posNeg": 10010727,
-    "deathIncrease": 1705,
+    "deathIncrease": 1706,
     "hospitalizedIncrease": 1809,
     "negativeIncrease": 297848,
     "positiveIncrease": 21193,
     "totalTestResultsIncrease": 319041,
-    "hash": "ada6006cba0b437b098389e6784214e00746c7bd"
+    "hash": "4bbf543cd94a0463ce3152395d19ce0ac2fbf281"
   },
   {
     "date": 20200512,
@@ -2605,18 +2605,18 @@
     "onVentilatorCumulative": 559,
     "recovered": 238857,
     "dateChecked": "2020-05-12T00:00:00Z",
-    "death": 79062,
+    "death": 79046,
     "hospitalized": 159536,
     "lastModified": "2020-05-12T00:00:00Z",
     "total": 9693489,
     "totalTestResults": 9691686,
     "posNeg": 9691686,
-    "deathIncrease": 1486,
+    "deathIncrease": 1487,
     "hospitalizedIncrease": 1579,
     "negativeIncrease": 285892,
     "positiveIncrease": 22663,
     "totalTestResultsIncrease": 308555,
-    "hash": "de1626a0911c60a43ecba29541e9b3ed34ff8e2c"
+    "hash": "6c8bab2955ebc4fb4e7092e3f2c2e4fb33542663"
   },
   {
     "date": 20200511,
@@ -2632,7 +2632,7 @@
     "onVentilatorCumulative": 551,
     "recovered": 232142,
     "dateChecked": "2020-05-11T00:00:00Z",
-    "death": 77576,
+    "death": 77559,
     "hospitalized": 157957,
     "lastModified": "2020-05-11T00:00:00Z",
     "total": 9385120,
@@ -2643,7 +2643,7 @@
     "negativeIncrease": 363887,
     "positiveIncrease": 18236,
     "totalTestResultsIncrease": 382123,
-    "hash": "28ae0d685e4965b199d56e7d3a35c41435f81b7a"
+    "hash": "8d6708c6ea91ba38f7cf86c54e1d66d6c2b56f70"
   },
   {
     "date": 20200510,
@@ -2659,7 +2659,7 @@
     "onVentilatorCumulative": 547,
     "recovered": 215591,
     "dateChecked": "2020-05-10T00:00:00Z",
-    "death": 76683,
+    "death": 76666,
     "hospitalized": 156719,
     "lastModified": "2020-05-10T00:00:00Z",
     "total": 9004103,
@@ -2670,7 +2670,7 @@
     "negativeIncrease": 244826,
     "positiveIncrease": 21504,
     "totalTestResultsIncrease": 266330,
-    "hash": "fa7e66c553541278fc73721a54011cf716e0b6db"
+    "hash": "88695d3a7ad9ff2b101b6cc3c92d2d7bae7f6d7a"
   },
   {
     "date": 20200509,
@@ -2686,7 +2686,7 @@
     "onVentilatorCumulative": 543,
     "recovered": 211976,
     "dateChecked": "2020-05-09T00:00:00Z",
-    "death": 75645,
+    "death": 75628,
     "hospitalized": 155664,
     "lastModified": "2020-05-09T00:00:00Z",
     "total": 8737732,
@@ -2697,7 +2697,7 @@
     "negativeIncrease": 266799,
     "positiveIncrease": 24810,
     "totalTestResultsIncrease": 291609,
-    "hash": "5e367d510b0ab5bca3f173de15f59529e57b494c"
+    "hash": "b8b2b109ac6d0f2a01235bf75fc19006e7a1487c"
   },
   {
     "date": 20200508,
@@ -2713,7 +2713,7 @@
     "onVentilatorCumulative": 531,
     "recovered": 198459,
     "dateChecked": "2020-05-08T00:00:00Z",
-    "death": 74199,
+    "death": 74182,
     "hospitalized": 153956,
     "lastModified": "2020-05-08T00:00:00Z",
     "total": 8446376,
@@ -2724,7 +2724,7 @@
     "negativeIncrease": 270245,
     "positiveIncrease": 27605,
     "totalTestResultsIncrease": 297850,
-    "hash": "6e6627ae930ee57cabfe1122b08a780b67ac269d"
+    "hash": "7fe9706db3a45ddf3a30ac08f58f9e7464e7a8b6"
   },
   {
     "date": 20200507,
@@ -2740,7 +2740,7 @@
     "onVentilatorCumulative": 529,
     "recovered": 194528,
     "dateChecked": "2020-05-07T00:00:00Z",
-    "death": 72399,
+    "death": 72382,
     "hospitalized": 147064,
     "lastModified": "2020-05-07T00:00:00Z",
     "total": 8148390,
@@ -2751,7 +2751,7 @@
     "negativeIncrease": 274154,
     "positiveIncrease": 27490,
     "totalTestResultsIncrease": 301644,
-    "hash": "2f65a3a673b2ec08e8478c303bd768704537c326"
+    "hash": "e31f923a9f2e5dd9d066f6feae7c6f3c0dd057b1"
   },
   {
     "date": 20200506,
@@ -2767,7 +2767,7 @@
     "onVentilatorCumulative": 449,
     "recovered": 189425,
     "dateChecked": "2020-05-06T00:00:00Z",
-    "death": 69645,
+    "death": 69628,
     "hospitalized": 143322,
     "lastModified": "2020-05-06T00:00:00Z",
     "total": 7846317,
@@ -2778,7 +2778,7 @@
     "negativeIncrease": 219777,
     "positiveIncrease": 25056,
     "totalTestResultsIncrease": 244833,
-    "hash": "f8473e748b8af73143220003bc145798ee6f3b88"
+    "hash": "88e8e5de179ee00db7c9e6c21fd5b41a10821544"
   },
   {
     "date": 20200505,
@@ -2794,7 +2794,7 @@
     "onVentilatorCumulative": 439,
     "recovered": 189336,
     "dateChecked": "2020-05-05T00:00:00Z",
-    "death": 67694,
+    "death": 67677,
     "hospitalized": 141203,
     "lastModified": "2020-05-05T00:00:00Z",
     "total": 7601375,
@@ -2805,7 +2805,7 @@
     "negativeIncrease": 249022,
     "positiveIncrease": 22449,
     "totalTestResultsIncrease": 271471,
-    "hash": "b5aeb064e59b4d07640b9baa7ed42d5290ab4384"
+    "hash": "32b35a3440302e3fc59e3f02ea16c3b8c18a2877"
   },
   {
     "date": 20200504,
@@ -2821,7 +2821,7 @@
     "onVentilatorCumulative": 430,
     "recovered": 186752,
     "dateChecked": "2020-05-04T00:00:00Z",
-    "death": 65239,
+    "death": 65222,
     "hospitalized": 139220,
     "lastModified": "2020-05-04T00:00:00Z",
     "total": 7330062,
@@ -2832,7 +2832,7 @@
     "negativeIncrease": 208933,
     "positiveIncrease": 22523,
     "totalTestResultsIncrease": 231456,
-    "hash": "51fc071c7c2efe9b4a9da3d41129ff64b8687382"
+    "hash": "03cb11ff4ff94cf771f098e0749d8ec3cbd41c5a"
   },
   {
     "date": 20200503,
@@ -2848,7 +2848,7 @@
     "onVentilatorCumulative": 425,
     "recovered": 179733,
     "dateChecked": "2020-05-03T00:00:00Z",
-    "death": 64203,
+    "death": 64186,
     "hospitalized": 137569,
     "lastModified": "2020-05-03T00:00:00Z",
     "total": 7098627,
@@ -2859,7 +2859,7 @@
     "negativeIncrease": 210747,
     "positiveIncrease": 25767,
     "totalTestResultsIncrease": 236514,
-    "hash": "25219de22ef30148e9e070901daa8dd62643faf3"
+    "hash": "cf961335c59adee5df55a8c8abb67434e131ca56"
   },
   {
     "date": 20200502,
@@ -2875,7 +2875,7 @@
     "onVentilatorCumulative": 375,
     "recovered": 174987,
     "dateChecked": "2020-05-02T00:00:00Z",
-    "death": 62972,
+    "death": 62955,
     "hospitalized": 135606,
     "lastModified": "2020-05-02T00:00:00Z",
     "total": 6860879,
@@ -2886,7 +2886,7 @@
     "negativeIncrease": 217899,
     "positiveIncrease": 29185,
     "totalTestResultsIncrease": 247084,
-    "hash": "37b3dfa794f0ccc037c1cf69b022b9fa37d945f7"
+    "hash": "5cfe4026463eab48d4a87315e7546584d574ad6a"
   },
   {
     "date": 20200501,
@@ -2902,7 +2902,7 @@
     "onVentilatorCumulative": 376,
     "recovered": 163644,
     "dateChecked": "2020-05-01T00:00:00Z",
-    "death": 61407,
+    "death": 61390,
     "hospitalized": 133575,
     "lastModified": "2020-05-01T00:00:00Z",
     "total": 6613856,
@@ -2913,7 +2913,7 @@
     "negativeIncrease": 262170,
     "positiveIncrease": 33056,
     "totalTestResultsIncrease": 295226,
-    "hash": "81b2ab5a7f5115ec1181427d87e38274c00437d7"
+    "hash": "68cf59db542ee95fc9e6c7a6973aee7181f48024"
   },
   {
     "date": 20200430,
@@ -2929,7 +2929,7 @@
     "onVentilatorCumulative": 373,
     "recovered": 154648,
     "dateChecked": "2020-04-30T00:00:00Z",
-    "death": 59629,
+    "death": 59612,
     "hospitalized": 123786,
     "lastModified": "2020-04-30T00:00:00Z",
     "total": 6319766,
@@ -2940,7 +2940,7 @@
     "negativeIncrease": 203240,
     "positiveIncrease": 29568,
     "totalTestResultsIncrease": 232808,
-    "hash": "5e22ac24d1d1a3fe46cd10177b2b50c3a0611328"
+    "hash": "a28481a150338b4201fc054da69e722dac3d7b6e"
   },
   {
     "date": 20200429,
@@ -2956,7 +2956,7 @@
     "onVentilatorCumulative": 365,
     "recovered": 147165,
     "dateChecked": "2020-04-29T00:00:00Z",
-    "death": 57487,
+    "death": 57470,
     "hospitalized": 121496,
     "lastModified": "2020-04-29T00:00:00Z",
     "total": 6089015,
@@ -2967,7 +2967,7 @@
     "negativeIncrease": 211964,
     "positiveIncrease": 26641,
     "totalTestResultsIncrease": 238605,
-    "hash": "d2b10e5b75f6aef06b49bd670cf9b136a5e73468"
+    "hash": "926393e120277972870c51cfa0a9e30183580414"
   },
   {
     "date": 20200428,
@@ -2983,7 +2983,7 @@
     "onVentilatorCumulative": 195,
     "recovered": 139041,
     "dateChecked": "2020-04-28T00:00:00Z",
-    "death": 54774,
+    "death": 54757,
     "hospitalized": 118081,
     "lastModified": "2020-04-28T00:00:00Z",
     "total": 5849784,
@@ -2994,7 +2994,7 @@
     "negativeIncrease": 181395,
     "positiveIncrease": 25219,
     "totalTestResultsIncrease": 206614,
-    "hash": "95e14dd65e14a133743f23ee6c05b4bc00e4aded"
+    "hash": "0b70086b9548e924fada8d3502a80d3fb2ac6543"
   },
   {
     "date": 20200427,
@@ -3010,7 +3010,7 @@
     "onVentilatorCumulative": 195,
     "recovered": 121323,
     "dateChecked": "2020-04-27T00:00:00Z",
-    "death": 52700,
+    "death": 52683,
     "hospitalized": 116002,
     "lastModified": "2020-04-27T00:00:00Z",
     "total": 5643041,
@@ -3021,7 +3021,7 @@
     "negativeIncrease": 172795,
     "positiveIncrease": 22605,
     "totalTestResultsIncrease": 195400,
-    "hash": "5ab30561b6f1fe1a76e5edb9381a3fc53a142425"
+    "hash": "25140b4bb6bc862689dfb024410c5c30ec9b1eb5"
   },
   {
     "date": 20200426,
@@ -3037,18 +3037,18 @@
     "onVentilatorCumulative": 227,
     "recovered": 116529,
     "dateChecked": "2020-04-26T00:00:00Z",
-    "death": 51426,
+    "death": 51409,
     "hospitalized": 112926,
     "lastModified": "2020-04-26T00:00:00Z",
     "total": 5448009,
     "totalTestResults": 5443564,
     "posNeg": 5443564,
-    "deathIncrease": 1219,
+    "deathIncrease": 1217,
     "hospitalizedIncrease": 2192,
     "negativeIncrease": 178908,
     "positiveIncrease": 27380,
     "totalTestResultsIncrease": 206288,
-    "hash": "d3e1c0f08b9ab0bec02604b99f665041c05e6989"
+    "hash": "e5920322a87f9a1346b30aa5ae7d5f22c78eb7d3"
   },
   {
     "date": 20200425,
@@ -3064,18 +3064,18 @@
     "onVentilatorCumulative": 227,
     "recovered": 112539,
     "dateChecked": "2020-04-25T00:00:00Z",
-    "death": 50207,
+    "death": 50192,
     "hospitalized": 110734,
     "lastModified": "2020-04-25T00:00:00Z",
     "total": 5242591,
     "totalTestResults": 5237276,
     "posNeg": 5237276,
-    "deathIncrease": 1752,
+    "deathIncrease": 1751,
     "hospitalizedIncrease": 2456,
     "negativeIncrease": 240249,
     "positiveIncrease": 35901,
     "totalTestResultsIncrease": 276150,
-    "hash": "9831797685625dc716e6aa9d539a554ed392ecca"
+    "hash": "346be24ad5c6f359c864cdbae50410bdcf3da7f4"
   },
   {
     "date": 20200424,
@@ -3091,7 +3091,7 @@
     "onVentilatorCumulative": 227,
     "recovered": 101296,
     "dateChecked": "2020-04-24T00:00:00Z",
-    "death": 48455,
+    "death": 48441,
     "hospitalized": 108278,
     "lastModified": "2020-04-24T00:00:00Z",
     "total": 4965522,
@@ -3102,7 +3102,7 @@
     "negativeIncrease": 201683,
     "positiveIncrease": 34174,
     "totalTestResultsIncrease": 235857,
-    "hash": "3a44e6b0a15cad29aa8c565c6884c81d57abc4ba"
+    "hash": "a4deeffc40c5284ba01d3d21f77011931c412df9"
   },
   {
     "date": 20200423,
@@ -3118,7 +3118,7 @@
     "onVentilatorCumulative": 227,
     "recovered": 96921,
     "dateChecked": "2020-04-23T00:00:00Z",
-    "death": 46558,
+    "death": 46544,
     "hospitalized": 105940,
     "lastModified": "2020-04-23T00:00:00Z",
     "total": 4729527,
@@ -3129,7 +3129,7 @@
     "negativeIncrease": 161026,
     "positiveIncrease": 31784,
     "totalTestResultsIncrease": 192810,
-    "hash": "040f5127224948a0564c134fc720560eeb01fcfc"
+    "hash": "0bec3b4614ff44b4b64456947e59a436c2cb7f3d"
   },
   {
     "date": 20200422,
@@ -3145,18 +3145,18 @@
     "onVentilatorCumulative": 227,
     "recovered": 92978,
     "dateChecked": "2020-04-22T00:00:00Z",
-    "death": 44764,
+    "death": 44750,
     "hospitalized": 103138,
     "lastModified": "2020-04-22T00:00:00Z",
     "total": 4536650,
     "totalTestResults": 4532459,
     "posNeg": 4532459,
-    "deathIncrease": 2098,
+    "deathIncrease": 2097,
     "hospitalizedIncrease": 3087,
     "negativeIncrease": 294567,
     "positiveIncrease": 28916,
     "totalTestResultsIncrease": 323483,
-    "hash": "d82319db4cbfde3e74870d511b59badeed2191a3"
+    "hash": "0e5bac5c9291b7ca8677921d467d701bf029fb88"
   },
   {
     "date": 20200421,
@@ -3172,18 +3172,18 @@
     "onVentilatorCumulative": 214,
     "recovered": 72842,
     "dateChecked": "2020-04-21T00:00:00Z",
-    "death": 42666,
+    "death": 42653,
     "hospitalized": 100051,
     "lastModified": "2020-04-21T00:00:00Z",
     "total": 4212932,
     "totalTestResults": 4208976,
     "posNeg": 4208976,
-    "deathIncrease": 2467,
+    "deathIncrease": 2468,
     "hospitalizedIncrease": 2682,
     "negativeIncrease": 126501,
     "positiveIncrease": 26333,
     "totalTestResultsIncrease": 152834,
-    "hash": "fa290d1da5b9b401c29c62211fca94d2e7930cbe"
+    "hash": "8f8742ed31be4c7418c3f6c1b381e3d45e17b20c"
   },
   {
     "date": 20200420,
@@ -3199,18 +3199,18 @@
     "onVentilatorCumulative": 214,
     "recovered": 69493,
     "dateChecked": "2020-04-20T00:00:00Z",
-    "death": 40199,
+    "death": 40185,
     "hospitalized": 97369,
     "lastModified": "2020-04-20T00:00:00Z",
     "total": 4060179,
     "totalTestResults": 4056142,
     "posNeg": 4056142,
-    "deathIncrease": 1801,
+    "deathIncrease": 1800,
     "hospitalizedIncrease": 2211,
     "negativeIncrease": 119816,
     "positiveIncrease": 25872,
     "totalTestResultsIncrease": 145688,
-    "hash": "cfd12c289257313ef1eff271a3aa28e6860cb13f"
+    "hash": "a925f48964d429135228fe3db0feb36a9bfef285"
   },
   {
     "date": 20200419,
@@ -3226,7 +3226,7 @@
     "onVentilatorCumulative": 214,
     "recovered": 67205,
     "dateChecked": "2020-04-19T00:00:00Z",
-    "death": 38398,
+    "death": 38385,
     "hospitalized": 95158,
     "lastModified": "2020-04-19T00:00:00Z",
     "total": 3921778,
@@ -3237,7 +3237,7 @@
     "negativeIncrease": 126462,
     "positiveIncrease": 27468,
     "totalTestResultsIncrease": 153930,
-    "hash": "60e092fb7304672941e96d78cf9b62dfe2c28cfe"
+    "hash": "39530ebf554c8bc0640368ee621999ff4233108c"
   },
   {
     "date": 20200418,
@@ -3253,7 +3253,7 @@
     "onVentilatorCumulative": 205,
     "recovered": 62840,
     "dateChecked": "2020-04-18T00:00:00Z",
-    "death": 36625,
+    "death": 36612,
     "hospitalized": 92919,
     "lastModified": "2020-04-18T00:00:00Z",
     "total": 3766430,
@@ -3264,7 +3264,7 @@
     "negativeIncrease": 117871,
     "positiveIncrease": 27963,
     "totalTestResultsIncrease": 145834,
-    "hash": "51ef54eabcaafece809b833ce0c8847b231f68bb"
+    "hash": "f33efac265034a40e6fd8cc0a75ba736e8a2ce76"
   },
   {
     "date": 20200417,
@@ -3280,18 +3280,18 @@
     "onVentilatorCumulative": 148,
     "recovered": 53533,
     "dateChecked": "2020-04-17T00:00:00Z",
-    "death": 34732,
+    "death": 34719,
     "hospitalized": 89356,
     "lastModified": "2020-04-17T00:00:00Z",
     "total": 3621579,
     "totalTestResults": 3610690,
     "posNeg": 3610690,
-    "deathIncrease": 2123,
+    "deathIncrease": 2121,
     "hospitalizedIncrease": 3405,
     "negativeIncrease": 126720,
     "positiveIncrease": 31964,
     "totalTestResultsIncrease": 158684,
-    "hash": "0b69691099245f05549c585ab605498b5c4e2edf"
+    "hash": "0b0ca16cd20b47a908bbeffe008d4197e7cff6a8"
   },
   {
     "date": 20200416,
@@ -3307,18 +3307,18 @@
     "onVentilatorCumulative": 137,
     "recovered": 48851,
     "dateChecked": "2020-04-16T00:00:00Z",
-    "death": 32609,
+    "death": 32598,
     "hospitalized": 85951,
     "lastModified": "2020-04-16T00:00:00Z",
     "total": 3468933,
     "totalTestResults": 3452006,
     "posNeg": 3452006,
-    "deathIncrease": 2202,
+    "deathIncrease": 2201,
     "hospitalizedIncrease": 3071,
     "negativeIncrease": 132875,
     "positiveIncrease": 30923,
     "totalTestResultsIncrease": 163798,
-    "hash": "3c9c2d321ad2be0a865236c697c1286bcad81004"
+    "hash": "3323df65566b062309779df1b5e12d4ed47b49f3"
   },
   {
     "date": 20200415,
@@ -3334,18 +3334,18 @@
     "onVentilatorCumulative": 223,
     "recovered": 43435,
     "dateChecked": "2020-04-15T00:00:00Z",
-    "death": 30407,
+    "death": 30397,
     "hospitalized": 82880,
     "lastModified": "2020-04-15T00:00:00Z",
     "total": 3305109,
     "totalTestResults": 3288208,
     "posNeg": 3288208,
-    "deathIncrease": 2545,
+    "deathIncrease": 2544,
     "hospitalizedIncrease": 4434,
     "negativeIncrease": 106684,
     "positiveIncrease": 30298,
     "totalTestResultsIncrease": 136982,
-    "hash": "c0ffa7e15cb86046ab53ff5ba9b2ec15ab08f24a"
+    "hash": "8d40e2ba06b276beda7d4e1b3c18a41d55b39757"
   },
   {
     "date": 20200414,
@@ -3361,18 +3361,18 @@
     "onVentilatorCumulative": 221,
     "recovered": 39268,
     "dateChecked": "2020-04-14T00:00:00Z",
-    "death": 27862,
+    "death": 27853,
     "hospitalized": 78446,
     "lastModified": "2020-04-14T00:00:00Z",
     "total": 3167841,
     "totalTestResults": 3151226,
     "posNeg": 3151226,
-    "deathIncrease": 2340,
+    "deathIncrease": 2337,
     "hospitalizedIncrease": 3282,
     "negativeIncrease": 126141,
     "positiveIncrease": 25631,
     "totalTestResultsIncrease": 151772,
-    "hash": "1e7b997a43dad5559137384f4baf2fa4308b35a3"
+    "hash": "31c604ce245fccca1590c70cee406d7129c1b407"
   },
   {
     "date": 20200413,
@@ -3388,18 +3388,18 @@
     "onVentilatorCumulative": 210,
     "recovered": 35372,
     "dateChecked": "2020-04-13T00:00:00Z",
-    "death": 25522,
+    "death": 25516,
     "hospitalized": 75164,
     "lastModified": "2020-04-13T00:00:00Z",
     "total": 3016613,
     "totalTestResults": 2999454,
     "posNeg": 2999454,
-    "deathIncrease": 1646,
+    "deathIncrease": 1645,
     "hospitalizedIncrease": 4285,
     "negativeIncrease": 109050,
     "positiveIncrease": 25133,
     "totalTestResultsIncrease": 134183,
-    "hash": "b1e3f43257bd4876dfe4e6cbf3816a8edd78e31a"
+    "hash": "1996ba679a356ff8343581c8124ec23b1f98c258"
   },
   {
     "date": 20200412,
@@ -3415,18 +3415,18 @@
     "onVentilatorCumulative": 160,
     "recovered": 34081,
     "dateChecked": "2020-04-12T00:00:00Z",
-    "death": 23876,
+    "death": 23871,
     "hospitalized": 70879,
     "lastModified": "2020-04-12T00:00:00Z",
     "total": 2881690,
     "totalTestResults": 2865271,
     "posNeg": 2865271,
-    "deathIncrease": 1705,
+    "deathIncrease": 1703,
     "hospitalizedIncrease": 3288,
     "negativeIncrease": 111073,
     "positiveIncrease": 27844,
     "totalTestResultsIncrease": 138917,
-    "hash": "3c992054bd035fb95330922c3e178c3183002499"
+    "hash": "d1ed206ede85c2f7941699a0e776fe1e5aff4646"
   },
   {
     "date": 20200411,
@@ -3442,18 +3442,18 @@
     "onVentilatorCumulative": 154,
     "recovered": 31567,
     "dateChecked": "2020-04-11T00:00:00Z",
-    "death": 22171,
+    "death": 22168,
     "hospitalized": 67591,
     "lastModified": "2020-04-11T00:00:00Z",
     "total": 2742947,
     "totalTestResults": 2726354,
     "posNeg": 2726354,
-    "deathIncrease": 2056,
+    "deathIncrease": 2055,
     "hospitalizedIncrease": 2825,
     "negativeIncrease": 106426,
     "positiveIncrease": 30561,
     "totalTestResultsIncrease": 136987,
-    "hash": "c27617f97d5e3a909bee297d07f74fec61baaea0"
+    "hash": "52a590b0946850db2b61b3ba153cc9b60a733d81"
   },
   {
     "date": 20200410,
@@ -3469,18 +3469,18 @@
     "onVentilatorCumulative": 41,
     "recovered": 28997,
     "dateChecked": "2020-04-10T00:00:00Z",
-    "death": 20115,
+    "death": 20113,
     "hospitalized": 64766,
     "lastModified": "2020-04-10T00:00:00Z",
     "total": 2606802,
     "totalTestResults": 2589367,
     "posNeg": 2589367,
-    "deathIncrease": 2111,
+    "deathIncrease": 2109,
     "hospitalizedIncrease": 4934,
     "negativeIncrease": 124042,
     "positiveIncrease": 34351,
     "totalTestResultsIncrease": 158393,
-    "hash": "1838e653a439a289b8d9b0bd14b79ec8f8cd74a2"
+    "hash": "0be5cc4f3706f9e7190cd4dc4a70624b24d57350"
   },
   {
     "date": 20200409,
@@ -3583,7 +3583,7 @@
     "total": 1975469,
     "totalTestResults": 1958186,
     "posNeg": 1958186,
-    "deathIncrease": 1320,
+    "deathIncrease": 1319,
     "hospitalizedIncrease": 2946,
     "negativeIncrease": 123071,
     "positiveIncrease": 28937,
@@ -3604,7 +3604,7 @@
     "onVentilatorCumulative": 147,
     "recovered": 14513,
     "dateChecked": "2020-04-05T00:00:00Z",
-    "death": 10605,
+    "death": 10606,
     "hospitalized": 45671,
     "lastModified": "2020-04-05T00:00:00Z",
     "total": 1823481,
@@ -3615,7 +3615,7 @@
     "negativeIncrease": 94105,
     "positiveIncrease": 25550,
     "totalTestResultsIncrease": 119655,
-    "hash": "fb27de85a4e96913330793344b2eecd0c68acb1a"
+    "hash": "a5eb92fd131cd7dbdd50dfecf8c9b1b3018c31af"
   },
   {
     "date": 20200404,
@@ -3631,7 +3631,7 @@
     "onVentilatorCumulative": 147,
     "recovered": 12816,
     "dateChecked": "2020-04-04T00:00:00Z",
-    "death": 9265,
+    "death": 9266,
     "hospitalized": 41768,
     "lastModified": "2020-04-04T00:00:00Z",
     "total": 1702092,
@@ -3642,7 +3642,7 @@
     "negativeIncrease": 195941,
     "positiveIncrease": 33252,
     "totalTestResultsIncrease": 229193,
-    "hash": "d0ad4d4f1fc511ab289de457f89be4291d8707b2"
+    "hash": "148b6b15d10d6ad085fb63e5bd4b6de1e02481e7"
   },
   {
     "date": 20200403,
@@ -3658,7 +3658,7 @@
     "onVentilatorCumulative": 147,
     "recovered": 10861,
     "dateChecked": "2020-04-03T00:00:00Z",
-    "death": 7783,
+    "death": 7784,
     "hospitalized": 36682,
     "lastModified": "2020-04-03T00:00:00Z",
     "total": 1519306,
@@ -3669,7 +3669,7 @@
     "negativeIncrease": 100945,
     "positiveIncrease": 31945,
     "totalTestResultsIncrease": 132890,
-    "hash": "5225ef2accf74b3ff3f985105486d530fb8de316"
+    "hash": "89d1a3faabfd2c7c1bbcc22102eabfe4e4a34dac"
   },
   {
     "date": 20200402,
@@ -3685,7 +3685,7 @@
     "onVentilatorCumulative": 140,
     "recovered": 8586,
     "dateChecked": "2020-04-02T00:00:00Z",
-    "death": 6497,
+    "death": 6498,
     "hospitalized": 32128,
     "lastModified": "2020-04-02T00:00:00Z",
     "total": 1386537,
@@ -3696,7 +3696,7 @@
     "negativeIncrease": 90859,
     "positiveIncrease": 27992,
     "totalTestResultsIncrease": 118851,
-    "hash": "cecfccf846ed2d0dce0806dc87f631d8e4a11a91"
+    "hash": "aa1a63d520c2fe55158f6235217c23daca681146"
   },
   {
     "date": 20200401,
@@ -3712,7 +3712,7 @@
     "onVentilatorCumulative": 140,
     "recovered": 7084,
     "dateChecked": "2020-04-01T00:00:00Z",
-    "death": 5325,
+    "death": 5326,
     "hospitalized": 27953,
     "lastModified": "2020-04-01T00:00:00Z",
     "total": 1265254,
@@ -3723,7 +3723,7 @@
     "negativeIncrease": 82748,
     "positiveIncrease": 25773,
     "totalTestResultsIncrease": 108521,
-    "hash": "d9dc8dc51bf1eff65aa42a64d8fc6896d22314e4"
+    "hash": "1b3c94b4b08cc8bbfd831b65651242147f93eb65"
   },
   {
     "date": 20200331,
@@ -3739,7 +3739,7 @@
     "onVentilatorCumulative": null,
     "recovered": 5666,
     "dateChecked": "2020-03-31T00:00:00Z",
-    "death": 4315,
+    "death": 4316,
     "hospitalized": 23725,
     "lastModified": "2020-03-31T00:00:00Z",
     "total": 1156586,
@@ -3750,7 +3750,7 @@
     "negativeIncrease": 87636,
     "positiveIncrease": 24694,
     "totalTestResultsIncrease": 112330,
-    "hash": "1825694de800fbe7f70e4960c748510c96d24727"
+    "hash": "9beae60564bd69f8b739309ff5ca255c19bdc4bd"
   },
   {
     "date": 20200330,
@@ -3766,7 +3766,7 @@
     "onVentilatorCumulative": null,
     "recovered": 4560,
     "dateChecked": "2020-03-30T00:00:00Z",
-    "death": 3425,
+    "death": 3426,
     "hospitalized": 19819,
     "lastModified": "2020-03-30T00:00:00Z",
     "total": 1050107,
@@ -3777,7 +3777,7 @@
     "negativeIncrease": 96564,
     "positiveIncrease": 21897,
     "totalTestResultsIncrease": 118461,
-    "hash": "31ea6384bc4fbd8d8fb5537c0e17e8906cd0a508"
+    "hash": "0f2f328a79d284801b1a572f2523379e19e48580"
   },
   {
     "date": 20200329,
@@ -3793,18 +3793,18 @@
     "onVentilatorCumulative": null,
     "recovered": 4052,
     "dateChecked": "2020-03-29T00:00:00Z",
-    "death": 2836,
+    "death": 2837,
     "hospitalized": 17283,
     "lastModified": "2020-03-29T00:00:00Z",
     "total": 931822,
     "totalTestResults": 866277,
     "posNeg": 866277,
-    "deathIncrease": 522,
+    "deathIncrease": 521,
     "hospitalizedIncrease": 2775,
     "negativeIncrease": 67957,
     "positiveIncrease": 19655,
     "totalTestResultsIncrease": 87612,
-    "hash": "bbece15330358ea3930e6225887761b4785e8dcd"
+    "hash": "00217a7470b076cb4e421b96658db0c0186e4082"
   },
   {
     "date": 20200328,
@@ -3820,7 +3820,7 @@
     "onVentilatorCumulative": null,
     "recovered": 3143,
     "dateChecked": "2020-03-28T00:00:00Z",
-    "death": 2314,
+    "death": 2316,
     "hospitalized": 14508,
     "lastModified": "2020-03-28T00:00:00Z",
     "total": 844374,
@@ -3831,7 +3831,7 @@
     "negativeIncrease": 87146,
     "positiveIncrease": 19724,
     "totalTestResultsIncrease": 106870,
-    "hash": "c6f7e3558b8ac25624cb3069fff6132e472201c1"
+    "hash": "86ec361c201f9eadc1171d62cfa10a9de238c35f"
   },
   {
     "date": 20200327,
@@ -3847,7 +3847,7 @@
     "onVentilatorCumulative": null,
     "recovered": 2418,
     "dateChecked": "2020-03-27T00:00:00Z",
-    "death": 1776,
+    "death": 1778,
     "hospitalized": 12083,
     "lastModified": "2020-03-27T00:00:00Z",
     "total": 731886,
@@ -3858,7 +3858,7 @@
     "negativeIncrease": 83612,
     "positiveIncrease": 19044,
     "totalTestResultsIncrease": 102656,
-    "hash": "3b979ff2553183c9230a0ca9da187124fd8993c3"
+    "hash": "d8caea0f79ab2b938febced87d8c79a0ec2ef022"
   },
   {
     "date": 20200326,
@@ -3874,7 +3874,7 @@
     "onVentilatorCumulative": null,
     "recovered": 97,
     "dateChecked": "2020-03-26T00:00:00Z",
-    "death": 1370,
+    "death": 1372,
     "hospitalized": 9520,
     "lastModified": "2020-03-26T00:00:00Z",
     "total": 629390,
@@ -3885,7 +3885,7 @@
     "negativeIncrease": 84159,
     "positiveIncrease": 17656,
     "totalTestResultsIncrease": 101815,
-    "hash": "fc854bdf792a65f5e8386ce98d3382a834e7b4fb"
+    "hash": "a1ee7b5f0569103923a8e56c31ca85820fbc447a"
   },
   {
     "date": 20200325,
@@ -3901,7 +3901,7 @@
     "onVentilatorCumulative": null,
     "recovered": 146,
     "dateChecked": "2020-03-25T00:00:00Z",
-    "death": 1050,
+    "death": 1052,
     "hospitalized": 7021,
     "lastModified": "2020-03-25T00:00:00Z",
     "total": 518559,
@@ -3912,7 +3912,7 @@
     "negativeIncrease": 71521,
     "positiveIncrease": 12873,
     "totalTestResultsIncrease": 84394,
-    "hash": "1b812f4480b250681e2208446316fea06fbd51ec"
+    "hash": "6657f1ed867eb6b08ba6727a01d996c4addad71e"
   },
   {
     "date": 20200324,
@@ -3928,7 +3928,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-24T00:00:00Z",
-    "death": 815,
+    "death": 817,
     "hospitalized": 5117,
     "lastModified": "2020-03-24T00:00:00Z",
     "total": 397363,
@@ -3939,7 +3939,7 @@
     "negativeIncrease": 58505,
     "positiveIncrease": 10632,
     "totalTestResultsIncrease": 69137,
-    "hash": "50db196291a433f36461f35e6198560d9cf6ec9a"
+    "hash": "c521c660eabcebf8e29ca21ba5155069b3d3242e"
   },
   {
     "date": 20200323,
@@ -3955,7 +3955,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-23T00:00:00Z",
-    "death": 581,
+    "death": 583,
     "hospitalized": 3937,
     "lastModified": "2020-03-23T00:00:00Z",
     "total": 328364,
@@ -3966,7 +3966,7 @@
     "negativeIncrease": 46706,
     "positiveIncrease": 11442,
     "totalTestResultsIncrease": 58148,
-    "hash": "777bb0e2e4814997f1fb6ea33924504169263338"
+    "hash": "6dc7e4635b97a900558d78774c2a90a65cfc7c85"
   },
   {
     "date": 20200322,
@@ -3982,7 +3982,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-22T00:00:00Z",
-    "death": 480,
+    "death": 482,
     "hospitalized": 3023,
     "lastModified": "2020-03-22T00:00:00Z",
     "total": 258487,
@@ -3993,7 +3993,7 @@
     "negativeIncrease": 36214,
     "positiveIncrease": 9259,
     "totalTestResultsIncrease": 45473,
-    "hash": "56da0dc4424cfd63217fc457e219d5236f7b0024"
+    "hash": "a84a4250bd5c237377d4cf6be593a99d1b2553e9"
   },
   {
     "date": 20200321,
@@ -4009,7 +4009,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-21T00:00:00Z",
-    "death": 334,
+    "death": 336,
     "hospitalized": 2020,
     "lastModified": "2020-03-21T00:00:00Z",
     "total": 213640,
@@ -4020,7 +4020,7 @@
     "negativeIncrease": 38448,
     "positiveIncrease": 6885,
     "totalTestResultsIncrease": 45333,
-    "hash": "57e0f19becdba98e32ca11238b5987d3d61f62b9"
+    "hash": "1f6db20566c5183062eea0d723bc2853ebc64564"
   },
   {
     "date": 20200320,
@@ -4036,7 +4036,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-20T00:00:00Z",
-    "death": 272,
+    "death": 274,
     "hospitalized": 108,
     "lastModified": "2020-03-20T00:00:00Z",
     "total": 168169,
@@ -4047,7 +4047,7 @@
     "negativeIncrease": 30407,
     "positiveIncrease": 6255,
     "totalTestResultsIncrease": 36662,
-    "hash": "7e334f503f61dd9578d4ae01661974d31cbac9d2"
+    "hash": "f2c524c3a8a8abd46b4455a9b12e9f14810cda3b"
   },
   {
     "date": 20200319,
@@ -4063,7 +4063,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-19T00:00:00Z",
-    "death": 203,
+    "death": 205,
     "hospitalized": 85,
     "lastModified": "2020-03-19T00:00:00Z",
     "total": 131193,
@@ -4074,7 +4074,7 @@
     "negativeIncrease": 23410,
     "positiveIncrease": 4671,
     "totalTestResultsIncrease": 28081,
-    "hash": "85763a036c2baf6a1fb75d0221b9a983dbefdc23"
+    "hash": "d8745701f0175658682f0e76db666ad127acdf91"
   },
   {
     "date": 20200318,
@@ -4090,7 +4090,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-18T00:00:00Z",
-    "death": 155,
+    "death": 157,
     "hospitalized": 67,
     "lastModified": "2020-03-18T00:00:00Z",
     "total": 102622,
@@ -4101,7 +4101,7 @@
     "negativeIncrease": 21893,
     "positiveIncrease": 3171,
     "totalTestResultsIncrease": 25064,
-    "hash": "aeb0f83ebfe0a8af01324a1644af4590fc7ab8c4"
+    "hash": "b32cff698cad610c69ceded8eccbf623d6f0103c"
   },
   {
     "date": 20200317,
@@ -4117,7 +4117,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-17T00:00:00Z",
-    "death": 123,
+    "death": 125,
     "hospitalized": 55,
     "lastModified": "2020-03-17T00:00:00Z",
     "total": 76719,
@@ -4128,7 +4128,7 @@
     "negativeIncrease": 13707,
     "positiveIncrease": 3613,
     "totalTestResultsIncrease": 17320,
-    "hash": "f16d5683cd832ab0a48069eb88bd882afe34c0b8"
+    "hash": "24fc9b68071a26105b73e8e68f838dba86fb82d7"
   },
   {
     "date": 20200316,
@@ -4144,7 +4144,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-16T00:00:00Z",
-    "death": 100,
+    "death": 102,
     "hospitalized": 42,
     "lastModified": "2020-03-16T00:00:00Z",
     "total": 59403,
@@ -4155,7 +4155,7 @@
     "negativeIncrease": 16355,
     "positiveIncrease": 1569,
     "totalTestResultsIncrease": 17924,
-    "hash": "8ca2bf3f16866e855b0ec36e3481ceb7d3116d52"
+    "hash": "34c5a68d2e3cab5c8f9289191d8b1dc5987a94fa"
   },
   {
     "date": 20200315,
@@ -4171,7 +4171,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-15T00:00:00Z",
-    "death": 79,
+    "death": 81,
     "hospitalized": 36,
     "lastModified": "2020-03-15T00:00:00Z",
     "total": 42030,
@@ -4182,7 +4182,7 @@
     "negativeIncrease": 6353,
     "positiveIncrease": 1251,
     "totalTestResultsIncrease": 7604,
-    "hash": "d9129e8dd741b26b80d0b9180ccf7bd1ed98a480"
+    "hash": "2c1caff953fb764d69f521f27ae7536be483d151"
   },
   {
     "date": 20200314,
@@ -4198,7 +4198,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-14T00:00:00Z",
-    "death": 64,
+    "death": 66,
     "hospitalized": 26,
     "lastModified": "2020-03-14T00:00:00Z",
     "total": 33420,
@@ -4209,7 +4209,7 @@
     "negativeIncrease": 3695,
     "positiveIncrease": 915,
     "totalTestResultsIncrease": 4610,
-    "hash": "49cc88b2bc27734b8f33ad1f66a723088a8b7c74"
+    "hash": "39a9d087a77182bea647f39adcbfe8a3a2c1f18b"
   },
   {
     "date": 20200313,
@@ -4225,7 +4225,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-13T00:00:00Z",
-    "death": 55,
+    "death": 57,
     "hospitalized": 22,
     "lastModified": "2020-03-13T00:00:00Z",
     "total": 28704,
@@ -4236,7 +4236,7 @@
     "negativeIncrease": 8146,
     "positiveIncrease": 1025,
     "totalTestResultsIncrease": 9171,
-    "hash": "682239005489591755bab6e073391e461b66d3e2"
+    "hash": "b59353b93b79ef083523433767bbe4673e882142"
   },
   {
     "date": 20200312,
@@ -4252,7 +4252,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-12T00:00:00Z",
-    "death": 51,
+    "death": 53,
     "hospitalized": 16,
     "lastModified": "2020-03-12T00:00:00Z",
     "total": 19076,
@@ -4263,7 +4263,7 @@
     "negativeIncrease": 4628,
     "positiveIncrease": 682,
     "totalTestResultsIncrease": 5310,
-    "hash": "531b3418e993cb86c70346d5cc2d763459f9221e"
+    "hash": "9b075dbe2202f9aaa70d419fcb5090c98e8b446e"
   },
   {
     "date": 20200311,
@@ -4279,7 +4279,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-11T00:00:00Z",
-    "death": 43,
+    "death": 45,
     "hospitalized": 11,
     "lastModified": "2020-03-11T00:00:00Z",
     "total": 13656,
@@ -4290,7 +4290,7 @@
     "negativeIncrease": 3291,
     "positiveIncrease": 527,
     "totalTestResultsIncrease": 3818,
-    "hash": "58cdab18c3a7ebcf5c056033114d95e47c6580dc"
+    "hash": "222f33c7d4f9f68a85da3abc1b3e574a5d6b19b6"
   },
   {
     "date": 20200310,
@@ -4306,7 +4306,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-10T00:00:00Z",
-    "death": 37,
+    "death": 39,
     "hospitalized": 8,
     "lastModified": "2020-03-10T00:00:00Z",
     "total": 9744,
@@ -4317,7 +4317,7 @@
     "negativeIncrease": 2049,
     "positiveIncrease": 441,
     "totalTestResultsIncrease": 2490,
-    "hash": "ab56d59efee3cc53d6b5ccb4ab2c2a013b3f288e"
+    "hash": "edb536c4ca803cb3d6925c9b9ab9c909b3887383"
   },
   {
     "date": 20200309,
@@ -4333,7 +4333,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-09T00:00:00Z",
-    "death": 35,
+    "death": 37,
     "hospitalized": 8,
     "lastModified": "2020-03-09T00:00:00Z",
     "total": 7098,
@@ -4344,7 +4344,7 @@
     "negativeIncrease": 1406,
     "positiveIncrease": 367,
     "totalTestResultsIncrease": 1773,
-    "hash": "eb067ecd1e4c000fa63581d54354a087acdb20a9"
+    "hash": "3cb53932894c3afe695913720d32ed2d45c344d7"
   },
   {
     "date": 20200308,
@@ -4360,7 +4360,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-08T00:00:00Z",
-    "death": 31,
+    "death": 33,
     "hospitalized": 6,
     "lastModified": "2020-03-08T00:00:00Z",
     "total": 5359,
@@ -4371,7 +4371,7 @@
     "negativeIncrease": 607,
     "positiveIncrease": 267,
     "totalTestResultsIncrease": 874,
-    "hash": "123818b12d7bf319cf633fcae0eda458d42744f3"
+    "hash": "55910df4378962d938ed6926d672399fd65efbc1"
   },
   {
     "date": 20200307,
@@ -4387,7 +4387,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-07T00:00:00Z",
-    "death": 27,
+    "death": 29,
     "hospitalized": 6,
     "lastModified": "2020-03-07T00:00:00Z",
     "total": 4740,
@@ -4398,7 +4398,7 @@
     "negativeIncrease": 578,
     "positiveIncrease": 220,
     "totalTestResultsIncrease": 798,
-    "hash": "65acb6af12715c6be8ca7b3803deb75ed408bd9f"
+    "hash": "d9f377a4cc78a190bd4904aed9e71e460ea2aa6b"
   },
   {
     "date": 20200306,
@@ -4414,7 +4414,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-06T00:00:00Z",
-    "death": 26,
+    "death": 28,
     "hospitalized": 6,
     "lastModified": "2020-03-06T00:00:00Z",
     "total": 3798,
@@ -4425,7 +4425,7 @@
     "negativeIncrease": 645,
     "positiveIncrease": 141,
     "totalTestResultsIncrease": 786,
-    "hash": "bff341983cc3d91067e76e695a7b20466039800f"
+    "hash": "4d04803ba1742f31b637294d1e1d21844fe4fbe5"
   },
   {
     "date": 20200305,
@@ -4441,7 +4441,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-05T00:00:00Z",
-    "death": 20,
+    "death": 22,
     "hospitalized": 5,
     "lastModified": "2020-03-05T00:00:00Z",
     "total": 2751,
@@ -4452,11 +4452,11 @@
     "negativeIncrease": 464,
     "positiveIncrease": 153,
     "totalTestResultsIncrease": 617,
-    "hash": "bbeb057e0be9cfaa0574f478dd604069f36a2225"
+    "hash": "fc3e0b0c22bd000a9e2ae4e199cfcbfd347b22bb"
   },
   {
     "date": 20200304,
-    "states": 15,
+    "states": 16,
     "positive": 757,
     "negative": 1180,
     "pending": 103,
@@ -4468,7 +4468,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-04T00:00:00Z",
-    "death": 16,
+    "death": 18,
     "hospitalized": 4,
     "lastModified": "2020-03-04T00:00:00Z",
     "total": 2040,
@@ -4479,11 +4479,11 @@
     "negativeIncrease": 911,
     "positiveIncrease": 187,
     "totalTestResultsIncrease": 1098,
-    "hash": "3f96feb9ff9259be2ec3fbc99edc9eac7ff266e3"
+    "hash": "5c8c8ef7f9e54696c01d3bb63b2605d85ac3c63e"
   },
   {
     "date": 20200303,
-    "states": 3,
+    "states": 4,
     "positive": 570,
     "negative": 269,
     "pending": null,
@@ -4495,7 +4495,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-03T00:00:00Z",
-    "death": 14,
+    "death": 16,
     "hospitalized": null,
     "lastModified": "2020-03-03T00:00:00Z",
     "total": 839,
@@ -4506,11 +4506,11 @@
     "negativeIncrease": 143,
     "positiveIncrease": 100,
     "totalTestResultsIncrease": 243,
-    "hash": "f9727e4e13ad82cb735a5e52a102c5b76eeab777"
+    "hash": "2ec82d436de6ae7351c306e860ebdb33d7483f5d"
   },
   {
     "date": 20200302,
-    "states": 3,
+    "states": 4,
     "positive": 470,
     "negative": 126,
     "pending": null,
@@ -4522,7 +4522,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-02T00:00:00Z",
-    "death": 11,
+    "death": 13,
     "hospitalized": null,
     "lastModified": "2020-03-02T00:00:00Z",
     "total": 596,
@@ -4533,11 +4533,11 @@
     "negativeIncrease": 112,
     "positiveIncrease": 82,
     "totalTestResultsIncrease": 194,
-    "hash": "e34b83810217fb8afc398883fc82f67cd2a8978f"
+    "hash": "24e535f00999b1b7c78e4291877f7e113f8984ef"
   },
   {
     "date": 20200301,
-    "states": 3,
+    "states": 4,
     "positive": 388,
     "negative": 14,
     "pending": null,
@@ -4549,7 +4549,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-03-01T00:00:00Z",
-    "death": 8,
+    "death": 10,
     "hospitalized": null,
     "lastModified": "2020-03-01T00:00:00Z",
     "total": 402,
@@ -4560,11 +4560,11 @@
     "negativeIncrease": -3,
     "positiveIncrease": 89,
     "totalTestResultsIncrease": 86,
-    "hash": "3d4d65c707c4ebccea4304d86716fb6e265762e1"
+    "hash": "9e1d55ba32ec2c800213837f0230756112fac437"
   },
   {
     "date": 20200229,
-    "states": 1,
+    "states": 2,
     "positive": 299,
     "negative": 17,
     "pending": null,
@@ -4576,7 +4576,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-29T00:00:00Z",
-    "death": 5,
+    "death": 7,
     "hospitalized": null,
     "lastModified": "2020-02-29T00:00:00Z",
     "total": 316,
@@ -4587,11 +4587,11 @@
     "negativeIncrease": 17,
     "positiveIncrease": 24,
     "totalTestResultsIncrease": 41,
-    "hash": "27c8dfcf504c66796dd4842c82d37d8a8b7d0c88"
+    "hash": "dc061b19476288dbe1213f6e0d8dacb0a3236ed8"
   },
   {
     "date": 20200228,
-    "states": 1,
+    "states": 2,
     "positive": 275,
     "negative": 0,
     "pending": null,
@@ -4603,7 +4603,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-28T00:00:00Z",
-    "death": 4,
+    "death": 6,
     "hospitalized": null,
     "lastModified": "2020-02-28T00:00:00Z",
     "total": 275,
@@ -4614,11 +4614,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 40,
     "totalTestResultsIncrease": 40,
-    "hash": "0063e380f01c09a74ff18ab1940b36390ef365d9"
+    "hash": "1b46cb168e35ac58746388be7ceb86870aceb9c5"
   },
   {
     "date": 20200227,
-    "states": 1,
+    "states": 2,
     "positive": 235,
     "negative": 0,
     "pending": null,
@@ -4630,7 +4630,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-27T00:00:00Z",
-    "death": 2,
+    "death": 4,
     "hospitalized": null,
     "lastModified": "2020-02-27T00:00:00Z",
     "total": 235,
@@ -4641,11 +4641,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 27,
     "totalTestResultsIncrease": 27,
-    "hash": "ffe41d6947d93d86a6f85189d9d0461c93f93d5e"
+    "hash": "12770437ee87f8eb194bdbe885766f12fa4ba58a"
   },
   {
     "date": 20200226,
-    "states": 1,
+    "states": 2,
     "positive": 208,
     "negative": 0,
     "pending": null,
@@ -4657,7 +4657,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-26T00:00:00Z",
-    "death": 2,
+    "death": 4,
     "hospitalized": null,
     "lastModified": "2020-02-26T00:00:00Z",
     "total": 208,
@@ -4668,11 +4668,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 29,
     "totalTestResultsIncrease": 29,
-    "hash": "52535d8139a745270672daabd2f8824e38f7acee"
+    "hash": "63829152d42013721ea57e1133516f4c049d656b"
   },
   {
     "date": 20200225,
-    "states": 1,
+    "states": 2,
     "positive": 179,
     "negative": 0,
     "pending": null,
@@ -4684,7 +4684,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-25T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-25T00:00:00Z",
     "total": 179,
@@ -4695,11 +4695,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 31,
     "totalTestResultsIncrease": 31,
-    "hash": "fe9bd7ac1b1bb0403591268e0e18c10c7dd677f1"
+    "hash": "6b94954c28812c33ed18d99e057fa04949e481e9"
   },
   {
     "date": 20200224,
-    "states": 1,
+    "states": 2,
     "positive": 148,
     "negative": 0,
     "pending": null,
@@ -4711,7 +4711,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-24T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-24T00:00:00Z",
     "total": 148,
@@ -4722,11 +4722,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 26,
     "totalTestResultsIncrease": 26,
-    "hash": "40f040514bdd96cea0529aa4fab368bf810ce3de"
+    "hash": "2893dda5c286487a808209e06ea3996e3baf72ff"
   },
   {
     "date": 20200223,
-    "states": 1,
+    "states": 2,
     "positive": 122,
     "negative": 0,
     "pending": null,
@@ -4738,7 +4738,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-23T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-23T00:00:00Z",
     "total": 122,
@@ -4749,11 +4749,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 16,
     "totalTestResultsIncrease": 16,
-    "hash": "512963fd5bbfd45e6812ee673008fd7f1d9e9051"
+    "hash": "8b36fb3a5204818246e7587dabe4c46d470ce594"
   },
   {
     "date": 20200222,
-    "states": 1,
+    "states": 2,
     "positive": 106,
     "negative": 0,
     "pending": null,
@@ -4765,7 +4765,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-22T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-22T00:00:00Z",
     "total": 106,
@@ -4776,11 +4776,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 13,
     "totalTestResultsIncrease": 13,
-    "hash": "1e2edd13a951b782f2e36aa1335da750c5d605f6"
+    "hash": "84b0052af5f07c3fabc849393b608fc1b3b9660a"
   },
   {
     "date": 20200221,
-    "states": 1,
+    "states": 2,
     "positive": 93,
     "negative": 0,
     "pending": null,
@@ -4792,7 +4792,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-21T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-21T00:00:00Z",
     "total": 93,
@@ -4803,11 +4803,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 11,
     "totalTestResultsIncrease": 11,
-    "hash": "775bae89a8c7819e65d3b0b1e05ad1a33b6bb9b7"
+    "hash": "bbce686aa50827b442d2f1e3e09e89797d3996a8"
   },
   {
     "date": 20200220,
-    "states": 1,
+    "states": 2,
     "positive": 82,
     "negative": 0,
     "pending": null,
@@ -4819,7 +4819,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-20T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-20T00:00:00Z",
     "total": 82,
@@ -4830,11 +4830,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 13,
     "totalTestResultsIncrease": 13,
-    "hash": "d3832ff43d2ad63fbbac69ccc3a6f7a425671626"
+    "hash": "3a71aa1908098ae265be98055a9e55bb0e2af48b"
   },
   {
     "date": 20200219,
-    "states": 1,
+    "states": 2,
     "positive": 69,
     "negative": 0,
     "pending": null,
@@ -4846,7 +4846,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-19T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-19T00:00:00Z",
     "total": 69,
@@ -4857,11 +4857,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 10,
     "totalTestResultsIncrease": 10,
-    "hash": "4eaba6a35cee6bf7863c306d80ebccead4f9e0b8"
+    "hash": "263ce387985e61a7d1412d90191213ea8384d9f2"
   },
   {
     "date": 20200218,
-    "states": 1,
+    "states": 2,
     "positive": 59,
     "negative": 0,
     "pending": null,
@@ -4873,7 +4873,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-18T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-18T00:00:00Z",
     "total": 59,
@@ -4884,11 +4884,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 9,
     "totalTestResultsIncrease": 9,
-    "hash": "037f86e217230eeb1f82483e7bc38c3575d92f9b"
+    "hash": "70e30d729dbe804f14c6ed463a97433667e488c4"
   },
   {
     "date": 20200217,
-    "states": 1,
+    "states": 2,
     "positive": 50,
     "negative": 0,
     "pending": null,
@@ -4900,7 +4900,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-17T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-17T00:00:00Z",
     "total": 50,
@@ -4911,11 +4911,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 15,
     "totalTestResultsIncrease": 15,
-    "hash": "654825b140100438046a5320976ca872c886835f"
+    "hash": "598f887023b82479fa4b7f7af809539d0804d733"
   },
   {
     "date": 20200216,
-    "states": 1,
+    "states": 2,
     "positive": 35,
     "negative": 0,
     "pending": null,
@@ -4927,7 +4927,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-16T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-16T00:00:00Z",
     "total": 35,
@@ -4938,11 +4938,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 7,
     "totalTestResultsIncrease": 7,
-    "hash": "0d0ac95120a24edf715c33b7042a673a3ac72c22"
+    "hash": "6c25709ef71c8e328f4837d2440c1f657664da3b"
   },
   {
     "date": 20200215,
-    "states": 1,
+    "states": 2,
     "positive": 28,
     "negative": 0,
     "pending": null,
@@ -4954,7 +4954,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-15T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-15T00:00:00Z",
     "total": 28,
@@ -4965,11 +4965,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 7,
     "totalTestResultsIncrease": 7,
-    "hash": "aa97543642db531c4455dcfbff575626241a3bbb"
+    "hash": "a5b89653c5a2645668a92969856a257de06d302b"
   },
   {
     "date": 20200214,
-    "states": 1,
+    "states": 2,
     "positive": 21,
     "negative": 0,
     "pending": null,
@@ -4981,22 +4981,22 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-14T00:00:00Z",
-    "death": null,
+    "death": 2,
     "hospitalized": null,
     "lastModified": "2020-02-14T00:00:00Z",
     "total": 21,
     "totalTestResults": 21,
     "posNeg": 21,
-    "deathIncrease": 0,
+    "deathIncrease": 1,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 0,
     "positiveIncrease": 3,
     "totalTestResultsIncrease": 3,
-    "hash": "98bad0bbf2467633c3ba4522edc9da4a5a896bd1"
+    "hash": "32be898be0a3df12170de944650075d71776871f"
   },
   {
     "date": 20200213,
-    "states": 1,
+    "states": 2,
     "positive": 18,
     "negative": 0,
     "pending": null,
@@ -5008,7 +5008,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-13T00:00:00Z",
-    "death": null,
+    "death": 1,
     "hospitalized": null,
     "lastModified": "2020-02-13T00:00:00Z",
     "total": 18,
@@ -5019,11 +5019,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 0,
     "totalTestResultsIncrease": 0,
-    "hash": "7033407474f6f0f59a7b74854fcc812d655434c2"
+    "hash": "727909b1e711af2becdd2d877758ac1c2521e947"
   },
   {
     "date": 20200212,
-    "states": 1,
+    "states": 2,
     "positive": 18,
     "negative": 0,
     "pending": null,
@@ -5035,7 +5035,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-12T00:00:00Z",
-    "death": null,
+    "death": 1,
     "hospitalized": null,
     "lastModified": "2020-02-12T00:00:00Z",
     "total": 18,
@@ -5046,11 +5046,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 1,
     "totalTestResultsIncrease": 1,
-    "hash": "3b69cfc2335143142dbfcde2ba5732d7b892d037"
+    "hash": "783194a0a1ead1f0549f8462429da9af2dde980d"
   },
   {
     "date": 20200211,
-    "states": 1,
+    "states": 2,
     "positive": 17,
     "negative": 0,
     "pending": null,
@@ -5062,7 +5062,7 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-11T00:00:00Z",
-    "death": null,
+    "death": 1,
     "hospitalized": null,
     "lastModified": "2020-02-11T00:00:00Z",
     "total": 17,
@@ -5073,11 +5073,11 @@
     "negativeIncrease": 0,
     "positiveIncrease": 1,
     "totalTestResultsIncrease": 1,
-    "hash": "cfe56ace9b8e5eae7ccc0dcb3ce89369077642ab"
+    "hash": "81c71e68630347c6fb22c197d43c12e507b7fb3d"
   },
   {
     "date": 20200210,
-    "states": 1,
+    "states": 2,
     "positive": 16,
     "negative": 0,
     "pending": null,
@@ -5089,18 +5089,18 @@
     "onVentilatorCumulative": null,
     "recovered": null,
     "dateChecked": "2020-02-10T00:00:00Z",
-    "death": null,
+    "death": 1,
     "hospitalized": null,
     "lastModified": "2020-02-10T00:00:00Z",
     "total": 16,
     "totalTestResults": 16,
     "posNeg": 16,
-    "deathIncrease": 0,
+    "deathIncrease": 1,
     "hospitalizedIncrease": 0,
     "negativeIncrease": 0,
     "positiveIncrease": 3,
     "totalTestResultsIncrease": 3,
-    "hash": "a620e75c6dc4c685fc26d5cca336cfc6ff614506"
+    "hash": "7f5f4096f2d682244c8648fa0a790970526215fe"
   },
   {
     "date": 20200209,
