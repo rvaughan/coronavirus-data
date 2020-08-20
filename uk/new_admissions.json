@@ -1,498 +1,526 @@
 {
-  "length": 136,
+  "length": 143,
   "maxPageLimit": 1000,
   "data": [
     {
+      "date": "2020-08-12",
+      "newAdmissions": 97
+    },
+    {
+      "date": "2020-08-11",
+      "newAdmissions": 112
+    },
+    {
+      "date": "2020-08-10",
+      "newAdmissions": 84
+    },
+    {
+      "date": "2020-08-09",
+      "newAdmissions": 106
+    },
+    {
+      "date": "2020-08-08",
+      "newAdmissions": 137
+    },
+    {
+      "date": "2020-08-07",
+      "newAdmissions": 114
+    },
+    {
+      "date": "2020-08-06",
+      "newAdmissions": 99
+    },
+    {
       "date": "2020-08-05",
-      "newAdmissions": 128
+      "newAdmissions": 136
     },
     {
       "date": "2020-08-04",
-      "newAdmissions": 126
+      "newAdmissions": 124
     },
     {
       "date": "2020-08-03",
-      "newAdmissions": 89
+      "newAdmissions": 105
     },
     {
       "date": "2020-08-02",
-      "newAdmissions": 109
+      "newAdmissions": 92
     },
     {
       "date": "2020-08-01",
-      "newAdmissions": 133
-    },
-    {
-      "date": "2020-07-31",
-      "newAdmissions": 104
-    },
-    {
-      "date": "2020-07-30",
-      "newAdmissions": 109
-    },
-    {
-      "date": "2020-07-29",
-      "newAdmissions": 142
-    },
-    {
-      "date": "2020-07-28",
-      "newAdmissions": 113
-    },
-    {
-      "date": "2020-07-27",
-      "newAdmissions": 115
-    },
-    {
-      "date": "2020-07-26",
-      "newAdmissions": 127
-    },
-    {
-      "date": "2020-07-25",
-      "newAdmissions": 115
-    },
-    {
-      "date": "2020-07-24",
-      "newAdmissions": 127
-    },
-    {
-      "date": "2020-07-23",
-      "newAdmissions": 181
-    },
-    {
-      "date": "2020-07-22",
-      "newAdmissions": 184
-    },
-    {
-      "date": "2020-07-21",
-      "newAdmissions": 128
-    },
-    {
-      "date": "2020-07-20",
-      "newAdmissions": 123
-    },
-    {
-      "date": "2020-07-19",
-      "newAdmissions": 140
-    },
-    {
-      "date": "2020-07-18",
       "newAdmissions": 126
     },
     {
+      "date": "2020-07-31",
+      "newAdmissions": 109
+    },
+    {
+      "date": "2020-07-30",
+      "newAdmissions": 129
+    },
+    {
+      "date": "2020-07-29",
+      "newAdmissions": 130
+    },
+    {
+      "date": "2020-07-28",
+      "newAdmissions": 119
+    },
+    {
+      "date": "2020-07-27",
+      "newAdmissions": 128
+    },
+    {
+      "date": "2020-07-26",
+      "newAdmissions": 109
+    },
+    {
+      "date": "2020-07-25",
+      "newAdmissions": 116
+    },
+    {
+      "date": "2020-07-24",
+      "newAdmissions": 155
+    },
+    {
+      "date": "2020-07-23",
+      "newAdmissions": 197
+    },
+    {
+      "date": "2020-07-22",
+      "newAdmissions": 157
+    },
+    {
+      "date": "2020-07-21",
+      "newAdmissions": 125
+    },
+    {
+      "date": "2020-07-20",
+      "newAdmissions": 130
+    },
+    {
+      "date": "2020-07-19",
+      "newAdmissions": 126
+    },
+    {
+      "date": "2020-07-18",
+      "newAdmissions": 102
+    },
+    {
       "date": "2020-07-17",
-      "newAdmissions": 107
+      "newAdmissions": 142
     },
     {
       "date": "2020-07-16",
-      "newAdmissions": 134
+      "newAdmissions": 165
     },
     {
       "date": "2020-07-15",
-      "newAdmissions": 162
+      "newAdmissions": 164
     },
     {
       "date": "2020-07-14",
-      "newAdmissions": 179
+      "newAdmissions": 185
     },
     {
       "date": "2020-07-13",
-      "newAdmissions": 173
+      "newAdmissions": 188
     },
     {
       "date": "2020-07-12",
-      "newAdmissions": 179
+      "newAdmissions": 114
     },
     {
       "date": "2020-07-11",
-      "newAdmissions": 150
+      "newAdmissions": 175
     },
     {
       "date": "2020-07-10",
-      "newAdmissions": 167
+      "newAdmissions": 174
     },
     {
       "date": "2020-07-09",
-      "newAdmissions": 179
+      "newAdmissions": 211
     },
     {
       "date": "2020-07-08",
-      "newAdmissions": 201
+      "newAdmissions": 206
     },
     {
       "date": "2020-07-07",
-      "newAdmissions": 207
-    },
-    {
-      "date": "2020-07-06",
-      "newAdmissions": 201
-    },
-    {
-      "date": "2020-07-05",
       "newAdmissions": 214
     },
     {
+      "date": "2020-07-06",
+      "newAdmissions": 203
+    },
+    {
+      "date": "2020-07-05",
+      "newAdmissions": 195
+    },
+    {
       "date": "2020-07-04",
-      "newAdmissions": 212
+      "newAdmissions": 201
     },
     {
       "date": "2020-07-03",
-      "newAdmissions": 187
+      "newAdmissions": 213
     },
     {
       "date": "2020-07-02",
-      "newAdmissions": 210
+      "newAdmissions": 213
     },
     {
       "date": "2020-07-01",
-      "newAdmissions": 217
+      "newAdmissions": 269
     },
     {
       "date": "2020-06-30",
-      "newAdmissions": 306
+      "newAdmissions": 294
     },
     {
       "date": "2020-06-29",
-      "newAdmissions": 237
+      "newAdmissions": 220
     },
     {
       "date": "2020-06-28",
-      "newAdmissions": 224
+      "newAdmissions": 207
     },
     {
       "date": "2020-06-27",
-      "newAdmissions": 231
+      "newAdmissions": 285
     },
     {
       "date": "2020-06-26",
-      "newAdmissions": 298
+      "newAdmissions": 337
     },
     {
       "date": "2020-06-25",
-      "newAdmissions": 315
+      "newAdmissions": 323
     },
     {
       "date": "2020-06-24",
-      "newAdmissions": 360
+      "newAdmissions": 366
     },
     {
       "date": "2020-06-23",
-      "newAdmissions": 347
+      "newAdmissions": 360
     },
     {
       "date": "2020-06-22",
-      "newAdmissions": 347
-    },
-    {
-      "date": "2020-06-21",
       "newAdmissions": 390
     },
     {
+      "date": "2020-06-21",
+      "newAdmissions": 287
+    },
+    {
       "date": "2020-06-20",
-      "newAdmissions": 288
+      "newAdmissions": 257
     },
     {
       "date": "2020-06-19",
-      "newAdmissions": 266
+      "newAdmissions": 335
     },
     {
       "date": "2020-06-18",
-      "newAdmissions": 342
+      "newAdmissions": 401
     },
     {
       "date": "2020-06-17",
-      "newAdmissions": 409
-    },
-    {
-      "date": "2020-06-16",
-      "newAdmissions": 434
-    },
-    {
-      "date": "2020-06-15",
-      "newAdmissions": 428
-    },
-    {
-      "date": "2020-06-14",
-      "newAdmissions": 423
-    },
-    {
-      "date": "2020-06-13",
-      "newAdmissions": 426
-    },
-    {
-      "date": "2020-06-12",
-      "newAdmissions": 358
-    },
-    {
-      "date": "2020-06-11",
-      "newAdmissions": 413
-    },
-    {
-      "date": "2020-06-10",
-      "newAdmissions": 440
-    },
-    {
-      "date": "2020-06-09",
-      "newAdmissions": 497
-    },
-    {
-      "date": "2020-06-08",
-      "newAdmissions": 461
-    },
-    {
-      "date": "2020-06-07",
       "newAdmissions": 431
     },
     {
+      "date": "2020-06-16",
+      "newAdmissions": 454
+    },
+    {
+      "date": "2020-06-15",
+      "newAdmissions": 439
+    },
+    {
+      "date": "2020-06-14",
+      "newAdmissions": 364
+    },
+    {
+      "date": "2020-06-13",
+      "newAdmissions": 385
+    },
+    {
+      "date": "2020-06-12",
+      "newAdmissions": 391
+    },
+    {
+      "date": "2020-06-11",
+      "newAdmissions": 445
+    },
+    {
+      "date": "2020-06-10",
+      "newAdmissions": 512
+    },
+    {
+      "date": "2020-06-09",
+      "newAdmissions": 492
+    },
+    {
+      "date": "2020-06-08",
+      "newAdmissions": 412
+    },
+    {
+      "date": "2020-06-07",
+      "newAdmissions": 406
+    },
+    {
       "date": "2020-06-06",
-      "newAdmissions": 423
+      "newAdmissions": 406
     },
     {
       "date": "2020-06-05",
-      "newAdmissions": 400
+      "newAdmissions": 474
     },
     {
       "date": "2020-06-04",
-      "newAdmissions": 486
+      "newAdmissions": 564
     },
     {
       "date": "2020-06-03",
-      "newAdmissions": 599
+      "newAdmissions": 632
     },
     {
       "date": "2020-06-02",
-      "newAdmissions": 605
+      "newAdmissions": 667
     },
     {
       "date": "2020-06-01",
-      "newAdmissions": 635
-    },
-    {
-      "date": "2020-05-31",
       "newAdmissions": 604
     },
     {
+      "date": "2020-05-31",
+      "newAdmissions": 528
+    },
+    {
       "date": "2020-05-30",
-      "newAdmissions": 548
+      "newAdmissions": 568
     },
     {
       "date": "2020-05-29",
-      "newAdmissions": 580
+      "newAdmissions": 613
     },
     {
       "date": "2020-05-28",
-      "newAdmissions": 631
+      "newAdmissions": 702
     },
     {
       "date": "2020-05-27",
-      "newAdmissions": 691
+      "newAdmissions": 710
     },
     {
       "date": "2020-05-26",
-      "newAdmissions": 707
+      "newAdmissions": 696
     },
     {
       "date": "2020-05-25",
-      "newAdmissions": 683
+      "newAdmissions": 603
     },
     {
       "date": "2020-05-24",
-      "newAdmissions": 589
+      "newAdmissions": 588
     },
     {
       "date": "2020-05-23",
-      "newAdmissions": 635
+      "newAdmissions": 642
     },
     {
       "date": "2020-05-22",
-      "newAdmissions": 605
+      "newAdmissions": 739
     },
     {
       "date": "2020-05-21",
-      "newAdmissions": 764
+      "newAdmissions": 841
     },
     {
       "date": "2020-05-20",
-      "newAdmissions": 832
+      "newAdmissions": 849
     },
     {
       "date": "2020-05-19",
-      "newAdmissions": 860
+      "newAdmissions": 880
     },
     {
       "date": "2020-05-18",
-      "newAdmissions": 866
+      "newAdmissions": 847
     },
     {
       "date": "2020-05-17",
-      "newAdmissions": 852
+      "newAdmissions": 792
     },
     {
       "date": "2020-05-16",
-      "newAdmissions": 816
+      "newAdmissions": 814
     },
     {
       "date": "2020-05-15",
-      "newAdmissions": 801
+      "newAdmissions": 868
     },
     {
       "date": "2020-05-14",
-      "newAdmissions": 882
+      "newAdmissions": 907
     },
     {
       "date": "2020-05-13",
-      "newAdmissions": 925
+      "newAdmissions": 966
     },
     {
       "date": "2020-05-12",
-      "newAdmissions": 943
+      "newAdmissions": 983
     },
     {
       "date": "2020-05-11",
-      "newAdmissions": 1006
+      "newAdmissions": 1028
     },
     {
       "date": "2020-05-10",
-      "newAdmissions": 1024
+      "newAdmissions": 914
     },
     {
       "date": "2020-05-09",
-      "newAdmissions": 899
+      "newAdmissions": 941
     },
     {
       "date": "2020-05-08",
-      "newAdmissions": 964
-    },
-    {
-      "date": "2020-05-07",
       "newAdmissions": 909
     },
     {
+      "date": "2020-05-07",
+      "newAdmissions": 1164
+    },
+    {
       "date": "2020-05-06",
-      "newAdmissions": 1162
+      "newAdmissions": 1204
     },
     {
       "date": "2020-05-05",
-      "newAdmissions": 1226
+      "newAdmissions": 1145
     },
     {
       "date": "2020-05-04",
-      "newAdmissions": 1144
+      "newAdmissions": 1247
     },
     {
       "date": "2020-05-03",
-      "newAdmissions": 1205
+      "newAdmissions": 1186
     },
     {
       "date": "2020-05-02",
-      "newAdmissions": 1242
+      "newAdmissions": 1178
     },
     {
       "date": "2020-05-01",
-      "newAdmissions": 1162
+      "newAdmissions": 1263
     },
     {
       "date": "2020-04-30",
-      "newAdmissions": 1297
+      "newAdmissions": 1443
     },
     {
       "date": "2020-04-29",
-      "newAdmissions": 1417
+      "newAdmissions": 1485
     },
     {
       "date": "2020-04-28",
-      "newAdmissions": 1516
+      "newAdmissions": 1517
     },
     {
       "date": "2020-04-27",
-      "newAdmissions": 1487
+      "newAdmissions": 1535
     },
     {
       "date": "2020-04-26",
-      "newAdmissions": 1491
+      "newAdmissions": 1355
     },
     {
       "date": "2020-04-25",
-      "newAdmissions": 1380
+      "newAdmissions": 1252
     },
     {
       "date": "2020-04-24",
-      "newAdmissions": 1329
+      "newAdmissions": 1526
     },
     {
       "date": "2020-04-23",
-      "newAdmissions": 1500
+      "newAdmissions": 1512
     },
     {
       "date": "2020-04-22",
-      "newAdmissions": 1503
+      "newAdmissions": 1524
     },
     {
       "date": "2020-04-21",
-      "newAdmissions": 1527
+      "newAdmissions": 1712
     },
     {
       "date": "2020-04-20",
-      "newAdmissions": 1708
+      "newAdmissions": 1735
     },
     {
       "date": "2020-04-19",
-      "newAdmissions": 1703
+      "newAdmissions": 1656
     },
     {
       "date": "2020-04-18",
-      "newAdmissions": 1693
+      "newAdmissions": 1629
     },
     {
       "date": "2020-04-17",
-      "newAdmissions": 1701
+      "newAdmissions": 1964
     },
     {
       "date": "2020-04-16",
-      "newAdmissions": 1906
+      "newAdmissions": 2009
     },
     {
       "date": "2020-04-15",
-      "newAdmissions": 2047
+      "newAdmissions": 1878
     },
     {
       "date": "2020-04-14",
-      "newAdmissions": 1837
+      "newAdmissions": 2088
     },
     {
       "date": "2020-04-13",
-      "newAdmissions": 2109
+      "newAdmissions": 2162
     },
     {
       "date": "2020-04-12",
-      "newAdmissions": 2188
+      "newAdmissions": 2066
     },
     {
       "date": "2020-04-11",
-      "newAdmissions": 1995
+      "newAdmissions": 2159
     },
     {
       "date": "2020-04-10",
-      "newAdmissions": 2219
+      "newAdmissions": 2460
     },
     {
       "date": "2020-04-09",
-      "newAdmissions": 2485
+      "newAdmissions": 2629
     },
     {
       "date": "2020-04-08",
-      "newAdmissions": 2684
+      "newAdmissions": 2963
     },
     {
       "date": "2020-04-07",
-      "newAdmissions": 3025
+      "newAdmissions": 3150
     },
     {
       "date": "2020-04-06",
-      "newAdmissions": 3111
+      "newAdmissions": 3046
     },
     {
       "date": "2020-04-05",
-      "newAdmissions": 3000
+      "newAdmissions": 2913
     },
     {
       "date": "2020-04-04",
@@ -500,51 +528,51 @@
     },
     {
       "date": "2020-04-03",
-      "newAdmissions": 2958
+      "newAdmissions": 2930
     },
     {
       "date": "2020-04-02",
-      "newAdmissions": 2914
+      "newAdmissions": 3282
     },
     {
       "date": "2020-04-01",
-      "newAdmissions": 3396
+      "newAdmissions": 3563
     },
     {
       "date": "2020-03-31",
-      "newAdmissions": 3483
+      "newAdmissions": 2831
     },
     {
       "date": "2020-03-30",
-      "newAdmissions": 2817
+      "newAdmissions": 3187
     },
     {
       "date": "2020-03-29",
-      "newAdmissions": 3121
+      "newAdmissions": 2490
     },
     {
       "date": "2020-03-28",
-      "newAdmissions": 2506
+      "newAdmissions": 2193
     },
     {
       "date": "2020-03-27",
-      "newAdmissions": 2165
+      "newAdmissions": 2223
     },
     {
       "date": "2020-03-26",
-      "newAdmissions": 2222
+      "newAdmissions": 1930
     },
     {
       "date": "2020-03-25",
-      "newAdmissions": 1968
+      "newAdmissions": 2084
     },
     {
       "date": "2020-03-24",
-      "newAdmissions": 1931
+      "newAdmissions": 1720
     },
     {
       "date": "2020-03-23",
-      "newAdmissions": 1687
+      "newAdmissions": 1271
     }
   ]
 }
