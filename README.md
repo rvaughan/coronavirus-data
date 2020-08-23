@@ -70,6 +70,7 @@ The UK data is pulled twice an hour from the following sources:
   * [PHE Deaths Data](https://coronavirus.data.gov.uk/deaths)
   * [Scottish Coronavirus (COVID-19): trends in daily data](https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/)
   * [Healthcare data](https://coronavirus-staging.data.gov.uk/healthcare)
+  * [ZOE Covid App Data](https://covid.joinzoe.com/data)
 
 ## USA Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20data/badge.svg)
