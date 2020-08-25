@@ -13,7 +13,7 @@
     "https://covidtracking.com/api/v1/states/daily.json": "\"103de6a92cc8262b4ca82e7550553bb3-ssl-df\"",
     "https://covidtracking.com/api/v1/states/info.json": "\"96c486b0834efacdd0da297d9ada6533-ssl-df\"",
     "https://covidtracking.com/api/v1/us/current.json": "\"b7188a09918576c0ca6f848b2269a280-ssl\"",
-    "https://covidtracking.com/api/v1/us/daily.json": "\"f092a4ab57fd557bf882d6b7da4b175a-ssl-df\"",
+    "https://covidtracking.com/api/v1/us/daily.json": "\"f092a4ab57fd557bf882d6b7da4b175a-ssl\"",
     "https://covidtracking.com/api/v1/urls.json": "\"f1958a0b689edd2d49c6f217f8f29ee9-ssl-df\"",
     "https://opendata.ecdc.europa.eu/covid19/casedistribution/json": "\"1ae47e7fbf7ad61:0\"",
     "https://c19pubstaging.azureedge.net/assets/cms/healthcare.json": "0x8D84453DCBF3E90"
