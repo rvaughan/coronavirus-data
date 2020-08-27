@@ -1,7 +1,35 @@
 {
-  "length": 143,
+  "length": 149,
   "maxPageLimit": 1000,
   "data": [
+    {
+      "date": "2020-08-19",
+      "newAdmissions": 109
+    },
+    {
+      "date": "2020-08-18",
+      "newAdmissions": 122
+    },
+    {
+      "date": "2020-08-17",
+      "newAdmissions": 91
+    },
+    {
+      "date": "2020-08-16",
+      "newAdmissions": 79
+    },
+    {
+      "date": "2020-08-15",
+      "newAdmissions": 96
+    },
+    {
+      "date": "2020-08-14",
+      "newAdmissions": 97
+    },
+    {
+      "date": "2020-08-13",
+      "newAdmissions": 125
+    },
     {
       "date": "2020-08-12",
       "newAdmissions": 97
@@ -23,16 +51,12 @@
       "newAdmissions": 137
     },
     {
-      "date": "2020-08-07",
-      "newAdmissions": 114
-    },
-    {
       "date": "2020-08-06",
       "newAdmissions": 99
     },
     {
       "date": "2020-08-05",
-      "newAdmissions": 136
+      "newAdmissions": 137
     },
     {
       "date": "2020-08-04",
@@ -40,7 +64,7 @@
     },
     {
       "date": "2020-08-03",
-      "newAdmissions": 105
+      "newAdmissions": 106
     },
     {
       "date": "2020-08-02",
@@ -52,7 +76,7 @@
     },
     {
       "date": "2020-07-31",
-      "newAdmissions": 109
+      "newAdmissions": 110
     },
     {
       "date": "2020-07-30",
@@ -60,7 +84,7 @@
     },
     {
       "date": "2020-07-29",
-      "newAdmissions": 130
+      "newAdmissions": 131
     },
     {
       "date": "2020-07-28",
@@ -104,7 +128,7 @@
     },
     {
       "date": "2020-07-18",
-      "newAdmissions": 102
+      "newAdmissions": 103
     },
     {
       "date": "2020-07-17",
@@ -472,7 +496,7 @@
     },
     {
       "date": "2020-04-17",
-      "newAdmissions": 1964
+      "newAdmissions": 1963
     },
     {
       "date": "2020-04-16",
@@ -524,11 +548,11 @@
     },
     {
       "date": "2020-04-04",
-      "newAdmissions": 2918
+      "newAdmissions": 2919
     },
     {
       "date": "2020-04-03",
-      "newAdmissions": 2930
+      "newAdmissions": 2929
     },
     {
       "date": "2020-04-02",
