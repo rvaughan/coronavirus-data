@@ -1,5 +1,5 @@
 {
-  "length": 149,
+  "length": 150,
   "maxPageLimit": 1000,
   "data": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "date": "2020-08-18",
-      "newAdmissions": 122
+      "newAdmissions": 123
     },
     {
       "date": "2020-08-17",
@@ -49,6 +49,10 @@
     {
       "date": "2020-08-08",
       "newAdmissions": 137
+    },
+    {
+      "date": "2020-08-07",
+      "newAdmissions": 114
     },
     {
       "date": "2020-08-06",
@@ -584,7 +588,7 @@
     },
     {
       "date": "2020-03-26",
-      "newAdmissions": 1929
+      "newAdmissions": 1930
     },
     {
       "date": "2020-03-25",
