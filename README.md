@@ -45,7 +45,10 @@ The Google mobility data is pulled from https://www.google.com/covid19/mobility/
 
 ## Microsoft Bing!
 
-Although we're not currently pulling this in - it's 200M - Microsoft do provide a Bing! Covid-19 dataset which can be found in their [Pandemic Data Lake](https://pandemicdatalake.blob.core.windows.net/public/curated/covid-19/bing_covid-19_data/latest/bing_covid-19_data.json).
+Although we're not currently pulling this in - it's 200M - Microsoft do provide a Bing! Covid-19 dataset which can be found in their [Pandemic Data Lake](https://azure.microsoft.com/en-gb/services/open-datasets/catalog/covid-tracking/)
+
+  * [Daily Data](https://pandemicdatalake.blob.core.windows.net/public/raw/covid-19/covid_tracking/latest/daily.json)
+  * [Overall Data](https://pandemicdatalake.blob.core.windows.net/public/curated/covid-19/bing_covid-19_data/latest/bing_covid-19_data.json).
 
 ## Spanish Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Spanish%20data/badge.svg)
