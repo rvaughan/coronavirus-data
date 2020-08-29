@@ -74,14 +74,14 @@ jobs:
         wget -O week_30.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-30.zip
         wget -O week_31.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-31.zip
         wget -O week_32.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-32.zip
-        wget -O week_33.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-33.zip
-        wget -O week_34.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-34.zip
-        wget -O week_35.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-35.zip
-        wget -O week_36.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-36.zip
-        wget -O week_37.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-37.zip
-        wget -O week_38.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-38.zip
-        wget -O week_39.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-39.zip
-        wget -O week_40.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-40.zip
+        # wget -O week_33.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-33.zip
+        # wget -O week_34.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-34.zip
+        # wget -O week_35.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-35.zip
+        # wget -O week_36.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-36.zip
+        # wget -O week_37.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-37.zip
+        # wget -O week_38.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-38.zip
+        # wget -O week_39.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-39.zip
+        # wget -O week_40.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-40.zip
         cd ..
         mkdir -p northern_ireland && cd northern_ireland
         wget -O weekly_deaths_2020.xls "https://www.nisra.gov.uk/sites/nisra.gov.uk/files/publications/Weekly_Deaths.xls"
