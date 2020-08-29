@@ -1,14 +1,18 @@
 {
-  "length": 153,
+  "length": 154,
   "maxPageLimit": 1000,
   "data": [
     {
+      "date": "2020-08-27",
+      "hospitalCases": 764
+    },
+    {
       "date": "2020-08-26",
-      "hospitalCases": 754
+      "hospitalCases": 756
     },
     {
       "date": "2020-08-25",
-      "hospitalCases": 771
+      "hospitalCases": 773
     },
     {
       "date": "2020-08-24",
