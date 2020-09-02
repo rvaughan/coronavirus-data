@@ -22,7 +22,7 @@
     "covid19SiteTertiary": "https://services7.arcgis.com/4RQmZZ0yaZkGR1zy/arcgis/rest/services/HospitalizedPatientTemporal_READ_ONLY/FeatureServer/1/query?where=1%3D1&orderbyfields=DateTxt+desc&outFields=%2A&resultRecordCount=1",
     "twitter": "@alpublichealth",
     "covid19SiteOld": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "covidTrackingProjectPreferredTotalTestUnits": "Specimens",
+    "covidTrackingProjectPreferredTotalTestUnits": "Unclear units",
     "covidTrackingProjectPreferredTotalTestField": "totalTestsViral",
     "name": "Alabama",
     "fips": "01",
