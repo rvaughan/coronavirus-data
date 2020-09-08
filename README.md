@@ -82,6 +82,7 @@ The UK data is pulled twice an hour from the following sources:
     * List of available data [url](https://api.apify.com/v2/key-value-stores/tVaYRsPHLjNdNBu7S/records/LATEST?disableRedirect=true).
     * Latest UK data [url](https://api.apify.com/v2/key-value-stores/KWLojgM5r1JmMW4b4/records/LATEST?disableRedirect=true)
     * Latest overall UK data [url](https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1)
+  * [ONS Deaths Data](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending21august2020)
 
 ## USA Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20data/badge.svg)
