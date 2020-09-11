@@ -1,7 +1,11 @@
 {
-  "length": 166,
+  "length": 167,
   "maxPageLimit": 1000,
   "data": [
+    {
+      "date": "2020-09-09",
+      "hospitalCases": 863
+    },
     {
       "date": "2020-09-08",
       "hospitalCases": 837
@@ -20,87 +24,87 @@
     },
     {
       "date": "2020-09-04",
-      "hospitalCases": 763
+      "hospitalCases": 762
     },
     {
       "date": "2020-09-03",
-      "hospitalCases": 759
+      "hospitalCases": 757
     },
     {
       "date": "2020-09-02",
-      "hospitalCases": 747
+      "hospitalCases": 745
     },
     {
       "date": "2020-09-01",
-      "hospitalCases": 807
+      "hospitalCases": 805
     },
     {
       "date": "2020-08-31",
-      "hospitalCases": 801
-    },
-    {
-      "date": "2020-08-30",
-      "hospitalCases": 780
-    },
-    {
-      "date": "2020-08-29",
-      "hospitalCases": 778
-    },
-    {
-      "date": "2020-08-28",
-      "hospitalCases": 752
-    },
-    {
-      "date": "2020-08-27",
-      "hospitalCases": 773
-    },
-    {
-      "date": "2020-08-26",
-      "hospitalCases": 766
-    },
-    {
-      "date": "2020-08-25",
-      "hospitalCases": 783
-    },
-    {
-      "date": "2020-08-24",
-      "hospitalCases": 808
-    },
-    {
-      "date": "2020-08-23",
       "hospitalCases": 799
     },
     {
+      "date": "2020-08-30",
+      "hospitalCases": 778
+    },
+    {
+      "date": "2020-08-29",
+      "hospitalCases": 776
+    },
+    {
+      "date": "2020-08-28",
+      "hospitalCases": 750
+    },
+    {
+      "date": "2020-08-27",
+      "hospitalCases": 770
+    },
+    {
+      "date": "2020-08-26",
+      "hospitalCases": 763
+    },
+    {
+      "date": "2020-08-25",
+      "hospitalCases": 780
+    },
+    {
+      "date": "2020-08-24",
+      "hospitalCases": 805
+    },
+    {
+      "date": "2020-08-23",
+      "hospitalCases": 797
+    },
+    {
       "date": "2020-08-22",
-      "hospitalCases": 873
+      "hospitalCases": 872
     },
     {
       "date": "2020-08-21",
-      "hospitalCases": 820
+      "hospitalCases": 819
     },
     {
       "date": "2020-08-20",
-      "hospitalCases": 854
+      "hospitalCases": 853
     },
     {
       "date": "2020-08-19",
-      "hospitalCases": 860
+      "hospitalCases": 859
     },
     {
       "date": "2020-08-18",
-      "hospitalCases": 884
+      "hospitalCases": 883
     },
     {
       "date": "2020-08-17",
-      "hospitalCases": 913
+      "hospitalCases": 912
     },
     {
       "date": "2020-08-16",
-      "hospitalCases": 910
+      "hospitalCases": 909
     },
     {
       "date": "2020-08-15",
-      "hospitalCases": 905
+      "hospitalCases": 904
     },
     {
       "date": "2020-08-14",

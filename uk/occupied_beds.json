@@ -1,7 +1,11 @@
 {
-  "length": 161,
+  "length": 162,
   "maxPageLimit": 1000,
   "data": [
+    {
+      "date": "2020-09-10",
+      "covidOccupiedMVBeds": 78
+    },
     {
       "date": "2020-09-09",
       "covidOccupiedMVBeds": 80
