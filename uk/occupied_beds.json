@@ -1,7 +1,11 @@
 {
-  "length": 162,
+  "length": 163,
   "maxPageLimit": 1000,
   "data": [
+    {
+      "date": "2020-09-11",
+      "covidOccupiedMVBeds": 79
+    },
     {
       "date": "2020-09-10",
       "covidOccupiedMVBeds": 78
@@ -20,7 +24,7 @@
     },
     {
       "date": "2020-09-06",
-      "covidOccupiedMVBeds": 69
+      "covidOccupiedMVBeds": 67
     },
     {
       "date": "2020-09-05",
@@ -76,7 +80,7 @@
     },
     {
       "date": "2020-08-23",
-      "covidOccupiedMVBeds": 72
+      "covidOccupiedMVBeds": 73
     },
     {
       "date": "2020-08-22",
