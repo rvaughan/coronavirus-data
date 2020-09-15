@@ -1,5 +1,5 @@
 {
-  "length": 163,
+  "length": 164,
   "maxPageLimit": 1000,
   "data": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "date": "2020-08-21",
-      "newAdmissions": 108
+      "newAdmissions": 109
     },
     {
       "date": "2020-08-20",
@@ -64,7 +64,7 @@
     },
     {
       "date": "2020-08-18",
-      "newAdmissions": 124
+      "newAdmissions": 125
     },
     {
       "date": "2020-08-17",
@@ -105,6 +105,10 @@
     {
       "date": "2020-08-08",
       "newAdmissions": 138
+    },
+    {
+      "date": "2020-08-07",
+      "newAdmissions": 114
     },
     {
       "date": "2020-08-06",
@@ -572,7 +576,7 @@
     },
     {
       "date": "2020-04-12",
-      "newAdmissions": 2067
+      "newAdmissions": 2066
     },
     {
       "date": "2020-04-11",
@@ -604,7 +608,7 @@
     },
     {
       "date": "2020-04-04",
-      "newAdmissions": 2919
+      "newAdmissions": 2918
     },
     {
       "date": "2020-04-03",
