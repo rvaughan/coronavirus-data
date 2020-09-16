@@ -245,8 +245,7 @@
       "fullWidth": false,
       "abstract": "Total numbers of COVID-19 patients admitted to hospital since the start of the pandemic, by age. Data are not updated every day. Some admission records have missing age, so the sum of the subgroups does not equal the total admissions for the area.\n",
       "download": [
-        "cumAdmissionsByAge",
-        "cumAdmissionsByAgeRate"
+        "cumAdmissionsByAge"
       ],
       "tabs": [
         {
@@ -317,8 +316,7 @@
       "fullWidth": false,
       "abstract": "Total admission rates since the start of the pandemic, by age.  There are fewer people in the oldest age group so the rates show the relative impact on different age groups.\n",
       "download": [
-        "cumAdmissionsByAge",
-        "cumAdmissionsByAgeRate"
+        "cumAdmissionsByAge"
       ],
       "tabs": [
         {
