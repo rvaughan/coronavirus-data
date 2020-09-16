@@ -1,18 +1,22 @@
 {
-  "length": 171,
+  "length": 172,
   "maxPageLimit": 1000,
   "data": [
     {
+      "date": "2020-09-14",
+      "hospitalCases": 901
+    },
+    {
       "date": "2020-09-13",
-      "hospitalCases": 972
+      "hospitalCases": 764
     },
     {
       "date": "2020-09-12",
-      "hospitalCases": 952
+      "hospitalCases": 738
     },
     {
       "date": "2020-09-11",
-      "hospitalCases": 927
+      "hospitalCases": 705
     },
     {
       "date": "2020-09-10",
