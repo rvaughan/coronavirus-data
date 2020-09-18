@@ -5212,4 +5212,43 @@
   "lastUpdatedAtApify": "2020-09-17T18:05:00.000Z",
   "lastUpdatedAtSource": "2020-09-17T14:45:35.142491Z",
   "readMe": "https://apify.com/katerinahronik/covid-uk"
+},
+{
+  "infected": 381614,
+  "tested": 17761017,
+  "deceased": "N/A",
+  "deceasedWithin28Days": 41705,
+  "dailyConfirmed": 3395,
+  "country": "UK",
+  "historyData": "https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1",
+  "sourceUrl": "https://coronavirus.data.gov.uk/",
+  "lastUpdatedAtApify": "2020-09-18T14:59:00.000Z",
+  "lastUpdatedAtSource": "2020-09-18T14:51:05.142491Z",
+  "readMe": "https://apify.com/katerinahronik/covid-uk"
+},
+{
+  "infected": 381614,
+  "tested": 17761017,
+  "deceased": "N/A",
+  "deceasedWithin28Days": 41705,
+  "dailyConfirmed": 4322,
+  "country": "UK",
+  "historyData": "https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1",
+  "sourceUrl": "https://coronavirus.data.gov.uk/",
+  "lastUpdatedAtApify": "2020-09-18T15:20:00.000Z",
+  "lastUpdatedAtSource": "2020-09-18T14:51:05.142491Z",
+  "readMe": "https://apify.com/katerinahronik/covid-uk"
+},
+{
+  "infected": 385936,
+  "tested": 17761017,
+  "deceased": "N/A",
+  "deceasedWithin28Days": 41705,
+  "dailyConfirmed": 4322,
+  "country": "UK",
+  "historyData": "https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1",
+  "sourceUrl": "https://coronavirus.data.gov.uk/",
+  "lastUpdatedAtApify": "2020-09-18T15:25:00.000Z",
+  "lastUpdatedAtSource": "2020-09-18T14:51:05.142491Z",
+  "readMe": "https://apify.com/katerinahronik/covid-uk"
 }]
