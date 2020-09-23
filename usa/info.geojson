@@ -567,7 +567,7 @@
     "covid19SiteTertiary": "",
     "twitter": "@NMDOH",
     "covid19SiteOld": "https://cv.nmhealth.org/",
-    "covidTrackingProjectPreferredTotalTestUnits": "People",
+    "covidTrackingProjectPreferredTotalTestUnits": "Specimens",
     "covidTrackingProjectPreferredTotalTestField": "posNeg",
     "totalTestResultsField": "posNeg",
     "name": "New Mexico",
