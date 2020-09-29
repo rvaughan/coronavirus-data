@@ -473,7 +473,7 @@
     "covid19Site": "https://showmestrong.mo.gov/data/public-health/",
     "covid19SiteSecondary": "https://showmestrong.mo.gov/public-healthcare-testing/",
     "covid19SiteTertiary": "https://mophep.maps.arcgis.com/apps/opsdashboard/index.html#/d05d2bf6e13745c5afffc8fc87d5b1c5",
-    "covid19SiteQuaternary": "",
+    "covid19SiteQuaternary": "https://services6.arcgis.com/Bd4MACzvEukoZ9mR/arcgis/rest/services/hospital_by_date_production/FeatureServer/0/query?where=1%3D1&outFields=%2A%2C+covid_total+as+hosp&orderByFields=entry_date+desc&resultRecordCount=1",
     "covid19SiteQuinary": "",
     "twitter": "@HealthyLivingMo",
     "covid19SiteOld": "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/",
