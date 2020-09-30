@@ -11,7 +11,7 @@
     "inIcuCumulative": 20247,
     "onVentilatorCurrently": 1495,
     "onVentilatorCumulative": 2298,
-    "recovered": 2809674,
+    "recovered": 2813305,
     "dateChecked": "2020-09-29T00:00:00Z",
     "death": 197868,
     "hospitalized": 407059,
@@ -24,6 +24,6 @@
     "negativeIncrease": 707529,
     "positiveIncrease": 36947,
     "totalTestResultsIncrease": 812773,
-    "hash": "86c84bdfad0c242478f17f74e68b3b089b3890e5"
+    "hash": "565decbb3831dbfcc2ac9c6b8fbf88d2fe5cc746"
   }
 ]
