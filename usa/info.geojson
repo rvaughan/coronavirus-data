@@ -253,7 +253,7 @@
   },
   {
     "state": "IA",
-    "notes": "As of May 19, 2020, Iowa reports PCR and antibody tests separately.\n\nOn September 26, 2020, Iowa [announced] (https://coronavirus.iowa.gov/#CurrentStatus) that due to a data update, roughly 27,000 antigen test from long-term care facilities will be added to their COVID-19 data. This update will occur from September 26, 2020 to September 27, 2020 and will result in an increased number of antigen testing metrics.",
+    "notes": "As of May 19, 2020, Iowa reports PCR and antibody tests separately.\n\nOn September 26, 2020, Iowa announced that due to a data update, roughly 27,000 antigen tests from long-term care facilities will be added to their COVID-19 antigen test data. This update will occur from September 26, 2020 to September 27, 2020, and will result in an increased number of antigen test tests reported in our data for Iowa. (Antigen data is available in our CSVs and API.)",
     "covid19Site": "https://coronavirus.iowa.gov/",
     "covid19SiteSecondary": "https://coronavirus.iowa.gov/pages/access",
     "covid19SiteTertiary": "https://coronavirus.iowa.gov/pages/case-counts",
@@ -741,7 +741,7 @@
     "state": "PA",
     "notes": "On April 23, 2020, Pennsylvania revised down its total **Deaths (confirmed and probable)** from 1,622 to 1,421 to exclude some probable deaths that needed further confirmation to be linked to COVID-19.\n\nOn September 3, 2020, Pennsylvania [clarified](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Coronavirus.aspx) that the test numbers they have been reporting previously are in units of unique people and began publishing new test data in units of specimens. On September 4, 2020, we therefore moved the appropriate historical data to the **Total PCR tests (people)** field and began capturing **Total PCR tests (specimens)**. ",
     "covid19Site": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
-    "covid19SiteSecondary": "https://pema.maps.arcgis.com/apps/opsdashboard/index.html?rand_1596123643354=1596123643354#/034bec0bab3b450888a32012f81b8fe4",
+    "covid19SiteSecondary": "https://padoh.maps.arcgis.com/apps/opsdashboard/index.html#/5662e22517b644ba874ca51fa7b61c94",
     "covid19SiteTertiary": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Coronavirus.aspx",
     "covid19SiteQuaternary": "",
     "covid19SiteQuinary": "",
@@ -811,7 +811,7 @@
   },
   {
     "state": "SD",
-    "notes": "On July 27, 2020, **Negative PCR tests** decreased by 148 for unclear reasons.\n\nOn August 27, the South Dakota Department of Health included cases from August 25 and 26 in their update due to a reporting aberration, resulting in a 343 case increase. They have provided historical case counts, and we are working to backfill our data.\n\nAs of September 18, 2020, South Dakota's total test results are drawn from our `totalTestsPeopleViral` field instead of calculated via positive+negative.",
+    "notes": "On July 27, 2020, **Negative PCR tests** decreased by 148 for unclear reasons.\n\nOn August 27, the South Dakota Department of Health included cases from August 25 and 26 in their update due to a reporting aberration, resulting in a 343 case increase. They have provided historical case counts, and we are working to backfill our data.\n\nAs of September 18, 2020, South Dakota's total test results are drawn from our `totalTestsPeopleViral` field instead of calculated via positive+negative.\n\nOn October, 7, 2020 South Dakota started reporting **Probable cases**. This added 473 new cases to South Dakota's **Total cases** number.",
     "covid19Site": "https://doh.sd.gov/news/Coronavirus.aspx",
     "covid19SiteSecondary": "",
     "covid19SiteTertiary": "",
