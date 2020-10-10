@@ -29,6 +29,8 @@ repository, and with leveraging of [The Economists](https://www.economist.com) [
 
   * [Covid 19 Data](https://github.com/opencovid19-fr/data)
   * [French Overview](https://dashboard.covid19.data.gouv.fr/vue-d-ensemble?location=FRA) A really informative information site. The underlying data for this is taken from the [French Open Data](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/)
+  * [Testing Site Locations](https://www.data.gouv.fr/en/datasets/sites-de-prelevements-pour-les-tests-covid/)
+  * [Indicators](https://www.data.gouv.fr/en/datasets/indicateurs-de-suivi-de-lepidemie-de-covid-19/)
 
 ## Google Mobility Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Google%20Mobility%20data/badge.svg)

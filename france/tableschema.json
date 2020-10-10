@@ -1,0 +1,103 @@
+{
+    "fields": [
+        {
+            "name": "ID",
+            "description": "Identifiant",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "id_ej",
+            "description": "Finess juridique",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "finess",
+            "description": "Finess géographique",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "rs",
+            "description": "Raison sociale",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "adresse",
+            "description": "Adresse",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "cpl_loc",
+            "description": "Complément localisation",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "longitude",
+            "description": "Longitude",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "latitude",
+            "description": "Latitude",
+            "type": "number",
+            "format": "default"
+        },
+        {
+            "name": "mod_prel",
+            "description": "Modalités de prélèvement",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "public",
+            "description": "Publics accueillis",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "horaire",
+            "description": "Horaire",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "horaire_prio",
+            "description": "Horaire personnes prioritaires",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "check_rdv",
+            "description": "Avec ou sans rendez-vous",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "tel_rdv",
+            "description": "Téléphone prise rendez-vous",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "web_rdv",
+            "description": "Site internet prise rendez-vous",
+            "type": "string",
+            "format": "default"
+        },
+        {
+            "name": "date_modif",
+            "description": "Derniere date de mise a jour",
+            "type": "datetime",
+            "format": "%Y-%m-%d"
+        }
+    ],
+    "missingValues": [
+        ""
+    ]
+}
