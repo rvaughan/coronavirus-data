@@ -29,6 +29,24 @@ jobs:
       run: |-
         cd australia
         wget -q -O Australia_COVID_Data.xlsx https://3f45b3d0-c53e-4b8a-937c-834399edc758.filesusr.com/ugd/de9cb2_08a8c576d32e4673a28c34fbf6c0feb3.xlsx?dn=Australia%20COVID%20Data.xlsx
+        wget -q -O time_series_act_sources.csv https://raw.githubusercontent.com/pappubahry/AU_COVID19/master/time_series_act_sources.csv
+        wget -q -O time_series_cases.csv https://raw.githubusercontent.com/pappubahry/AU_COVID19/master/time_series_cases.csv
+        wget -q -O time_series_deaths.csv https://raw.githubusercontent.com/pappubahry/AU_COVID19/master/time_series_deaths.csv
+        wget -q -O time_series_nsw_sources.csv https://raw.githubusercontent.com/pappubahry/AU_COVID19/master/time_series_nsw_sources.csv
+        wget -q -O time_series_recovered.csv https://raw.githubusercontent.com/pappubahry/AU_COVID19/master/time_series_recovered.csv
+        wget -q -O time_series_tests.csv https://raw.githubusercontent.com/pappubahry/AU_COVID19/master/time_series_tests.csv
+        wget -q -O time_series_vic_sources.csv https://raw.githubusercontent.com/pappubahry/AU_COVID19/master/time_series_vic_sources.csv
+        wget -q -O time_series_wa_sources.csv https://raw.githubusercontent.com/pappubahry/AU_COVID19/master/time_series_wa_sources.csv
+        wget -q -O COVID19_Data_Hub.csv https://raw.githubusercontent.com/M3IT/COVID-19_Data/master/Data/COVID19_Data_Hub.csv
+        wget -q -O COVID_AU_cumulative.csv https://raw.githubusercontent.com/M3IT/COVID-19_Data/master/Data/COVID_AU_cumulative.csv
+        wget -q -O COVID_AU_national.csv https://raw.githubusercontent.com/M3IT/COVID-19_Data/master/Data/COVID_AU_national.csv
+        wget -q -O COVID_AU_national_cumulative.csv https://raw.githubusercontent.com/M3IT/COVID-19_Data/master/Data/COVID_AU_national_cumulative.csv
+        wget -q -O COVID_AU_national_daily_change.csv https://raw.githubusercontent.com/M3IT/COVID-19_Data/master/Data/COVID_AU_national_daily_change.csv
+        wget -q -O COVID_AU_state.csv https://raw.githubusercontent.com/M3IT/COVID-19_Data/master/Data/COVID_AU_state.csv
+        wget -q -O COVID_AU_state_cumulative.csv https://raw.githubusercontent.com/M3IT/COVID-19_Data/master/Data/COVID_AU_state_cumulative.csv
+        wget -q -O COVID_AU_state_daily_change.csv https://raw.githubusercontent.com/M3IT/COVID-19_Data/master/Data/COVID_AU_state_daily_change.csv
+        wget -q -O COVID_Data_Hub.csv https://raw.githubusercontent.com/M3IT/COVID-19_Data/master/Data/COVID_Data_Hub.csv
+        wget -q -O COVID_Data_Hub_State.csv https://raw.githubusercontent.com/M3IT/COVID-19_Data/master/Data/COVID_Data_Hub_State.csv
     - name: Commit and push worldwide data if it changed
       run: |-
         git config user.name "Automated"

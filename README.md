@@ -16,6 +16,8 @@ repository, and with leveraging of [The Economists](https://www.economist.com) [
   * [Covid 19 Data](https://www.covid19data.com.au/)
   * [Covid Australia](https://www.covidaustralia.com)
   * [Covid Live](https://covidlive.com.au/)
+  * [Matt Bolton](https://github.com/M3IT/COVID-19_Data)
+  * [Juliette O'Brien](https://github.com/pappubahry/AU_COVID19)
 
 ## Belgian Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Belgian%20data/badge.svg)
