@@ -73,8 +73,8 @@ jobs:
         # wget -O week_28.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-28.zip
         # wget -O week_29.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-29.zip
         # wget -O week_30.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-30.zip
-        wget -O week_31.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-31.zip
-        wget -O week_32.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-32.zip
+        # wget -O week_31.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-31.zip
+        # wget -O week_32.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-32.zip
         # wget -O week_33.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-33.zip
         # wget -O week_34.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-34.zip
         # wget -O week_35.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-35.zip
