@@ -28,18 +28,18 @@ jobs:
     - name: Fetch latest UK data
       run: |-
         mkdir -p tmp_uk && cd tmp_uk
-        conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/data/data_latest.json
-        (test -f data_latest.json && jq . data_latest.json > ../uk/data_latest.json) || echo "No update for data_latest.json, skipping."
-        conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/utlas.geojson
-        (test -f utlas.geojson && jq . utlas.geojson > ../uk/utlas.geojson) || echo "No update for utlas.geojson, skipping."
-        conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/countries.geojson
-        (test -f countries.geojson && jq . countries.geojson > ../uk/countries.geojson) || echo "No update for countries.geojson, skipping."
-        conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/regions.geojson
-        (test -f regions.geojson && jq . regions.geojson > ../uk/regions.geojson) || echo "No update for regions.geojson, skipping."
-        conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/json/coronavirus-cases_latest.json
-        (test -f coronavirus-cases_latest.json && jq . coronavirus-cases_latest.json > ../uk/coronavirus-cases_latest.json) || echo "No update for coronavirus-cases_latest.json, skipping."
-        conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/json/coronavirus-deaths_latest.json
-        (test -f coronavirus-deaths_latest.json && jq . coronavirus-deaths_latest.json > ../uk/coronavirus-deaths_latest.json) || echo "No update for coronavirus-deaths_latest.json, skipping."
+        #conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/data/data_latest.json
+        #(test -f data_latest.json && jq . data_latest.json > ../uk/data_latest.json) || echo "No update for data_latest.json, skipping."
+        #conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/utlas.geojson
+        #(test -f utlas.geojson && jq . utlas.geojson > ../uk/utlas.geojson) || echo "No update for utlas.geojson, skipping."
+        #conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/countries.geojson
+        #(test -f countries.geojson && jq . countries.geojson > ../uk/countries.geojson) || echo "No update for countries.geojson, skipping."
+        #conditional-get --etags ../etags.json -v https://c19pub.azureedge.net/regions.geojson
+        #(test -f regions.geojson && jq . regions.geojson > ../uk/regions.geojson) || echo "No update for regions.geojson, skipping."
+        #conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/json/coronavirus-cases_latest.json
+        #(test -f coronavirus-cases_latest.json && jq . coronavirus-cases_latest.json > ../uk/coronavirus-cases_latest.json) || echo "No update for coronavirus-cases_latest.json, skipping."
+        #conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/json/coronavirus-deaths_latest.json
+        #(test -f coronavirus-deaths_latest.json && jq . coronavirus-deaths_latest.json > ../uk/coronavirus-deaths_latest.json) || echo "No update for coronavirus-deaths_latest.json, skipping."
         conditional-get --etags ../etags.json -v "https://c19pubstaging.azureedge.net/assets/cms/healthcare.json"
         (test -f healthcare.json && jq . healthcare.json > ../uk/healthcare.json) || echo "No update for healthcare.json, skipping."
         # conditional-get --etags ../etags.json -o new_admissions.json -v "https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22newAdmissions%22:%22newAdmissions%22%7D"
@@ -50,7 +50,7 @@ jobs:
         # (test -f occupied_beds.json && jq . occupied_beds.json > ../uk/occupied_beds.json) || echo "No update for occupied_beds.json, skipping."
         cd .. && rm -rf tmp_uk
         cd uk
-        wget -O r_number.html https://www.gov.uk/government/news/government-publishes-latest-r-number
+        wget -O r_number.html https://www.gov.uk/guidance/the-r-number-in-the-uk
         wget -O overall.json "https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1"
         mkdir -p wales && cd wales
         conditional-get --etags ../../etags.json -v "http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx"
@@ -91,7 +91,7 @@ jobs:
         mkdir -p PHE && cd PHE
         wget -O LSOAs_latest.csv "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.csv"
         wget -O LSOAs_latest.json "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.json"
-        #wget -O LSOAs_latest.xml "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.xml"
+        wget -O LSOAs_latest.xml "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.xml"
     - name: Commit and push UK data if it changed
       run: |-
         git config user.name "Automated"
