@@ -649,7 +649,7 @@
   },
   {
     "state": "NV",
-    "notes": null,
+    "notes": "The Nevada Department of Health and Human Services states that due to testing preformed on environmental samples, the number of Total PCR Tests (test encounters) reported is higher than the number of test encounters including only tests preformed on people.",
     "covid19Site": "https://app.powerbigov.us/view?r=eyJrIjoiMjA2ZThiOWUtM2FlNS00MGY5LWFmYjUtNmQwNTQ3Nzg5N2I2IiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9",
     "covid19SiteSecondary": "https://app.powerbigov.us/view?r=eyJrIjoiNDMwMDI0YmQtNmUyYS00ZmFjLWI0MGItZDM0OTY1Y2Y0YzNhIiwidCI6ImU0YTM0MGU2LWI4OWUtNGU2OC04ZWFhLTE1NDRkMjcwMzk4MCJ9",
     "covid19SiteTertiary": null,
