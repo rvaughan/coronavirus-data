@@ -89,9 +89,9 @@ jobs:
         wget -O historical_deaths_2009-2019.xls "https://www.nisra.gov.uk/sites/nisra.gov.uk/files/publications/Weekly_Deaths%20-%20Historical.xls"
         cd ..
         mkdir -p PHE && cd PHE
-        wget -O LSOAs_latest.csv "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.csv"
-        wget -O LSOAs_latest.json "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.json"
-        wget -O LSOAs_latest.xml "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.xml"
+        #wget -O LSOAs_latest.json "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.json"
+        #wget -O LSOAs_latest.csv "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.csv"
+        #wget -O LSOAs_latest.xml "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.xml"
     - name: Commit and push UK data if it changed
       run: |-
         git config user.name "Automated"
