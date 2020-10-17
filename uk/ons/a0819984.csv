@@ -1,0 +1,25 @@
+Table 2: Definitions of COVID-19 deaths between different sources
+
+
+,"DHSC COVID-19 
+(as published 
+on GOV.UK) 
+before 29 April","DHSC COVID-19 
+(as published 
+on GOV.UK)
+between 29 April
+and 12 August","DHSC COVID-19 
+(as published 
+on GOV.UK)
+from 12 August","ONS COVID-19 
+deaths registered","ONS COVID-19 
+death occurrence 
+(actual date of death)"
+Coverage,UK (however we only include England and Wales breakdowns for comparable coverage with ONS data),UK (however we only include England and Wales breakdowns for comparable coverage with ONS data),UK (however we only include England and Wales breakdowns for comparable coverage with ONS data),Registrations in England and Wales,Registrations in England and Wales
+,,,,Selected UK figures are included in the weekly release,In discussions with devolved nations to create UK estimates in the near future
+Inclusion,Deaths in hospitals,"Includes any place of death, including care homes and community","Includes any place of death, including care homes and community","Any place of death, including care homes and community","Any place of death, including care homes and community"
+,Deaths where the patient has tested positive for COVID-19,Deaths where the patient has tested positive for COVID-19,Deaths where the patient has tested positive for COVID-19 within 28 and 60 days of testing,Deaths where COVID-19 has been mentioned on the death certificate,Deaths where COVID-19 has been mentioned on the death certificate
+Timeliness,Provided daily but not officially registered,Provided daily but not officially registered,Provided daily but not officially registered,"Weekly registrations are 11 days behind because of the time taken to register, process and publish","Weekly registrations are 11 days behind because of the time taken to register, process and publish"
+,,,,Registered in the week ending 2 October (week 40),Deaths which occurred in week 40 but were registered up to 10 October
+
+Source: ,Office for National Statistics - Deaths registered weekly in England and Wales
