@@ -798,7 +798,7 @@
     "covid19SiteSecondary": "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/sc-demographic-data-covid-19",
     "covid19SiteTertiary": "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/hospital-bed-capacity-covid-19",
     "covid19SiteQuaternary": "https://scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/south-carolina-county-level-data-covid-19",
-    "covid19SiteQuinary": null,
+    "covid19SiteQuinary": "https://public.tableau.com/views/MainDashboard_15964746061440/HomePage?:embed=n",
     "twitter": "@scdhec",
     "covid19SiteOld": "https://scdhec.gov/health/infectious-diseases/viruses/coronavirus-disease-2019-covid-19",
     "covidTrackingProjectPreferredTotalTestUnits": "Specimens",
