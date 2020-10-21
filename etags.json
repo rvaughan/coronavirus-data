@@ -15,6 +15,6 @@
     "https://covidtracking.com/api/v1/us/current.json": "\"3956e4007f2bf1652b91285ead787455-ssl\"",
     "https://covidtracking.com/api/v1/us/daily.json": "\"57d0c96fdd88aa5bb104af3dbcc3e404-ssl\"",
     "https://covidtracking.com/api/v1/urls.json": "\"f1958a0b689edd2d49c6f217f8f29ee9-ssl-df\"",
-    "https://opendata.ecdc.europa.eu/covid19/casedistribution/json": "\"428ca356c0a6d61:0\"",
+    "https://opendata.ecdc.europa.eu/covid19/casedistribution/json": "\"ad060d689a7d61:0\"",
     "https://c19pubstaging.azureedge.net/assets/cms/healthcare.json": "0x8D87506DD300A99"
 }
