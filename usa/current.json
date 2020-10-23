@@ -19,11 +19,11 @@
     "lastModified": "2020-10-22T00:00:00Z",
     "total": 0,
     "posNeg": 0,
-    "deathIncrease": 1173,
-    "hospitalizedIncrease": 2706,
-    "negativeIncrease": 923136,
-    "positiveIncrease": 76560,
-    "totalTestResultsIncrease": 1139419,
+    "deathIncrease": 1143,
+    "hospitalizedIncrease": 2571,
+    "negativeIncrease": 913969,
+    "positiveIncrease": 75248,
+    "totalTestResultsIncrease": 1128940,
     "hash": "a487345726650f5e4fc102ef1e42b6378fee3493"
   }
 ]
