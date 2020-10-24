@@ -92,6 +92,10 @@ jobs:
         #wget -O LSOAs_latest.json "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.json"
         #wget -O LSOAs_latest.csv "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.csv"
         #wget -O LSOAs_latest.xml "https://coronavirus.data.gov.uk/downloads/lsoa_data/LSOAs_latest.xml"
+        wget -q -O MSOAs_latest.xlsx https://coronavirus.data.gov.uk/downloads/msoa_data/MSOAs_latest.xlsx
+        wget -q -O MSOAs_latest.csv https://coronavirus.data.gov.uk/downloads/msoa_data/MSOAs_latest.csv
+        wget -q -O MSOAs_latest.json https://coronavirus.data.gov.uk/downloads/msoa_data/MSOAs_latest.json
+        wget -q -O MSOAs_latest.xml https://coronavirus.data.gov.uk/downloads/msoa_data/MSOAs_latest.xml
     - name: Commit and push UK data if it changed
       run: |-
         git config user.name "Automated"
