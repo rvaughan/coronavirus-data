@@ -1,0 +1,883 @@
+areaType,areaName,areaCode,date,hospitalCases
+nation,England,E92000001,2020-10-25,7225
+nation,England,E92000001,2020-10-24,6823
+nation,England,E92000001,2020-10-23,6518
+nation,England,E92000001,2020-10-22,6074
+nation,England,E92000001,2020-10-21,6018
+nation,England,E92000001,2020-10-20,5828
+nation,England,E92000001,2020-10-19,5402
+nation,England,E92000001,2020-10-18,4974
+nation,England,E92000001,2020-10-17,4814
+nation,England,E92000001,2020-10-16,4647
+nation,England,E92000001,2020-10-15,4379
+nation,England,E92000001,2020-10-14,4156
+nation,England,E92000001,2020-10-13,3905
+nation,England,E92000001,2020-10-12,3665
+nation,England,E92000001,2020-10-11,3451
+nation,England,E92000001,2020-10-10,3225
+nation,England,E92000001,2020-10-09,3090
+nation,England,E92000001,2020-10-08,3044
+nation,England,E92000001,2020-10-07,2944
+nation,England,E92000001,2020-10-06,2783
+nation,England,E92000001,2020-10-05,2593
+nation,England,E92000001,2020-10-04,2329
+nation,England,E92000001,2020-10-03,2194
+nation,England,E92000001,2020-10-02,2088
+nation,England,E92000001,2020-10-01,1995
+nation,England,E92000001,2020-09-30,1958
+nation,England,E92000001,2020-09-29,1881
+nation,England,E92000001,2020-09-28,1883
+nation,England,E92000001,2020-09-27,1721
+nation,England,E92000001,2020-09-26,1622
+nation,England,E92000001,2020-09-25,1615
+nation,England,E92000001,2020-09-24,1481
+nation,England,E92000001,2020-09-23,1381
+nation,England,E92000001,2020-09-22,1335
+nation,England,E92000001,2020-09-21,1261
+nation,England,E92000001,2020-09-20,1141
+nation,England,E92000001,2020-09-19,1048
+nation,England,E92000001,2020-09-18,988
+nation,England,E92000001,2020-09-17,953
+nation,England,E92000001,2020-09-16,894
+nation,England,E92000001,2020-09-15,866
+nation,England,E92000001,2020-09-14,782
+nation,England,E92000001,2020-09-13,661
+nation,England,E92000001,2020-09-12,633
+nation,England,E92000001,2020-09-11,600
+nation,England,E92000001,2020-09-10,553
+nation,England,E92000001,2020-09-09,539
+nation,England,E92000001,2020-09-08,519
+nation,England,E92000001,2020-09-07,537
+nation,England,E92000001,2020-09-06,464
+nation,England,E92000001,2020-09-05,452
+nation,England,E92000001,2020-09-04,454
+nation,England,E92000001,2020-09-03,442
+nation,England,E92000001,2020-09-02,425
+nation,England,E92000001,2020-09-01,472
+nation,England,E92000001,2020-08-31,472
+nation,England,E92000001,2020-08-30,456
+nation,England,E92000001,2020-08-29,451
+nation,England,E92000001,2020-08-28,430
+nation,England,E92000001,2020-08-27,449
+nation,England,E92000001,2020-08-26,442
+nation,England,E92000001,2020-08-25,459
+nation,England,E92000001,2020-08-24,474
+nation,England,E92000001,2020-08-23,474
+nation,England,E92000001,2020-08-22,546
+nation,England,E92000001,2020-08-21,480
+nation,England,E92000001,2020-08-20,516
+nation,England,E92000001,2020-08-19,523
+nation,England,E92000001,2020-08-18,545
+nation,England,E92000001,2020-08-17,572
+nation,England,E92000001,2020-08-16,580
+nation,England,E92000001,2020-08-15,576
+nation,England,E92000001,2020-08-14,588
+nation,England,E92000001,2020-08-13,597
+nation,England,E92000001,2020-08-12,583
+nation,England,E92000001,2020-08-11,606
+nation,England,E92000001,2020-08-10,647
+nation,England,E92000001,2020-08-09,545
+nation,England,E92000001,2020-08-08,565
+nation,England,E92000001,2020-08-07,638
+nation,England,E92000001,2020-08-06,691
+nation,England,E92000001,2020-08-05,727
+nation,England,E92000001,2020-08-04,737
+nation,England,E92000001,2020-08-03,767
+nation,England,E92000001,2020-08-02,769
+nation,England,E92000001,2020-08-01,809
+nation,England,E92000001,2020-07-31,807
+nation,England,E92000001,2020-07-30,835
+nation,England,E92000001,2020-07-29,850
+nation,England,E92000001,2020-07-28,868
+nation,England,E92000001,2020-07-27,864
+nation,England,E92000001,2020-07-26,886
+nation,England,E92000001,2020-07-25,851
+nation,England,E92000001,2020-07-24,928
+nation,England,E92000001,2020-07-23,1017
+nation,England,E92000001,2020-07-22,1210
+nation,England,E92000001,2020-07-21,1080
+nation,England,E92000001,2020-07-20,1162
+nation,England,E92000001,2020-07-19,1190
+nation,England,E92000001,2020-07-18,1211
+nation,England,E92000001,2020-07-17,1233
+nation,England,E92000001,2020-07-16,1226
+nation,England,E92000001,2020-07-15,1364
+nation,England,E92000001,2020-07-14,1392
+nation,England,E92000001,2020-07-13,1475
+nation,England,E92000001,2020-07-12,1477
+nation,England,E92000001,2020-07-11,1480
+nation,England,E92000001,2020-07-10,1608
+nation,England,E92000001,2020-07-09,1649
+nation,England,E92000001,2020-07-08,1704
+nation,England,E92000001,2020-07-07,1821
+nation,England,E92000001,2020-07-06,1911
+nation,England,E92000001,2020-07-05,1923
+nation,England,E92000001,2020-07-04,1954
+nation,England,E92000001,2020-07-03,2086
+nation,England,E92000001,2020-07-02,2189
+nation,England,E92000001,2020-07-01,2289
+nation,England,E92000001,2020-06-30,2441
+nation,England,E92000001,2020-06-29,2780
+nation,England,E92000001,2020-06-28,2582
+nation,England,E92000001,2020-06-27,2572
+nation,England,E92000001,2020-06-26,2613
+nation,England,E92000001,2020-06-25,2813
+nation,England,E92000001,2020-06-24,2936
+nation,England,E92000001,2020-06-23,3007
+nation,England,E92000001,2020-06-22,3108
+nation,England,E92000001,2020-06-21,3059
+nation,England,E92000001,2020-06-20,3106
+nation,England,E92000001,2020-06-19,3248
+nation,England,E92000001,2020-06-18,3346
+nation,England,E92000001,2020-06-17,3463
+nation,England,E92000001,2020-06-16,3569
+nation,England,E92000001,2020-06-15,3548
+nation,England,E92000001,2020-06-14,3593
+nation,England,E92000001,2020-06-13,3588
+nation,England,E92000001,2020-06-12,3718
+nation,England,E92000001,2020-06-11,3742
+nation,England,E92000001,2020-06-10,3960
+nation,England,E92000001,2020-06-09,4176
+nation,England,E92000001,2020-06-08,4326
+nation,England,E92000001,2020-06-07,4325
+nation,England,E92000001,2020-06-06,4506
+nation,England,E92000001,2020-06-05,4695
+nation,England,E92000001,2020-06-04,4835
+nation,England,E92000001,2020-06-03,5057
+nation,England,E92000001,2020-06-02,5208
+nation,England,E92000001,2020-06-01,5358
+nation,England,E92000001,2020-05-31,5298
+nation,England,E92000001,2020-05-30,5340
+nation,England,E92000001,2020-05-29,5589
+nation,England,E92000001,2020-05-28,5850
+nation,England,E92000001,2020-05-27,6109
+nation,England,E92000001,2020-05-26,6390
+nation,England,E92000001,2020-05-25,6523
+nation,England,E92000001,2020-05-24,6489
+nation,England,E92000001,2020-05-23,6499
+nation,England,E92000001,2020-05-22,6827
+nation,England,E92000001,2020-05-21,6896
+nation,England,E92000001,2020-05-20,7083
+nation,England,E92000001,2020-05-19,7436
+nation,England,E92000001,2020-05-18,7549
+nation,England,E92000001,2020-05-17,7553
+nation,England,E92000001,2020-05-16,7527
+nation,England,E92000001,2020-05-15,7902
+nation,England,E92000001,2020-05-14,8029
+nation,England,E92000001,2020-05-13,8365
+nation,England,E92000001,2020-05-12,8560
+nation,England,E92000001,2020-05-11,8819
+nation,England,E92000001,2020-05-10,8617
+nation,England,E92000001,2020-05-09,8876
+nation,England,E92000001,2020-05-08,8904
+nation,England,E92000001,2020-05-07,9281
+nation,England,E92000001,2020-05-06,9782
+nation,England,E92000001,2020-05-05,10215
+nation,England,E92000001,2020-05-04,10438
+nation,England,E92000001,2020-05-03,10559
+nation,England,E92000001,2020-05-02,10719
+nation,England,E92000001,2020-05-01,10970
+nation,England,E92000001,2020-04-30,11253
+nation,England,E92000001,2020-04-29,11573
+nation,England,E92000001,2020-04-28,11818
+nation,England,E92000001,2020-04-27,12398
+nation,England,E92000001,2020-04-26,12328
+nation,England,E92000001,2020-04-25,12412
+nation,England,E92000001,2020-04-24,12931
+nation,England,E92000001,2020-04-23,13507
+nation,England,E92000001,2020-04-22,14022
+nation,England,E92000001,2020-04-21,14487
+nation,England,E92000001,2020-04-20,14690
+nation,England,E92000001,2020-04-19,14841
+nation,England,E92000001,2020-04-18,14868
+nation,England,E92000001,2020-04-17,14733
+nation,England,E92000001,2020-04-16,15685
+nation,England,E92000001,2020-04-15,15917
+nation,England,E92000001,2020-04-14,16540
+nation,England,E92000001,2020-04-13,16722
+nation,England,E92000001,2020-04-12,17172
+nation,England,E92000001,2020-04-11,16881
+nation,England,E92000001,2020-04-10,17047
+nation,England,E92000001,2020-04-09,16952
+nation,England,E92000001,2020-04-08,16784
+nation,England,E92000001,2020-04-07,16570
+nation,England,E92000001,2020-04-06,15952
+nation,England,E92000001,2020-04-05,15613
+nation,England,E92000001,2020-04-04,14582
+nation,England,E92000001,2020-04-03,12844
+nation,England,E92000001,2020-04-02,11533
+nation,England,E92000001,2020-04-01,11540
+nation,England,E92000001,2020-03-31,10767
+nation,England,E92000001,2020-03-30,9498
+nation,England,E92000001,2020-03-29,8143
+nation,England,E92000001,2020-03-28,7017
+nation,England,E92000001,2020-03-27,6245
+nation,England,E92000001,2020-03-26,5045
+nation,England,E92000001,2020-03-25,4262
+nation,England,E92000001,2020-03-24,3492
+nation,England,E92000001,2020-03-23,3097
+nation,England,E92000001,2020-03-22,2588
+nation,England,E92000001,2020-03-21,2092
+nation,England,E92000001,2020-03-20,1541
+nation,Northern Ireland,N92000002,2020-10-22,296
+nation,Northern Ireland,N92000002,2020-10-21,315
+nation,Northern Ireland,N92000002,2020-10-20,329
+nation,Northern Ireland,N92000002,2020-10-19,325
+nation,Northern Ireland,N92000002,2020-10-18,333
+nation,Northern Ireland,N92000002,2020-10-17,316
+nation,Northern Ireland,N92000002,2020-10-16,291
+nation,Northern Ireland,N92000002,2020-10-15,271
+nation,Northern Ireland,N92000002,2020-10-14,258
+nation,Northern Ireland,N92000002,2020-10-13,246
+nation,Northern Ireland,N92000002,2020-10-12,235
+nation,Northern Ireland,N92000002,2020-10-11,231
+nation,Northern Ireland,N92000002,2020-10-10,211
+nation,Northern Ireland,N92000002,2020-10-09,195
+nation,Northern Ireland,N92000002,2020-10-08,192
+nation,Northern Ireland,N92000002,2020-10-07,182
+nation,Northern Ireland,N92000002,2020-10-06,170
+nation,Northern Ireland,N92000002,2020-10-05,153
+nation,Northern Ireland,N92000002,2020-10-04,140
+nation,Northern Ireland,N92000002,2020-10-03,126
+nation,Northern Ireland,N92000002,2020-10-02,109
+nation,Northern Ireland,N92000002,2020-10-01,115
+nation,Northern Ireland,N92000002,2020-09-30,112
+nation,Northern Ireland,N92000002,2020-09-29,105
+nation,Northern Ireland,N92000002,2020-09-28,103
+nation,Northern Ireland,N92000002,2020-09-27,88
+nation,Northern Ireland,N92000002,2020-09-26,81
+nation,Northern Ireland,N92000002,2020-09-25,73
+nation,Northern Ireland,N92000002,2020-09-24,75
+nation,Northern Ireland,N92000002,2020-09-23,75
+nation,Northern Ireland,N92000002,2020-09-22,72
+nation,Northern Ireland,N92000002,2020-09-21,66
+nation,Northern Ireland,N92000002,2020-09-20,59
+nation,Northern Ireland,N92000002,2020-09-19,53
+nation,Northern Ireland,N92000002,2020-09-18,54
+nation,Northern Ireland,N92000002,2020-09-17,55
+nation,Northern Ireland,N92000002,2020-09-16,56
+nation,Northern Ireland,N92000002,2020-09-15,60
+nation,Northern Ireland,N92000002,2020-09-14,59
+nation,Northern Ireland,N92000002,2020-09-13,56
+nation,Northern Ireland,N92000002,2020-09-12,51
+nation,Northern Ireland,N92000002,2020-09-11,47
+nation,Northern Ireland,N92000002,2020-09-10,47
+nation,Northern Ireland,N92000002,2020-09-09,44
+nation,Northern Ireland,N92000002,2020-09-08,47
+nation,Northern Ireland,N92000002,2020-09-07,43
+nation,Northern Ireland,N92000002,2020-09-06,44
+nation,Northern Ireland,N92000002,2020-09-05,41
+nation,Northern Ireland,N92000002,2020-09-04,41
+nation,Northern Ireland,N92000002,2020-09-03,42
+nation,Northern Ireland,N92000002,2020-09-02,43
+nation,Northern Ireland,N92000002,2020-09-01,49
+nation,Northern Ireland,N92000002,2020-08-31,49
+nation,Northern Ireland,N92000002,2020-08-30,44
+nation,Northern Ireland,N92000002,2020-08-29,45
+nation,Northern Ireland,N92000002,2020-08-28,43
+nation,Northern Ireland,N92000002,2020-08-27,40
+nation,Northern Ireland,N92000002,2020-08-26,37
+nation,Northern Ireland,N92000002,2020-08-25,43
+nation,Northern Ireland,N92000002,2020-08-24,46
+nation,Northern Ireland,N92000002,2020-08-23,42
+nation,Northern Ireland,N92000002,2020-08-22,41
+nation,Northern Ireland,N92000002,2020-08-21,43
+nation,Northern Ireland,N92000002,2020-08-20,42
+nation,Northern Ireland,N92000002,2020-08-19,37
+nation,Northern Ireland,N92000002,2020-08-18,32
+nation,Northern Ireland,N92000002,2020-08-17,28
+nation,Northern Ireland,N92000002,2020-08-16,22
+nation,Northern Ireland,N92000002,2020-08-15,22
+nation,Northern Ireland,N92000002,2020-08-14,21
+nation,Northern Ireland,N92000002,2020-08-13,21
+nation,Northern Ireland,N92000002,2020-08-12,20
+nation,Northern Ireland,N92000002,2020-08-11,21
+nation,Northern Ireland,N92000002,2020-08-10,20
+nation,Northern Ireland,N92000002,2020-08-09,21
+nation,Northern Ireland,N92000002,2020-08-08,20
+nation,Northern Ireland,N92000002,2020-08-07,17
+nation,Northern Ireland,N92000002,2020-08-06,17
+nation,Northern Ireland,N92000002,2020-08-05,14
+nation,Northern Ireland,N92000002,2020-08-04,15
+nation,Northern Ireland,N92000002,2020-08-03,16
+nation,Northern Ireland,N92000002,2020-08-02,17
+nation,Northern Ireland,N92000002,2020-08-01,18
+nation,Northern Ireland,N92000002,2020-07-31,16
+nation,Northern Ireland,N92000002,2020-07-30,16
+nation,Northern Ireland,N92000002,2020-07-29,17
+nation,Northern Ireland,N92000002,2020-07-28,16
+nation,Northern Ireland,N92000002,2020-07-27,16
+nation,Northern Ireland,N92000002,2020-07-26,14
+nation,Northern Ireland,N92000002,2020-07-25,15
+nation,Northern Ireland,N92000002,2020-07-24,16
+nation,Northern Ireland,N92000002,2020-07-23,15
+nation,Northern Ireland,N92000002,2020-07-22,15
+nation,Northern Ireland,N92000002,2020-07-21,16
+nation,Northern Ireland,N92000002,2020-07-20,17
+nation,Northern Ireland,N92000002,2020-07-19,16
+nation,Northern Ireland,N92000002,2020-07-18,15
+nation,Northern Ireland,N92000002,2020-07-17,13
+nation,Northern Ireland,N92000002,2020-07-16,15
+nation,Northern Ireland,N92000002,2020-07-15,14
+nation,Northern Ireland,N92000002,2020-07-14,13
+nation,Northern Ireland,N92000002,2020-07-13,14
+nation,Northern Ireland,N92000002,2020-07-12,15
+nation,Northern Ireland,N92000002,2020-07-11,17
+nation,Northern Ireland,N92000002,2020-07-10,17
+nation,Northern Ireland,N92000002,2020-07-09,17
+nation,Northern Ireland,N92000002,2020-07-08,20
+nation,Northern Ireland,N92000002,2020-07-07,20
+nation,Northern Ireland,N92000002,2020-07-06,19
+nation,Northern Ireland,N92000002,2020-07-05,19
+nation,Northern Ireland,N92000002,2020-07-04,19
+nation,Northern Ireland,N92000002,2020-07-03,18
+nation,Northern Ireland,N92000002,2020-07-02,21
+nation,Northern Ireland,N92000002,2020-07-01,23
+nation,Northern Ireland,N92000002,2020-06-30,25
+nation,Northern Ireland,N92000002,2020-06-29,27
+nation,Northern Ireland,N92000002,2020-06-28,33
+nation,Northern Ireland,N92000002,2020-06-27,30
+nation,Northern Ireland,N92000002,2020-06-26,33
+nation,Northern Ireland,N92000002,2020-06-25,39
+nation,Northern Ireland,N92000002,2020-06-24,42
+nation,Northern Ireland,N92000002,2020-06-23,46
+nation,Northern Ireland,N92000002,2020-06-22,45
+nation,Northern Ireland,N92000002,2020-06-21,45
+nation,Northern Ireland,N92000002,2020-06-20,42
+nation,Northern Ireland,N92000002,2020-06-19,40
+nation,Northern Ireland,N92000002,2020-06-18,44
+nation,Northern Ireland,N92000002,2020-06-17,45
+nation,Northern Ireland,N92000002,2020-06-16,49
+nation,Northern Ireland,N92000002,2020-06-15,55
+nation,Northern Ireland,N92000002,2020-06-14,56
+nation,Northern Ireland,N92000002,2020-06-13,57
+nation,Northern Ireland,N92000002,2020-06-12,57
+nation,Northern Ireland,N92000002,2020-06-11,61
+nation,Northern Ireland,N92000002,2020-06-10,67
+nation,Northern Ireland,N92000002,2020-06-09,69
+nation,Northern Ireland,N92000002,2020-06-08,75
+nation,Northern Ireland,N92000002,2020-06-07,75
+nation,Northern Ireland,N92000002,2020-06-06,74
+nation,Northern Ireland,N92000002,2020-06-05,77
+nation,Northern Ireland,N92000002,2020-06-04,80
+nation,Northern Ireland,N92000002,2020-06-03,90
+nation,Northern Ireland,N92000002,2020-06-02,99
+nation,Northern Ireland,N92000002,2020-06-01,106
+nation,Northern Ireland,N92000002,2020-05-31,115
+nation,Northern Ireland,N92000002,2020-05-30,113
+nation,Northern Ireland,N92000002,2020-05-29,113
+nation,Northern Ireland,N92000002,2020-05-28,120
+nation,Northern Ireland,N92000002,2020-05-27,122
+nation,Northern Ireland,N92000002,2020-05-26,130
+nation,Northern Ireland,N92000002,2020-05-25,132
+nation,Northern Ireland,N92000002,2020-05-24,130
+nation,Northern Ireland,N92000002,2020-05-23,131
+nation,Northern Ireland,N92000002,2020-05-22,133
+nation,Northern Ireland,N92000002,2020-05-21,142
+nation,Northern Ireland,N92000002,2020-05-20,153
+nation,Northern Ireland,N92000002,2020-05-19,169
+nation,Northern Ireland,N92000002,2020-05-18,178
+nation,Northern Ireland,N92000002,2020-05-17,180
+nation,Northern Ireland,N92000002,2020-05-16,178
+nation,Northern Ireland,N92000002,2020-05-15,182
+nation,Northern Ireland,N92000002,2020-05-14,196
+nation,Northern Ireland,N92000002,2020-05-13,213
+nation,Northern Ireland,N92000002,2020-05-12,209
+nation,Northern Ireland,N92000002,2020-05-11,212
+nation,Northern Ireland,N92000002,2020-05-10,204
+nation,Northern Ireland,N92000002,2020-05-09,194
+nation,Northern Ireland,N92000002,2020-05-08,186
+nation,Northern Ireland,N92000002,2020-05-07,193
+nation,Northern Ireland,N92000002,2020-05-06,197
+nation,Northern Ireland,N92000002,2020-05-05,202
+nation,Northern Ireland,N92000002,2020-05-04,219
+nation,Northern Ireland,N92000002,2020-05-03,224
+nation,Northern Ireland,N92000002,2020-05-02,227
+nation,Northern Ireland,N92000002,2020-05-01,230
+nation,Northern Ireland,N92000002,2020-04-30,235
+nation,Northern Ireland,N92000002,2020-04-29,230
+nation,Northern Ireland,N92000002,2020-04-28,236
+nation,Northern Ireland,N92000002,2020-04-27,250
+nation,Northern Ireland,N92000002,2020-04-26,251
+nation,Northern Ireland,N92000002,2020-04-25,260
+nation,Northern Ireland,N92000002,2020-04-24,257
+nation,Northern Ireland,N92000002,2020-04-23,260
+nation,Northern Ireland,N92000002,2020-04-22,270
+nation,Northern Ireland,N92000002,2020-04-21,277
+nation,Northern Ireland,N92000002,2020-04-20,270
+nation,Northern Ireland,N92000002,2020-04-19,266
+nation,Northern Ireland,N92000002,2020-04-18,255
+nation,Northern Ireland,N92000002,2020-04-17,258
+nation,Northern Ireland,N92000002,2020-04-16,250
+nation,Northern Ireland,N92000002,2020-04-15,243
+nation,Northern Ireland,N92000002,2020-04-14,259
+nation,Northern Ireland,N92000002,2020-04-13,269
+nation,Northern Ireland,N92000002,2020-04-12,280
+nation,Northern Ireland,N92000002,2020-04-11,280
+nation,Northern Ireland,N92000002,2020-04-10,276
+nation,Northern Ireland,N92000002,2020-04-09,308
+nation,Northern Ireland,N92000002,2020-04-08,322
+nation,Northern Ireland,N92000002,2020-04-07,321
+nation,Northern Ireland,N92000002,2020-04-06,311
+nation,Northern Ireland,N92000002,2020-04-05,298
+nation,Northern Ireland,N92000002,2020-04-04,302
+nation,Northern Ireland,N92000002,2020-04-03,280
+nation,Northern Ireland,N92000002,2020-04-02,287
+nation,Northern Ireland,N92000002,2020-04-01,270
+nation,Northern Ireland,N92000002,2020-03-31,247
+nation,Northern Ireland,N92000002,2020-03-30,220
+nation,Northern Ireland,N92000002,2020-03-29,200
+nation,Northern Ireland,N92000002,2020-03-28,181
+nation,Northern Ireland,N92000002,2020-03-27,151
+nation,Northern Ireland,N92000002,2020-03-26,131
+nation,Northern Ireland,N92000002,2020-03-25,106
+nation,Northern Ireland,N92000002,2020-03-24,84
+nation,Northern Ireland,N92000002,2020-03-23,76
+nation,Northern Ireland,N92000002,2020-03-22,66
+nation,Northern Ireland,N92000002,2020-03-21,60
+nation,Northern Ireland,N92000002,2020-03-20,50
+nation,Northern Ireland,N92000002,2020-03-19,40
+nation,Northern Ireland,N92000002,2020-03-18,39
+nation,Northern Ireland,N92000002,2020-03-17,34
+nation,Northern Ireland,N92000002,2020-03-16,33
+nation,Northern Ireland,N92000002,2020-03-15,29
+nation,Northern Ireland,N92000002,2020-03-14,29
+nation,Northern Ireland,N92000002,2020-03-13,27
+nation,Northern Ireland,N92000002,2020-03-12,25
+nation,Northern Ireland,N92000002,2020-03-11,21
+nation,Northern Ireland,N92000002,2020-03-10,18
+nation,Northern Ireland,N92000002,2020-03-09,16
+nation,Northern Ireland,N92000002,2020-03-08,15
+nation,Northern Ireland,N92000002,2020-03-07,15
+nation,Northern Ireland,N92000002,2020-03-06,15
+nation,Northern Ireland,N92000002,2020-03-05,12
+nation,Northern Ireland,N92000002,2020-03-04,11
+nation,Northern Ireland,N92000002,2020-03-03,11
+nation,Northern Ireland,N92000002,2020-03-02,11
+nation,Northern Ireland,N92000002,2020-03-01,10
+nation,Scotland,S92000003,2020-10-23,975
+nation,Scotland,S92000003,2020-10-22,934
+nation,Scotland,S92000003,2020-10-21,873
+nation,Scotland,S92000003,2020-10-20,824
+nation,Scotland,S92000003,2020-10-19,755
+nation,Scotland,S92000003,2020-10-18,712
+nation,Scotland,S92000003,2020-10-17,672
+nation,Scotland,S92000003,2020-10-16,627
+nation,Scotland,S92000003,2020-10-15,601
+nation,Scotland,S92000003,2020-10-14,570
+nation,Scotland,S92000003,2020-10-13,527
+nation,Scotland,S92000003,2020-10-12,487
+nation,Scotland,S92000003,2020-10-11,449
+nation,Scotland,S92000003,2020-10-10,432
+nation,Scotland,S92000003,2020-10-09,397
+nation,Scotland,S92000003,2020-10-08,377
+nation,Scotland,S92000003,2020-10-07,319
+nation,Scotland,S92000003,2020-10-06,262
+nation,Scotland,S92000003,2020-10-05,218
+nation,Scotland,S92000003,2020-10-04,210
+nation,Scotland,S92000003,2020-10-03,191
+nation,Scotland,S92000003,2020-10-02,175
+nation,Scotland,S92000003,2020-10-01,154
+nation,Scotland,S92000003,2020-09-30,137
+nation,Scotland,S92000003,2020-09-29,123
+nation,Scotland,S92000003,2020-09-28,122
+nation,Scotland,S92000003,2020-09-27,105
+nation,Scotland,S92000003,2020-09-26,99
+nation,Scotland,S92000003,2020-09-25,89
+nation,Scotland,S92000003,2020-09-24,85
+nation,Scotland,S92000003,2020-09-23,83
+nation,Scotland,S92000003,2020-09-22,73
+nation,Scotland,S92000003,2020-09-21,73
+nation,Scotland,S92000003,2020-09-20,63
+nation,Scotland,S92000003,2020-09-19,64
+nation,Scotland,S92000003,2020-09-18,61
+nation,Scotland,S92000003,2020-09-17,52
+nation,Scotland,S92000003,2020-09-16,51
+nation,Scotland,S92000003,2020-09-15,48
+nation,Scotland,S92000003,2020-09-14,51
+nation,Scotland,S92000003,2020-09-13,45
+nation,Scotland,S92000003,2020-09-12,42
+nation,Scotland,S92000003,2020-09-11,45
+nation,Scotland,S92000003,2020-09-10,266
+nation,Scotland,S92000003,2020-09-09,274
+nation,Scotland,S92000003,2020-09-08,267
+nation,Scotland,S92000003,2020-09-07,256
+nation,Scotland,S92000003,2020-09-06,245
+nation,Scotland,S92000003,2020-09-05,251
+nation,Scotland,S92000003,2020-09-04,258
+nation,Scotland,S92000003,2020-09-03,259
+nation,Scotland,S92000003,2020-09-02,258
+nation,Scotland,S92000003,2020-09-01,264
+nation,Scotland,S92000003,2020-08-31,258
+nation,Scotland,S92000003,2020-08-30,251
+nation,Scotland,S92000003,2020-08-29,258
+nation,Scotland,S92000003,2020-08-28,255
+nation,Scotland,S92000003,2020-08-27,257
+nation,Scotland,S92000003,2020-08-26,249
+nation,Scotland,S92000003,2020-08-25,243
+nation,Scotland,S92000003,2020-08-24,248
+nation,Scotland,S92000003,2020-08-23,245
+nation,Scotland,S92000003,2020-08-22,246
+nation,Scotland,S92000003,2020-08-21,254
+nation,Scotland,S92000003,2020-08-20,249
+nation,Scotland,S92000003,2020-08-19,248
+nation,Scotland,S92000003,2020-08-18,254
+nation,Scotland,S92000003,2020-08-17,248
+nation,Scotland,S92000003,2020-08-16,243
+nation,Scotland,S92000003,2020-08-15,244
+nation,Scotland,S92000003,2020-08-14,253
+nation,Scotland,S92000003,2020-08-13,258
+nation,Scotland,S92000003,2020-08-12,265
+nation,Scotland,S92000003,2020-08-11,269
+nation,Scotland,S92000003,2020-08-10,267
+nation,Scotland,S92000003,2020-08-09,261
+nation,Scotland,S92000003,2020-08-08,261
+nation,Scotland,S92000003,2020-08-07,262
+nation,Scotland,S92000003,2020-08-06,270
+nation,Scotland,S92000003,2020-08-05,267
+nation,Scotland,S92000003,2020-08-04,270
+nation,Scotland,S92000003,2020-08-03,265
+nation,Scotland,S92000003,2020-08-02,265
+nation,Scotland,S92000003,2020-08-01,260
+nation,Scotland,S92000003,2020-07-31,255
+nation,Scotland,S92000003,2020-07-30,260
+nation,Scotland,S92000003,2020-07-29,260
+nation,Scotland,S92000003,2020-07-28,264
+nation,Scotland,S92000003,2020-07-27,270
+nation,Scotland,S92000003,2020-07-26,267
+nation,Scotland,S92000003,2020-07-25,270
+nation,Scotland,S92000003,2020-07-24,278
+nation,Scotland,S92000003,2020-07-23,287
+nation,Scotland,S92000003,2020-07-22,295
+nation,Scotland,S92000003,2020-07-21,303
+nation,Scotland,S92000003,2020-07-20,299
+nation,Scotland,S92000003,2020-07-19,302
+nation,Scotland,S92000003,2020-07-18,305
+nation,Scotland,S92000003,2020-07-17,316
+nation,Scotland,S92000003,2020-07-16,320
+nation,Scotland,S92000003,2020-07-15,329
+nation,Scotland,S92000003,2020-07-14,327
+nation,Scotland,S92000003,2020-07-13,335
+nation,Scotland,S92000003,2020-07-12,330
+nation,Scotland,S92000003,2020-07-11,323
+nation,Scotland,S92000003,2020-07-10,337
+nation,Scotland,S92000003,2020-07-09,342
+nation,Scotland,S92000003,2020-07-08,358
+nation,Scotland,S92000003,2020-07-07,376
+nation,Scotland,S92000003,2020-07-06,384
+nation,Scotland,S92000003,2020-07-05,424
+nation,Scotland,S92000003,2020-07-04,429
+nation,Scotland,S92000003,2020-07-03,422
+nation,Scotland,S92000003,2020-07-02,432
+nation,Scotland,S92000003,2020-07-01,439
+nation,Scotland,S92000003,2020-06-30,450
+nation,Scotland,S92000003,2020-06-29,453
+nation,Scotland,S92000003,2020-06-28,453
+nation,Scotland,S92000003,2020-06-27,456
+nation,Scotland,S92000003,2020-06-26,467
+nation,Scotland,S92000003,2020-06-25,472
+nation,Scotland,S92000003,2020-06-24,489
+nation,Scotland,S92000003,2020-06-23,512
+nation,Scotland,S92000003,2020-06-22,515
+nation,Scotland,S92000003,2020-06-21,518
+nation,Scotland,S92000003,2020-06-20,511
+nation,Scotland,S92000003,2020-06-19,518
+nation,Scotland,S92000003,2020-06-18,544
+nation,Scotland,S92000003,2020-06-17,552
+nation,Scotland,S92000003,2020-06-16,567
+nation,Scotland,S92000003,2020-06-15,578
+nation,Scotland,S92000003,2020-06-14,575
+nation,Scotland,S92000003,2020-06-13,582
+nation,Scotland,S92000003,2020-06-12,590
+nation,Scotland,S92000003,2020-06-11,610
+nation,Scotland,S92000003,2020-06-10,623
+nation,Scotland,S92000003,2020-06-09,641
+nation,Scotland,S92000003,2020-06-08,655
+nation,Scotland,S92000003,2020-06-07,646
+nation,Scotland,S92000003,2020-06-06,646
+nation,Scotland,S92000003,2020-06-05,676
+nation,Scotland,S92000003,2020-06-04,685
+nation,Scotland,S92000003,2020-06-03,706
+nation,Scotland,S92000003,2020-06-02,712
+nation,Scotland,S92000003,2020-06-01,735
+nation,Scotland,S92000003,2020-05-31,732
+nation,Scotland,S92000003,2020-05-30,735
+nation,Scotland,S92000003,2020-05-29,769
+nation,Scotland,S92000003,2020-05-28,797
+nation,Scotland,S92000003,2020-05-27,810
+nation,Scotland,S92000003,2020-05-26,833
+nation,Scotland,S92000003,2020-05-25,849
+nation,Scotland,S92000003,2020-05-24,845
+nation,Scotland,S92000003,2020-05-23,841
+nation,Scotland,S92000003,2020-05-22,874
+nation,Scotland,S92000003,2020-05-21,909
+nation,Scotland,S92000003,2020-05-20,943
+nation,Scotland,S92000003,2020-05-19,969
+nation,Scotland,S92000003,2020-05-18,1005
+nation,Scotland,S92000003,2020-05-17,1007
+nation,Scotland,S92000003,2020-05-16,1011
+nation,Scotland,S92000003,2020-05-15,1066
+nation,Scotland,S92000003,2020-05-14,1100
+nation,Scotland,S92000003,2020-05-13,1101
+nation,Scotland,S92000003,2020-05-12,1131
+nation,Scotland,S92000003,2020-05-11,1145
+nation,Scotland,S92000003,2020-05-10,1132
+nation,Scotland,S92000003,2020-05-09,1165
+nation,Scotland,S92000003,2020-05-08,1168
+nation,Scotland,S92000003,2020-05-07,1199
+nation,Scotland,S92000003,2020-05-06,1204
+nation,Scotland,S92000003,2020-05-05,1225
+nation,Scotland,S92000003,2020-05-04,1279
+nation,Scotland,S92000003,2020-05-03,1266
+nation,Scotland,S92000003,2020-05-02,1277
+nation,Scotland,S92000003,2020-05-01,1302
+nation,Scotland,S92000003,2020-04-30,1324
+nation,Scotland,S92000003,2020-04-29,1363
+nation,Scotland,S92000003,2020-04-28,1359
+nation,Scotland,S92000003,2020-04-27,1387
+nation,Scotland,S92000003,2020-04-26,1382
+nation,Scotland,S92000003,2020-04-25,1385
+nation,Scotland,S92000003,2020-04-24,1383
+nation,Scotland,S92000003,2020-04-23,1423
+nation,Scotland,S92000003,2020-04-22,1432
+nation,Scotland,S92000003,2020-04-21,1472
+nation,Scotland,S92000003,2020-04-20,1520
+nation,Scotland,S92000003,2020-04-19,1520
+nation,Scotland,S92000003,2020-04-18,1501
+nation,Scotland,S92000003,2020-04-17,1487
+nation,Scotland,S92000003,2020-04-16,1479
+nation,Scotland,S92000003,2020-04-15,1486
+nation,Scotland,S92000003,2020-04-14,1514
+nation,Scotland,S92000003,2020-04-13,1482
+nation,Scotland,S92000003,2020-04-12,1487
+nation,Scotland,S92000003,2020-04-11,1467
+nation,Scotland,S92000003,2020-04-10,1461
+nation,Scotland,S92000003,2020-04-09,1440
+nation,Scotland,S92000003,2020-04-08,1415
+nation,Scotland,S92000003,2020-04-07,1328
+nation,Scotland,S92000003,2020-04-06,1262
+nation,Scotland,S92000003,2020-04-05,1204
+nation,Scotland,S92000003,2020-04-04,1107
+nation,Scotland,S92000003,2020-04-03,1037
+nation,Scotland,S92000003,2020-04-02,910
+nation,Scotland,S92000003,2020-04-01,815
+nation,Scotland,S92000003,2020-03-31,752
+nation,Scotland,S92000003,2020-03-30,627
+nation,Scotland,S92000003,2020-03-29,565
+nation,Scotland,S92000003,2020-03-28,511
+nation,Scotland,S92000003,2020-03-27,404
+nation,Wales,W92000004,2020-10-23,571
+nation,Wales,W92000004,2020-10-22,546
+nation,Wales,W92000004,2020-10-21,524
+nation,Wales,W92000004,2020-10-20,492
+nation,Wales,W92000004,2020-10-19,491
+nation,Wales,W92000004,2020-10-18,482
+nation,Wales,W92000004,2020-10-17,437
+nation,Wales,W92000004,2020-10-16,442
+nation,Wales,W92000004,2020-10-15,414
+nation,Wales,W92000004,2020-10-14,384
+nation,Wales,W92000004,2020-10-13,345
+nation,Wales,W92000004,2020-10-12,348
+nation,Wales,W92000004,2020-10-11,327
+nation,Wales,W92000004,2020-10-10,292
+nation,Wales,W92000004,2020-10-09,291
+nation,Wales,W92000004,2020-10-08,284
+nation,Wales,W92000004,2020-10-07,277
+nation,Wales,W92000004,2020-10-06,261
+nation,Wales,W92000004,2020-10-05,249
+nation,Wales,W92000004,2020-10-04,230
+nation,Wales,W92000004,2020-10-03,220
+nation,Wales,W92000004,2020-10-02,218
+nation,Wales,W92000004,2020-10-01,214
+nation,Wales,W92000004,2020-09-30,211
+nation,Wales,W92000004,2020-09-29,205
+nation,Wales,W92000004,2020-09-28,188
+nation,Wales,W92000004,2020-09-27,172
+nation,Wales,W92000004,2020-09-26,136
+nation,Wales,W92000004,2020-09-25,145
+nation,Wales,W92000004,2020-09-24,115
+nation,Wales,W92000004,2020-09-23,111
+nation,Wales,W92000004,2020-09-22,93
+nation,Wales,W92000004,2020-09-21,99
+nation,Wales,W92000004,2020-09-20,82
+nation,Wales,W92000004,2020-09-19,82
+nation,Wales,W92000004,2020-09-18,68
+nation,Wales,W92000004,2020-09-17,55
+nation,Wales,W92000004,2020-09-16,54
+nation,Wales,W92000004,2020-09-15,53
+nation,Wales,W92000004,2020-09-14,45
+nation,Wales,W92000004,2020-09-13,36
+nation,Wales,W92000004,2020-09-12,42
+nation,Wales,W92000004,2020-09-11,42
+nation,Wales,W92000004,2020-09-10,48
+nation,Wales,W92000004,2020-09-09,37
+nation,Wales,W92000004,2020-09-08,35
+nation,Wales,W92000004,2020-09-07,38
+nation,Wales,W92000004,2020-09-06,36
+nation,Wales,W92000004,2020-09-05,39
+nation,Wales,W92000004,2020-09-04,35
+nation,Wales,W92000004,2020-09-03,38
+nation,Wales,W92000004,2020-09-02,42
+nation,Wales,W92000004,2020-09-01,43
+nation,Wales,W92000004,2020-08-31,42
+nation,Wales,W92000004,2020-08-30,47
+nation,Wales,W92000004,2020-08-29,42
+nation,Wales,W92000004,2020-08-28,41
+nation,Wales,W92000004,2020-08-27,41
+nation,Wales,W92000004,2020-08-26,48
+nation,Wales,W92000004,2020-08-25,48
+nation,Wales,W92000004,2020-08-24,50
+nation,Wales,W92000004,2020-08-23,51
+nation,Wales,W92000004,2020-08-22,52
+nation,Wales,W92000004,2020-08-21,55
+nation,Wales,W92000004,2020-08-20,59
+nation,Wales,W92000004,2020-08-19,60
+nation,Wales,W92000004,2020-08-18,61
+nation,Wales,W92000004,2020-08-17,71
+nation,Wales,W92000004,2020-08-16,71
+nation,Wales,W92000004,2020-08-15,69
+nation,Wales,W92000004,2020-08-14,70
+nation,Wales,W92000004,2020-08-13,68
+nation,Wales,W92000004,2020-08-12,69
+nation,Wales,W92000004,2020-08-11,69
+nation,Wales,W92000004,2020-08-10,78
+nation,Wales,W92000004,2020-08-09,82
+nation,Wales,W92000004,2020-08-08,88
+nation,Wales,W92000004,2020-08-07,96
+nation,Wales,W92000004,2020-08-06,103
+nation,Wales,W92000004,2020-08-05,105
+nation,Wales,W92000004,2020-08-04,115
+nation,Wales,W92000004,2020-08-03,119
+nation,Wales,W92000004,2020-08-02,116
+nation,Wales,W92000004,2020-08-01,124
+nation,Wales,W92000004,2020-07-31,116
+nation,Wales,W92000004,2020-07-30,132
+nation,Wales,W92000004,2020-07-29,137
+nation,Wales,W92000004,2020-07-28,136
+nation,Wales,W92000004,2020-07-27,130
+nation,Wales,W92000004,2020-07-26,127
+nation,Wales,W92000004,2020-07-25,129
+nation,Wales,W92000004,2020-07-24,132
+nation,Wales,W92000004,2020-07-23,132
+nation,Wales,W92000004,2020-07-22,123
+nation,Wales,W92000004,2020-07-21,118
+nation,Wales,W92000004,2020-07-20,130
+nation,Wales,W92000004,2020-07-19,113
+nation,Wales,W92000004,2020-07-18,125
+nation,Wales,W92000004,2020-07-17,119
+nation,Wales,W92000004,2020-07-16,136
+nation,Wales,W92000004,2020-07-15,131
+nation,Wales,W92000004,2020-07-14,136
+nation,Wales,W92000004,2020-07-13,140
+nation,Wales,W92000004,2020-07-12,133
+nation,Wales,W92000004,2020-07-11,127
+nation,Wales,W92000004,2020-07-10,133
+nation,Wales,W92000004,2020-07-09,172
+nation,Wales,W92000004,2020-07-08,177
+nation,Wales,W92000004,2020-07-07,181
+nation,Wales,W92000004,2020-07-06,186
+nation,Wales,W92000004,2020-07-05,187
+nation,Wales,W92000004,2020-07-04,190
+nation,Wales,W92000004,2020-07-03,198
+nation,Wales,W92000004,2020-07-02,206
+nation,Wales,W92000004,2020-07-01,218
+nation,Wales,W92000004,2020-06-30,234
+nation,Wales,W92000004,2020-06-29,235
+nation,Wales,W92000004,2020-06-28,246
+nation,Wales,W92000004,2020-06-27,232
+nation,Wales,W92000004,2020-06-26,254
+nation,Wales,W92000004,2020-06-25,265
+nation,Wales,W92000004,2020-06-24,270
+nation,Wales,W92000004,2020-06-23,281
+nation,Wales,W92000004,2020-06-22,297
+nation,Wales,W92000004,2020-06-21,280
+nation,Wales,W92000004,2020-06-20,271
+nation,Wales,W92000004,2020-06-19,276
+nation,Wales,W92000004,2020-06-18,285
+nation,Wales,W92000004,2020-06-17,288
+nation,Wales,W92000004,2020-06-16,303
+nation,Wales,W92000004,2020-06-15,306
+nation,Wales,W92000004,2020-06-14,293
+nation,Wales,W92000004,2020-06-13,291
+nation,Wales,W92000004,2020-06-12,294
+nation,Wales,W92000004,2020-06-11,315
+nation,Wales,W92000004,2020-06-10,319
+nation,Wales,W92000004,2020-06-09,341
+nation,Wales,W92000004,2020-06-08,352
+nation,Wales,W92000004,2020-06-07,383
+nation,Wales,W92000004,2020-06-06,404
+nation,Wales,W92000004,2020-06-05,392
+nation,Wales,W92000004,2020-06-04,395
+nation,Wales,W92000004,2020-06-03,399
+nation,Wales,W92000004,2020-06-02,427
+nation,Wales,W92000004,2020-06-01,431
+nation,Wales,W92000004,2020-05-31,433
+nation,Wales,W92000004,2020-05-30,423
+nation,Wales,W92000004,2020-05-29,431
+nation,Wales,W92000004,2020-05-28,438
+nation,Wales,W92000004,2020-05-27,425
+nation,Wales,W92000004,2020-05-26,436
+nation,Wales,W92000004,2020-05-25,380
+nation,Wales,W92000004,2020-05-24,393
+nation,Wales,W92000004,2020-05-23,383
+nation,Wales,W92000004,2020-05-22,385
+nation,Wales,W92000004,2020-05-21,309
+nation,Wales,W92000004,2020-05-20,324
+nation,Wales,W92000004,2020-05-19,329
+nation,Wales,W92000004,2020-05-18,356
+nation,Wales,W92000004,2020-05-17,373
+nation,Wales,W92000004,2020-05-16,378
+nation,Wales,W92000004,2020-05-15,336
+nation,Wales,W92000004,2020-05-14,364
+nation,Wales,W92000004,2020-05-13,394
+nation,Wales,W92000004,2020-05-12,425
+nation,Wales,W92000004,2020-05-11,465
+nation,Wales,W92000004,2020-05-10,461
+nation,Wales,W92000004,2020-05-09,448
+nation,Wales,W92000004,2020-05-08,416
+nation,Wales,W92000004,2020-05-07,470
+nation,Wales,W92000004,2020-05-06,478
+nation,Wales,W92000004,2020-05-05,501
+nation,Wales,W92000004,2020-05-04,538
+nation,Wales,W92000004,2020-05-03,539
+nation,Wales,W92000004,2020-05-02,521
+nation,Wales,W92000004,2020-05-01,529
+nation,Wales,W92000004,2020-04-30,643
+nation,Wales,W92000004,2020-04-29,664
+nation,Wales,W92000004,2020-04-28,676
+nation,Wales,W92000004,2020-04-27,734
+nation,Wales,W92000004,2020-04-26,710
+nation,Wales,W92000004,2020-04-25,719
+nation,Wales,W92000004,2020-04-24,743
+nation,Wales,W92000004,2020-04-23,741
+nation,Wales,W92000004,2020-04-22,773
+nation,Wales,W92000004,2020-04-21,838
+nation,Wales,W92000004,2020-04-20,853
+nation,Wales,W92000004,2020-04-19,828
+nation,Wales,W92000004,2020-04-18,818
+nation,Wales,W92000004,2020-04-17,825
+nation,Wales,W92000004,2020-04-16,844
+nation,Wales,W92000004,2020-04-15,884
+nation,Wales,W92000004,2020-04-14,919
+nation,Wales,W92000004,2020-04-13,897
+nation,Wales,W92000004,2020-04-12,910
+nation,Wales,W92000004,2020-04-11,865
+nation,Wales,W92000004,2020-04-10,833
+nation,Wales,W92000004,2020-04-09,795
+nation,Wales,W92000004,2020-04-08,816
+nation,Wales,W92000004,2020-04-07,738
+nation,Wales,W92000004,2020-04-06,731
+nation,Wales,W92000004,2020-04-05,664
+nation,Wales,W92000004,2020-04-04,596
+nation,Wales,W92000004,2020-04-03,568
+nation,Wales,W92000004,2020-04-02,525
+nation,Wales,W92000004,2020-04-01,483
+nation,Wales,W92000004,2020-03-31,439
+nation,Wales,W92000004,2020-03-30,387
+nation,Wales,W92000004,2020-03-29,329
+nation,Wales,W92000004,2020-03-28,310
+nation,Wales,W92000004,2020-03-27,243
+nation,Wales,W92000004,2020-03-26,203
+nation,Wales,W92000004,2020-03-25,188
+nation,Wales,W92000004,2020-03-24,150
+nation,Wales,W92000004,2020-03-23,110
