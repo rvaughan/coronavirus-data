@@ -83,6 +83,7 @@ The UK data is pulled twice an hour from the following sources:
   * [Scottish Coronavirus (COVID-19): trends in daily data](https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/)
   * [Healthcare data](https://coronavirus-staging.data.gov.uk/healthcare)
   * [ZOE Covid App Data](https://covid.joinzoe.com/data)
+  * [Hospital Admissions Data](https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/)
   * Found an API'fy data source:
     * List of available data [url](https://api.apify.com/v2/key-value-stores/tVaYRsPHLjNdNBu7S/records/LATEST?disableRedirect=true).
     * Latest UK data [url](https://api.apify.com/v2/key-value-stores/KWLojgM5r1JmMW4b4/records/LATEST?disableRedirect=true)
