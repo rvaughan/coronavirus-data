@@ -959,7 +959,7 @@
     "covid19Site": "https://www.dhs.wisconsin.gov/covid-19/data.htm",
     "covid19SiteSecondary": "https://www.dhs.wisconsin.gov/covid-19/hosp-data.htm",
     "covid19SiteTertiary": "https://bi.wisconsin.gov/t/DHS/views/PercentofconfirmedprobableCOVID-19casesby-group-MOBILE/CaseDB2/butleoljdl@accounts.wistate.us/ed25311e-7f8a-4c7d-aee8-97b28850f0ac?:embed=y&:display_spinner=no&:showAppBanner=false&:embed_code_version=3&:loadOrderID=4&:display_count=n&:showVizHome=n&:origin=viz_share_link",
-    "covid19SiteQuaternary": null,
+    "covid19SiteQuaternary": "https://bi.wisconsin.gov/t/DHS/views/PercentPositivebyTestPersonandaComparisonandTestCapacity/TestCapacityDashboard.csv",
     "covid19SiteQuinary": null,
     "twitter": "@DHSWI",
     "covid19SiteOld": "https://www.dhs.wisconsin.gov/disease/covid-19.htm",
