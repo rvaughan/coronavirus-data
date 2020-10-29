@@ -40,8 +40,7 @@ jobs:
         #(test -f coronavirus-cases_latest.json && jq . coronavirus-cases_latest.json > ../uk/coronavirus-cases_latest.json) || echo "No update for coronavirus-cases_latest.json, skipping."
         #conditional-get --etags ../etags.json -v https://c19downloads.azureedge.net/downloads/json/coronavirus-deaths_latest.json
         #(test -f coronavirus-deaths_latest.json && jq . coronavirus-deaths_latest.json > ../uk/coronavirus-deaths_latest.json) || echo "No update for coronavirus-deaths_latest.json, skipping."
-        conditional-get --etags ../etags.json -v "https://c19pubstaging.azureedge.net/assets/cms/healthcare.json"
-        (test -f healthcare.json && jq . healthcare.json > ../uk/healthcare.json) || echo "No update for healthcare.json, skipping."
+        curl --compressed -o ../uk/healthcare.json "https://c19pubstaging.azureedge.net/assets/cms/healthcare.json"
         # conditional-get --etags ../etags.json -o new_admissions.json -v "https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22newAdmissions%22:%22newAdmissions%22%7D"
         # (test -f new_admissions.json && jq . new_admissions.json > ../uk/new_admissions.json) || echo "No update for new_admissions.json, skipping."
         # conditional-get --etags ../etags.json -o hospital_admissions.json -v "https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22hospitalCases%22:%22hospitalCases%22%7D"
@@ -52,9 +51,9 @@ jobs:
         cd uk
         wget -q -O r_number.html https://www.gov.uk/guidance/the-r-number-in-the-uk
         wget -q -O overall.json "https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1"
-        #mkdir -p wales && cd wales
-        #conditional-get --etags ../../etags.json -v "http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/3dc04669c9e1eaa880257062003b246b/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx"
-        #cd ..
+        mkdir -p wales && cd wales
+        conditional-get --etags ../../etags.json -v "http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/3dc04669c9e1eaa880257062003b246b/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx"
+        cd ..
         mkdir -p scotland && cd scotland
         # wget -O week_14.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-14.zip
         # wget -O week_15.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-15.zip
