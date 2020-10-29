@@ -50,10 +50,10 @@ jobs:
         # (test -f occupied_beds.json && jq . occupied_beds.json > ../uk/occupied_beds.json) || echo "No update for occupied_beds.json, skipping."
         cd .. && rm -rf tmp_uk
         cd uk
-        wget -O r_number.html https://www.gov.uk/guidance/the-r-number-in-the-uk
-        wget -O overall.json "https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1"
+        wget -q -O r_number.html https://www.gov.uk/guidance/the-r-number-in-the-uk
+        wget -q -O overall.json "https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1"
         mkdir -p wales && cd wales
-        conditional-get --etags ../../etags.json -v "http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/61c1e930f9121fd080256f2a004937ed/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx"
+        conditional-get --etags ../../etags.json -v "http://www2.nphs.wales.nhs.uk:8080/CommunitySurveillanceDocs.nsf/3dc04669c9e1eaa880257062003b246b/77fdb9a33544aee88025855100300cab/$FILE/Rapid%20COVID-19%20surveillance%20data.xlsx"
         cd ..
         mkdir -p scotland && cd scotland
         # wget -O week_14.zip https://www.nrscotland.gov.uk/files//statistics/covid19/covid-deaths-data-week-14.zip
