@@ -1,0 +1,19 @@
+"Figure 4: The number of deaths involving COVID-19 was highest in males across the majority of age groups",""
+"Number of deaths involving the coronavirus (COVID-19) by sex and age group, England and Wales, registered between 28 December 2019 and 23 October 2020",""
+"",""
+"Notes","1. Figures include deaths of non-residents. 
+2. Based on date a death was registered rather than occurred. 
+3. All figures for 2020 are provisional. 
+4. The International Classification of Diseases, 10th edition (ICD-10) definitions are as follows: coronavirus (COVID-19) (U07.1 and U07.2). 
+5. Individual weeks may not sum to the year-to-date analysis as previous weeks have been recalculated to have the most up-to-date figures.
+ 6. Does not include deaths where age is either missing or not yet fully coded. For this reason, counts of “Males” and “Females” may not sum to “Total Deaths, all ages”."
+"Unit","Number of deaths"
+"",""
+"","Male","Female"
+"85 years and over","10688","12515"
+"75 to 84 years","10683","7295"
+"65 to 74 years","5332","2907"
+"45 to 64 years","3462","1813"
+"15 to 44 years","373","237"
+"1 to 14 years","2","2"
+"Under 1 year","2","-"
