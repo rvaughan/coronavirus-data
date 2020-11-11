@@ -95,7 +95,7 @@ The UK data is pulled twice an hour from the following sources:
     * https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online
 
 ## USA Data
-![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20data/badge.svg)
+![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20data/badge.svg) ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20(2)%20data/badge.svg)
 
 The USA data is pulled from https://covidtracking.com/api once an hour.
 
