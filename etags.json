@@ -10,10 +10,10 @@
     "https://c19downloads.azureedge.net/downloads/json/coronavirus-cases_latest.json": "0x8D837C07AAE141F",
     "https://c19downloads.azureedge.net/downloads/json/coronavirus-deaths_latest.json": "0x8D837C07AB0D3F1",
     "https://covidtracking.com/api/v1/states/current.json": "\"a94b195d790f46a334f7cf86c85ae86a-ssl\"",
-    "https://covidtracking.com/api/v1/states/daily.json": "\"18618b48568e513e8a62bb72bec3521f-ssl\"",
+    "https://covidtracking.com/api/v1/states/daily.json": "\"c71402bd43f8895f2b41a09859094a27-ssl\"",
     "https://covidtracking.com/api/v1/states/info.json": "\"8d0ebb345ac60ece0aef8372b251c0f0-ssl\"",
     "https://covidtracking.com/api/v1/us/current.json": "\"410e807f1ce0ca82c7dc533bd4c4578c-ssl\"",
-    "https://covidtracking.com/api/v1/us/daily.json": "\"5375b2f2e005e92d2ca8acfad9f5692a-ssl\"",
+    "https://covidtracking.com/api/v1/us/daily.json": "\"6aeb09058f8d9a8983d59608b9f8f95e-ssl\"",
     "https://covidtracking.com/api/v1/urls.json": "\"f1958a0b689edd2d49c6f217f8f29ee9-ssl-df\"",
     "https://opendata.ecdc.europa.eu/covid19/casedistribution/json": "\"bb652348febbd61:0\"",
     "https://c19pubstaging.azureedge.net/assets/cms/healthcare.json": "0x8D877725EFC8AD1"
