@@ -225,7 +225,7 @@
     "covid19SiteQuinary": null,
     "twitter": "@guamdphss",
     "covid19SiteOld": "https://ghs.guam.gov/coronavirus-covid-19",
-    "covidTrackingProjectPreferredTotalTestUnits": "Unclear Units",
+    "covidTrackingProjectPreferredTotalTestUnits": "Specimens",
     "covidTrackingProjectPreferredTotalTestField": "posNeg",
     "totalTestResultsField": "posNeg",
     "pui": "All Data",
