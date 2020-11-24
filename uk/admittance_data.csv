@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,newAdmissions,cumAdmissions
+nation,England,E92000001,2020-11-22,1333,175646
 nation,England,E92000001,2020-11-21,1255,174313
 nation,England,E92000001,2020-11-20,1316,173058
 nation,England,E92000001,2020-11-19,1484,171742
