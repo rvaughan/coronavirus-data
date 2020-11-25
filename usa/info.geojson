@@ -42,7 +42,7 @@
     "covid19SiteSecondary": "https://experience.arcgis.com/experience/c2ef4a4fcbe5458fbf2e48a21e4fece9",
     "covid19SiteTertiary": "https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/fd6874664d404993814de4d5a65d5cfd",
     "covid19SiteQuaternary": "https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/fd6874664d404993814de4d5a65d5cfd",
-    "covid19SiteQuinary": null,
+    "covid19SiteQuinary": "https://adem.maps.arcgis.com/apps/opsdashboard/index.html#/fd6874664d404993814de4d5a65d5cfd",
     "twitter": "@adhpio",
     "covid19SiteOld": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus",
     "covidTrackingProjectPreferredTotalTestUnits": "Specimens",
