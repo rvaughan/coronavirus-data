@@ -625,10 +625,10 @@
     "states": 56,
     "positive": 9204591,
     "negative": 121974035,
-    "pending": 10647,
-    "hospitalizedCurrently": 48557,
+    "pending": 10655,
+    "hospitalizedCurrently": 48693,
     "hospitalizedCumulative": 478289,
-    "inIcuCurrently": 9858,
+    "inIcuCurrently": 9867,
     "inIcuCumulative": 24560,
     "onVentilatorCurrently": 2637,
     "onVentilatorCumulative": 2809,
@@ -645,7 +645,7 @@
     "negativeIncrease": 1070744,
     "positiveIncrease": 82047,
     "totalTestResultsIncrease": 1326677,
-    "hash": "8951e023e8192de5043837c548fef0b343ff2a66"
+    "hash": "bd2ebaf90a32ff7232cc021846c44c516857f64e"
   },
   {
     "date": 20201101,
@@ -1020,16 +1020,16 @@
     "posNeg": 0,
     "deathIncrease": 461,
     "hospitalizedIncrease": 1707,
-    "negativeIncrease": 1022378,
+    "negativeIncrease": 1024178,
     "positiveIncrease": 57110,
-    "totalTestResultsIncrease": 1132920,
+    "totalTestResultsIncrease": 1134720,
     "hash": "8b9e2a52a7b375d01de3f259e8bd58d0434082c4"
   },
   {
     "date": 20201018,
     "states": 56,
     "positive": 8076828,
-    "negative": 108174262,
+    "negative": 108172462,
     "pending": 12059,
     "hospitalizedCurrently": 36452,
     "hospitalizedCumulative": 435555,
@@ -1041,16 +1041,16 @@
     "dateChecked": "2020-10-18T24:00:00Z",
     "death": 211395,
     "hospitalized": 435555,
-    "totalTestResults": 130724612,
+    "totalTestResults": 130722812,
     "lastModified": "2020-10-18T24:00:00Z",
     "total": 0,
     "posNeg": 0,
     "deathIncrease": 397,
     "hospitalizedIncrease": 800,
-    "negativeIncrease": 767502,
+    "negativeIncrease": 765702,
     "positiveIncrease": 48284,
-    "totalTestResultsIncrease": 1053473,
-    "hash": "8e0985bf2d2e2097b586a517421632b5d1668f8f"
+    "totalTestResultsIncrease": 1051673,
+    "hash": "bd7e94b16a0ac214dcdf3e7b09da0edcc8876eba"
   },
   {
     "date": 20201017,
