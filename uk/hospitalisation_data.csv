@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,hospitalCases
+nation,England,E92000001,2020-11-28,12291
 nation,England,E92000001,2020-11-27,12845
 nation,England,E92000001,2020-11-26,13028
 nation,England,E92000001,2020-11-25,13337
