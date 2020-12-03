@@ -369,7 +369,7 @@
     "covid19SiteQuinary": null,
     "twitter": "@LADeptHealth",
     "covid19SiteOld": "http://ldh.la.gov/Coronavirus/",
-    "covidTrackingProjectPreferredTotalTestUnits": "People",
+    "covidTrackingProjectPreferredTotalTestUnits": "Specimens",
     "covidTrackingProjectPreferredTotalTestField": "posNeg",
     "totalTestResultsField": "posNeg",
     "pui": "Only positives",
