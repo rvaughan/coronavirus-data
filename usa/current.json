@@ -2,8 +2,8 @@
   {
     "date": 20201203,
     "states": 56,
-    "positive": 13921312,
-    "negative": 157030850,
+    "positive": 13921360,
+    "negative": 157031106,
     "pending": 15106,
     "hospitalizedCurrently": 100755,
     "hospitalizedCumulative": 575452,
@@ -21,9 +21,9 @@
     "posNeg": 0,
     "deathIncrease": 2706,
     "hospitalizedIncrease": 5331,
-    "negativeIncrease": 1217897,
-    "positiveIncrease": 210161,
+    "negativeIncrease": 1218186,
+    "positiveIncrease": 210204,
     "totalTestResultsIncrease": 1807951,
-    "hash": "bff0212afb87fde29e45bfe688c05623a3d32ae3"
+    "hash": "1b9a7c1874a5ea2b3e04446758a0c61a78aee381"
   }
 ]
