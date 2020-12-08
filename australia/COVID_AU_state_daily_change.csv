@@ -2535,11 +2535,19 @@
 2020-12-06,"Tasmania","TAS",0,0,166,0,0,0,0,0
 2020-12-06,"Victoria","VIC",0,0,8377,0,0,0,0,0
 2020-12-06,"Western Australia","WA",2,0,0,2,3,0,0,0
-2020-12-07,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0
-2020-12-07,"New South Wales","NSW",4,0,0,0,0,0,0,0
-2020-12-07,"Northern Territory","NT",0,0,0,0,0,0,0,0
-2020-12-07,"Queensland","QLD",3,0,0,0,0,0,0,0
-2020-12-07,"South Australia","SA",0,0,0,0,3,0,0,0
-2020-12-07,"Tasmania","TAS",0,0,0,0,0,0,0,0
-2020-12-07,"Victoria","VIC",0,0,0,0,0,0,0,0
-2020-12-07,"Western Australia","WA",0,0,0,0,0,0,0,0
+2020-12-07,"Australian Capital Territory","ACT",0,0,198,0,0,0,0,0
+2020-12-07,"New South Wales","NSW",4,0,6226,4,0,-1,0,0
+2020-12-07,"Northern Territory","NT",0,0,310,0,0,0,0,0
+2020-12-07,"Queensland","QLD",3,0,1325,3,0,5,0,0
+2020-12-07,"South Australia","SA",0,0,1405,0,3,0,0,0
+2020-12-07,"Tasmania","TAS",0,0,169,0,0,0,0,0
+2020-12-07,"Victoria","VIC",0,0,4912,0,0,0,0,0
+2020-12-07,"Western Australia","WA",0,0,7488,0,0,0,0,0
+2020-12-08,"Australian Capital Territory","ACT",0,0,584,0,0,0,0,0
+2020-12-08,"New South Wales","NSW",6,0,6040,6,0,-1,0,0
+2020-12-08,"Northern Territory","NT",2,0,280,2,1,0,0,0
+2020-12-08,"Queensland","QLD",6,0,3164,6,0,5,0,0
+2020-12-08,"South Australia","SA",0,0,2442,0,2,0,0,0
+2020-12-08,"Tasmania","TAS",0,0,484,0,0,0,0,0
+2020-12-08,"Victoria","VIC",0,0,7043,0,0,0,0,0
+2020-12-08,"Western Australia","WA",1,0,2521,1,2,0,0,0
