@@ -763,7 +763,7 @@
     "covid19SiteTertiary": "http://www.salud.gov.pr/Pages/coronavirus.aspx",
     "covid19SiteQuaternary": "https://bioseguridad.maps.arcgis.com/apps/opsdashboard/index.html#/3bfb64c9a91944bc8c41edd8ff27e6df",
     "covid19SiteQuinary": "https://bioseguridad.maps.arcgis.com/apps/opsdashboard/index.html#/3bfb64c9a91944bc8c41edd8ff27e6df",
-    "twitter": "@DeptSaludPR",
+    "twitter": "@desaludpr",
     "covid19SiteOld": "http://www.salud.gov.pr/Pages/coronavirus.aspx",
     "covidTrackingProjectPreferredTotalTestUnits": "Specimens",
     "covidTrackingProjectPreferredTotalTestField": "posNeg",
