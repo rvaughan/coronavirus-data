@@ -726,7 +726,7 @@
     "covid19SiteSecondary": "https://public.tableau.com/profile/oregon.health.authority.covid.19#!/vizhome/OregonCOVID-19Update/CaseandTesting",
     "covid19SiteTertiary": "https://public.tableau.com/profile/oregon.health.authority.covid.19#!/vizhome/OregonCOVID-19TestingandOutcomesbyCounty/OregonsCOVID-19TestingandOutcomesbyCounty?:display_count=y&:toolbar=n&:origin=viz_share_link&:showShareOptions=false",
     "covid19SiteQuaternary": "https://public.tableau.com/profile/oregon.health.authority.covid.19#!/vizhome/OregonCOVID-19Update/HospitalCapacity",
-    "covid19SiteQuinary": "https://public.tableau.com/profile/oregon.health.authority.covid.19#!/vizhome/OregonHealthAuthorityCOVID-19DataDashboard/COVID-19EPITested",
+    "covid19SiteQuinary": null,
     "twitter": "@OHAOregon",
     "covid19SiteOld": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
     "covidTrackingProjectPreferredTotalTestUnits": "Specimens",
