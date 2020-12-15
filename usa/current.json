@@ -15,7 +15,7 @@
     "dateChecked": "2020-12-14T24:00:00Z",
     "death": 292404,
     "hospitalized": 618576,
-    "totalTestResults": 221100799,
+    "totalTestResults": 220956283,
     "lastModified": "2020-12-14T24:00:00Z",
     "total": 0,
     "posNeg": 0,
@@ -23,7 +23,7 @@
     "hospitalizedIncrease": 3569,
     "negativeIncrease": 1690191,
     "positiveIncrease": 193384,
-    "totalTestResultsIncrease": 2159478,
-    "hash": "f45c4dd779c547a779e85bf9d3af3ad984470fff"
+    "totalTestResultsIncrease": 2159460,
+    "hash": "5ae02d88852aacd9b1e24a2fd89112f3ce8752a0"
   }
 ]
