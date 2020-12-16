@@ -1,4 +1,6 @@
 areaType,areaName,areaCode,date,newAdmissions,cumAdmissions
+nation,England,E92000001,2020-12-13,1581,203709
+nation,England,E92000001,2020-12-12,1587,202128
 nation,England,E92000001,2020-12-11,1450,200541
 nation,England,E92000001,2020-12-10,1524,199091
 nation,England,E92000001,2020-12-09,1550,197567
@@ -267,182 +269,183 @@ nation,England,E92000001,2020-03-22,859,2913
 nation,England,E92000001,2020-03-21,777,2054
 nation,England,E92000001,2020-03-20,691,1277
 nation,England,E92000001,2020-03-19,586,586
-nation,Northern Ireland,N92000002,2020-12-13,8,4614
-nation,Northern Ireland,N92000002,2020-12-12,21,4606
-nation,Northern Ireland,N92000002,2020-12-11,18,4585
-nation,Northern Ireland,N92000002,2020-12-10,22,4567
-nation,Northern Ireland,N92000002,2020-12-09,24,4545
-nation,Northern Ireland,N92000002,2020-12-08,43,4521
-nation,Northern Ireland,N92000002,2020-12-07,32,4478
-nation,Northern Ireland,N92000002,2020-12-06,31,4446
-nation,Northern Ireland,N92000002,2020-12-05,29,4415
-nation,Northern Ireland,N92000002,2020-12-04,36,4386
-nation,Northern Ireland,N92000002,2020-12-03,34,4350
-nation,Northern Ireland,N92000002,2020-12-02,33,4316
-nation,Northern Ireland,N92000002,2020-12-01,31,4283
-nation,Northern Ireland,N92000002,2020-11-30,37,4252
-nation,Northern Ireland,N92000002,2020-11-29,27,4215
-nation,Northern Ireland,N92000002,2020-11-28,24,4188
-nation,Northern Ireland,N92000002,2020-11-27,42,4164
-nation,Northern Ireland,N92000002,2020-11-26,29,4122
-nation,Northern Ireland,N92000002,2020-11-25,40,4093
-nation,Northern Ireland,N92000002,2020-11-24,39,4053
-nation,Northern Ireland,N92000002,2020-11-23,23,4014
-nation,Northern Ireland,N92000002,2020-11-22,27,3991
-nation,Northern Ireland,N92000002,2020-11-21,35,3964
-nation,Northern Ireland,N92000002,2020-11-20,43,3929
-nation,Northern Ireland,N92000002,2020-11-19,38,3886
-nation,Northern Ireland,N92000002,2020-11-18,40,3848
-nation,Northern Ireland,N92000002,2020-11-17,44,3808
-nation,Northern Ireland,N92000002,2020-11-16,47,3764
-nation,Northern Ireland,N92000002,2020-11-15,44,3717
-nation,Northern Ireland,N92000002,2020-11-14,40,3673
-nation,Northern Ireland,N92000002,2020-11-13,33,3633
-nation,Northern Ireland,N92000002,2020-11-12,34,3600
-nation,Northern Ireland,N92000002,2020-11-11,48,3566
-nation,Northern Ireland,N92000002,2020-11-10,51,3518
-nation,Northern Ireland,N92000002,2020-11-09,50,3467
-nation,Northern Ireland,N92000002,2020-11-08,47,3417
-nation,Northern Ireland,N92000002,2020-11-07,42,3370
+nation,Northern Ireland,N92000002,2020-12-14,12,4667
+nation,Northern Ireland,N92000002,2020-12-13,24,4655
+nation,Northern Ireland,N92000002,2020-12-12,32,4631
+nation,Northern Ireland,N92000002,2020-12-11,19,4599
+nation,Northern Ireland,N92000002,2020-12-10,23,4580
+nation,Northern Ireland,N92000002,2020-12-09,25,4557
+nation,Northern Ireland,N92000002,2020-12-08,45,4532
+nation,Northern Ireland,N92000002,2020-12-07,32,4487
+nation,Northern Ireland,N92000002,2020-12-06,31,4455
+nation,Northern Ireland,N92000002,2020-12-05,30,4424
+nation,Northern Ireland,N92000002,2020-12-04,36,4394
+nation,Northern Ireland,N92000002,2020-12-03,36,4358
+nation,Northern Ireland,N92000002,2020-12-02,35,4322
+nation,Northern Ireland,N92000002,2020-12-01,33,4287
+nation,Northern Ireland,N92000002,2020-11-30,37,4254
+nation,Northern Ireland,N92000002,2020-11-29,27,4217
+nation,Northern Ireland,N92000002,2020-11-28,25,4190
+nation,Northern Ireland,N92000002,2020-11-27,42,4165
+nation,Northern Ireland,N92000002,2020-11-26,29,4123
+nation,Northern Ireland,N92000002,2020-11-25,42,4094
+nation,Northern Ireland,N92000002,2020-11-24,39,4052
+nation,Northern Ireland,N92000002,2020-11-23,24,4013
+nation,Northern Ireland,N92000002,2020-11-22,28,3989
+nation,Northern Ireland,N92000002,2020-11-21,34,3961
+nation,Northern Ireland,N92000002,2020-11-20,43,3927
+nation,Northern Ireland,N92000002,2020-11-19,38,3884
+nation,Northern Ireland,N92000002,2020-11-18,39,3846
+nation,Northern Ireland,N92000002,2020-11-17,44,3807
+nation,Northern Ireland,N92000002,2020-11-16,47,3763
+nation,Northern Ireland,N92000002,2020-11-15,44,3716
+nation,Northern Ireland,N92000002,2020-11-14,40,3672
+nation,Northern Ireland,N92000002,2020-11-13,33,3632
+nation,Northern Ireland,N92000002,2020-11-12,35,3599
+nation,Northern Ireland,N92000002,2020-11-11,48,3564
+nation,Northern Ireland,N92000002,2020-11-10,51,3516
+nation,Northern Ireland,N92000002,2020-11-09,49,3465
+nation,Northern Ireland,N92000002,2020-11-08,47,3416
+nation,Northern Ireland,N92000002,2020-11-07,41,3369
 nation,Northern Ireland,N92000002,2020-11-06,53,3328
-nation,Northern Ireland,N92000002,2020-11-05,40,3275
-nation,Northern Ireland,N92000002,2020-11-04,54,3235
-nation,Northern Ireland,N92000002,2020-11-03,57,3181
-nation,Northern Ireland,N92000002,2020-11-02,55,3124
-nation,Northern Ireland,N92000002,2020-11-01,36,3069
-nation,Northern Ireland,N92000002,2020-10-31,37,3033
-nation,Northern Ireland,N92000002,2020-10-30,48,2996
-nation,Northern Ireland,N92000002,2020-10-29,56,2948
-nation,Northern Ireland,N92000002,2020-10-28,40,2892
-nation,Northern Ireland,N92000002,2020-10-27,55,2852
-nation,Northern Ireland,N92000002,2020-10-26,47,2797
-nation,Northern Ireland,N92000002,2020-10-25,47,2750
-nation,Northern Ireland,N92000002,2020-10-24,53,2703
-nation,Northern Ireland,N92000002,2020-10-23,47,2650
-nation,Northern Ireland,N92000002,2020-10-22,54,2603
-nation,Northern Ireland,N92000002,2020-10-21,42,2549
-nation,Northern Ireland,N92000002,2020-10-20,52,2507
-nation,Northern Ireland,N92000002,2020-10-19,44,2455
-nation,Northern Ireland,N92000002,2020-10-18,45,2411
-nation,Northern Ireland,N92000002,2020-10-17,46,2366
-nation,Northern Ireland,N92000002,2020-10-16,48,2320
-nation,Northern Ireland,N92000002,2020-10-15,46,2272
-nation,Northern Ireland,N92000002,2020-10-14,37,2226
-nation,Northern Ireland,N92000002,2020-10-13,43,2189
-nation,Northern Ireland,N92000002,2020-10-12,31,2146
-nation,Northern Ireland,N92000002,2020-10-11,37,2115
-nation,Northern Ireland,N92000002,2020-10-10,31,2078
-nation,Northern Ireland,N92000002,2020-10-09,23,2047
-nation,Northern Ireland,N92000002,2020-10-08,28,2024
-nation,Northern Ireland,N92000002,2020-10-07,30,1996
-nation,Northern Ireland,N92000002,2020-10-06,27,1966
-nation,Northern Ireland,N92000002,2020-10-05,24,1939
-nation,Northern Ireland,N92000002,2020-10-04,17,1915
-nation,Northern Ireland,N92000002,2020-10-03,23,1898
-nation,Northern Ireland,N92000002,2020-10-02,9,1875
-nation,Northern Ireland,N92000002,2020-10-01,14,1866
-nation,Northern Ireland,N92000002,2020-09-30,16,1852
-nation,Northern Ireland,N92000002,2020-09-29,8,1836
-nation,Northern Ireland,N92000002,2020-09-28,21,1828
-nation,Northern Ireland,N92000002,2020-09-27,12,1807
-nation,Northern Ireland,N92000002,2020-09-26,11,1795
-nation,Northern Ireland,N92000002,2020-09-25,6,1784
-nation,Northern Ireland,N92000002,2020-09-24,8,1778
-nation,Northern Ireland,N92000002,2020-09-23,13,1770
-nation,Northern Ireland,N92000002,2020-09-22,8,1757
-nation,Northern Ireland,N92000002,2020-09-21,11,1749
-nation,Northern Ireland,N92000002,2020-09-20,6,1738
-nation,Northern Ireland,N92000002,2020-09-19,3,1732
-nation,Northern Ireland,N92000002,2020-09-18,2,1729
-nation,Northern Ireland,N92000002,2020-09-17,4,1727
-nation,Northern Ireland,N92000002,2020-09-16,3,1723
-nation,Northern Ireland,N92000002,2020-09-15,4,1720
-nation,Northern Ireland,N92000002,2020-09-14,8,1716
-nation,Northern Ireland,N92000002,2020-09-13,5,1708
-nation,Northern Ireland,N92000002,2020-09-12,4,1703
-nation,Northern Ireland,N92000002,2020-09-11,7,1699
-nation,Northern Ireland,N92000002,2020-09-10,7,1692
-nation,Northern Ireland,N92000002,2020-09-09,2,1685
-nation,Northern Ireland,N92000002,2020-09-08,9,1683
-nation,Northern Ireland,N92000002,2020-09-07,1,1674
-nation,Northern Ireland,N92000002,2020-09-06,4,1673
-nation,Northern Ireland,N92000002,2020-09-05,1,1669
-nation,Northern Ireland,N92000002,2020-09-04,2,1668
-nation,Northern Ireland,N92000002,2020-09-03,3,1666
-nation,Northern Ireland,N92000002,2020-09-02,0,1663
-nation,Northern Ireland,N92000002,2020-09-01,4,1663
-nation,Northern Ireland,N92000002,2020-08-31,5,1659
-nation,Northern Ireland,N92000002,2020-08-30,3,1654
-nation,Northern Ireland,N92000002,2020-08-29,2,1651
-nation,Northern Ireland,N92000002,2020-08-28,5,1649
-nation,Northern Ireland,N92000002,2020-08-27,4,1644
-nation,Northern Ireland,N92000002,2020-08-26,0,1640
-nation,Northern Ireland,N92000002,2020-08-25,2,1640
-nation,Northern Ireland,N92000002,2020-08-24,6,1638
-nation,Northern Ireland,N92000002,2020-08-23,3,1632
-nation,Northern Ireland,N92000002,2020-08-22,3,1629
-nation,Northern Ireland,N92000002,2020-08-21,2,1626
-nation,Northern Ireland,N92000002,2020-08-20,6,1624
-nation,Northern Ireland,N92000002,2020-08-19,6,1618
-nation,Northern Ireland,N92000002,2020-08-18,6,1612
-nation,Northern Ireland,N92000002,2020-08-17,6,1606
-nation,Northern Ireland,N92000002,2020-08-16,2,1600
-nation,Northern Ireland,N92000002,2020-08-15,2,1598
-nation,Northern Ireland,N92000002,2020-08-14,2,1596
-nation,Northern Ireland,N92000002,2020-08-13,3,1594
-nation,Northern Ireland,N92000002,2020-08-12,3,1591
-nation,Northern Ireland,N92000002,2020-08-11,2,1588
-nation,Northern Ireland,N92000002,2020-08-10,0,1586
-nation,Northern Ireland,N92000002,2020-08-09,2,1586
-nation,Northern Ireland,N92000002,2020-08-08,5,1584
-nation,Northern Ireland,N92000002,2020-08-07,0,1579
-nation,Northern Ireland,N92000002,2020-08-06,3,1579
-nation,Northern Ireland,N92000002,2020-08-05,1,1576
-nation,Northern Ireland,N92000002,2020-08-04,1,1575
-nation,Northern Ireland,N92000002,2020-08-03,3,1574
-nation,Northern Ireland,N92000002,2020-08-02,1,1571
-nation,Northern Ireland,N92000002,2020-08-01,3,1570
-nation,Northern Ireland,N92000002,2020-07-31,1,1567
-nation,Northern Ireland,N92000002,2020-07-30,1,1566
-nation,Northern Ireland,N92000002,2020-07-29,2,1565
-nation,Northern Ireland,N92000002,2020-07-28,1,1563
-nation,Northern Ireland,N92000002,2020-07-27,2,1562
-nation,Northern Ireland,N92000002,2020-07-26,0,1560
-nation,Northern Ireland,N92000002,2020-07-25,1,1560
-nation,Northern Ireland,N92000002,2020-07-24,3,1559
-nation,Northern Ireland,N92000002,2020-07-23,0,1556
-nation,Northern Ireland,N92000002,2020-07-22,2,1556
-nation,Northern Ireland,N92000002,2020-07-21,0,1554
-nation,Northern Ireland,N92000002,2020-07-20,1,1554
-nation,Northern Ireland,N92000002,2020-07-19,1,1553
-nation,Northern Ireland,N92000002,2020-07-18,2,1552
-nation,Northern Ireland,N92000002,2020-07-17,0,1550
-nation,Northern Ireland,N92000002,2020-07-16,2,1550
-nation,Northern Ireland,N92000002,2020-07-15,1,1548
-nation,Northern Ireland,N92000002,2020-07-14,0,1547
-nation,Northern Ireland,N92000002,2020-07-13,1,1547
-nation,Northern Ireland,N92000002,2020-07-12,0,1546
-nation,Northern Ireland,N92000002,2020-07-11,0,1546
-nation,Northern Ireland,N92000002,2020-07-10,0,1546
-nation,Northern Ireland,N92000002,2020-07-09,1,1546
-nation,Northern Ireland,N92000002,2020-07-08,3,1545
-nation,Northern Ireland,N92000002,2020-07-07,1,1542
-nation,Northern Ireland,N92000002,2020-07-06,1,1541
-nation,Northern Ireland,N92000002,2020-07-05,0,1540
-nation,Northern Ireland,N92000002,2020-07-04,3,1540
-nation,Northern Ireland,N92000002,2020-07-03,1,1537
-nation,Northern Ireland,N92000002,2020-07-02,1,1536
-nation,Northern Ireland,N92000002,2020-07-01,0,1535
-nation,Northern Ireland,N92000002,2020-06-30,2,1535
-nation,Northern Ireland,N92000002,2020-06-29,0,1533
-nation,Northern Ireland,N92000002,2020-06-28,3,1533
-nation,Northern Ireland,N92000002,2020-06-27,0,1530
-nation,Northern Ireland,N92000002,2020-06-26,1,1530
-nation,Northern Ireland,N92000002,2020-06-25,2,1529
-nation,Northern Ireland,N92000002,2020-06-24,1,1527
-nation,Northern Ireland,N92000002,2020-06-23,3,1526
-nation,Northern Ireland,N92000002,2020-06-22,1,1523
-nation,Northern Ireland,N92000002,2020-06-21,3,1522
+nation,Northern Ireland,N92000002,2020-11-05,39,3275
+nation,Northern Ireland,N92000002,2020-11-04,53,3236
+nation,Northern Ireland,N92000002,2020-11-03,58,3183
+nation,Northern Ireland,N92000002,2020-11-02,55,3125
+nation,Northern Ireland,N92000002,2020-11-01,36,3070
+nation,Northern Ireland,N92000002,2020-10-31,37,3034
+nation,Northern Ireland,N92000002,2020-10-30,48,2997
+nation,Northern Ireland,N92000002,2020-10-29,56,2949
+nation,Northern Ireland,N92000002,2020-10-28,40,2893
+nation,Northern Ireland,N92000002,2020-10-27,55,2853
+nation,Northern Ireland,N92000002,2020-10-26,47,2798
+nation,Northern Ireland,N92000002,2020-10-25,47,2751
+nation,Northern Ireland,N92000002,2020-10-24,53,2704
+nation,Northern Ireland,N92000002,2020-10-23,47,2651
+nation,Northern Ireland,N92000002,2020-10-22,54,2604
+nation,Northern Ireland,N92000002,2020-10-21,42,2550
+nation,Northern Ireland,N92000002,2020-10-20,52,2508
+nation,Northern Ireland,N92000002,2020-10-19,44,2456
+nation,Northern Ireland,N92000002,2020-10-18,45,2412
+nation,Northern Ireland,N92000002,2020-10-17,46,2367
+nation,Northern Ireland,N92000002,2020-10-16,48,2321
+nation,Northern Ireland,N92000002,2020-10-15,46,2273
+nation,Northern Ireland,N92000002,2020-10-14,37,2227
+nation,Northern Ireland,N92000002,2020-10-13,43,2190
+nation,Northern Ireland,N92000002,2020-10-12,31,2147
+nation,Northern Ireland,N92000002,2020-10-11,37,2116
+nation,Northern Ireland,N92000002,2020-10-10,31,2079
+nation,Northern Ireland,N92000002,2020-10-09,23,2048
+nation,Northern Ireland,N92000002,2020-10-08,28,2025
+nation,Northern Ireland,N92000002,2020-10-07,30,1997
+nation,Northern Ireland,N92000002,2020-10-06,27,1967
+nation,Northern Ireland,N92000002,2020-10-05,24,1940
+nation,Northern Ireland,N92000002,2020-10-04,17,1916
+nation,Northern Ireland,N92000002,2020-10-03,23,1899
+nation,Northern Ireland,N92000002,2020-10-02,9,1876
+nation,Northern Ireland,N92000002,2020-10-01,14,1867
+nation,Northern Ireland,N92000002,2020-09-30,16,1853
+nation,Northern Ireland,N92000002,2020-09-29,8,1837
+nation,Northern Ireland,N92000002,2020-09-28,21,1829
+nation,Northern Ireland,N92000002,2020-09-27,12,1808
+nation,Northern Ireland,N92000002,2020-09-26,11,1796
+nation,Northern Ireland,N92000002,2020-09-25,6,1785
+nation,Northern Ireland,N92000002,2020-09-24,8,1779
+nation,Northern Ireland,N92000002,2020-09-23,13,1771
+nation,Northern Ireland,N92000002,2020-09-22,8,1758
+nation,Northern Ireland,N92000002,2020-09-21,11,1750
+nation,Northern Ireland,N92000002,2020-09-20,6,1739
+nation,Northern Ireland,N92000002,2020-09-19,3,1733
+nation,Northern Ireland,N92000002,2020-09-18,2,1730
+nation,Northern Ireland,N92000002,2020-09-17,4,1728
+nation,Northern Ireland,N92000002,2020-09-16,3,1724
+nation,Northern Ireland,N92000002,2020-09-15,4,1721
+nation,Northern Ireland,N92000002,2020-09-14,8,1717
+nation,Northern Ireland,N92000002,2020-09-13,5,1709
+nation,Northern Ireland,N92000002,2020-09-12,4,1704
+nation,Northern Ireland,N92000002,2020-09-11,7,1700
+nation,Northern Ireland,N92000002,2020-09-10,7,1693
+nation,Northern Ireland,N92000002,2020-09-09,2,1686
+nation,Northern Ireland,N92000002,2020-09-08,9,1684
+nation,Northern Ireland,N92000002,2020-09-07,1,1675
+nation,Northern Ireland,N92000002,2020-09-06,4,1674
+nation,Northern Ireland,N92000002,2020-09-05,1,1670
+nation,Northern Ireland,N92000002,2020-09-04,2,1669
+nation,Northern Ireland,N92000002,2020-09-03,3,1667
+nation,Northern Ireland,N92000002,2020-09-02,0,1664
+nation,Northern Ireland,N92000002,2020-09-01,4,1664
+nation,Northern Ireland,N92000002,2020-08-31,5,1660
+nation,Northern Ireland,N92000002,2020-08-30,3,1655
+nation,Northern Ireland,N92000002,2020-08-29,2,1652
+nation,Northern Ireland,N92000002,2020-08-28,5,1650
+nation,Northern Ireland,N92000002,2020-08-27,4,1645
+nation,Northern Ireland,N92000002,2020-08-26,0,1641
+nation,Northern Ireland,N92000002,2020-08-25,2,1641
+nation,Northern Ireland,N92000002,2020-08-24,6,1639
+nation,Northern Ireland,N92000002,2020-08-23,3,1633
+nation,Northern Ireland,N92000002,2020-08-22,3,1630
+nation,Northern Ireland,N92000002,2020-08-21,2,1627
+nation,Northern Ireland,N92000002,2020-08-20,6,1625
+nation,Northern Ireland,N92000002,2020-08-19,6,1619
+nation,Northern Ireland,N92000002,2020-08-18,6,1613
+nation,Northern Ireland,N92000002,2020-08-17,6,1607
+nation,Northern Ireland,N92000002,2020-08-16,2,1601
+nation,Northern Ireland,N92000002,2020-08-15,2,1599
+nation,Northern Ireland,N92000002,2020-08-14,2,1597
+nation,Northern Ireland,N92000002,2020-08-13,3,1595
+nation,Northern Ireland,N92000002,2020-08-12,3,1592
+nation,Northern Ireland,N92000002,2020-08-11,2,1589
+nation,Northern Ireland,N92000002,2020-08-10,0,1587
+nation,Northern Ireland,N92000002,2020-08-09,2,1587
+nation,Northern Ireland,N92000002,2020-08-08,5,1585
+nation,Northern Ireland,N92000002,2020-08-07,0,1580
+nation,Northern Ireland,N92000002,2020-08-06,3,1580
+nation,Northern Ireland,N92000002,2020-08-05,1,1577
+nation,Northern Ireland,N92000002,2020-08-04,1,1576
+nation,Northern Ireland,N92000002,2020-08-03,3,1575
+nation,Northern Ireland,N92000002,2020-08-02,1,1572
+nation,Northern Ireland,N92000002,2020-08-01,3,1571
+nation,Northern Ireland,N92000002,2020-07-31,1,1568
+nation,Northern Ireland,N92000002,2020-07-30,1,1567
+nation,Northern Ireland,N92000002,2020-07-29,2,1566
+nation,Northern Ireland,N92000002,2020-07-28,1,1564
+nation,Northern Ireland,N92000002,2020-07-27,2,1563
+nation,Northern Ireland,N92000002,2020-07-26,0,1561
+nation,Northern Ireland,N92000002,2020-07-25,1,1561
+nation,Northern Ireland,N92000002,2020-07-24,3,1560
+nation,Northern Ireland,N92000002,2020-07-23,0,1557
+nation,Northern Ireland,N92000002,2020-07-22,2,1557
+nation,Northern Ireland,N92000002,2020-07-21,0,1555
+nation,Northern Ireland,N92000002,2020-07-20,1,1555
+nation,Northern Ireland,N92000002,2020-07-19,1,1554
+nation,Northern Ireland,N92000002,2020-07-18,2,1553
+nation,Northern Ireland,N92000002,2020-07-17,0,1551
+nation,Northern Ireland,N92000002,2020-07-16,2,1551
+nation,Northern Ireland,N92000002,2020-07-15,1,1549
+nation,Northern Ireland,N92000002,2020-07-14,0,1548
+nation,Northern Ireland,N92000002,2020-07-13,1,1548
+nation,Northern Ireland,N92000002,2020-07-12,0,1547
+nation,Northern Ireland,N92000002,2020-07-11,0,1547
+nation,Northern Ireland,N92000002,2020-07-10,0,1547
+nation,Northern Ireland,N92000002,2020-07-09,1,1547
+nation,Northern Ireland,N92000002,2020-07-08,3,1546
+nation,Northern Ireland,N92000002,2020-07-07,1,1543
+nation,Northern Ireland,N92000002,2020-07-06,1,1542
+nation,Northern Ireland,N92000002,2020-07-05,0,1541
+nation,Northern Ireland,N92000002,2020-07-04,3,1541
+nation,Northern Ireland,N92000002,2020-07-03,1,1538
+nation,Northern Ireland,N92000002,2020-07-02,1,1537
+nation,Northern Ireland,N92000002,2020-07-01,0,1536
+nation,Northern Ireland,N92000002,2020-06-30,2,1536
+nation,Northern Ireland,N92000002,2020-06-29,0,1534
+nation,Northern Ireland,N92000002,2020-06-28,3,1534
+nation,Northern Ireland,N92000002,2020-06-27,0,1531
+nation,Northern Ireland,N92000002,2020-06-26,1,1531
+nation,Northern Ireland,N92000002,2020-06-25,2,1530
+nation,Northern Ireland,N92000002,2020-06-24,1,1528
+nation,Northern Ireland,N92000002,2020-06-23,3,1527
+nation,Northern Ireland,N92000002,2020-06-22,1,1524
+nation,Northern Ireland,N92000002,2020-06-21,4,1523
 nation,Northern Ireland,N92000002,2020-06-20,3,1519
 nation,Northern Ireland,N92000002,2020-06-19,1,1516
 nation,Northern Ireland,N92000002,2020-06-18,0,1515
@@ -554,116 +557,117 @@ nation,Northern Ireland,N92000002,2020-03-05,1,2
 nation,Northern Ireland,N92000002,2020-03-04,0,1
 nation,Northern Ireland,N92000002,2020-03-03,0,1
 nation,Northern Ireland,N92000002,2020-03-02,1,1
-nation,Scotland,S92000003,2020-12-11,52,12900
-nation,Scotland,S92000003,2020-12-10,56,12848
-nation,Scotland,S92000003,2020-12-09,55,12792
-nation,Scotland,S92000003,2020-12-08,60,12737
-nation,Scotland,S92000003,2020-12-07,65,12677
-nation,Scotland,S92000003,2020-12-06,47,12612
-nation,Scotland,S92000003,2020-12-05,61,12565
-nation,Scotland,S92000003,2020-12-04,62,12504
-nation,Scotland,S92000003,2020-12-03,55,12442
-nation,Scotland,S92000003,2020-12-02,84,12387
-nation,Scotland,S92000003,2020-12-01,60,12303
-nation,Scotland,S92000003,2020-11-30,73,12243
-nation,Scotland,S92000003,2020-11-29,59,12170
-nation,Scotland,S92000003,2020-11-28,49,12111
-nation,Scotland,S92000003,2020-11-27,70,12062
-nation,Scotland,S92000003,2020-11-26,72,11992
-nation,Scotland,S92000003,2020-11-25,71,11920
-nation,Scotland,S92000003,2020-11-24,89,11849
-nation,Scotland,S92000003,2020-11-23,101,11760
-nation,Scotland,S92000003,2020-11-22,61,11659
-nation,Scotland,S92000003,2020-11-21,84,11598
-nation,Scotland,S92000003,2020-11-20,97,11514
-nation,Scotland,S92000003,2020-11-19,81,11417
-nation,Scotland,S92000003,2020-11-18,82,11336
-nation,Scotland,S92000003,2020-11-17,101,11254
-nation,Scotland,S92000003,2020-11-16,84,11153
-nation,Scotland,S92000003,2020-11-15,82,11069
-nation,Scotland,S92000003,2020-11-14,92,10987
-nation,Scotland,S92000003,2020-11-13,104,10895
-nation,Scotland,S92000003,2020-11-12,103,10791
-nation,Scotland,S92000003,2020-11-11,107,10688
-nation,Scotland,S92000003,2020-11-10,96,10581
-nation,Scotland,S92000003,2020-11-09,89,10485
-nation,Scotland,S92000003,2020-11-08,72,10396
-nation,Scotland,S92000003,2020-11-07,78,10324
-nation,Scotland,S92000003,2020-11-06,91,10246
-nation,Scotland,S92000003,2020-11-05,93,10155
-nation,Scotland,S92000003,2020-11-04,109,10062
-nation,Scotland,S92000003,2020-11-03,101,9953
-nation,Scotland,S92000003,2020-11-02,102,9852
-nation,Scotland,S92000003,2020-11-01,90,9750
-nation,Scotland,S92000003,2020-10-31,100,9660
-nation,Scotland,S92000003,2020-10-30,117,9560
-nation,Scotland,S92000003,2020-10-29,95,9443
-nation,Scotland,S92000003,2020-10-28,120,9348
-nation,Scotland,S92000003,2020-10-27,127,9228
-nation,Scotland,S92000003,2020-10-26,127,9101
-nation,Scotland,S92000003,2020-10-25,107,8974
-nation,Scotland,S92000003,2020-10-24,113,8867
-nation,Scotland,S92000003,2020-10-23,118,8754
-nation,Scotland,S92000003,2020-10-22,127,8636
-nation,Scotland,S92000003,2020-10-21,126,8509
-nation,Scotland,S92000003,2020-10-20,126,8383
-nation,Scotland,S92000003,2020-10-19,124,8257
-nation,Scotland,S92000003,2020-10-18,82,8133
-nation,Scotland,S92000003,2020-10-17,81,8051
-nation,Scotland,S92000003,2020-10-16,123,7970
-nation,Scotland,S92000003,2020-10-15,102,7847
-nation,Scotland,S92000003,2020-10-14,112,7745
-nation,Scotland,S92000003,2020-10-13,114,7633
-nation,Scotland,S92000003,2020-10-12,98,7519
-nation,Scotland,S92000003,2020-10-11,76,7421
-nation,Scotland,S92000003,2020-10-10,68,7345
-nation,Scotland,S92000003,2020-10-09,73,7277
-nation,Scotland,S92000003,2020-10-08,89,7204
-nation,Scotland,S92000003,2020-10-07,73,7115
-nation,Scotland,S92000003,2020-10-06,89,7042
-nation,Scotland,S92000003,2020-10-05,70,6953
-nation,Scotland,S92000003,2020-10-04,40,6883
-nation,Scotland,S92000003,2020-10-03,44,6843
-nation,Scotland,S92000003,2020-10-02,50,6799
-nation,Scotland,S92000003,2020-10-01,59,6749
-nation,Scotland,S92000003,2020-09-30,44,6690
-nation,Scotland,S92000003,2020-09-29,31,6646
-nation,Scotland,S92000003,2020-09-28,42,6615
-nation,Scotland,S92000003,2020-09-27,30,6573
-nation,Scotland,S92000003,2020-09-26,32,6543
-nation,Scotland,S92000003,2020-09-25,34,6511
-nation,Scotland,S92000003,2020-09-24,30,6477
-nation,Scotland,S92000003,2020-09-23,22,6447
-nation,Scotland,S92000003,2020-09-22,30,6425
-nation,Scotland,S92000003,2020-09-21,23,6395
-nation,Scotland,S92000003,2020-09-20,17,6372
-nation,Scotland,S92000003,2020-09-19,18,6355
-nation,Scotland,S92000003,2020-09-18,11,6337
-nation,Scotland,S92000003,2020-09-17,16,6326
-nation,Scotland,S92000003,2020-09-16,33,6310
-nation,Scotland,S92000003,2020-09-15,19,6277
-nation,Scotland,S92000003,2020-09-14,16,6258
-nation,Scotland,S92000003,2020-09-13,11,6242
-nation,Scotland,S92000003,2020-09-12,13,6231
-nation,Scotland,S92000003,2020-09-11,16,6218
-nation,Scotland,S92000003,2020-09-10,18,6202
-nation,Scotland,S92000003,2020-09-09,6,6184
-nation,Scotland,S92000003,2020-09-08,8,6178
-nation,Scotland,S92000003,2020-09-07,9,6170
-nation,Scotland,S92000003,2020-09-06,7,6161
-nation,Scotland,S92000003,2020-09-05,8,6154
-nation,Scotland,S92000003,2020-09-04,16,6146
-nation,Scotland,S92000003,2020-09-03,3,6130
-nation,Scotland,S92000003,2020-09-02,5,6127
-nation,Scotland,S92000003,2020-09-01,2,6122
-nation,Scotland,S92000003,2020-08-31,5,6120
-nation,Scotland,S92000003,2020-08-30,2,6115
-nation,Scotland,S92000003,2020-08-29,3,6113
-nation,Scotland,S92000003,2020-08-28,5,6110
-nation,Scotland,S92000003,2020-08-27,7,6105
-nation,Scotland,S92000003,2020-08-26,10,6098
-nation,Scotland,S92000003,2020-08-25,9,6088
-nation,Scotland,S92000003,2020-08-24,8,6079
+nation,Scotland,S92000003,2020-12-12,49,12967
+nation,Scotland,S92000003,2020-12-11,52,12918
+nation,Scotland,S92000003,2020-12-10,56,12866
+nation,Scotland,S92000003,2020-12-09,56,12810
+nation,Scotland,S92000003,2020-12-08,60,12754
+nation,Scotland,S92000003,2020-12-07,65,12694
+nation,Scotland,S92000003,2020-12-06,47,12629
+nation,Scotland,S92000003,2020-12-05,61,12582
+nation,Scotland,S92000003,2020-12-04,62,12521
+nation,Scotland,S92000003,2020-12-03,55,12459
+nation,Scotland,S92000003,2020-12-02,85,12404
+nation,Scotland,S92000003,2020-12-01,63,12319
+nation,Scotland,S92000003,2020-11-30,73,12256
+nation,Scotland,S92000003,2020-11-29,59,12183
+nation,Scotland,S92000003,2020-11-28,50,12124
+nation,Scotland,S92000003,2020-11-27,74,12074
+nation,Scotland,S92000003,2020-11-26,75,12000
+nation,Scotland,S92000003,2020-11-25,72,11925
+nation,Scotland,S92000003,2020-11-24,90,11853
+nation,Scotland,S92000003,2020-11-23,101,11763
+nation,Scotland,S92000003,2020-11-22,61,11662
+nation,Scotland,S92000003,2020-11-21,84,11601
+nation,Scotland,S92000003,2020-11-20,98,11517
+nation,Scotland,S92000003,2020-11-19,81,11419
+nation,Scotland,S92000003,2020-11-18,82,11338
+nation,Scotland,S92000003,2020-11-17,101,11256
+nation,Scotland,S92000003,2020-11-16,84,11155
+nation,Scotland,S92000003,2020-11-15,82,11071
+nation,Scotland,S92000003,2020-11-14,92,10989
+nation,Scotland,S92000003,2020-11-13,104,10897
+nation,Scotland,S92000003,2020-11-12,103,10793
+nation,Scotland,S92000003,2020-11-11,107,10690
+nation,Scotland,S92000003,2020-11-10,96,10583
+nation,Scotland,S92000003,2020-11-09,89,10487
+nation,Scotland,S92000003,2020-11-08,72,10398
+nation,Scotland,S92000003,2020-11-07,77,10326
+nation,Scotland,S92000003,2020-11-06,91,10249
+nation,Scotland,S92000003,2020-11-05,93,10158
+nation,Scotland,S92000003,2020-11-04,109,10065
+nation,Scotland,S92000003,2020-11-03,101,9956
+nation,Scotland,S92000003,2020-11-02,102,9855
+nation,Scotland,S92000003,2020-11-01,90,9753
+nation,Scotland,S92000003,2020-10-31,100,9663
+nation,Scotland,S92000003,2020-10-30,118,9563
+nation,Scotland,S92000003,2020-10-29,95,9445
+nation,Scotland,S92000003,2020-10-28,120,9350
+nation,Scotland,S92000003,2020-10-27,127,9230
+nation,Scotland,S92000003,2020-10-26,127,9103
+nation,Scotland,S92000003,2020-10-25,107,8976
+nation,Scotland,S92000003,2020-10-24,113,8869
+nation,Scotland,S92000003,2020-10-23,118,8756
+nation,Scotland,S92000003,2020-10-22,127,8638
+nation,Scotland,S92000003,2020-10-21,126,8511
+nation,Scotland,S92000003,2020-10-20,126,8385
+nation,Scotland,S92000003,2020-10-19,124,8259
+nation,Scotland,S92000003,2020-10-18,82,8135
+nation,Scotland,S92000003,2020-10-17,81,8053
+nation,Scotland,S92000003,2020-10-16,123,7972
+nation,Scotland,S92000003,2020-10-15,102,7849
+nation,Scotland,S92000003,2020-10-14,112,7747
+nation,Scotland,S92000003,2020-10-13,114,7635
+nation,Scotland,S92000003,2020-10-12,98,7521
+nation,Scotland,S92000003,2020-10-11,77,7423
+nation,Scotland,S92000003,2020-10-10,68,7346
+nation,Scotland,S92000003,2020-10-09,73,7278
+nation,Scotland,S92000003,2020-10-08,89,7205
+nation,Scotland,S92000003,2020-10-07,73,7116
+nation,Scotland,S92000003,2020-10-06,89,7043
+nation,Scotland,S92000003,2020-10-05,70,6954
+nation,Scotland,S92000003,2020-10-04,40,6884
+nation,Scotland,S92000003,2020-10-03,44,6844
+nation,Scotland,S92000003,2020-10-02,50,6800
+nation,Scotland,S92000003,2020-10-01,59,6750
+nation,Scotland,S92000003,2020-09-30,44,6691
+nation,Scotland,S92000003,2020-09-29,31,6647
+nation,Scotland,S92000003,2020-09-28,42,6616
+nation,Scotland,S92000003,2020-09-27,30,6574
+nation,Scotland,S92000003,2020-09-26,32,6544
+nation,Scotland,S92000003,2020-09-25,34,6512
+nation,Scotland,S92000003,2020-09-24,30,6478
+nation,Scotland,S92000003,2020-09-23,22,6448
+nation,Scotland,S92000003,2020-09-22,30,6426
+nation,Scotland,S92000003,2020-09-21,23,6396
+nation,Scotland,S92000003,2020-09-20,17,6373
+nation,Scotland,S92000003,2020-09-19,18,6356
+nation,Scotland,S92000003,2020-09-18,11,6338
+nation,Scotland,S92000003,2020-09-17,16,6327
+nation,Scotland,S92000003,2020-09-16,33,6311
+nation,Scotland,S92000003,2020-09-15,19,6278
+nation,Scotland,S92000003,2020-09-14,16,6259
+nation,Scotland,S92000003,2020-09-13,11,6243
+nation,Scotland,S92000003,2020-09-12,13,6232
+nation,Scotland,S92000003,2020-09-11,16,6219
+nation,Scotland,S92000003,2020-09-10,18,6203
+nation,Scotland,S92000003,2020-09-09,6,6185
+nation,Scotland,S92000003,2020-09-08,8,6179
+nation,Scotland,S92000003,2020-09-07,9,6171
+nation,Scotland,S92000003,2020-09-06,7,6162
+nation,Scotland,S92000003,2020-09-05,8,6155
+nation,Scotland,S92000003,2020-09-04,16,6147
+nation,Scotland,S92000003,2020-09-03,3,6131
+nation,Scotland,S92000003,2020-09-02,5,6128
+nation,Scotland,S92000003,2020-09-01,2,6123
+nation,Scotland,S92000003,2020-08-31,5,6121
+nation,Scotland,S92000003,2020-08-30,2,6116
+nation,Scotland,S92000003,2020-08-29,3,6114
+nation,Scotland,S92000003,2020-08-28,5,6111
+nation,Scotland,S92000003,2020-08-27,7,6106
+nation,Scotland,S92000003,2020-08-26,10,6099
+nation,Scotland,S92000003,2020-08-25,9,6089
+nation,Scotland,S92000003,2020-08-24,9,6080
 nation,Scotland,S92000003,2020-08-23,1,6071
 nation,Scotland,S92000003,2020-08-22,4,6070
 nation,Scotland,S92000003,2020-08-21,3,6066
@@ -840,6 +844,7 @@ nation,Scotland,S92000003,2020-03-04,10,40
 nation,Scotland,S92000003,2020-03-03,13,30
 nation,Scotland,S92000003,2020-03-02,12,17
 nation,Scotland,S92000003,2020-03-01,5,5
+nation,Wales,W92000004,2020-12-15,88,22205
 nation,Wales,W92000004,2020-12-14,67,22117
 nation,Wales,W92000004,2020-12-13,64,22050
 nation,Wales,W92000004,2020-12-12,102,21986
