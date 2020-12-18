@@ -466,12 +466,12 @@
       "countryterritoryCode": "AFG",
       "popData2019": 38041757,
       "continentExp": "Asia",
-      "notification_rate_per_100000_population_14-days": "0.09"
+      "notification_rate_per_100000_population_14-days": "0.08"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 15,
+      "cases_weekly": 12,
       "deaths_weekly": 0,
       "countriesAndTerritories": "Afghanistan",
       "geoId": "AF",
@@ -479,6 +479,18 @@
       "popData2019": 38041757,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": "0.04"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 3,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Afghanistan",
+      "geoId": "AF",
+      "countryterritoryCode": "AFG",
+      "popData2019": 38041757,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.01"
     },
     {
       "dateRep": "02/03/2020",
@@ -4522,7 +4534,19 @@
       "countryterritoryCode": "ARM",
       "popData2019": 2957728,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "0.95"
+      "notification_rate_per_100000_population_14-days": "0.91"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Armenia",
+      "geoId": "AM",
+      "countryterritoryCode": "ARM",
+      "popData2019": 2957728,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "0.03"
     },
     {
       "dateRep": "02/03/2020",
@@ -6754,19 +6778,31 @@
       "countryterritoryCode": "AZE",
       "popData2019": 10047719,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "0.62"
+      "notification_rate_per_100000_population_14-days": "0.56"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 16,
+      "cases_weekly": 10,
       "deaths_weekly": 0,
       "countriesAndTerritories": "Azerbaijan",
       "geoId": "AZ",
       "countryterritoryCode": "AZE",
       "popData2019": 10047719,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "0.19"
+      "notification_rate_per_100000_population_14-days": "0.16"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 6,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Azerbaijan",
+      "geoId": "AZ",
+      "countryterritoryCode": "AZE",
+      "popData2019": 10047719,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "0.09"
     },
     {
       "dateRep": "02/03/2020",
@@ -8422,7 +8458,19 @@
       "countryterritoryCode": "BGD",
       "popData2019": 163046173,
       "continentExp": "Asia",
-      "notification_rate_per_100000_population_14-days": "0.02"
+      "notification_rate_per_100000_population_14-days": "0.01"
+    },
+    {
+      "dateRep": "16/03/2020",
+      "year_week": "2020-11",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Bangladesh",
+      "geoId": "BD",
+      "countryterritoryCode": "BGD",
+      "popData2019": 163046173,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.0"
     },
     {
       "dateRep": "09/03/2020",
@@ -9370,19 +9418,31 @@
       "countryterritoryCode": "BLR",
       "popData2019": 9452409,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "0.79"
+      "notification_rate_per_100000_population_14-days": "0.74"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 26,
+      "cases_weekly": 21,
       "deaths_weekly": 0,
       "countriesAndTerritories": "Belarus",
       "geoId": "BY",
       "countryterritoryCode": "BLR",
       "popData2019": 9452409,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "0.29"
+      "notification_rate_per_100000_population_14-days": "0.28"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 5,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Belarus",
+      "geoId": "BY",
+      "countryterritoryCode": "BLR",
+      "popData2019": 9452409,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "0.06"
     },
     {
       "dateRep": "02/03/2020",
@@ -17206,12 +17266,12 @@
       "countryterritoryCode": "KHM",
       "popData2019": 16486542,
       "continentExp": "Asia",
-      "notification_rate_per_100000_population_14-days": "0.52"
+      "notification_rate_per_100000_population_14-days": "0.51"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 11,
+      "cases_weekly": 10,
       "deaths_weekly": 0,
       "countriesAndTerritories": "Cambodia",
       "geoId": "KH",
@@ -17219,6 +17279,18 @@
       "popData2019": 16486542,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": "0.07"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 1,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Cambodia",
+      "geoId": "KH",
+      "countryterritoryCode": "KHM",
+      "popData2019": 16486542,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.01"
     },
     {
       "dateRep": "02/03/2020",
@@ -24298,19 +24370,31 @@
       "countryterritoryCode": "HRV",
       "popData2019": 4076246,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "5.59"
+      "notification_rate_per_100000_population_14-days": "5.47"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 41,
+      "cases_weekly": 36,
       "deaths_weekly": 0,
       "countriesAndTerritories": "Croatia",
       "geoId": "HR",
       "countryterritoryCode": "HRV",
       "popData2019": 4076246,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "1.18"
+      "notification_rate_per_100000_population_14-days": "1.01"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 5,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Croatia",
+      "geoId": "HR",
+      "countryterritoryCode": "HRV",
+      "popData2019": 4076246,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "0.29"
     },
     {
       "dateRep": "02/03/2020",
@@ -28906,19 +28990,31 @@
       "countryterritoryCode": "DOM",
       "popData2019": 10738957,
       "continentExp": "America",
-      "notification_rate_per_100000_population_14-days": "1.87"
+      "notification_rate_per_100000_population_14-days": "1.86"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 10,
+      "cases_weekly": 9,
       "deaths_weekly": 0,
       "countriesAndTerritories": "Dominican_Republic",
       "geoId": "DO",
       "countryterritoryCode": "DOM",
       "popData2019": 10738957,
       "continentExp": "America",
-      "notification_rate_per_100000_population_14-days": "0.1"
+      "notification_rate_per_100000_population_14-days": "0.09"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 1,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Dominican_Republic",
+      "geoId": "DO",
+      "countryterritoryCode": "DOM",
+      "popData2019": 10738957,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "0.02"
     },
     {
       "dateRep": "02/03/2020",
@@ -32110,19 +32206,31 @@
       "countryterritoryCode": "EST",
       "popData2019": 1324820,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "24.53"
+      "notification_rate_per_100000_population_14-days": "23.85"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 170,
+      "cases_weekly": 161,
       "deaths_weekly": 0,
       "countriesAndTerritories": "Estonia",
       "geoId": "EE",
       "countryterritoryCode": "EST",
       "popData2019": 1324820,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "12.91"
+      "notification_rate_per_100000_population_14-days": "12.83"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 9,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Estonia",
+      "geoId": "EE",
+      "countryterritoryCode": "EST",
+      "popData2019": 1324820,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "0.75"
     },
     {
       "dateRep": "02/03/2020",
@@ -46707,7 +46815,7 @@
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 90,
+      "cases_weekly": 59,
       "deaths_weekly": 2,
       "countriesAndTerritories": "India",
       "geoId": "IN",
@@ -46715,6 +46823,18 @@
       "popData2019": 1366417756,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": "0.01"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 31,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "India",
+      "geoId": "IN",
+      "countryterritoryCode": "IND",
+      "popData2019": 1366417756,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.0"
     },
     {
       "dateRep": "02/03/2020",
@@ -59230,7 +59350,19 @@
       "countryterritoryCode": "LTU",
       "popData2019": 2794184,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "0.5"
+      "notification_rate_per_100000_population_14-days": "0.47"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Lithuania",
+      "geoId": "LT",
+      "countryterritoryCode": "LTU",
+      "popData2019": 2794184,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "0.04"
     },
     {
       "dateRep": "02/03/2020",
@@ -65482,7 +65614,19 @@
       "countryterritoryCode": "MCO",
       "popData2019": 33085,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "27.2"
+      "notification_rate_per_100000_population_14-days": "24.18"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Monaco",
+      "geoId": "MC",
+      "countryterritoryCode": "MCO",
+      "popData2019": 33085,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "3.02"
     },
     {
       "dateRep": "02/03/2020",
@@ -69349,6 +69493,30 @@
       "notification_rate_per_100000_population_14-days": "0"
     },
     {
+      "dateRep": "16/03/2020",
+      "year_week": "2020-11",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Nepal",
+      "geoId": "NP",
+      "countryterritoryCode": "NPL",
+      "popData2019": 28608715,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Nepal",
+      "geoId": "NP",
+      "countryterritoryCode": "NPL",
+      "popData2019": 28608715,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0"
+    },
+    {
       "dateRep": "02/03/2020",
       "year_week": "2020-09",
       "cases_weekly": 0,
@@ -70978,19 +71146,43 @@
       "countryterritoryCode": "NZL",
       "popData2019": 4783062,
       "continentExp": "Oceania",
-      "notification_rate_per_100000_population_14-days": "11.52"
+      "notification_rate_per_100000_population_14-days": "11.37"
     },
     {
       "dateRep": "23/03/2020",
       "year_week": "2020-12",
-      "cases_weekly": 101,
+      "cases_weekly": 94,
       "deaths_weekly": 0,
       "countriesAndTerritories": "New_Zealand",
       "geoId": "NZ",
       "countryterritoryCode": "NZL",
       "popData2019": 4783062,
       "continentExp": "Oceania",
-      "notification_rate_per_100000_population_14-days": "2.13"
+      "notification_rate_per_100000_population_14-days": "2.03"
+    },
+    {
+      "dateRep": "16/03/2020",
+      "year_week": "2020-11",
+      "cases_weekly": 3,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "New_Zealand",
+      "geoId": "NZ",
+      "countryterritoryCode": "NZL",
+      "popData2019": 4783062,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "0.15"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 4,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "New_Zealand",
+      "geoId": "NZ",
+      "countryterritoryCode": "NZL",
+      "popData2019": 4783062,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "0.1"
     },
     {
       "dateRep": "02/03/2020",
@@ -72517,6 +72709,18 @@
       "notification_rate_per_100000_population_14-days": "0.0"
     },
     {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Nigeria",
+      "geoId": "NG",
+      "countryterritoryCode": "NGA",
+      "popData2019": 200963603,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0.0"
+    },
+    {
       "dateRep": "02/03/2020",
       "year_week": "2020-09",
       "cases_weekly": 1,
@@ -73090,19 +73294,31 @@
       "countryterritoryCode": "MKD",
       "popData2019": 2077132,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "5.44"
+      "notification_rate_per_100000_population_14-days": "5.34"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 12,
+      "cases_weekly": 10,
       "deaths_weekly": 0,
       "countriesAndTerritories": "North_Macedonia",
       "geoId": "MK",
       "countryterritoryCode": "MKD",
       "popData2019": 2077132,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "0.63"
+      "notification_rate_per_100000_population_14-days": "0.58"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 2,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "North_Macedonia",
+      "geoId": "MK",
+      "countryterritoryCode": "MKD",
+      "popData2019": 2077132,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "0.14"
     },
     {
       "dateRep": "02/03/2020",
@@ -74722,19 +74938,31 @@
       "countryterritoryCode": "OMN",
       "popData2019": 4974992,
       "continentExp": "Asia",
-      "notification_rate_per_100000_population_14-days": "0.98"
+      "notification_rate_per_100000_population_14-days": "0.78"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 16,
+      "cases_weekly": 6,
       "deaths_weekly": 0,
       "countriesAndTerritories": "Oman",
       "geoId": "OM",
       "countryterritoryCode": "OMN",
       "popData2019": 4974992,
       "continentExp": "Asia",
-      "notification_rate_per_100000_population_14-days": "0.44"
+      "notification_rate_per_100000_population_14-days": "0.32"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 10,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Oman",
+      "geoId": "OM",
+      "countryterritoryCode": "OMN",
+      "popData2019": 4974992,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.32"
     },
     {
       "dateRep": "02/03/2020",
@@ -75315,7 +75543,7 @@
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 27,
+      "cases_weekly": 25,
       "deaths_weekly": 0,
       "countriesAndTerritories": "Pakistan",
       "geoId": "PK",
@@ -75323,6 +75551,18 @@
       "popData2019": 216565317,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": "0.01"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 2,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Pakistan",
+      "geoId": "PK",
+      "countryterritoryCode": "PAK",
+      "popData2019": 216565317,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.0"
     },
     {
       "dateRep": "02/03/2020",
@@ -92185,6 +92425,18 @@
       "notification_rate_per_100000_population_14-days": "0.08"
     },
     {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Sri_Lanka",
+      "geoId": "LK",
+      "countryterritoryCode": "LKA",
+      "popData2019": 21323734,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0"
+    },
+    {
       "dateRep": "02/03/2020",
       "year_week": "2020-09",
       "cases_weekly": 0,
@@ -96370,19 +96622,31 @@
       "countryterritoryCode": "THA",
       "popData2019": 69625581,
       "continentExp": "Asia",
-      "notification_rate_per_100000_population_14-days": "0.97"
+      "notification_rate_per_100000_population_14-days": "0.96"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 71,
+      "cases_weekly": 64,
       "deaths_weekly": 0,
       "countriesAndTerritories": "Thailand",
       "geoId": "TH",
       "countryterritoryCode": "THA",
       "popData2019": 69625581,
       "continentExp": "Asia",
-      "notification_rate_per_100000_population_14-days": "0.11"
+      "notification_rate_per_100000_population_14-days": "0.1"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 7,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Thailand",
+      "geoId": "TH",
+      "countryterritoryCode": "THA",
+      "popData2019": 69625581,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.02"
     },
     {
       "dateRep": "02/03/2020",
@@ -100750,19 +101014,31 @@
       "countryterritoryCode": "ARE",
       "popData2019": 9770526,
       "continentExp": "Asia",
-      "notification_rate_per_100000_population_14-days": "1.35"
+      "notification_rate_per_100000_population_14-days": "1.11"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 77,
+      "cases_weekly": 53,
       "deaths_weekly": 0,
       "countriesAndTerritories": "United_Arab_Emirates",
       "geoId": "AE",
       "countryterritoryCode": "ARE",
       "popData2019": 9770526,
       "continentExp": "Asia",
-      "notification_rate_per_100000_population_14-days": "0.87"
+      "notification_rate_per_100000_population_14-days": "0.79"
+    },
+    {
+      "dateRep": "09/03/2020",
+      "year_week": "2020-10",
+      "cases_weekly": 24,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "United_Arab_Emirates",
+      "geoId": "AE",
+      "countryterritoryCode": "ARE",
+      "popData2019": 9770526,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.33"
     },
     {
       "dateRep": "02/03/2020",
