@@ -5,7 +5,7 @@
     "positive": 17251064,
     "negative": 177471234,
     "pending": 13454,
-    "hospitalizedCurrently": 114685,
+    "hospitalizedCurrently": 113955,
     "hospitalizedCumulative": 638147,
     "inIcuCurrently": 21745,
     "inIcuCumulative": 34716,
@@ -24,6 +24,6 @@
     "negativeIncrease": 866532,
     "positiveIncrease": 239246,
     "totalTestResultsIncrease": 2197685,
-    "hash": "813c1272b2339eab120c5b1754c6afbdfbea1a6f"
+    "hash": "d9ef233505e0d8b6586c3c45adbee6ff4130c441"
   }
 ]
