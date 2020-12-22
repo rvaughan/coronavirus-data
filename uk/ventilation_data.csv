@@ -1,5 +1,6 @@
 areaType,areaName,areaCode,date,covidOccupiedMVBeds
-nation,England,E92000001,2020-12-20,1268
+nation,England,E92000001,2020-12-21,1327
+nation,England,E92000001,2020-12-20,1267
 nation,England,E92000001,2020-12-19,1239
 nation,England,E92000001,2020-12-18,1190
 nation,England,E92000001,2020-12-17,1188
@@ -262,6 +263,9 @@ nation,England,E92000001,2020-04-05,2097
 nation,England,E92000001,2020-04-04,1950
 nation,England,E92000001,2020-04-03,1788
 nation,England,E92000001,2020-04-02,1494
+nation,Northern Ireland,N92000002,2020-12-21,24
+nation,Northern Ireland,N92000002,2020-12-20,24
+nation,Northern Ireland,N92000002,2020-12-19,23
 nation,Northern Ireland,N92000002,2020-12-18,26
 nation,Northern Ireland,N92000002,2020-12-17,26
 nation,Northern Ireland,N92000002,2020-12-16,25
@@ -533,6 +537,9 @@ nation,Northern Ireland,N92000002,2020-03-26,10
 nation,Northern Ireland,N92000002,2020-03-25,10
 nation,Northern Ireland,N92000002,2020-03-24,2
 nation,Northern Ireland,N92000002,2020-03-23,6
+nation,Scotland,S92000003,2020-12-21,59
+nation,Scotland,S92000003,2020-12-20,58
+nation,Scotland,S92000003,2020-12-19,53
 nation,Scotland,S92000003,2020-12-18,50
 nation,Scotland,S92000003,2020-12-17,50
 nation,Scotland,S92000003,2020-12-16,49
