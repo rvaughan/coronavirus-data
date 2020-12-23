@@ -93507,14 +93507,14 @@
     {
       "dateRep": "21/12/2020",
       "year_week": "2020-51",
-      "cases_weekly": 10328,
-      "deaths_weekly": 388,
+      "cases_weekly": 67365,
+      "deaths_weekly": 1247,
       "countriesAndTerritories": "Spain",
       "geoId": "ES",
       "countryterritoryCode": "ESP",
       "popData2019": 46937060,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "127.58"
+      "notification_rate_per_100000_population_14-days": "249.1"
     },
     {
       "dateRep": "14/12/2020",
