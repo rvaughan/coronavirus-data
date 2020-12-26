@@ -3,7 +3,7 @@
     "date": 20201225,
     "states": 56,
     "positive": 18565927,
-    "negative": 186819818,
+    "negative": 186829066,
     "pending": 10214,
     "hospitalizedCurrently": 118948,
     "hospitalizedCumulative": 662675,
@@ -24,6 +24,6 @@
     "negativeIncrease": 963675,
     "positiveIncrease": 124498,
     "totalTestResultsIncrease": 1272991,
-    "hash": "e064e4b8687d2fcfc75953630c7d3284c769f2f7"
+    "hash": "d9c46807ee21e609bd4b06260e1fc0a43a1965cf"
   }
 ]
