@@ -1,4 +1,8 @@
 areaType,areaName,areaCode,date,newAdmissions,cumAdmissions
+nation,England,E92000001,2020-12-25,1952,226359
+nation,England,E92000001,2020-12-24,1795,224407
+nation,England,E92000001,2020-12-23,1980,222612
+nation,England,E92000001,2020-12-22,2203,220632
 nation,England,E92000001,2020-12-21,2115,218429
 nation,England,E92000001,2020-12-20,1976,216314
 nation,England,E92000001,2020-12-19,1812,214338
@@ -573,6 +577,7 @@ nation,Northern Ireland,N92000002,2020-03-05,1,2
 nation,Northern Ireland,N92000002,2020-03-04,0,1
 nation,Northern Ireland,N92000002,2020-03-03,0,1
 nation,Northern Ireland,N92000002,2020-03-02,1,1
+nation,Scotland,S92000003,2020-12-21,73,13764
 nation,Scotland,S92000003,2020-12-20,50,13691
 nation,Scotland,S92000003,2020-12-19,57,13641
 nation,Scotland,S92000003,2020-12-18,54,13584
