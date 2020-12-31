@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,hospitalCases
+nation,England,E92000001,2020-12-30,22713
 nation,England,E92000001,2020-12-29,21787
 nation,England,E92000001,2020-12-28,20426
 nation,England,E92000001,2020-12-27,19277
@@ -284,23 +285,24 @@ nation,England,E92000001,2020-03-23,3183
 nation,England,E92000001,2020-03-22,2670
 nation,England,E92000001,2020-03-21,2152
 nation,England,E92000001,2020-03-20,1580
-nation,Northern Ireland,N92000002,2020-12-28,462
-nation,Northern Ireland,N92000002,2020-12-27,468
-nation,Northern Ireland,N92000002,2020-12-26,459
-nation,Northern Ireland,N92000002,2020-12-25,449
-nation,Northern Ireland,N92000002,2020-12-24,446
-nation,Northern Ireland,N92000002,2020-12-23,476
-nation,Northern Ireland,N92000002,2020-12-22,497
-nation,Northern Ireland,N92000002,2020-12-21,519
+nation,Northern Ireland,N92000002,2020-12-29,492
+nation,Northern Ireland,N92000002,2020-12-28,504
+nation,Northern Ireland,N92000002,2020-12-27,486
+nation,Northern Ireland,N92000002,2020-12-26,474
+nation,Northern Ireland,N92000002,2020-12-25,461
+nation,Northern Ireland,N92000002,2020-12-24,459
+nation,Northern Ireland,N92000002,2020-12-23,480
+nation,Northern Ireland,N92000002,2020-12-22,498
+nation,Northern Ireland,N92000002,2020-12-21,520
 nation,Northern Ireland,N92000002,2020-12-20,526
 nation,Northern Ireland,N92000002,2020-12-19,518
-nation,Northern Ireland,N92000002,2020-12-18,511
-nation,Northern Ireland,N92000002,2020-12-17,529
-nation,Northern Ireland,N92000002,2020-12-16,555
-nation,Northern Ireland,N92000002,2020-12-15,561
+nation,Northern Ireland,N92000002,2020-12-18,512
+nation,Northern Ireland,N92000002,2020-12-17,530
+nation,Northern Ireland,N92000002,2020-12-16,556
+nation,Northern Ireland,N92000002,2020-12-15,562
 nation,Northern Ireland,N92000002,2020-12-14,562
-nation,Northern Ireland,N92000002,2020-12-13,550
-nation,Northern Ireland,N92000002,2020-12-12,534
+nation,Northern Ireland,N92000002,2020-12-13,551
+nation,Northern Ireland,N92000002,2020-12-12,535
 nation,Northern Ireland,N92000002,2020-12-11,521
 nation,Northern Ireland,N92000002,2020-12-10,539
 nation,Northern Ireland,N92000002,2020-12-09,540
