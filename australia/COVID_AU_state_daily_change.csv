@@ -2719,7 +2719,7 @@
 2020-12-29,"Tasmania","TAS",0,0,466,0,0,0,0,0
 2020-12-29,"Victoria","VIC",0,0,6899,0,4,0,0,0
 2020-12-29,"Western Australia","WA",1,0,7986,1,2,0,0,0
-2020-12-30,"Australian Capital Territory","ACT",0,0,726,0,0,0,0,0
+2020-12-30,"Australian Capital Territory","ACT",0,0,592,0,0,0,0,0
 2020-12-30,"New South Wales","NSW",25,0,17267,25,0,-2,0,0
 2020-12-30,"Northern Territory","NT",0,0,469,0,3,-3,0,0
 2020-12-30,"Queensland","QLD",2,0,4918,2,0,0,0,0
@@ -2727,11 +2727,19 @@
 2020-12-30,"Tasmania","TAS",0,0,597,0,0,0,0,0
 2020-12-30,"Victoria","VIC",1,0,8731,1,0,0,0,0
 2020-12-30,"Western Australia","WA",0,0,2810,0,2,0,0,0
-2020-12-31,"Australian Capital Territory","ACT",0,0,555,0,0,0,0,0
-2020-12-31,"New South Wales","NSW",17,0,27894,17,0,0,0,0
+2020-12-31,"Australian Capital Territory","ACT",0,0,689,0,0,0,0,0
+2020-12-31,"New South Wales","NSW",17,0,27894,17,0,1,0,0
 2020-12-31,"Northern Territory","NT",0,0,499,0,0,0,0,0
-2020-12-31,"Queensland","QLD",3,0,4886,3,0,0,0,0
-2020-12-31,"South Australia","SA",1,0,5996,1,2,0,0,0
+2020-12-31,"Queensland","QLD",3,0,4886,3,0,3,0,0
+2020-12-31,"South Australia","SA",1,0,4386,1,2,-1,0,0
 2020-12-31,"Tasmania","TAS",0,0,596,0,0,0,0,0
 2020-12-31,"Victoria","VIC",3,0,13097,3,1,0,0,0
 2020-12-31,"Western Australia","WA",2,0,2762,2,0,0,0,0
+2021-01-01,"Australian Capital Territory","ACT",0,0,574,0,0,0,0,0
+2021-01-01,"New South Wales","NSW",5,0,32010,5,0,-0.56,0,0
+2021-01-01,"Northern Territory","NT",1,0,389,1,1,0,0,0
+2021-01-01,"Queensland","QLD",0,0,5105,0,0,-1,0,0
+2021-01-01,"South Australia","SA",4,0,4533,4,0,0,0,0
+2021-01-01,"Tasmania","TAS",0,0,627,0,0,0,0,0
+2021-01-01,"Victoria","VIC",8,0,13108,8,0,0,0,0
+2021-01-01,"Western Australia","WA",2,0,0,2,0,0,0,0
