@@ -38,7 +38,8 @@ if __name__ == '__main__':
                 "pillarTwo": "newPillarTwoTestsByPublishDate",
                 "pillarThree": "newPillarThreeTestsByPublishDate",
                 "pillarFout": "newPillarFourTestsByPublishDate",
-                "admissions": "newAdmissions"
+                "admissions": "newAdmissions",
+                "covidBeds": "covidOccupiedMVBeds"
             }
     
             api_params = {
