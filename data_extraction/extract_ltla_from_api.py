@@ -30,10 +30,15 @@ if __name__ == '__main__':
 
             structure = {
                 "date": "date",
-                "name": "areaName",
-                "code": "areaCode",
-                "newCases": "newCasesByPublishDate",
-                "newCasesBySpecimenDate": "newCasesBySpecimenDate"
+                "cases": "newCasesByPublishDate",
+                "male": "maleCases",
+                "female": "femaleCases",
+                "deaths": "newCasesBySpecimenDate",
+                "pillarOne": "newPillarOneTestsByPublishDate",
+                "pillarTwo": "newPillarTwoTestsByPublishDate",
+                "pillarThree": "newPillarThreeTestsByPublishDate",
+                "pillarFout": "newPillarFourTestsByPublishDate",
+                "admissions": "newAdmissions"
             }
     
             api_params = {
