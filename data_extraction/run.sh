@@ -12,3 +12,7 @@ fi
 source ./venv/bin/activate
 
 python extract_wales.py
+
+python extract_national_from_api.py
+python extract_utla_from_api.py
+python extract_ltla_from_api.py
