@@ -1,6 +1,18 @@
 {
   "records": [
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 902,
+      "deaths_weekly": 60,
+      "countriesAndTerritories": "Afghanistan",
+      "geoId": "AF",
+      "countryterritoryCode": "AFG",
+      "popData2019": 38041757,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "7.61"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1994,
@@ -625,6 +637,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2866,
+      "deaths_weekly": 29,
+      "countriesAndTerritories": "Albania",
+      "geoId": "AL",
+      "countryterritoryCode": "ALB",
+      "popData2019": 2862427,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "224.81"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 3569,
@@ -1139,6 +1163,18 @@
       "popData2019": 2862427,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1777,
+      "deaths_weekly": 35,
+      "countriesAndTerritories": "Algeria",
+      "geoId": "DZ",
+      "countryterritoryCode": "DZA",
+      "popData2019": 43053054,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "12.09"
     },
     {
       "dateRep": "28/12/2020",
@@ -1765,6 +1801,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 605,
+      "deaths_weekly": 2,
+      "countriesAndTerritories": "Andorra",
+      "geoId": "AD",
+      "countryterritoryCode": "AND",
+      "popData2019": 76177,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "807.33"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 10,
@@ -2269,6 +2317,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 346,
+      "deaths_weekly": 5,
+      "countriesAndTerritories": "Angola",
+      "geoId": "AO",
+      "countryterritoryCode": "AGO",
+      "popData2019": 31825299,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "3.14"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 652,
@@ -2761,6 +2821,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Anguilla",
+      "geoId": "AI",
+      "countryterritoryCode": "AIA",
+      "popData2019": 14872,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "33.62"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 3,
@@ -3239,6 +3311,18 @@
       "popData2019": 14872,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Antigua_and_Barbuda",
+      "geoId": "AG",
+      "countryterritoryCode": "ATG",
+      "popData2019": 97115,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "7.21"
     },
     {
       "dateRep": "28/12/2020",
@@ -3731,6 +3815,18 @@
       "popData2019": 97115,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 50220,
+      "deaths_weekly": 614,
+      "countriesAndTerritories": "Argentina",
+      "geoId": "AR",
+      "countryterritoryCode": "ARG",
+      "popData2019": 44780675,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "209.0"
     },
     {
       "dateRep": "28/12/2020",
@@ -4247,6 +4343,18 @@
       "popData2019": 44780675,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2272,
+      "deaths_weekly": 89,
+      "countriesAndTerritories": "Armenia",
+      "geoId": "AM",
+      "countryterritoryCode": "ARM",
+      "popData2019": 2957728,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "208.1"
     },
     {
       "dateRep": "28/12/2020",
@@ -4873,6 +4981,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 241,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Aruba",
+      "geoId": "AW",
+      "countryterritoryCode": "ABW",
+      "popData2019": 106310,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "364.97"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 147,
@@ -5351,6 +5471,18 @@
       "popData2019": 106310,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 192,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "Australia",
+      "geoId": "AU",
+      "countryterritoryCode": "AUS",
+      "popData2019": 25203200,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "1.21"
     },
     {
       "dateRep": "28/12/2020",
@@ -5977,6 +6109,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 13188,
+      "deaths_weekly": 381,
+      "countriesAndTerritories": "Austria",
+      "geoId": "AT",
+      "countryterritoryCode": "AUT",
+      "popData2019": 8858775,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "320.04"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 15164,
@@ -6599,6 +6743,18 @@
       "popData2019": 8858775,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 4782,
+      "deaths_weekly": 195,
+      "countriesAndTerritories": "Azerbaijan",
+      "geoId": "AZ",
+      "countryterritoryCode": "AZE",
+      "popData2019": 10047719,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "180.91"
     },
     {
       "dateRep": "28/12/2020",
@@ -7225,6 +7381,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 90,
+      "deaths_weekly": 5,
+      "countriesAndTerritories": "Bahamas",
+      "geoId": "BS",
+      "countryterritoryCode": "BHS",
+      "popData2019": 389486,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "40.82"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 69,
@@ -7727,6 +7895,18 @@
       "popData2019": 389486,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1745,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "Bahrain",
+      "geoId": "BH",
+      "countryterritoryCode": "BHR",
+      "popData2019": 1641164,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "194.74"
     },
     {
       "dateRep": "28/12/2020",
@@ -8353,6 +8533,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 6871,
+      "deaths_weekly": 174,
+      "countriesAndTerritories": "Bangladesh",
+      "geoId": "BD",
+      "countryterritoryCode": "BGD",
+      "popData2019": 163046173,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "9.39"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 8435,
@@ -8869,6 +9061,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 244,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Barbados",
+      "geoId": "BB",
+      "countryterritoryCode": "BRB",
+      "popData2019": 287021,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "98.95"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 40,
@@ -9359,6 +9563,18 @@
       "popData2019": 287021,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 11374,
+      "deaths_weekly": 57,
+      "countriesAndTerritories": "Belarus",
+      "geoId": "BY",
+      "countryterritoryCode": "BLR",
+      "popData2019": 9452409,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "279.71"
     },
     {
       "dateRep": "28/12/2020",
@@ -9985,508 +10201,520 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
-      "dateRep": "28/12/2020",
-      "year_week": "2020-52",
-      "cases_weekly": 12159,
-      "deaths_weekly": 436,
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 8035,
+      "deaths_weekly": 367,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "260.35"
+      "notification_rate_per_100000_population_14-days": "174.14"
+    },
+    {
+      "dateRep": "28/12/2020",
+      "year_week": "2020-52",
+      "cases_weekly": 11914,
+      "deaths_weekly": 523,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "254.09"
     },
     {
       "dateRep": "21/12/2020",
       "year_week": "2020-51",
-      "cases_weekly": 17666,
-      "deaths_weekly": 653,
+      "cases_weekly": 17193,
+      "deaths_weekly": 623,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "300.21"
+      "notification_rate_per_100000_population_14-days": "300.19"
     },
     {
       "dateRep": "14/12/2020",
       "year_week": "2020-50",
-      "cases_weekly": 16725,
-      "deaths_weekly": 664,
+      "cases_weekly": 17195,
+      "deaths_weekly": 667,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "279.15"
+      "notification_rate_per_100000_population_14-days": "283.88"
     },
     {
       "dateRep": "07/12/2020",
       "year_week": "2020-49",
-      "cases_weekly": 15253,
-      "deaths_weekly": 702,
+      "cases_weekly": 15325,
+      "deaths_weekly": 699,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "274.63"
+      "notification_rate_per_100000_population_14-days": "269.55"
     },
     {
       "dateRep": "30/11/2020",
       "year_week": "2020-48",
-      "cases_weekly": 16207,
-      "deaths_weekly": 876,
+      "cases_weekly": 15553,
+      "deaths_weekly": 836,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "336.19"
+      "notification_rate_per_100000_population_14-days": "314.17"
     },
     {
       "dateRep": "23/11/2020",
       "year_week": "2020-47",
-      "cases_weekly": 22305,
-      "deaths_weekly": 1125,
+      "cases_weekly": 20437,
+      "deaths_weekly": 1070,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "491.16"
+      "notification_rate_per_100000_population_14-days": "450.28"
     },
     {
       "dateRep": "16/11/2020",
       "year_week": "2020-46",
-      "cases_weekly": 33960,
-      "deaths_weekly": 1335,
+      "cases_weekly": 31145,
+      "deaths_weekly": 1336,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "767.77"
+      "notification_rate_per_100000_population_14-days": "697.61"
     },
     {
       "dateRep": "09/11/2020",
       "year_week": "2020-45",
-      "cases_weekly": 53992,
-      "deaths_weekly": 1416,
+      "cases_weekly": 48770,
+      "deaths_weekly": 1402,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "1340.27"
+      "notification_rate_per_100000_population_14-days": "1242.22"
     },
     {
       "dateRep": "02/11/2020",
       "year_week": "2020-44",
-      "cases_weekly": 99543,
-      "deaths_weekly": 1060,
+      "cases_weekly": 93533,
+      "deaths_weekly": 1147,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "1788.4"
+      "notification_rate_per_100000_population_14-days": "1773.54"
     },
     {
       "dateRep": "26/10/2020",
       "year_week": "2020-43",
-      "cases_weekly": 105328,
-      "deaths_weekly": 501,
+      "cases_weekly": 109635,
+      "deaths_weekly": 570,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "1549.66"
+      "notification_rate_per_100000_population_14-days": "1638.12"
     },
     {
       "dateRep": "19/10/2020",
       "year_week": "2020-42",
-      "cases_weekly": 72194,
-      "deaths_weekly": 236,
+      "cases_weekly": 78020,
+      "deaths_weekly": 252,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "969.17"
+      "notification_rate_per_100000_population_14-days": "1059.18"
     },
     {
       "dateRep": "12/10/2020",
       "year_week": "2020-41",
-      "cases_weekly": 38829,
-      "deaths_weekly": 139,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "503.8"
-    },
-    {
-      "dateRep": "05/10/2020",
-      "year_week": "2020-40",
-      "cases_weekly": 18884,
-      "deaths_weekly": 84,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "263.26"
-    },
-    {
-      "dateRep": "28/09/2020",
-      "year_week": "2020-39",
-      "cases_weekly": 11274,
-      "deaths_weekly": 39,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "186.65"
-    },
-    {
-      "dateRep": "21/09/2020",
-      "year_week": "2020-38",
-      "cases_weekly": 10108,
-      "deaths_weekly": 27,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "141.99"
-    },
-    {
-      "dateRep": "14/09/2020",
-      "year_week": "2020-37",
-      "cases_weekly": 6158,
-      "deaths_weekly": 19,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "85.66"
-    },
-    {
-      "dateRep": "07/09/2020",
-      "year_week": "2020-36",
-      "cases_weekly": 3655,
-      "deaths_weekly": 17,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "59.15"
-    },
-    {
-      "dateRep": "31/08/2020",
-      "year_week": "2020-35",
-      "cases_weekly": 3121,
-      "deaths_weekly": 28,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "57.39"
-    },
-    {
-      "dateRep": "24/08/2020",
-      "year_week": "2020-34",
-      "cases_weekly": 3453,
-      "deaths_weekly": 42,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "62.89"
-    },
-    {
-      "dateRep": "17/08/2020",
-      "year_week": "2020-33",
-      "cases_weekly": 3751,
-      "deaths_weekly": 75,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "70.63"
-    },
-    {
-      "dateRep": "10/08/2020",
-      "year_week": "2020-32",
-      "cases_weekly": 4340,
-      "deaths_weekly": 30,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "70.7"
-    },
-    {
-      "dateRep": "03/08/2020",
-      "year_week": "2020-31",
-      "cases_weekly": 3759,
-      "deaths_weekly": 20,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "54.54"
-    },
-    {
-      "dateRep": "27/07/2020",
-      "year_week": "2020-30",
-      "cases_weekly": 2489,
-      "deaths_weekly": 15,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "33.82"
-    },
-    {
-      "dateRep": "20/07/2020",
-      "year_week": "2020-29",
-      "cases_weekly": 1385,
-      "deaths_weekly": 19,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "18.24"
-    },
-    {
-      "dateRep": "13/07/2020",
-      "year_week": "2020-28",
-      "cases_weekly": 704,
-      "deaths_weekly": 13,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "11.71"
-    },
-    {
-      "dateRep": "06/07/2020",
-      "year_week": "2020-27",
-      "cases_weekly": 637,
-      "deaths_weekly": 25,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "10.86"
-    },
-    {
-      "dateRep": "29/06/2020",
-      "year_week": "2020-26",
-      "cases_weekly": 607,
-      "deaths_weekly": 39,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "11.13"
-    },
-    {
-      "dateRep": "22/06/2020",
-      "year_week": "2020-25",
-      "cases_weekly": 668,
-      "deaths_weekly": 43,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "11.69"
-    },
-    {
-      "dateRep": "15/06/2020",
-      "year_week": "2020-24",
-      "cases_weekly": 671,
-      "deaths_weekly": 58,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "13.25"
-    },
-    {
-      "dateRep": "08/06/2020",
-      "year_week": "2020-23",
-      "cases_weekly": 847,
-      "deaths_weekly": 113,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "17.38"
-    },
-    {
-      "dateRep": "01/06/2020",
-      "year_week": "2020-22",
-      "cases_weekly": 1144,
+      "cases_weekly": 43315,
       "deaths_weekly": 161,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "23.17"
+      "notification_rate_per_100000_population_14-days": "564.5"
     },
     {
-      "dateRep": "25/05/2020",
-      "year_week": "2020-21",
-      "cases_weekly": 1510,
-      "deaths_weekly": 233,
+      "dateRep": "05/10/2020",
+      "year_week": "2020-40",
+      "cases_weekly": 21351,
+      "deaths_weekly": 85,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "31.26"
+      "notification_rate_per_100000_population_14-days": "289.86"
     },
     {
-      "dateRep": "18/05/2020",
-      "year_week": "2020-20",
-      "cases_weekly": 2071,
-      "deaths_weekly": 315,
+      "dateRep": "28/09/2020",
+      "year_week": "2020-39",
+      "cases_weekly": 11854,
+      "deaths_weekly": 49,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "44.71"
+      "notification_rate_per_100000_population_14-days": "195.89"
     },
     {
-      "dateRep": "11/05/2020",
-      "year_week": "2020-19",
-      "cases_weekly": 3051,
-      "deaths_weekly": 540,
+      "dateRep": "21/09/2020",
+      "year_week": "2020-38",
+      "cases_weekly": 10586,
+      "deaths_weekly": 26,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "53.65"
+      "notification_rate_per_100000_population_14-days": "153.2"
     },
     {
-      "dateRep": "04/05/2020",
-      "year_week": "2020-18",
-      "cases_weekly": 3095,
-      "deaths_weekly": 701,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "76.8"
-    },
-    {
-      "dateRep": "27/04/2020",
-      "year_week": "2020-17",
-      "cases_weekly": 5703,
-      "deaths_weekly": 1197,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "119.3"
-    },
-    {
-      "dateRep": "20/04/2020",
-      "year_week": "2020-16",
-      "cases_weekly": 7963,
-      "deaths_weekly": 1667,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "167.06"
-    },
-    {
-      "dateRep": "13/04/2020",
-      "year_week": "2020-15",
-      "cases_weekly": 11175,
-      "deaths_weekly": 1979,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "182.17"
-    },
-    {
-      "dateRep": "06/04/2020",
-      "year_week": "2020-14",
-      "cases_weekly": 9694,
-      "deaths_weekly": 1584,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "155.59"
-    },
-    {
-      "dateRep": "30/03/2020",
-      "year_week": "2020-13",
-      "cases_weekly": 8130,
-      "deaths_weekly": 782,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "103.03"
-    },
-    {
-      "dateRep": "23/03/2020",
-      "year_week": "2020-12",
-      "cases_weekly": 3673,
-      "deaths_weekly": 199,
-      "countriesAndTerritories": "Belgium",
-      "geoId": "BE",
-      "countryterritoryCode": "BEL",
-      "popData2019": 11455519,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "43.83"
-    },
-    {
-      "dateRep": "16/03/2020",
-      "year_week": "2020-11",
-      "cases_weekly": 1348,
+      "dateRep": "14/09/2020",
+      "year_week": "2020-37",
+      "cases_weekly": 6964,
       "deaths_weekly": 19,
       "countriesAndTerritories": "Belgium",
       "geoId": "BE",
       "countryterritoryCode": "BEL",
       "popData2019": 11455519,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "15.15"
+      "notification_rate_per_100000_population_14-days": "95.18"
+    },
+    {
+      "dateRep": "07/09/2020",
+      "year_week": "2020-36",
+      "cases_weekly": 3939,
+      "deaths_weekly": 18,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "61.87"
+    },
+    {
+      "dateRep": "31/08/2020",
+      "year_week": "2020-35",
+      "cases_weekly": 3148,
+      "deaths_weekly": 26,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "56.75"
+    },
+    {
+      "dateRep": "24/08/2020",
+      "year_week": "2020-34",
+      "cases_weekly": 3353,
+      "deaths_weekly": 40,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "60.56"
+    },
+    {
+      "dateRep": "17/08/2020",
+      "year_week": "2020-33",
+      "cases_weekly": 3585,
+      "deaths_weekly": 71,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "69.87"
+    },
+    {
+      "dateRep": "10/08/2020",
+      "year_week": "2020-32",
+      "cases_weekly": 4419,
+      "deaths_weekly": 38,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "73.13"
+    },
+    {
+      "dateRep": "03/08/2020",
+      "year_week": "2020-31",
+      "cases_weekly": 3958,
+      "deaths_weekly": 19,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "57.61"
+    },
+    {
+      "dateRep": "27/07/2020",
+      "year_week": "2020-30",
+      "cases_weekly": 2641,
+      "deaths_weekly": 17,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "37.06"
+    },
+    {
+      "dateRep": "20/07/2020",
+      "year_week": "2020-29",
+      "cases_weekly": 1604,
+      "deaths_weekly": 21,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "21.13"
+    },
+    {
+      "dateRep": "13/07/2020",
+      "year_week": "2020-28",
+      "cases_weekly": 816,
+      "deaths_weekly": 12,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "12.55"
+    },
+    {
+      "dateRep": "06/07/2020",
+      "year_week": "2020-27",
+      "cases_weekly": 622,
+      "deaths_weekly": 23,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "10.59"
+    },
+    {
+      "dateRep": "29/06/2020",
+      "year_week": "2020-26",
+      "cases_weekly": 591,
+      "deaths_weekly": 30,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "10.96"
+    },
+    {
+      "dateRep": "22/06/2020",
+      "year_week": "2020-25",
+      "cases_weekly": 664,
+      "deaths_weekly": 47,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "11.61"
+    },
+    {
+      "dateRep": "15/06/2020",
+      "year_week": "2020-24",
+      "cases_weekly": 666,
+      "deaths_weekly": 57,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "14.02"
+    },
+    {
+      "dateRep": "08/06/2020",
+      "year_week": "2020-23",
+      "cases_weekly": 940,
+      "deaths_weekly": 101,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "15.97"
+    },
+    {
+      "dateRep": "01/06/2020",
+      "year_week": "2020-22",
+      "cases_weekly": 889,
+      "deaths_weekly": 156,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "20.92"
+    },
+    {
+      "dateRep": "25/05/2020",
+      "year_week": "2020-21",
+      "cases_weekly": 1507,
+      "deaths_weekly": 222,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "29.85"
+    },
+    {
+      "dateRep": "18/05/2020",
+      "year_week": "2020-20",
+      "cases_weekly": 1912,
+      "deaths_weekly": 287,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "41.63"
+    },
+    {
+      "dateRep": "11/05/2020",
+      "year_week": "2020-19",
+      "cases_weekly": 2857,
+      "deaths_weekly": 510,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "51.22"
+    },
+    {
+      "dateRep": "04/05/2020",
+      "year_week": "2020-18",
+      "cases_weekly": 3010,
+      "deaths_weekly": 661,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "71.51"
+    },
+    {
+      "dateRep": "27/04/2020",
+      "year_week": "2020-17",
+      "cases_weekly": 5182,
+      "deaths_weekly": 1126,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "121.2"
+    },
+    {
+      "dateRep": "20/04/2020",
+      "year_week": "2020-16",
+      "cases_weekly": 8702,
+      "deaths_weekly": 1596,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "161.32"
+    },
+    {
+      "dateRep": "13/04/2020",
+      "year_week": "2020-15",
+      "cases_weekly": 9778,
+      "deaths_weekly": 1999,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "171.69"
+    },
+    {
+      "dateRep": "06/04/2020",
+      "year_week": "2020-14",
+      "cases_weekly": 9890,
+      "deaths_weekly": 1671,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "160.88"
+    },
+    {
+      "dateRep": "30/03/2020",
+      "year_week": "2020-13",
+      "cases_weekly": 8540,
+      "deaths_weekly": 874,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "114.83"
+    },
+    {
+      "dateRep": "23/03/2020",
+      "year_week": "2020-12",
+      "cases_weekly": 4614,
+      "deaths_weekly": 265,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "55.42"
+    },
+    {
+      "dateRep": "16/03/2020",
+      "year_week": "2020-11",
+      "cases_weekly": 1735,
+      "deaths_weekly": 31,
+      "countriesAndTerritories": "Belgium",
+      "geoId": "BE",
+      "countryterritoryCode": "BEL",
+      "popData2019": 11455519,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "18.53"
     },
     {
       "dateRep": "09/03/2020",
@@ -10607,6 +10835,18 @@
       "popData2019": 11455519,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 340,
+      "deaths_weekly": 17,
+      "countriesAndTerritories": "Belize",
+      "geoId": "BZ",
+      "countryterritoryCode": "BLZ",
+      "popData2019": 390351,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "193.67"
     },
     {
       "dateRep": "28/12/2020",
@@ -11087,6 +11327,18 @@
       "popData2019": 390351,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 46,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Benin",
+      "geoId": "BJ",
+      "countryterritoryCode": "BEN",
+      "popData2019": 11801151,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0.71"
     },
     {
       "dateRep": "28/12/2020",
@@ -11581,6 +11833,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 41,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Bermuda",
+      "geoId": "BM",
+      "countryterritoryCode": "BMU",
+      "popData2019": 62508,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "151.98"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 54,
@@ -12071,6 +12335,18 @@
       "popData2019": 62508,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 93,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Bhutan",
+      "geoId": "BT",
+      "countryterritoryCode": "BTN",
+      "popData2019": 763094,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "32.63"
     },
     {
       "dateRep": "28/12/2020",
@@ -12565,6 +12841,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 7818,
+      "deaths_weekly": 103,
+      "countriesAndTerritories": "Bolivia",
+      "geoId": "BO",
+      "countryterritoryCode": "BOL",
+      "popData2019": 11513102,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "106.63"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 4458,
@@ -13057,6 +13345,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 58,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Bonaire, Saint Eustatius and Saba",
+      "geoId": "BQ",
+      "countryterritoryCode": "BES",
+      "popData2019": 25983,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "238.62"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 4,
@@ -13523,6 +13823,18 @@
       "popData2019": 25983,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2954,
+      "deaths_weekly": 178,
+      "countriesAndTerritories": "Bosnia_and_Herzegovina",
+      "geoId": "BA",
+      "countryterritoryCode": "BIH",
+      "popData2019": 3300998,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "215.72"
     },
     {
       "dateRep": "28/12/2020",
@@ -14029,6 +14341,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 740,
+      "deaths_weekly": 5,
+      "countriesAndTerritories": "Botswana",
+      "geoId": "BW",
+      "countryterritoryCode": "BWA",
+      "popData2019": 2303703,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "76.01"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1011,
@@ -14495,6 +14819,18 @@
       "popData2019": 2303703,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 249461,
+      "deaths_weekly": 4879,
+      "countriesAndTerritories": "Brazil",
+      "geoId": "BR",
+      "countryterritoryCode": "BRA",
+      "popData2019": 211049519,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "222.76"
     },
     {
       "dateRep": "28/12/2020",
@@ -15121,6 +15457,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 4,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "British_Virgin_Islands",
+      "geoId": "VG",
+      "countryterritoryCode": "VGB",
+      "popData2019": 30033,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "36.63"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 7,
@@ -15599,6 +15947,18 @@
       "popData2019": 30033,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 20,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Brunei_Darussalam",
+      "geoId": "BN",
+      "countryterritoryCode": "BRN",
+      "popData2019": 433296,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "4.62"
     },
     {
       "dateRep": "28/12/2020",
@@ -16103,6 +16463,18 @@
       "popData2019": 433296,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 5335,
+      "deaths_weekly": 514,
+      "countriesAndTerritories": "Bulgaria",
+      "geoId": "BG",
+      "countryterritoryCode": "BGR",
+      "popData2019": 7000039,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "169.37"
     },
     {
       "dateRep": "28/12/2020",
@@ -16621,6 +16993,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 707,
+      "deaths_weekly": 8,
+      "countriesAndTerritories": "Burkina_Faso",
+      "geoId": "BF",
+      "countryterritoryCode": "BFA",
+      "popData2019": 20321383,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "9.31"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1184,
@@ -17125,6 +17509,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 24,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Burundi",
+      "geoId": "BI",
+      "countryterritoryCode": "BDI",
+      "popData2019": 11530577,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0.62"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 48,
@@ -17591,6 +17987,18 @@
       "popData2019": 11530577,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 18,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Cambodia",
+      "geoId": "KH",
+      "countryterritoryCode": "KHM",
+      "popData2019": 16486542,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.12"
     },
     {
       "dateRep": "28/12/2020",
@@ -18217,6 +18625,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 571,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Cameroon",
+      "geoId": "CM",
+      "countryterritoryCode": "CMR",
+      "popData2019": 25876387,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "3.86"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 428,
@@ -18731,6 +19151,18 @@
       "popData2019": 25876387,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 49643,
+      "deaths_weekly": 901,
+      "countriesAndTerritories": "Canada",
+      "geoId": "CA",
+      "countryterritoryCode": "CAN",
+      "popData2019": 37411038,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "230.81"
     },
     {
       "dateRep": "28/12/2020",
@@ -19357,6 +19789,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 197,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "Cape_Verde",
+      "geoId": "CV",
+      "countryterritoryCode": "CPV",
+      "popData2019": 549936,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "62.01"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 144,
@@ -19957,6 +20401,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 29,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Cayman_Islands",
+      "geoId": "KY",
+      "countryterritoryCode": "CYM",
+      "popData2019": 64948,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "47.73"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 2,
@@ -20447,6 +20903,18 @@
       "popData2019": 64948,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Central_African_Republic",
+      "geoId": "CF",
+      "countryterritoryCode": "CAF",
+      "popData2019": 4745179,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0.53"
     },
     {
       "dateRep": "28/12/2020",
@@ -20953,6 +21421,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 198,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Chad",
+      "geoId": "TD",
+      "countryterritoryCode": "TCD",
+      "popData2019": 15946882,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "2.03"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 125,
@@ -21443,6 +21923,18 @@
       "popData2019": 15946882,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 16163,
+      "deaths_weekly": 324,
+      "countriesAndTerritories": "Chile",
+      "geoId": "CL",
+      "countryterritoryCode": "CHL",
+      "popData2019": 18952035,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "162.0"
     },
     {
       "dateRep": "28/12/2020",
@@ -21961,16 +22453,28 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 918,
+      "deaths_weekly": 14,
+      "countriesAndTerritories": "China",
+      "geoId": "CN",
+      "countryterritoryCode": "CHN",
+      "popData2019": 1433783692,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.08"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
-      "cases_weekly": 1242,
+      "cases_weekly": 245,
       "deaths_weekly": 7,
       "countriesAndTerritories": "China",
       "geoId": "CN",
       "countryterritoryCode": "CHN",
       "popData2019": 1433783692,
       "continentExp": "Asia",
-      "notification_rate_per_100000_population_14-days": "0.3"
+      "notification_rate_per_100000_population_14-days": "0.23"
     },
     {
       "dateRep": "21/12/2020",
@@ -22585,6 +23089,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 72013,
+      "deaths_weekly": 1591,
+      "countriesAndTerritories": "Colombia",
+      "geoId": "CO",
+      "countryterritoryCode": "COL",
+      "popData2019": 50339443,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "313.38"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 85740,
@@ -23089,6 +23605,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 133,
+      "deaths_weekly": 6,
+      "countriesAndTerritories": "Comoros",
+      "geoId": "KM",
+      "countryterritoryCode": "COM",
+      "popData2019": 850891,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "23.27"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 65,
@@ -23507,6 +24035,18 @@
       "popData2019": 850891,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 536,
+      "deaths_weekly": 8,
+      "countriesAndTerritories": "Congo",
+      "geoId": "CG",
+      "countryterritoryCode": "COG",
+      "popData2019": 5380504,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "16.86"
     },
     {
       "dateRep": "28/12/2020",
@@ -24011,6 +24551,18 @@
       "popData2019": 5380504,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 6674,
+      "deaths_weekly": 85,
+      "countriesAndTerritories": "Costa_Rica",
+      "geoId": "CR",
+      "countryterritoryCode": "CRI",
+      "popData2019": 5047561,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "248.5"
     },
     {
       "dateRep": "28/12/2020",
@@ -24529,6 +25081,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 472,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "Cote_dIvoire",
+      "geoId": "CI",
+      "countryterritoryCode": "CIV",
+      "popData2019": 25716554,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "2.84"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 258,
@@ -25031,6 +25595,18 @@
       "popData2019": 25716554,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 7712,
+      "deaths_weekly": 333,
+      "countriesAndTerritories": "Croatia",
+      "geoId": "HR",
+      "countryterritoryCode": "HRV",
+      "popData2019": 4076246,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "422.69"
     },
     {
       "dateRep": "28/12/2020",
@@ -25657,6 +26233,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1306,
+      "deaths_weekly": 4,
+      "countriesAndTerritories": "Cuba",
+      "geoId": "CU",
+      "countryterritoryCode": "CUB",
+      "popData2019": 11333484,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "22.04"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1192,
@@ -26149,6 +26737,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 166,
+      "deaths_weekly": 2,
+      "countriesAndTerritories": "Curaçao",
+      "geoId": "CW",
+      "countryterritoryCode": "CUW",
+      "popData2019": 163423,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "209.88"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 177,
@@ -26627,6 +27227,18 @@
       "popData2019": 163423,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 4317,
+      "deaths_weekly": 19,
+      "countriesAndTerritories": "Cyprus",
+      "geoId": "CY",
+      "countryterritoryCode": "CYP",
+      "popData2019": 875899,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "717.66"
     },
     {
       "dateRep": "28/12/2020",
@@ -27131,6 +27743,18 @@
       "popData2019": 875899,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 72374,
+      "deaths_weekly": 918,
+      "countriesAndTerritories": "Czechia",
+      "geoId": "CZ",
+      "countryterritoryCode": "CZE",
+      "popData2019": 10649800,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "1119.19"
     },
     {
       "dateRep": "28/12/2020",
@@ -27757,6 +28381,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1236,
+      "deaths_weekly": 20,
+      "countriesAndTerritories": "Democratic_Republic_of_the_Congo",
+      "geoId": "CD",
+      "countryterritoryCode": "COD",
+      "popData2019": 86790568,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "2.7"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1107,
@@ -28259,6 +28895,18 @@
       "popData2019": 86790568,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 12885,
+      "deaths_weekly": 170,
+      "countriesAndTerritories": "Denmark",
+      "geoId": "DK",
+      "countryterritoryCode": "DNK",
+      "popData2019": 5806081,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "590.36"
     },
     {
       "dateRep": "28/12/2020",
@@ -28885,6 +29533,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 29,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Djibouti",
+      "geoId": "DJ",
+      "countryterritoryCode": "DJI",
+      "popData2019": 973557,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "6.27"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 32,
@@ -29377,6 +30037,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 4,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Dominica",
+      "geoId": "DM",
+      "countryterritoryCode": "DMA",
+      "popData2019": 71808,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "5.57"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 0,
@@ -29867,6 +30539,18 @@
       "popData2019": 71808,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 5926,
+      "deaths_weekly": 14,
+      "countriesAndTerritories": "Dominican_Republic",
+      "geoId": "DO",
+      "countryterritoryCode": "DOM",
+      "popData2019": 10738957,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "114.34"
     },
     {
       "dateRep": "28/12/2020",
@@ -30493,6 +31177,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 4856,
+      "deaths_weekly": 65,
+      "countriesAndTerritories": "Ecuador",
+      "geoId": "EC",
+      "countryterritoryCode": "ECU",
+      "popData2019": 17373657,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "47.69"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 3429,
@@ -31115,6 +31811,18 @@
       "popData2019": 17373657,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 9646,
+      "deaths_weekly": 400,
+      "countriesAndTerritories": "Egypt",
+      "geoId": "EG",
+      "countryterritoryCode": "EGY",
+      "popData2019": 100388076,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "16.57"
     },
     {
       "dateRep": "28/12/2020",
@@ -31741,6 +32449,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2468,
+      "deaths_weekly": 51,
+      "countriesAndTerritories": "El_Salvador",
+      "geoId": "SV",
+      "countryterritoryCode": "SLV",
+      "popData2019": 6453550,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "51.37"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 847,
@@ -32231,6 +32951,18 @@
       "popData2019": 6453550,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 31,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Equatorial_Guinea",
+      "geoId": "GQ",
+      "countryterritoryCode": "GNQ",
+      "popData2019": 1355982,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "3.54"
     },
     {
       "dateRep": "28/12/2020",
@@ -32737,6 +33469,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 324,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Eritrea",
+      "geoId": "ER",
+      "countryterritoryCode": "ERI",
+      "popData2019": 3497117,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "15.9"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 232,
@@ -33227,6 +33971,18 @@
       "popData2019": 3497117,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3713,
+      "deaths_weekly": 38,
+      "countriesAndTerritories": "Estonia",
+      "geoId": "EE",
+      "countryterritoryCode": "EST",
+      "popData2019": 1324820,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "583.25"
     },
     {
       "dateRep": "28/12/2020",
@@ -33853,6 +34609,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1256,
+      "deaths_weekly": 64,
+      "countriesAndTerritories": "Eswatini",
+      "geoId": "SZ",
+      "countryterritoryCode": "SWZ",
+      "popData2019": 1148133,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "219.14"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1260,
@@ -34355,6 +35123,18 @@
       "popData2019": 1148133,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2477,
+      "deaths_weekly": 36,
+      "countriesAndTerritories": "Ethiopia",
+      "geoId": "ET",
+      "countryterritoryCode": "ETH",
+      "popData2019": 112078727,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "5.06"
     },
     {
       "dateRep": "28/12/2020",
@@ -34861,6 +35641,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Falkland_Islands_(Malvinas)",
+      "geoId": "FK",
+      "countryterritoryCode": "FLK",
+      "popData2019": 3372,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "177.94"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 5,
@@ -35327,6 +36119,18 @@
       "popData2019": 3372,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 38,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Faroe_Islands",
+      "geoId": "FO",
+      "countryterritoryCode": "FRO",
+      "popData2019": 48677,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "152.02"
     },
     {
       "dateRep": "28/12/2020",
@@ -35845,6 +36649,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Fiji",
+      "geoId": "FJ",
+      "countryterritoryCode": "FJI",
+      "popData2019": 889955,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "0.34"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 0,
@@ -36335,6 +37151,18 @@
       "popData2019": 889955,
       "continentExp": "Oceania",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1782,
+      "deaths_weekly": 19,
+      "countriesAndTerritories": "Finland",
+      "geoId": "FI",
+      "countryterritoryCode": "FIN",
+      "popData2019": 5517919,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "68.09"
     },
     {
       "dateRep": "28/12/2020",
@@ -36961,6 +37789,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 93082,
+      "deaths_weekly": 1928,
+      "countriesAndTerritories": "France",
+      "geoId": "FR",
+      "countryterritoryCode": "FRA",
+      "popData2019": 67012883,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "272.15"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 89292,
@@ -37585,6 +38425,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 376,
+      "deaths_weekly": 6,
+      "countriesAndTerritories": "French_Polynesia",
+      "geoId": "PF",
+      "countryterritoryCode": "PYF",
+      "popData2019": 279285,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "266.39"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 368,
@@ -38075,6 +38927,18 @@
       "popData2019": 279285,
       "continentExp": "Oceania",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 95,
+      "deaths_weekly": 2,
+      "countriesAndTerritories": "Gabon",
+      "geoId": "GA",
+      "countryterritoryCode": "GAB",
+      "popData2019": 2172578,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "8.52"
     },
     {
       "dateRep": "28/12/2020",
@@ -38581,6 +39445,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 9,
+      "deaths_weekly": 2,
+      "countriesAndTerritories": "Gambia",
+      "geoId": "GM",
+      "countryterritoryCode": "GMB",
+      "popData2019": 2347696,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0.72"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 8,
@@ -39071,6 +39947,18 @@
       "popData2019": 2347696,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 7620,
+      "deaths_weekly": 210,
+      "countriesAndTerritories": "Georgia",
+      "geoId": "GE",
+      "countryterritoryCode": "GEO",
+      "popData2019": 3996762,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "507.94"
     },
     {
       "dateRep": "28/12/2020",
@@ -39697,6 +40585,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 123679,
+      "deaths_weekly": 4448,
+      "countriesAndTerritories": "Germany",
+      "geoId": "DE",
+      "countryterritoryCode": "DEU",
+      "popData2019": 83019213,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "319.04"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 141182,
@@ -40321,6 +41221,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 665,
+      "deaths_weekly": 2,
+      "countriesAndTerritories": "Ghana",
+      "geoId": "GH",
+      "countryterritoryCode": "GHA",
+      "popData2019": 30417858,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "4.98"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 850,
@@ -40825,6 +41737,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 700,
+      "deaths_weekly": 2,
+      "countriesAndTerritories": "Gibraltar",
+      "geoId": "GI",
+      "countryterritoryCode": "GIB",
+      "popData2019": 33706,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "3447.46"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 462,
@@ -41315,6 +42239,18 @@
       "popData2019": 33706,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 4168,
+      "deaths_weekly": 285,
+      "countriesAndTerritories": "Greece",
+      "geoId": "EL",
+      "countryterritoryCode": "GRC",
+      "popData2019": 10724599,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "84.17"
     },
     {
       "dateRep": "28/12/2020",
@@ -41941,6 +42877,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Greenland",
+      "geoId": "GL",
+      "countryterritoryCode": "GRL",
+      "popData2019": 56660,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "14.12"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 7,
@@ -42431,6 +43379,18 @@
       "popData2019": 56660,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 18,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Grenada",
+      "geoId": "GD",
+      "countryterritoryCode": "GRD",
+      "popData2019": 112002,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "24.11"
     },
     {
       "dateRep": "28/12/2020",
@@ -42925,6 +43885,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 57,
+      "deaths_weekly": 2,
+      "countriesAndTerritories": "Guam",
+      "geoId": "GU",
+      "countryterritoryCode": "GUM",
+      "popData2019": 167295,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "69.34"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 59,
@@ -43415,6 +44387,18 @@
       "popData2019": 167295,
       "continentExp": "Oceania",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3215,
+      "deaths_weekly": 62,
+      "countriesAndTerritories": "Guatemala",
+      "geoId": "GT",
+      "countryterritoryCode": "GTM",
+      "popData2019": 17581476,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "28.75"
     },
     {
       "dateRep": "28/12/2020",
@@ -43921,6 +44905,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Guernsey",
+      "geoId": "GG",
+      "countryterritoryCode": "GGY",
+      "popData2019": 64468,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "10.86"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 4,
@@ -44411,6 +45407,18 @@
       "popData2019": 64468,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 111,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "Guinea",
+      "geoId": "GN",
+      "countryterritoryCode": "GIN",
+      "popData2019": 12771246,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "1.95"
     },
     {
       "dateRep": "28/12/2020",
@@ -44905,6 +45913,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Guinea_Bissau",
+      "geoId": "GW",
+      "countryterritoryCode": "GNB",
+      "popData2019": 1920917,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 0,
@@ -45383,6 +46403,18 @@
       "popData2019": 1920917,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 65,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Guyana",
+      "geoId": "GY",
+      "countryterritoryCode": "GUY",
+      "popData2019": 782775,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "23.89"
     },
     {
       "dateRep": "28/12/2020",
@@ -45889,6 +46921,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 128,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Haiti",
+      "geoId": "HT",
+      "countryterritoryCode": "HTI",
+      "popData2019": 11263079,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "3.16"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 228,
@@ -46379,6 +47423,18 @@
       "popData2019": 11263079,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Holy_See",
+      "geoId": "VA",
+      "countryterritoryCode": "VAT",
+      "popData2019": 815,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "0"
     },
     {
       "dateRep": "28/12/2020",
@@ -46885,6 +47941,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3266,
+      "deaths_weekly": 92,
+      "countriesAndTerritories": "Honduras",
+      "geoId": "HN",
+      "countryterritoryCode": "HND",
+      "popData2019": 9746115,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "65.12"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 3081,
@@ -47387,6 +48455,18 @@
       "popData2019": 9746115,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 12182,
+      "deaths_weekly": 816,
+      "countriesAndTerritories": "Hungary",
+      "geoId": "HU",
+      "countryterritoryCode": "HUN",
+      "popData2019": 9772756,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "242.73"
     },
     {
       "dateRep": "28/12/2020",
@@ -47903,6 +48983,18 @@
       "popData2019": 9772756,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 28,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "Iceland",
+      "geoId": "IS",
+      "countryterritoryCode": "ISL",
+      "popData2019": 356991,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "31.37"
     },
     {
       "dateRep": "28/12/2020",
@@ -48529,6 +49621,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 132598,
+      "deaths_weekly": 1748,
+      "countriesAndTerritories": "India",
+      "geoId": "IN",
+      "countryterritoryCode": "IND",
+      "popData2019": 1366417756,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "20.85"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 152311,
@@ -49151,6 +50255,18 @@
       "popData2019": 1366417756,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 45108,
+      "deaths_weekly": 1318,
+      "countriesAndTerritories": "Indonesia",
+      "geoId": "ID",
+      "countryterritoryCode": "IDN",
+      "popData2019": 270625567,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "34.57"
     },
     {
       "dateRep": "28/12/2020",
@@ -49777,6 +50893,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 42969,
+      "deaths_weekly": 847,
+      "countriesAndTerritories": "Iran",
+      "geoId": "IR",
+      "countryterritoryCode": "IRN",
+      "popData2019": 82913893,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "110.19"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 48393,
@@ -50399,6 +51527,18 @@
       "popData2019": 82913893,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 6772,
+      "deaths_weekly": 64,
+      "countriesAndTerritories": "Iraq",
+      "geoId": "IQ",
+      "countryterritoryCode": "IRQ",
+      "popData2019": 39309789,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "36.18"
     },
     {
       "dateRep": "28/12/2020",
@@ -51025,6 +52165,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 14993,
+      "deaths_weekly": 54,
+      "countriesAndTerritories": "Ireland",
+      "geoId": "IE",
+      "countryterritoryCode": "IRL",
+      "popData2019": 4904240,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "455.63"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 7352,
@@ -51649,6 +52801,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 6,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Isle_of_Man",
+      "geoId": "IM",
+      "countryterritoryCode": "IMN",
+      "popData2019": 84589,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "8.28"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1,
@@ -52139,6 +53303,18 @@
       "popData2019": 84589,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 38201,
+      "deaths_weekly": 193,
+      "countriesAndTerritories": "Israel",
+      "geoId": "IL",
+      "countryterritoryCode": "ISR",
+      "popData2019": 8519373,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "772.69"
     },
     {
       "dateRep": "28/12/2020",
@@ -52765,6 +53941,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 107750,
+      "deaths_weekly": 3407,
+      "countriesAndTerritories": "Italy",
+      "geoId": "IT",
+      "countryterritoryCode": "ITA",
+      "popData2019": 60359546,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "335.09"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 94511,
@@ -53389,6 +54577,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 317,
+      "deaths_weekly": 6,
+      "countriesAndTerritories": "Jamaica",
+      "geoId": "JM",
+      "countryterritoryCode": "JAM",
+      "popData2019": 2948277,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "25.78"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 443,
@@ -53893,16 +55093,28 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
-      "dateRep": "28/12/2020",
-      "year_week": "2020-52",
-      "cases_weekly": 19851,
-      "deaths_weekly": 351,
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 23611,
+      "deaths_weekly": 347,
       "countriesAndTerritories": "Japan",
       "geoId": "JP",
       "countryterritoryCode": "JPN",
       "popData2019": 126860299,
       "continentExp": "Asia",
-      "notification_rate_per_100000_population_14-days": "30.52"
+      "notification_rate_per_100000_population_14-days": "35.73"
+    },
+    {
+      "dateRep": "28/12/2020",
+      "year_week": "2020-52",
+      "cases_weekly": 21713,
+      "deaths_weekly": 352,
+      "countriesAndTerritories": "Japan",
+      "geoId": "JP",
+      "countryterritoryCode": "JPN",
+      "popData2019": 126860299,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "31.99"
     },
     {
       "dateRep": "21/12/2020",
@@ -54517,6 +55729,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 158,
+      "deaths_weekly": 3,
+      "countriesAndTerritories": "Jersey",
+      "geoId": "JE",
+      "countryterritoryCode": "JEY",
+      "popData2019": 107796,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "449.92"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 327,
@@ -55007,6 +56231,18 @@
       "popData2019": 107796,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 10262,
+      "deaths_weekly": 145,
+      "countriesAndTerritories": "Jordan",
+      "geoId": "JO",
+      "countryterritoryCode": "JOR",
+      "popData2019": 10101697,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "205.51"
     },
     {
       "dateRep": "28/12/2020",
@@ -55513,6 +56749,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 8409,
+      "deaths_weekly": 86,
+      "countriesAndTerritories": "Kazakhstan",
+      "geoId": "KZ",
+      "countryterritoryCode": "KAZ",
+      "popData2019": 18551428,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "83.11"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 7009,
@@ -56015,6 +57263,18 @@
       "popData2019": 18551428,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 810,
+      "deaths_weekly": 21,
+      "countriesAndTerritories": "Kenya",
+      "geoId": "KE",
+      "countryterritoryCode": "KEN",
+      "popData2019": 52573967,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "4.38"
     },
     {
       "dateRep": "28/12/2020",
@@ -56521,6 +57781,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1164,
+      "deaths_weekly": 27,
+      "countriesAndTerritories": "Kosovo",
+      "geoId": "XK",
+      "countryterritoryCode": "XKX",
+      "popData2019": 1798506,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "155.46"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1632,
@@ -57023,6 +58295,18 @@
       "popData2019": 1798506,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1690,
+      "deaths_weekly": 6,
+      "countriesAndTerritories": "Kuwait",
+      "geoId": "KW",
+      "countryterritoryCode": "KWT",
+      "popData2019": 4207077,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "79.96"
     },
     {
       "dateRep": "28/12/2020",
@@ -57649,6 +58933,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 853,
+      "deaths_weekly": 11,
+      "countriesAndTerritories": "Kyrgyzstan",
+      "geoId": "KG",
+      "countryterritoryCode": "KGZ",
+      "popData2019": 6415851,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "33.26"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1281,
@@ -58141,6 +59437,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Laos",
+      "geoId": "LA",
+      "countryterritoryCode": "LAO",
+      "popData2019": 7169456,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 0,
@@ -58619,6 +59927,18 @@
       "popData2019": 7169456,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 5659,
+      "deaths_weekly": 102,
+      "countriesAndTerritories": "Latvia",
+      "geoId": "LV",
+      "countryterritoryCode": "LVA",
+      "popData2019": 1919968,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "601.94"
     },
     {
       "dateRep": "28/12/2020",
@@ -59135,6 +60455,18 @@
       "popData2019": 1919968,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 18052,
+      "deaths_weekly": 105,
+      "countriesAndTerritories": "Lebanon",
+      "geoId": "LB",
+      "countryterritoryCode": "LBN",
+      "popData2019": 6855709,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "454.72"
     },
     {
       "dateRep": "28/12/2020",
@@ -59761,6 +61093,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 250,
+      "deaths_weekly": 14,
+      "countriesAndTerritories": "Lesotho",
+      "geoId": "LS",
+      "countryterritoryCode": "LSO",
+      "popData2019": 2125267,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "31.05"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 410,
@@ -60155,6 +61499,18 @@
       "popData2019": 2125267,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Liberia",
+      "geoId": "LR",
+      "countryterritoryCode": "LBR",
+      "popData2019": 4937374,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0.24"
     },
     {
       "dateRep": "28/12/2020",
@@ -60649,6 +62005,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3594,
+      "deaths_weekly": 90,
+      "countriesAndTerritories": "Libya",
+      "geoId": "LY",
+      "countryterritoryCode": "LBY",
+      "popData2019": 6777453,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "99.96"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 3181,
@@ -61127,6 +62495,18 @@
       "popData2019": 6777453,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 130,
+      "deaths_weekly": 8,
+      "countriesAndTerritories": "Liechtenstein",
+      "geoId": "LI",
+      "countryterritoryCode": "LIE",
+      "popData2019": 38378,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "1024.02"
     },
     {
       "dateRep": "28/12/2020",
@@ -61631,6 +63011,18 @@
       "popData2019": 38378,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 15628,
+      "deaths_weekly": 92,
+      "countriesAndTerritories": "Lithuania",
+      "geoId": "LT",
+      "countryterritoryCode": "LTU",
+      "popData2019": 2794184,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "1199.28"
     },
     {
       "dateRep": "28/12/2020",
@@ -62257,6 +63649,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1070,
+      "deaths_weekly": 19,
+      "countriesAndTerritories": "Luxembourg",
+      "geoId": "LU",
+      "countryterritoryCode": "LUX",
+      "popData2019": 613894,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "464.58"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1782,
@@ -62881,6 +64285,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 53,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "Madagascar",
+      "geoId": "MG",
+      "countryterritoryCode": "MDG",
+      "popData2019": 26969306,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0.5"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 81,
@@ -63373,6 +64789,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 467,
+      "deaths_weekly": 7,
+      "countriesAndTerritories": "Malawi",
+      "geoId": "MW",
+      "countryterritoryCode": "MWI",
+      "popData2019": 18628749,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "3.67"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 216,
@@ -63839,6 +65267,18 @@
       "popData2019": 18628749,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 15722,
+      "deaths_weekly": 49,
+      "countriesAndTerritories": "Malaysia",
+      "geoId": "MY",
+      "countryterritoryCode": "MYS",
+      "popData2019": 31949789,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "86.1"
     },
     {
       "dateRep": "28/12/2020",
@@ -64465,6 +65905,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 223,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Maldives",
+      "geoId": "MV",
+      "countryterritoryCode": "MDV",
+      "popData2019": 530957,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "70.44"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 151,
@@ -64981,6 +66433,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 550,
+      "deaths_weekly": 22,
+      "countriesAndTerritories": "Mali",
+      "geoId": "ML",
+      "countryterritoryCode": "MLI",
+      "popData2019": 19658023,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "5.4"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 512,
@@ -65459,6 +66923,18 @@
       "popData2019": 19658023,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 656,
+      "deaths_weekly": 5,
+      "countriesAndTerritories": "Malta",
+      "geoId": "MT",
+      "countryterritoryCode": "MLT",
+      "popData2019": 493559,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "277.17"
     },
     {
       "dateRep": "28/12/2020",
@@ -65977,6 +67453,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Marshall_Islands",
+      "geoId": "MH",
+      "countryterritoryCode": "MHL",
+      "popData2019": 58791,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "0"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 0,
@@ -66083,6 +67571,18 @@
       "popData2019": 58791,
       "continentExp": "Oceania",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1016,
+      "deaths_weekly": 28,
+      "countriesAndTerritories": "Mauritania",
+      "geoId": "MR",
+      "countryterritoryCode": "MRT",
+      "popData2019": 4525698,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "52.5"
     },
     {
       "dateRep": "28/12/2020",
@@ -66589,6 +68089,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 4,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Mauritius",
+      "geoId": "MU",
+      "countryterritoryCode": "MUS",
+      "popData2019": 1269670,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0.39"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1,
@@ -67079,6 +68591,18 @@
       "popData2019": 1269670,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 59325,
+      "deaths_weekly": 4358,
+      "countriesAndTerritories": "Mexico",
+      "geoId": "MX",
+      "countryterritoryCode": "MEX",
+      "popData2019": 127575529,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "96.29"
     },
     {
       "dateRep": "28/12/2020",
@@ -67705,6 +69229,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 4518,
+      "deaths_weekly": 146,
+      "countriesAndTerritories": "Moldova",
+      "geoId": "MD",
+      "countryterritoryCode": "MDA",
+      "popData2019": 4043258,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "263.8"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 6148,
@@ -68207,6 +69743,18 @@
       "popData2019": 4043258,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 104,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "Monaco",
+      "geoId": "MC",
+      "countryterritoryCode": "MCO",
+      "popData2019": 33085,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "541.03"
     },
     {
       "dateRep": "28/12/2020",
@@ -68833,6 +70381,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 149,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Mongolia",
+      "geoId": "MN",
+      "countryterritoryCode": "MNG",
+      "popData2019": 3225166,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "9.08"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 144,
@@ -69323,6 +70883,18 @@
       "popData2019": 3225166,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2501,
+      "deaths_weekly": 23,
+      "countriesAndTerritories": "Montenegro",
+      "geoId": "ME",
+      "countryterritoryCode": "MNE",
+      "popData2019": 622182,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "842.2"
     },
     {
       "dateRep": "28/12/2020",
@@ -69817,6 +71389,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Montserrat",
+      "geoId": "MS",
+      "countryterritoryCode": "MSF",
+      "popData2019": 4991,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "0"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 0,
@@ -70307,6 +71891,18 @@
       "popData2019": 4991,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 11067,
+      "deaths_weekly": 245,
+      "countriesAndTerritories": "Morocco",
+      "geoId": "MA",
+      "countryterritoryCode": "MAR",
+      "popData2019": 36471766,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "71.35"
     },
     {
       "dateRep": "28/12/2020",
@@ -70813,6 +72409,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 999,
+      "deaths_weekly": 7,
+      "countriesAndTerritories": "Mozambique",
+      "geoId": "MZ",
+      "countryterritoryCode": "MOZ",
+      "popData2019": 30366043,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "5.73"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 742,
@@ -71305,6 +72913,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 4459,
+      "deaths_weekly": 127,
+      "countriesAndTerritories": "Myanmar",
+      "geoId": "MM",
+      "countryterritoryCode": "MMR",
+      "popData2019": 54045422,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "18.89"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 5752,
@@ -71783,6 +73403,18 @@
       "popData2019": 54045422,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3099,
+      "deaths_weekly": 25,
+      "countriesAndTerritories": "Namibia",
+      "geoId": "NA",
+      "countryterritoryCode": "NAM",
+      "popData2019": 2494524,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "267.47"
     },
     {
       "dateRep": "28/12/2020",
@@ -72287,6 +73919,18 @@
       "popData2019": 2494524,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3678,
+      "deaths_weekly": 53,
+      "countriesAndTerritories": "Nepal",
+      "geoId": "NP",
+      "countryterritoryCode": "NPL",
+      "popData2019": 28608715,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "28.27"
     },
     {
       "dateRep": "28/12/2020",
@@ -72913,6 +74557,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 50699,
+      "deaths_weekly": 570,
+      "countriesAndTerritories": "Netherlands",
+      "geoId": "NL",
+      "countryterritoryCode": "NLD",
+      "popData2019": 17282163,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "759.7"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 80594,
@@ -73537,6 +75193,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "New_Caledonia",
+      "geoId": "NC",
+      "countryterritoryCode": "NCL",
+      "popData2019": 282757,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "1.06"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 1,
@@ -74027,6 +75695,18 @@
       "popData2019": 282757,
       "continentExp": "Oceania",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 393,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "New_Zealand",
+      "geoId": "NZ",
+      "countryterritoryCode": "NZL",
+      "popData2019": 4783062,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "8.7"
     },
     {
       "dateRep": "28/12/2020",
@@ -74653,6 +76333,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 55,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "Nicaragua",
+      "geoId": "NI",
+      "countryterritoryCode": "NIC",
+      "popData2019": 6545503,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "1.65"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 53,
@@ -75145,6 +76837,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 306,
+      "deaths_weekly": 11,
+      "countriesAndTerritories": "Niger",
+      "geoId": "NE",
+      "countryterritoryCode": "NER",
+      "popData2019": 23310719,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "3.46"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 500,
@@ -75635,6 +77339,18 @@
       "popData2019": 23310719,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 5269,
+      "deaths_weekly": 47,
+      "countriesAndTerritories": "Nigeria",
+      "geoId": "NG",
+      "countryterritoryCode": "NGA",
+      "popData2019": 200963603,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "5.8"
     },
     {
       "dateRep": "28/12/2020",
@@ -76261,6 +77977,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2220,
+      "deaths_weekly": 74,
+      "countriesAndTerritories": "North_Macedonia",
+      "geoId": "MK",
+      "countryterritoryCode": "MKD",
+      "popData2019": 2077132,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "275.33"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 3499,
@@ -76885,6 +78613,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Northern_Mariana_Islands",
+      "geoId": "MP",
+      "countryterritoryCode": "MNP",
+      "popData2019": 57213,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "10.49"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 6,
@@ -77351,6 +79091,18 @@
       "popData2019": 57213,
       "continentExp": "Oceania",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3658,
+      "deaths_weekly": 20,
+      "countriesAndTerritories": "Norway",
+      "geoId": "NO",
+      "countryterritoryCode": "NOR",
+      "popData2019": 5328212,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "149.02"
     },
     {
       "dateRep": "28/12/2020",
@@ -77977,6 +79729,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1112,
+      "deaths_weekly": 7,
+      "countriesAndTerritories": "Oman",
+      "geoId": "OM",
+      "countryterritoryCode": "OMN",
+      "popData2019": 4974992,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "38.53"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 805,
@@ -78599,6 +80363,18 @@
       "popData2019": 4974992,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 15220,
+      "deaths_weekly": 421,
+      "countriesAndTerritories": "Pakistan",
+      "geoId": "PK",
+      "countryterritoryCode": "PAK",
+      "popData2019": 216565317,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "13.65"
     },
     {
       "dateRep": "28/12/2020",
@@ -79225,6 +81001,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 9680,
+      "deaths_weekly": 189,
+      "countriesAndTerritories": "Palestine",
+      "geoId": "PS",
+      "countryterritoryCode": "PSE",
+      "popData2019": 4981422,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "401.41"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 10316,
@@ -79727,6 +81515,18 @@
       "popData2019": 4981422,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 20031,
+      "deaths_weekly": 248,
+      "countriesAndTerritories": "Panama",
+      "geoId": "PA",
+      "countryterritoryCode": "PAN",
+      "popData2019": 4246440,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "934.85"
     },
     {
       "dateRep": "28/12/2020",
@@ -80233,6 +82033,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 19,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Papua_New_Guinea",
+      "geoId": "PG",
+      "countryterritoryCode": "PNG",
+      "popData2019": 8776119,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "0.43"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 19,
@@ -80723,6 +82535,18 @@
       "popData2019": 8776119,
       "continentExp": "Oceania",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3699,
+      "deaths_weekly": 90,
+      "countriesAndTerritories": "Paraguay",
+      "geoId": "PY",
+      "countryterritoryCode": "PRY",
+      "popData2019": 7044639,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "120.11"
     },
     {
       "dateRep": "28/12/2020",
@@ -81227,6 +83051,18 @@
       "popData2019": 7044639,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 12150,
+      "deaths_weekly": 348,
+      "countriesAndTerritories": "Peru",
+      "geoId": "PE",
+      "countryterritoryCode": "PER",
+      "popData2019": 32510462,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "69.46"
     },
     {
       "dateRep": "28/12/2020",
@@ -81743,6 +83579,18 @@
       "popData2019": 32510462,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 7921,
+      "deaths_weekly": 148,
+      "countriesAndTerritories": "Philippines",
+      "geoId": "PH",
+      "countryterritoryCode": "PHL",
+      "popData2019": 108116622,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "16.67"
     },
     {
       "dateRep": "28/12/2020",
@@ -82369,6 +84217,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 61937,
+      "deaths_weekly": 2014,
+      "countriesAndTerritories": "Poland",
+      "geoId": "PL",
+      "countryterritoryCode": "POL",
+      "popData2019": 37972812,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "316.67"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 58310,
@@ -82883,6 +84743,18 @@
       "popData2019": 37972812,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 30588,
+      "deaths_weekly": 441,
+      "countriesAndTerritories": "Portugal",
+      "geoId": "PT",
+      "countryterritoryCode": "PRT",
+      "popData2019": 10276617,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "517.03"
     },
     {
       "dateRep": "28/12/2020",
@@ -83401,6 +85273,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 7836,
+      "deaths_weekly": 106,
+      "countriesAndTerritories": "Puerto_Rico",
+      "geoId": "PR",
+      "countryterritoryCode": "PRI",
+      "popData2019": 2933404,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "721.11"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 13317,
@@ -83879,6 +85763,18 @@
       "popData2019": 2933404,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1582,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "Qatar",
+      "geoId": "QA",
+      "countryterritoryCode": "QAT",
+      "popData2019": 2832071,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "93.32"
     },
     {
       "dateRep": "28/12/2020",
@@ -84505,6 +86401,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 22000,
+      "deaths_weekly": 645,
+      "countriesAndTerritories": "Romania",
+      "geoId": "RO",
+      "countryterritoryCode": "ROU",
+      "popData2019": 19414458,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "253.08"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 27135,
@@ -85127,6 +87035,18 @@
       "popData2019": 19414458,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 182103,
+      "deaths_weekly": 3723,
+      "countriesAndTerritories": "Russia",
+      "geoId": "RU",
+      "countryterritoryCode": "RUS",
+      "popData2019": 145872260,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "341.03"
     },
     {
       "dateRep": "28/12/2020",
@@ -85753,6 +87673,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 655,
+      "deaths_weekly": 26,
+      "countriesAndTerritories": "Rwanda",
+      "geoId": "RW",
+      "countryterritoryCode": "RWA",
+      "popData2019": 12626938,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "10.95"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 728,
@@ -86257,6 +88189,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Saint_Kitts_and_Nevis",
+      "geoId": "KN",
+      "countryterritoryCode": "KNA",
+      "popData2019": 52834,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "5.68"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 2,
@@ -86735,6 +88679,18 @@
       "popData2019": 52834,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 48,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Saint_Lucia",
+      "geoId": "LC",
+      "countryterritoryCode": "LCA",
+      "popData2019": 182795,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "36.11"
     },
     {
       "dateRep": "28/12/2020",
@@ -87241,6 +89197,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 15,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Saint_Vincent_and_the_Grenadines",
+      "geoId": "VC",
+      "countryterritoryCode": "VCT",
+      "popData2019": 110593,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "18.08"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 5,
@@ -87719,6 +89687,18 @@
       "popData2019": 110593,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 218,
+      "deaths_weekly": 5,
+      "countriesAndTerritories": "San_Marino",
+      "geoId": "SM",
+      "countryterritoryCode": "SMR",
+      "popData2019": 34453,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "1120.37"
     },
     {
       "dateRep": "28/12/2020",
@@ -88345,6 +90325,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 10,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Sao_Tome_and_Principe",
+      "geoId": "ST",
+      "countryterritoryCode": "STP",
+      "popData2019": 215048,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "5.58"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 2,
@@ -88799,6 +90791,18 @@
       "popData2019": 215048,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 935,
+      "deaths_weekly": 71,
+      "countriesAndTerritories": "Saudi_Arabia",
+      "geoId": "SA",
+      "countryterritoryCode": "SAU",
+      "popData2019": 34268529,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "6.26"
     },
     {
       "dateRep": "28/12/2020",
@@ -89317,6 +91321,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1075,
+      "deaths_weekly": 34,
+      "countriesAndTerritories": "Senegal",
+      "geoId": "SN",
+      "countryterritoryCode": "SEN",
+      "popData2019": 16296362,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "12.55"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 970,
@@ -89819,6 +91835,18 @@
       "popData2019": 16296362,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 15251,
+      "deaths_weekly": 252,
+      "countriesAndTerritories": "Serbia",
+      "geoId": "RS",
+      "countryterritoryCode": "SRB",
+      "popData2019": 6963764,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "576.17"
     },
     {
       "dateRep": "28/12/2020",
@@ -90325,6 +92353,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 80,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Seychelles",
+      "geoId": "SC",
+      "countryterritoryCode": "SYC",
+      "popData2019": 97741,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "94.13"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 12,
@@ -90829,6 +92869,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 113,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Sierra_Leone",
+      "geoId": "SL",
+      "countryterritoryCode": "SLE",
+      "popData2019": 7813207,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "2.1"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 51,
@@ -91295,6 +93347,18 @@
       "popData2019": 7813207,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 173,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Singapore",
+      "geoId": "SG",
+      "countryterritoryCode": "SGP",
+      "popData2019": 5804343,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "4.74"
     },
     {
       "dateRep": "28/12/2020",
@@ -91921,6 +93985,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 51,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Sint_Maarten",
+      "geoId": "SX",
+      "countryterritoryCode": "SXM",
+      "popData2019": 42389,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "292.53"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 73,
@@ -92399,6 +94475,18 @@
       "popData2019": 42389,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 20007,
+      "deaths_weekly": 642,
+      "countriesAndTerritories": "Slovakia",
+      "geoId": "SK",
+      "countryterritoryCode": "SVK",
+      "popData2019": 5450421,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "674.5"
     },
     {
       "dateRep": "28/12/2020",
@@ -92917,6 +95005,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 10531,
+      "deaths_weekly": 307,
+      "countriesAndTerritories": "Slovenia",
+      "geoId": "SI",
+      "countryterritoryCode": "SVN",
+      "popData2019": 2080908,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "959.15"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 9428,
@@ -93433,6 +95533,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Solomon_Islands",
+      "geoId": "SB",
+      "countryterritoryCode": "SLB",
+      "popData2019": 669821,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "0"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 0,
@@ -93563,6 +95675,18 @@
       "popData2019": 669821,
       "continentExp": "Oceania",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 24,
+      "deaths_weekly": 3,
+      "countriesAndTerritories": "Somalia",
+      "geoId": "SO",
+      "countryterritoryCode": "SOM",
+      "popData2019": 15442906,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0.34"
     },
     {
       "dateRep": "28/12/2020",
@@ -94055,6 +96179,18 @@
       "popData2019": 15442906,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 88877,
+      "deaths_weekly": 2506,
+      "countriesAndTerritories": "South_Africa",
+      "geoId": "ZA",
+      "countryterritoryCode": "ZAF",
+      "popData2019": 58558267,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "305.38"
     },
     {
       "dateRep": "28/12/2020",
@@ -94571,6 +96707,18 @@
       "popData2019": 58558267,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 6584,
+      "deaths_weekly": 162,
+      "countriesAndTerritories": "South_Korea",
+      "geoId": "KR",
+      "countryterritoryCode": "KOR",
+      "popData2019": 51225321,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "26.69"
     },
     {
       "dateRep": "28/12/2020",
@@ -95197,6 +97345,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 98,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "South_Sudan",
+      "geoId": "SS",
+      "countryterritoryCode": "SSD",
+      "popData2019": 11062114,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "3.26"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 263,
@@ -95663,6 +97823,18 @@
       "popData2019": 11062114,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 79431,
+      "deaths_weekly": 956,
+      "countriesAndTerritories": "Spain",
+      "geoId": "ES",
+      "countryterritoryCode": "ESP",
+      "popData2019": 46937060,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "297.41"
     },
     {
       "dateRep": "28/12/2020",
@@ -96289,6 +98461,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3720,
+      "deaths_weekly": 22,
+      "countriesAndTerritories": "Sri_Lanka",
+      "geoId": "LK",
+      "countryterritoryCode": "LKA",
+      "popData2019": 21323734,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "35.23"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 3793,
@@ -96913,6 +99097,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Sudan",
+      "geoId": "SD",
+      "countryterritoryCode": "SDN",
+      "popData2019": 42813237,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "1.15"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 493,
@@ -97417,6 +99613,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 380,
+      "deaths_weekly": 3,
+      "countriesAndTerritories": "Suriname",
+      "geoId": "SR",
+      "countryterritoryCode": "SUR",
+      "popData2019": 581363,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "139.33"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 430,
@@ -97909,508 +100117,520 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 41230,
+      "deaths_weekly": 103,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "785.12"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
-      "cases_weekly": 37168,
-      "deaths_weekly": 82,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "814.99"
-    },
-    {
-      "dateRep": "21/12/2020",
-      "year_week": "2020-51",
-      "cases_weekly": 46207,
-      "deaths_weekly": 270,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "878.31"
-    },
-    {
-      "dateRep": "14/12/2020",
-      "year_week": "2020-50",
-      "cases_weekly": 43646,
-      "deaths_weekly": 433,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "786.78"
-    },
-    {
-      "dateRep": "07/12/2020",
-      "year_week": "2020-49",
-      "cases_weekly": 36843,
-      "deaths_weekly": 453,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "707.77"
-    },
-    {
-      "dateRep": "30/11/2020",
-      "year_week": "2020-48",
-      "cases_weekly": 35563,
-      "deaths_weekly": 422,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "660.04"
-    },
-    {
-      "dateRep": "23/11/2020",
-      "year_week": "2020-47",
-      "cases_weekly": 31960,
-      "deaths_weekly": 347,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "618.59"
-    },
-    {
-      "dateRep": "16/11/2020",
-      "year_week": "2020-46",
-      "cases_weekly": 31323,
+      "cases_weekly": 39089,
       "deaths_weekly": 237,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "554.53"
+      "notification_rate_per_100000_population_14-days": "849.58"
     },
     {
-      "dateRep": "09/11/2020",
-      "year_week": "2020-45",
-      "cases_weekly": 25406,
-      "deaths_weekly": 170,
+      "dateRep": "21/12/2020",
+      "year_week": "2020-51",
+      "cases_weekly": 47825,
+      "deaths_weekly": 379,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "428.95"
+      "notification_rate_per_100000_population_14-days": "891.67"
     },
     {
-      "dateRep": "02/11/2020",
-      "year_week": "2020-44",
-      "cases_weekly": 18476,
-      "deaths_weekly": 91,
+      "dateRep": "14/12/2020",
+      "year_week": "2020-50",
+      "cases_weekly": 43395,
+      "deaths_weekly": 526,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "270.11"
+      "notification_rate_per_100000_population_14-days": "787.25"
     },
     {
-      "dateRep": "26/10/2020",
-      "year_week": "2020-43",
-      "cases_weekly": 9157,
-      "deaths_weekly": 50,
+      "dateRep": "07/12/2020",
+      "year_week": "2020-49",
+      "cases_weekly": 37142,
+      "deaths_weekly": 446,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "144.45"
+      "notification_rate_per_100000_population_14-days": "706.84"
     },
     {
-      "dateRep": "19/10/2020",
-      "year_week": "2020-42",
-      "cases_weekly": 5620,
-      "deaths_weekly": 17,
+      "dateRep": "30/11/2020",
+      "year_week": "2020-48",
+      "cases_weekly": 35169,
+      "deaths_weekly": 426,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "96.75"
+      "notification_rate_per_100000_population_14-days": "669.21"
     },
     {
-      "dateRep": "12/10/2020",
-      "year_week": "2020-41",
-      "cases_weekly": 4278,
-      "deaths_weekly": 23,
+      "dateRep": "23/11/2020",
+      "year_week": "2020-47",
+      "cases_weekly": 33292,
+      "deaths_weekly": 373,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "77.42"
+      "notification_rate_per_100000_population_14-days": "620.08"
     },
     {
-      "dateRep": "05/10/2020",
-      "year_week": "2020-40",
-      "cases_weekly": 3642,
-      "deaths_weekly": 18,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "64.13"
-    },
-    {
-      "dateRep": "28/09/2020",
-      "year_week": "2020-39",
-      "cases_weekly": 2919,
-      "deaths_weekly": 10,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "48.87"
-    },
-    {
-      "dateRep": "21/09/2020",
-      "year_week": "2020-38",
-      "cases_weekly": 2080,
-      "deaths_weekly": 12,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "35.89"
-    },
-    {
-      "dateRep": "14/09/2020",
-      "year_week": "2020-37",
-      "cases_weekly": 1592,
-      "deaths_weekly": 14,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "28.58"
-    },
-    {
-      "dateRep": "07/09/2020",
-      "year_week": "2020-36",
-      "cases_weekly": 1332,
-      "deaths_weekly": 11,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "24.75"
-    },
-    {
-      "dateRep": "31/08/2020",
-      "year_week": "2020-35",
-      "cases_weekly": 1200,
-      "deaths_weekly": 11,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "28.22"
-    },
-    {
-      "dateRep": "24/08/2020",
-      "year_week": "2020-34",
-      "cases_weekly": 1687,
-      "deaths_weekly": 17,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "36.55"
-    },
-    {
-      "dateRep": "17/08/2020",
-      "year_week": "2020-33",
-      "cases_weekly": 2052,
-      "deaths_weekly": 17,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "39.75"
-    },
-    {
-      "dateRep": "10/08/2020",
-      "year_week": "2020-32",
-      "cases_weekly": 2014,
-      "deaths_weekly": 16,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "34.9"
-    },
-    {
-      "dateRep": "03/08/2020",
-      "year_week": "2020-31",
-      "cases_weekly": 1556,
-      "deaths_weekly": 16,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "28.07"
-    },
-    {
-      "dateRep": "27/07/2020",
-      "year_week": "2020-30",
-      "cases_weekly": 1316,
-      "deaths_weekly": 30,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "28.72"
-    },
-    {
-      "dateRep": "20/07/2020",
-      "year_week": "2020-29",
-      "cases_weekly": 1622,
-      "deaths_weekly": 51,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "37.15"
-    },
-    {
-      "dateRep": "13/07/2020",
-      "year_week": "2020-28",
-      "cases_weekly": 2179,
-      "deaths_weekly": 82,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "63.09"
-    },
-    {
-      "dateRep": "06/07/2020",
-      "year_week": "2020-27",
-      "cases_weekly": 4275,
-      "deaths_weekly": 97,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "114.71"
-    },
-    {
-      "dateRep": "29/06/2020",
-      "year_week": "2020-26",
-      "cases_weekly": 7460,
-      "deaths_weekly": 134,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "142.06"
-    },
-    {
-      "dateRep": "22/06/2020",
-      "year_week": "2020-25",
-      "cases_weekly": 7073,
-      "deaths_weekly": 190,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "138.77"
-    },
-    {
-      "dateRep": "15/06/2020",
-      "year_week": "2020-24",
-      "cases_weekly": 7123,
-      "deaths_weekly": 227,
-      "countriesAndTerritories": "Sweden",
-      "geoId": "SE",
-      "countryterritoryCode": "SWE",
-      "popData2019": 10230185,
-      "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "128.48"
-    },
-    {
-      "dateRep": "08/06/2020",
-      "year_week": "2020-23",
-      "cases_weekly": 6021,
+      "dateRep": "16/11/2020",
+      "year_week": "2020-46",
+      "cases_weekly": 30143,
       "deaths_weekly": 244,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "100.7"
+      "notification_rate_per_100000_population_14-days": "564.07"
+    },
+    {
+      "dateRep": "09/11/2020",
+      "year_week": "2020-45",
+      "cases_weekly": 27562,
+      "deaths_weekly": 187,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "454.9"
+    },
+    {
+      "dateRep": "02/11/2020",
+      "year_week": "2020-44",
+      "cases_weekly": 18975,
+      "deaths_weekly": 101,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "277.9"
+    },
+    {
+      "dateRep": "26/10/2020",
+      "year_week": "2020-43",
+      "cases_weekly": 9455,
+      "deaths_weekly": 55,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "148.67"
+    },
+    {
+      "dateRep": "19/10/2020",
+      "year_week": "2020-42",
+      "cases_weekly": 5754,
+      "deaths_weekly": 20,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "100.63"
+    },
+    {
+      "dateRep": "12/10/2020",
+      "year_week": "2020-41",
+      "cases_weekly": 4541,
+      "deaths_weekly": 20,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "79.95"
+    },
+    {
+      "dateRep": "05/10/2020",
+      "year_week": "2020-40",
+      "cases_weekly": 3638,
+      "deaths_weekly": 20,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "65.19"
+    },
+    {
+      "dateRep": "28/09/2020",
+      "year_week": "2020-39",
+      "cases_weekly": 3031,
+      "deaths_weekly": 11,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "50.41"
+    },
+    {
+      "dateRep": "21/09/2020",
+      "year_week": "2020-38",
+      "cases_weekly": 2126,
+      "deaths_weekly": 12,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "36.69"
+    },
+    {
+      "dateRep": "14/09/2020",
+      "year_week": "2020-37",
+      "cases_weekly": 1627,
+      "deaths_weekly": 14,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "29.15"
+    },
+    {
+      "dateRep": "07/09/2020",
+      "year_week": "2020-36",
+      "cases_weekly": 1355,
+      "deaths_weekly": 9,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "24.86"
+    },
+    {
+      "dateRep": "31/08/2020",
+      "year_week": "2020-35",
+      "cases_weekly": 1188,
+      "deaths_weekly": 13,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "28.1"
+    },
+    {
+      "dateRep": "24/08/2020",
+      "year_week": "2020-34",
+      "cases_weekly": 1687,
+      "deaths_weekly": 14,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "36.33"
+    },
+    {
+      "dateRep": "17/08/2020",
+      "year_week": "2020-33",
+      "cases_weekly": 2030,
+      "deaths_weekly": 17,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "39.83"
+    },
+    {
+      "dateRep": "10/08/2020",
+      "year_week": "2020-32",
+      "cases_weekly": 2045,
+      "deaths_weekly": 18,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "36.12"
+    },
+    {
+      "dateRep": "03/08/2020",
+      "year_week": "2020-31",
+      "cases_weekly": 1650,
+      "deaths_weekly": 14,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "28.41"
+    },
+    {
+      "dateRep": "27/07/2020",
+      "year_week": "2020-30",
+      "cases_weekly": 1256,
+      "deaths_weekly": 27,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "27.75"
+    },
+    {
+      "dateRep": "20/07/2020",
+      "year_week": "2020-29",
+      "cases_weekly": 1583,
+      "deaths_weekly": 50,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "35.98"
+    },
+    {
+      "dateRep": "13/07/2020",
+      "year_week": "2020-28",
+      "cases_weekly": 2098,
+      "deaths_weekly": 78,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "57.64"
+    },
+    {
+      "dateRep": "06/07/2020",
+      "year_week": "2020-27",
+      "cases_weekly": 3799,
+      "deaths_weekly": 89,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "109.34"
+    },
+    {
+      "dateRep": "29/06/2020",
+      "year_week": "2020-26",
+      "cases_weekly": 7387,
+      "deaths_weekly": 129,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "142.47"
+    },
+    {
+      "dateRep": "22/06/2020",
+      "year_week": "2020-25",
+      "cases_weekly": 7188,
+      "deaths_weekly": 187,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "139.97"
+    },
+    {
+      "dateRep": "15/06/2020",
+      "year_week": "2020-24",
+      "cases_weekly": 7131,
+      "deaths_weekly": 222,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "128.84"
+    },
+    {
+      "dateRep": "08/06/2020",
+      "year_week": "2020-23",
+      "cases_weekly": 6050,
+      "deaths_weekly": 241,
+      "countriesAndTerritories": "Sweden",
+      "geoId": "SE",
+      "countryterritoryCode": "SWE",
+      "popData2019": 10230185,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "102.52"
     },
     {
       "dateRep": "01/06/2020",
       "year_week": "2020-22",
-      "cases_weekly": 4281,
-      "deaths_weekly": 271,
+      "cases_weekly": 4438,
+      "deaths_weekly": 279,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "77.62"
+      "notification_rate_per_100000_population_14-days": "79.75"
     },
     {
       "dateRep": "25/05/2020",
       "year_week": "2020-21",
-      "cases_weekly": 3660,
-      "deaths_weekly": 343,
+      "cases_weekly": 3721,
+      "deaths_weekly": 330,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "73.6"
+      "notification_rate_per_100000_population_14-days": "73.95"
     },
     {
       "dateRep": "18/05/2020",
       "year_week": "2020-20",
-      "cases_weekly": 3869,
-      "deaths_weekly": 375,
+      "cases_weekly": 3844,
+      "deaths_weekly": 355,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "78.41"
+      "notification_rate_per_100000_population_14-days": "77.95"
     },
     {
       "dateRep": "11/05/2020",
       "year_week": "2020-19",
-      "cases_weekly": 4152,
-      "deaths_weekly": 491,
+      "cases_weekly": 4130,
+      "deaths_weekly": 480,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "78.04"
+      "notification_rate_per_100000_population_14-days": "76.99"
     },
     {
       "dateRep": "04/05/2020",
       "year_week": "2020-18",
-      "cases_weekly": 3832,
-      "deaths_weekly": 554,
+      "cases_weekly": 3746,
+      "deaths_weekly": 543,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "78.52"
+      "notification_rate_per_100000_population_14-days": "78.68"
     },
     {
       "dateRep": "27/04/2020",
       "year_week": "2020-17",
-      "cases_weekly": 4201,
-      "deaths_weekly": 535,
+      "cases_weekly": 4303,
+      "deaths_weekly": 556,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "77.73"
+      "notification_rate_per_100000_population_14-days": "78.96"
     },
     {
       "dateRep": "20/04/2020",
       "year_week": "2020-16",
-      "cases_weekly": 3751,
-      "deaths_weekly": 659,
+      "cases_weekly": 3775,
+      "deaths_weekly": 629,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "73.22"
+      "notification_rate_per_100000_population_14-days": "73.92"
     },
     {
       "dateRep": "13/04/2020",
       "year_week": "2020-15",
-      "cases_weekly": 3740,
-      "deaths_weekly": 658,
+      "cases_weekly": 3787,
+      "deaths_weekly": 666,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "68.12"
+      "notification_rate_per_100000_population_14-days": "68.33"
     },
     {
       "dateRep": "06/04/2020",
       "year_week": "2020-14",
-      "cases_weekly": 3229,
-      "deaths_weekly": 496,
+      "cases_weekly": 3203,
+      "deaths_weekly": 532,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "50.69"
+      "notification_rate_per_100000_population_14-days": "52.73"
     },
     {
       "dateRep": "30/03/2020",
       "year_week": "2020-13",
-      "cases_weekly": 1957,
-      "deaths_weekly": 224,
+      "cases_weekly": 2191,
+      "deaths_weekly": 251,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "28.16"
+      "notification_rate_per_100000_population_14-days": "31.42"
     },
     {
       "dateRep": "23/03/2020",
       "year_week": "2020-12",
-      "cases_weekly": 924,
-      "deaths_weekly": 53,
+      "cases_weekly": 1023,
+      "deaths_weekly": 73,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "17.22"
+      "notification_rate_per_100000_population_14-days": "19.0"
     },
     {
       "dateRep": "16/03/2020",
       "year_week": "2020-11",
-      "cases_weekly": 838,
-      "deaths_weekly": 8,
+      "cases_weekly": 921,
+      "deaths_weekly": 9,
       "countriesAndTerritories": "Sweden",
       "geoId": "SE",
       "countryterritoryCode": "SWE",
       "popData2019": 10230185,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "10.25"
+      "notification_rate_per_100000_population_14-days": "11.07"
     },
     {
       "dateRep": "09/03/2020",
@@ -98531,6 +100751,18 @@
       "popData2019": 10230185,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 23414,
+      "deaths_weekly": 495,
+      "countriesAndTerritories": "Switzerland",
+      "geoId": "CH",
+      "countryterritoryCode": "CHE",
+      "popData2019": 8544527,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "848.09"
     },
     {
       "dateRep": "28/12/2020",
@@ -99157,6 +101389,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 677,
+      "deaths_weekly": 51,
+      "countriesAndTerritories": "Syria",
+      "geoId": "SY",
+      "countryterritoryCode": "SYR",
+      "popData2019": 17070132,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "8.88"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 838,
@@ -99647,6 +101891,18 @@
       "popData2019": 17070132,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 22,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Taiwan",
+      "geoId": "TW",
+      "countryterritoryCode": "CNG1925",
+      "popData2019": 23773881,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.21"
     },
     {
       "dateRep": "28/12/2020",
@@ -100273,6 +102529,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 63,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Tajikistan",
+      "geoId": "TJ",
+      "countryterritoryCode": "TJK",
+      "popData2019": 9321023,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "3.65"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 277,
@@ -100691,6 +102959,18 @@
       "popData2019": 9321023,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2154,
+      "deaths_weekly": 5,
+      "countriesAndTerritories": "Thailand",
+      "geoId": "TH",
+      "countryterritoryCode": "THA",
+      "popData2019": 69625581,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "5.07"
     },
     {
       "dateRep": "28/12/2020",
@@ -101317,6 +103597,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Timor_Leste",
+      "geoId": "TL",
+      "countryterritoryCode": "TLS",
+      "popData2019": 1293120,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "1.01"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 10,
@@ -101807,6 +104099,18 @@
       "popData2019": 1293120,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 126,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Togo",
+      "geoId": "TG",
+      "countryterritoryCode": "TGO",
+      "popData2019": 8082359,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "3.54"
     },
     {
       "dateRep": "28/12/2020",
@@ -102313,6 +104617,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 53,
+      "deaths_weekly": 2,
+      "countriesAndTerritories": "Trinidad_and_Tobago",
+      "geoId": "TT",
+      "countryterritoryCode": "TTO",
+      "popData2019": 1394969,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "11.18"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 103,
@@ -102815,6 +105131,18 @@
       "popData2019": 1394969,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 11952,
+      "deaths_weekly": 334,
+      "countriesAndTerritories": "Tunisia",
+      "geoId": "TN",
+      "countryterritoryCode": "TUN",
+      "popData2019": 11694721,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "186.63"
     },
     {
       "dateRep": "28/12/2020",
@@ -103321,6 +105649,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 84457,
+      "deaths_weekly": 1417,
+      "countriesAndTerritories": "Turkey",
+      "geoId": "TR",
+      "countryterritoryCode": "TUR",
+      "popData2019": 82003882,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "277.73"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 143293,
@@ -103825,6 +106165,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 61,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Turks_and_Caicos_islands",
+      "geoId": "TC",
+      "countryterritoryCode": "TCA",
+      "popData2019": 38194,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "293.24"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 51,
@@ -104303,6 +106655,18 @@
       "popData2019": 38194,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2077,
+      "deaths_weekly": 26,
+      "countriesAndTerritories": "Uganda",
+      "geoId": "UG",
+      "countryterritoryCode": "UGA",
+      "popData2019": 44269587,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "10.98"
     },
     {
       "dateRep": "28/12/2020",
@@ -104795,6 +107159,18 @@
       "popData2019": 44269587,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 43719,
+      "deaths_weekly": 1005,
+      "countriesAndTerritories": "Ukraine",
+      "geoId": "UA",
+      "countryterritoryCode": "UKR",
+      "popData2019": 43993643,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "234.35"
     },
     {
       "dateRep": "28/12/2020",
@@ -105299,6 +107675,18 @@
       "popData2019": 43993643,
       "continentExp": "Europe",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 12896,
+      "deaths_weekly": 25,
+      "countriesAndTerritories": "United_Arab_Emirates",
+      "geoId": "AE",
+      "countryterritoryCode": "ARE",
+      "popData2019": 9770526,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "216.54"
     },
     {
       "dateRep": "28/12/2020",
@@ -105925,6 +108313,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 325049,
+      "deaths_weekly": 3915,
+      "countriesAndTerritories": "United_Kingdom",
+      "geoId": "UK",
+      "countryterritoryCode": "GBR",
+      "popData2019": 66647112,
+      "continentExp": "Europe",
+      "notification_rate_per_100000_population_14-days": "922.22"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 289583,
@@ -106549,6 +108949,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "United_Republic_of_Tanzania",
+      "geoId": "TZ",
+      "countryterritoryCode": "TZA",
+      "popData2019": 58005461,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 0,
@@ -107039,6 +109451,18 @@
       "popData2019": 58005461,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 1488563,
+      "deaths_weekly": 18264,
+      "countriesAndTerritories": "United_States_of_America",
+      "geoId": "US",
+      "countryterritoryCode": "USA",
+      "popData2019": 329064917,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "849.49"
     },
     {
       "dateRep": "28/12/2020",
@@ -107665,6 +110089,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 51,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "United_States_Virgin_Islands",
+      "geoId": "VI",
+      "countryterritoryCode": "VIR",
+      "popData2019": 104579,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "128.13"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 83,
@@ -108143,6 +110579,18 @@
       "popData2019": 104579,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 3517,
+      "deaths_weekly": 44,
+      "countriesAndTerritories": "Uruguay",
+      "geoId": "UY",
+      "countryterritoryCode": "URY",
+      "popData2019": 3461731,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "212.21"
     },
     {
       "dateRep": "28/12/2020",
@@ -108649,6 +111097,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 426,
+      "deaths_weekly": 1,
+      "countriesAndTerritories": "Uzbekistan",
+      "geoId": "UZ",
+      "countryterritoryCode": "UZB",
+      "popData2019": 32981715,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "3.67"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 784,
@@ -109153,6 +111613,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Vanuatu",
+      "geoId": "VU",
+      "countryterritoryCode": "VUT",
+      "popData2019": 299882,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": "0"
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 0,
@@ -109235,6 +111707,18 @@
       "popData2019": 299882,
       "continentExp": "Oceania",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2091,
+      "deaths_weekly": 24,
+      "countriesAndTerritories": "Venezuela",
+      "geoId": "VE",
+      "countryterritoryCode": "VEN",
+      "popData2019": 28515829,
+      "continentExp": "America",
+      "notification_rate_per_100000_population_14-days": "15.19"
     },
     {
       "dateRep": "28/12/2020",
@@ -109739,6 +112223,18 @@
       "popData2019": 28515829,
       "continentExp": "America",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 56,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Vietnam",
+      "geoId": "VN",
+      "countryterritoryCode": "VNM",
+      "popData2019": 96462108,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.09"
     },
     {
       "dateRep": "28/12/2020",
@@ -110365,6 +112861,18 @@
       "notification_rate_per_100000_population_14-days": ""
     },
     {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Wallis_and_Futuna",
+      "geoId": "WF",
+      "countryterritoryCode": null,
+      "popData2019": null,
+      "continentExp": "Oceania",
+      "notification_rate_per_100000_population_14-days": ""
+    },
+    {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
       "cases_weekly": 0,
@@ -110495,6 +113003,18 @@
       "popData2019": null,
       "continentExp": "Oceania",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
+      "countriesAndTerritories": "Western_Sahara",
+      "geoId": "EH",
+      "countryterritoryCode": "ESH",
+      "popData2019": 582458,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "0"
     },
     {
       "dateRep": "28/12/2020",
@@ -110927,6 +113447,18 @@
       "popData2019": 582458,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 7,
+      "deaths_weekly": 3,
+      "countriesAndTerritories": "Yemen",
+      "geoId": "YE",
+      "countryterritoryCode": "YEM",
+      "popData2019": 29161922,
+      "continentExp": "Asia",
+      "notification_rate_per_100000_population_14-days": "0.05"
     },
     {
       "dateRep": "28/12/2020",
@@ -111383,6 +113915,18 @@
       "popData2019": 29161922,
       "continentExp": "Asia",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2050,
+      "deaths_weekly": 14,
+      "countriesAndTerritories": "Zambia",
+      "geoId": "ZM",
+      "countryterritoryCode": "ZMB",
+      "popData2019": 17861034,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "18.35"
     },
     {
       "dateRep": "28/12/2020",
@@ -111875,6 +114419,18 @@
       "popData2019": 17861034,
       "continentExp": "Africa",
       "notification_rate_per_100000_population_14-days": ""
+    },
+    {
+      "dateRep": "04/01/2021",
+      "year_week": "2020-53",
+      "cases_weekly": 2117,
+      "deaths_weekly": 26,
+      "countriesAndTerritories": "Zimbabwe",
+      "geoId": "ZW",
+      "countryterritoryCode": "ZWE",
+      "popData2019": 14645473,
+      "continentExp": "Africa",
+      "notification_rate_per_100000_population_14-days": "19.88"
     },
     {
       "dateRep": "28/12/2020",
