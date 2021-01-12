@@ -2815,11 +2815,19 @@
 2021-01-10,"Tasmania","TAS",0,0,772,0,0,0,0,0
 2021-01-10,"Victoria","VIC",6,0,23412,6,1,0,0,0
 2021-01-10,"Western Australia","WA",0,0,2739,0,2,0,0,0
-2021-01-11,"Australian Capital Territory","ACT",0,0,1781,0,0,0,0,0
-2021-01-11,"New South Wales","NSW",11,0,18570,11,0,-0.01,0,0
+2021-01-11,"Australian Capital Territory","ACT",0,0,1781,0,1,0,0,0
+2021-01-11,"New South Wales","NSW",11,0,18570,11,0,-0.01,0,1
 2021-01-11,"Northern Territory","NT",0,0,832,0,2,0,0,0
 2021-01-11,"Queensland","QLD",4,0,18904,4,2,4,0,0
 2021-01-11,"South Australia","SA",1,0,5462,1,1,0,0,0
 2021-01-11,"Tasmania","TAS",0,0,670,0,0,0,0,0
 2021-01-11,"Victoria","VIC",1,0,18660,1,6,0,0,0
 2021-01-11,"Western Australia","WA",2,0,10079,2,0,0,0,0
+2021-01-12,"Australian Capital Territory","ACT",0,0,1154,0,0,0,0,0
+2021-01-12,"New South Wales","NSW",16,0,14738,16,0,1.28,0,0
+2021-01-12,"Northern Territory","NT",0,0,993,0,0,0,0,0
+2021-01-12,"Queensland","QLD",3,0,13482,3,0,1,0,0
+2021-01-12,"South Australia","SA",0,0,4688,0,0,0,0,0
+2021-01-12,"Tasmania","TAS",0,0,617,0,0,0,0,0
+2021-01-12,"Victoria","VIC",0,0,18139,0,2,0,0,0
+2021-01-12,"Western Australia","WA",1,0,6366,1,4,0,0,0
