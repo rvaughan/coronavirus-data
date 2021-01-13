@@ -19,11 +19,11 @@
     "recovered": null,
     "total": 0,
     "posNeg": 0,
-    "deathIncrease": 4056,
-    "hospitalizedIncrease": 15260,
-    "negativeIncrease": 1366355,
-    "positiveIncrease": 213885,
-    "totalTestResultsIncrease": 1871244,
+    "deathIncrease": 4064,
+    "hospitalizedIncrease": 15388,
+    "negativeIncrease": 1415810,
+    "positiveIncrease": 214809,
+    "totalTestResultsIncrease": 1924459,
     "hash": "fe5ea1a9cfacd6fae87cb4379dffc2ff39955dab"
   }
 ]
