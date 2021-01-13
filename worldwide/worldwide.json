@@ -53314,13 +53314,13 @@
       "countryterritoryCode": "IRL",
       "popData2019": 4904240,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "1238.09"
+      "notification_rate_per_100000_population_14-days": "1253.69"
     },
     {
       "dateRep": "04/01/2021",
       "year_week": "2020-53",
-      "cases_weekly": 14993,
-      "deaths_weekly": 54,
+      "cases_weekly": 15758,
+      "deaths_weekly": 55,
       "countriesAndTerritories": "Ireland",
       "geoId": "IE",
       "countryterritoryCode": "IRL",
@@ -53331,14 +53331,14 @@
     {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
-      "cases_weekly": 7352,
-      "deaths_weekly": 47,
+      "cases_weekly": 6587,
+      "deaths_weekly": 46,
       "countriesAndTerritories": "Ireland",
       "geoId": "IE",
       "countryterritoryCode": "IRL",
       "popData2019": 4904240,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "218.36"
+      "notification_rate_per_100000_population_14-days": "202.76"
     },
     {
       "dateRep": "21/12/2020",
@@ -61246,13 +61246,13 @@
       "countryterritoryCode": "LVA",
       "popData2019": 1919968,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "663.03"
+      "notification_rate_per_100000_population_14-days": "689.49"
     },
     {
       "dateRep": "04/01/2021",
       "year_week": "2020-53",
-      "cases_weekly": 5659,
-      "deaths_weekly": 102,
+      "cases_weekly": 6167,
+      "deaths_weekly": 121,
       "countriesAndTerritories": "Latvia",
       "geoId": "LV",
       "countryterritoryCode": "LVA",
@@ -61263,14 +61263,14 @@
     {
       "dateRep": "28/12/2020",
       "year_week": "2020-52",
-      "cases_weekly": 5898,
-      "deaths_weekly": 139,
+      "cases_weekly": 5390,
+      "deaths_weekly": 120,
       "countriesAndTerritories": "Latvia",
       "geoId": "LV",
       "countryterritoryCode": "LVA",
       "popData2019": 1919968,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "581.42"
+      "notification_rate_per_100000_population_14-days": "554.96"
     },
     {
       "dateRep": "21/12/2020",
@@ -64395,8 +64395,8 @@
     {
       "dateRep": "11/01/2021",
       "year_week": "2021-01",
-      "cases_weekly": 12449,
-      "deaths_weekly": 871,
+      "cases_weekly": 12459,
+      "deaths_weekly": 282,
       "countriesAndTerritories": "Lithuania",
       "geoId": "LT",
       "countryterritoryCode": "LTU",
@@ -64407,14 +64407,14 @@
     {
       "dateRep": "04/01/2021",
       "year_week": "2020-53",
-      "cases_weekly": 15628,
-      "deaths_weekly": 92,
+      "cases_weekly": 15618,
+      "deaths_weekly": 681,
       "countriesAndTerritories": "Lithuania",
       "geoId": "LT",
       "countryterritoryCode": "LTU",
       "popData2019": 2794184,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "1199.28"
+      "notification_rate_per_100000_population_14-days": "1198.92"
     },
     {
       "dateRep": "28/12/2020",
@@ -68391,8 +68391,8 @@
     {
       "dateRep": "11/01/2021",
       "year_week": "2021-01",
-      "cases_weekly": 1447,
-      "deaths_weekly": 13,
+      "cases_weekly": 1299,
+      "deaths_weekly": 11,
       "countriesAndTerritories": "Malta",
       "geoId": "MT",
       "countryterritoryCode": "MLT",
@@ -68403,14 +68403,14 @@
     {
       "dateRep": "04/01/2021",
       "year_week": "2020-53",
-      "cases_weekly": 656,
-      "deaths_weekly": 5,
+      "cases_weekly": 804,
+      "deaths_weekly": 7,
       "countriesAndTerritories": "Malta",
       "geoId": "MT",
       "countryterritoryCode": "MLT",
       "popData2019": 493559,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "277.17"
+      "notification_rate_per_100000_population_14-days": "307.16"
     },
     {
       "dateRep": "28/12/2020",
@@ -86619,8 +86619,8 @@
     {
       "dateRep": "11/01/2021",
       "year_week": "2021-01",
-      "cases_weekly": 62039,
-      "deaths_weekly": 807,
+      "cases_weekly": 57670,
+      "deaths_weekly": 729,
       "countriesAndTerritories": "Portugal",
       "geoId": "PT",
       "countryterritoryCode": "PRT",
@@ -86631,14 +86631,14 @@
     {
       "dateRep": "04/01/2021",
       "year_week": "2020-53",
-      "cases_weekly": 30588,
-      "deaths_weekly": 441,
+      "cases_weekly": 34957,
+      "deaths_weekly": 519,
       "countriesAndTerritories": "Portugal",
       "geoId": "PT",
       "countryterritoryCode": "PRT",
       "popData2019": 10276617,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "517.03"
+      "notification_rate_per_100000_population_14-days": "559.54"
     },
     {
       "dateRep": "28/12/2020",
