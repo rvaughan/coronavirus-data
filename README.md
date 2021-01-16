@@ -88,7 +88,7 @@ The UK data is pulled twice an hour from the following sources:
     * List of available data [url](https://api.apify.com/v2/key-value-stores/tVaYRsPHLjNdNBu7S/records/LATEST?disableRedirect=true).
     * Latest UK data [url](https://api.apify.com/v2/key-value-stores/KWLojgM5r1JmMW4b4/records/LATEST?disableRedirect=true)
     * Latest overall UK data [url](https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1)
-  * [ONS Deaths Data](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending18december2020)
+  * [ONS Deaths Data](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending1january2021)
   * NHS Pathways
     * https://digital.nhs.uk/dashboards/nhs-pathways
     * https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online/latest
