@@ -3,7 +3,7 @@
     "date": 20210127,
     "states": 56,
     "positive": 25230559,
-    "negative": 228162133,
+    "negative": 178803726,
     "pending": 11972,
     "hospitalizedCurrently": 107444,
     "hospitalizedCumulative": 795299,
@@ -21,9 +21,9 @@
     "posNeg": 0,
     "deathIncrease": 4077,
     "hospitalizedIncrease": 4134,
-    "negativeIncrease": 1153481,
+    "negativeIncrease": 886948,
     "positiveIncrease": 151675,
     "totalTestResultsIncrease": 1627862,
-    "hash": "691fa1a35fa1d3074087997e389d38e37d6e93cf"
+    "hash": "6c897d82328d9a2ae7843cc76804b862182dc2b6"
   }
 ]
