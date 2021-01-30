@@ -76,7 +76,7 @@ The UK data is pulled twice an hour from the following sources:
   * [UK R Number](https://www.gov.uk/government/news/government-publishes-latest-r-number)
   * [SAGE Guidance](https://www.gov.uk/government/collections/scientific-evidence-supporting-the-government-response-to-coronavirus-covid-19)
   * [Independant SAGE Guidance](https://www.independentsage.org/)
-  * [PHE National COVID-19 surveillance reports](https://www.gov.uk/government/publications/national-covid-19-surveillance-reports)
+  * [PHE National COVID-19 surveillance reports](https://www.gov.uk/government/publications/national-covid-19-surveillance-reports). Note: This data is no longer updated.
   * [PHE Deaths](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary)
   * [PHE Deaths Data](https://coronavirus.data.gov.uk/deaths)
     * Specifically the data files identified on [this](https://coronavirus.data.gov.uk/about-data) page.
@@ -88,7 +88,7 @@ The UK data is pulled twice an hour from the following sources:
     * List of available data [url](https://api.apify.com/v2/key-value-stores/tVaYRsPHLjNdNBu7S/records/LATEST?disableRedirect=true).
     * Latest UK data [url](https://api.apify.com/v2/key-value-stores/KWLojgM5r1JmMW4b4/records/LATEST?disableRedirect=true)
     * Latest overall UK data [url](https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1)
-  * [ONS Deaths Data](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending1january2021)
+  * [ONS Deaths Data](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending15january2021)
   * NHS Pathways
     * https://digital.nhs.uk/dashboards/nhs-pathways
     * https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online/latest
