@@ -2960,10 +2960,18 @@
 2021-01-28,"Victoria","VIC",2,0,14494,2,6,0,0,0
 2021-01-28,"Western Australia","WA",1,0,2073,1,2,0,0,0
 2021-01-29,"Australian Capital Territory","ACT",0,0,391,0,0,0,0,0
-2021-01-29,"New South Wales","NSW",3,0,11897,3,0,0.43,0,0
+2021-01-29,"New South Wales","NSW",3,0,11897,3,0,-0.72,0,0
 2021-01-29,"Northern Territory","NT",0,0,786,0,0,0,0,0
-2021-01-29,"Queensland","QLD",1,0,6959,1,0,0,0,0
+2021-01-29,"Queensland","QLD",2,0,6959,2,0,0,0,0
 2021-01-29,"South Australia","SA",0,0,3307,0,0,0,0,0
 2021-01-29,"Tasmania","TAS",0,0,360,0,0,0,0,0
 2021-01-29,"Victoria","VIC",0,0,15546,0,0,0,0,0
 2021-01-29,"Western Australia","WA",1,0,1465,1,1,0,0,0
+2021-01-30,"Australian Capital Territory","ACT",0,0,256,0,0,0,0,0
+2021-01-30,"New South Wales","NSW",2,0,10504,2,0,1.1,0,0
+2021-01-30,"Northern Territory","NT",0,0,648,0,0,0,0,0
+2021-01-30,"Queensland","QLD",0,0,6193,0,0,-6,0,0
+2021-01-30,"South Australia","SA",0,0,3404,0,0,0,0,0
+2021-01-30,"Tasmania","TAS",0,0,676,0,0,0,0,0
+2021-01-30,"Victoria","VIC",1,0,13702,1,5,0,0,0
+2021-01-30,"Western Australia","WA",3,0,0,3,2,0,0,0
