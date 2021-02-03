@@ -14,7 +14,7 @@
     "dateChecked": "2021-02-02T24:00:00Z",
     "death": 437237,
     "hospitalized": 812003,
-    "totalTestResults": 310683694,
+    "totalTestResults": 315483484,
     "lastModified": "2021-02-02T24:00:00Z",
     "recovered": null,
     "total": 0,
@@ -23,7 +23,7 @@
     "hospitalizedIncrease": 3285,
     "negativeIncrease": 361311,
     "positiveIncrease": 115619,
-    "totalTestResultsIncrease": 1375084,
-    "hash": "73e43b308cf36172fcf796fe0f6120a08aad9a6c"
+    "totalTestResultsIncrease": 1402996,
+    "hash": "bfb3c3ced62849bc071138cff014c7ca658ae9a3"
   }
 ]
