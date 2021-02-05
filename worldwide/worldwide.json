@@ -94035,14 +94035,14 @@
     {
       "dateRep": "01/02/2021",
       "year_week": "2021-04",
-      "cases_weekly": 16182,
-      "deaths_weekly": 494,
+      "cases_weekly": 17495,
+      "deaths_weekly": 561,
       "countriesAndTerritories": "Romania",
       "geoId": "RO",
       "countryterritoryCode": "ROU",
       "popData2019": 19414458,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "173.02"
+      "notification_rate_per_100000_population_14-days": "179.78"
     },
     {
       "dateRep": "25/01/2021",
