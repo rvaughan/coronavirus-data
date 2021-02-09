@@ -1,4 +1,10 @@
 areaType,areaName,areaCode,date,covidOccupiedMVBeds
+nation,England,E92000001,2021-02-08,2980
+nation,England,E92000001,2021-02-07,3047
+nation,England,E92000001,2021-02-06,3099
+nation,England,E92000001,2021-02-05,3217
+nation,England,E92000001,2021-02-04,3275
+nation,England,E92000001,2021-02-03,3328
 nation,England,E92000001,2021-02-02,3324
 nation,England,E92000001,2021-02-01,3414
 nation,England,E92000001,2021-01-31,3366
@@ -306,6 +312,12 @@ nation,England,E92000001,2020-04-05,2097
 nation,England,E92000001,2020-04-04,1950
 nation,England,E92000001,2020-04-03,1788
 nation,England,E92000001,2020-04-02,1494
+nation,Northern Ireland,N92000002,2021-02-08,54
+nation,Northern Ireland,N92000002,2021-02-07,57
+nation,Northern Ireland,N92000002,2021-02-06,59
+nation,Northern Ireland,N92000002,2021-02-05,61
+nation,Northern Ireland,N92000002,2021-02-04,63
+nation,Northern Ireland,N92000002,2021-02-03,60
 nation,Northern Ireland,N92000002,2021-02-02,58
 nation,Northern Ireland,N92000002,2021-02-01,56
 nation,Northern Ireland,N92000002,2021-01-31,56
@@ -623,6 +635,12 @@ nation,Northern Ireland,N92000002,2020-03-26,10
 nation,Northern Ireland,N92000002,2020-03-25,10
 nation,Northern Ireland,N92000002,2020-03-24,2
 nation,Northern Ireland,N92000002,2020-03-23,6
+nation,Scotland,S92000003,2021-02-08,108
+nation,Scotland,S92000003,2021-02-07,108
+nation,Scotland,S92000003,2021-02-06,117
+nation,Scotland,S92000003,2021-02-05,123
+nation,Scotland,S92000003,2021-02-04,127
+nation,Scotland,S92000003,2021-02-03,131
 nation,Scotland,S92000003,2021-02-02,143
 nation,Scotland,S92000003,2021-02-01,143
 nation,Scotland,S92000003,2021-01-31,143
@@ -945,6 +963,12 @@ nation,Scotland,S92000003,2020-03-21,20
 nation,Scotland,S92000003,2020-03-20,16
 nation,Scotland,S92000003,2020-03-19,11
 nation,Scotland,S92000003,2020-03-18,6
+nation,Wales,W92000004,2021-02-08,88
+nation,Wales,W92000004,2021-02-07,90
+nation,Wales,W92000004,2021-02-06,98
+nation,Wales,W92000004,2021-02-05,104
+nation,Wales,W92000004,2021-02-04,107
+nation,Wales,W92000004,2021-02-03,109
 nation,Wales,W92000004,2021-02-02,113
 nation,Wales,W92000004,2021-02-01,113
 nation,Wales,W92000004,2021-01-31,122
