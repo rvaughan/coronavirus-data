@@ -11,7 +11,7 @@
     "https://c19downloads.azureedge.net/downloads/json/coronavirus-deaths_latest.json": "0x8D837C07AB0D3F1",
     "https://covidtracking.com/api/v1/states/current.json": "\"b0efde9bf7aa4b6dc4bcd2b79743c515-ssl\"",
     "https://covidtracking.com/api/v1/states/daily.json": "\"7a7de17de5cfa28c7d454658ad207e39-ssl\"",
-    "https://covidtracking.com/api/v1/states/info.json": "\"c2d2d5d7c3b77a4d0649f7d2b863c040-ssl\"",
+    "https://covidtracking.com/api/v1/states/info.json": "\"a50b7fb064a7dbf39c24c87a590d0b77-ssl\"",
     "https://covidtracking.com/api/v1/us/current.json": "\"c2d16b91c0e2fd92c95d668b2fb32f1c-ssl\"",
     "https://covidtracking.com/api/v1/us/daily.json": "\"74658c8f192be729d9cf27786ee1ad5a-ssl\"",
     "https://covidtracking.com/api/v1/urls.json": "\"f1958a0b689edd2d49c6f217f8f29ee9-ssl-df\"",
