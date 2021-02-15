@@ -10587,14 +10587,14 @@
     {
       "dateRep": "08/02/2021",
       "year_week": "2021-05",
-      "cases_weekly": 11163,
+      "cases_weekly": -17182,
       "deaths_weekly": 74,
       "countriesAndTerritories": "Belarus",
       "geoId": "BY",
       "countryterritoryCode": "BLR",
       "popData2019": 9452409,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "231.56"
+      "notification_rate_per_100000_population_14-days": "-68.31"
     },
     {
       "dateRep": "01/02/2021",
@@ -44331,14 +44331,14 @@
     {
       "dateRep": "08/02/2021",
       "year_week": "2021-05",
-      "cases_weekly": 3269,
+      "cases_weekly": -4001,
       "deaths_weekly": 104,
       "countriesAndTerritories": "Georgia",
       "geoId": "GE",
       "countryterritoryCode": "GEO",
       "popData2019": 3996762,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "195.26"
+      "notification_rate_per_100000_population_14-days": "13.36"
     },
     {
       "dateRep": "01/02/2021",
@@ -66471,14 +66471,14 @@
     {
       "dateRep": "08/02/2021",
       "year_week": "2021-05",
-      "cases_weekly": 5847,
-      "deaths_weekly": 152,
+      "cases_weekly": 0,
+      "deaths_weekly": 0,
       "countriesAndTerritories": "Latvia",
       "geoId": "LV",
       "countryterritoryCode": "LVA",
       "popData2019": 1919968,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "577.09"
+      "notification_rate_per_100000_population_14-days": "272.56"
     },
     {
       "dateRep": "01/02/2021",
@@ -94107,14 +94107,14 @@
     {
       "dateRep": "08/02/2021",
       "year_week": "2021-05",
-      "cases_weekly": 39093,
-      "deaths_weekly": 1401,
+      "cases_weekly": 41598,
+      "deaths_weekly": 1597,
       "countriesAndTerritories": "Portugal",
       "geoId": "PT",
       "countryterritoryCode": "PRT",
       "popData2019": 10276617,
       "continentExp": "Europe",
-      "notification_rate_per_100000_population_14-days": "1190.09"
+      "notification_rate_per_100000_population_14-days": "1214.47"
     },
     {
       "dateRep": "01/02/2021",
