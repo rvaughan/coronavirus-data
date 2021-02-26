@@ -3177,9 +3177,17 @@
 2021-02-24,"Western Australia","WA",0,0,3615,0,0,0,0,0
 2021-02-25,"Australian Capital Territory","ACT",0,0,1015,0,0,0,0,0
 2021-02-25,"New South Wales","NSW",7,0,17919,7,0,0,0,0
-2021-02-25,"Northern Territory","NT",0,0,1166,0,0,0,0,0
+2021-02-25,"Northern Territory","NT",0,0,1166,0,0,-1,0,0
 2021-02-25,"Queensland","QLD",1,0,7763,1,0,1,0,0
 2021-02-25,"South Australia","SA",0,0,3103,0,1,0,0,0
 2021-02-25,"Tasmania","TAS",0,0,692,0,0,0,0,0
-2021-02-25,"Victoria","VIC",0,0,18282,0,4,0,0,0
+2021-02-25,"Victoria","VIC",0,0,18282,0,4,1,0,0
 2021-02-25,"Western Australia","WA",0,0,0,0,0,0,0,0
+2021-02-26,"Australian Capital Territory","ACT",0,0,631,0,0,0,0,0
+2021-02-26,"New South Wales","NSW",4,0,15498,4,0,0,0,0
+2021-02-26,"Northern Territory","NT",0,0,804,0,0,0,0,0
+2021-02-26,"Queensland","QLD",4,0,7603,4,1,0,0,0
+2021-02-26,"South Australia","SA",0,0,4110,0,0,0,0,0
+2021-02-26,"Tasmania","TAS",0,0,676,0,0,0,0,0
+2021-02-26,"Victoria","VIC",2,0,16584,2,0,0,0,0
+2021-02-26,"Western Australia","WA",0,0,1983,0,0,0,0,0
