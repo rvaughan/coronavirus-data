@@ -1,0 +1,479 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+          <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"42e0ea2850",applicationID:"226112119"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(6),c=e(7),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(5),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],6:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||"feature",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=e("gos"),s=e(6),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=b.info=NREUM.info,t=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(y,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+b.offset],null,"api"),c("timing",["load",n]);var r=p.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===p.readyState&&o()}function o(){c("mark",["domContent",a()+b.offset],null,"api")}var a=e(2),c=e("handle"),f=e(6),u=e("ee"),s=e(4),d=window,p=d.document,l="addEventListener",m="attachEvent",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1198.min.js"},h=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:w,features:{},xhrWrappable:h,userAgent:s};e(1),e(3),p[l]?(p[l]("DOMContentLoaded",o,!1),d[l]("load",r,!1)):(p[m]("onreadystatechange",i),d[m]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var x=0},{}],"wrap-function":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],e)}c(n+"start",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+"err",[o,a,m],s,u),m}finally{c(n+"end",[o,a,p],s,u)}}return a(t)?t:(n||(n=""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit("internal-error",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e("ee"),d=e(7),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+         j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+         })(window,document,'script','dataLayer','GTM-MBLNKRW');</script>
+<script type="text/javascript" id="govwales_gtm_helper">var org_nids = ["30180"]</script>
+<meta name="description" content="Updates to work examining behavioural insights to support policy in Wales following the introduction of the firebreak to reduce levels of COVID-19 infection in Wales." />
+<meta property="og:site_name" content="GOV.WALES" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice" />
+<meta property="og:image" content="https://gov.wales//themes/custom/govwales/images/content/og-global-1200.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Updates to work examining behavioural insights to support policy in Wales following the introduction of the firebreak to reduce levels of COVID-19 infection in Wales." />
+<meta name="twitter:title" content="Technical Advisory Group: using behavioural science to inform policy and practice | GOV.WALES" />
+<meta name="twitter:url" content="https://gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice" />
+<meta name="twitter:image" content="https://gov.wales//themes/custom/govwales/images/content/og-global-120.png" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" hreflang="en" href="https://gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice" />
+<link rel="alternate" hreflang="cy" href="https://llyw.cymru/y-grwp-cyngor-technegol-defnyddio-gwyddor-ymddygiad-i-hysbysu-polisi-ac-arfer" />
+<link rel="canonical" href="https://gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice" />
+<link rel="shortlink" href="https://gov.wales/node/36497" />
+<link rel="revision" href="https://gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice" />
+
+      <link rel="icon" type="image/ico"  href="/favicon.ico" >
+      <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+      <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/themes/custom/govwales/favicon/apple-touch-icon-180x180-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/themes/custom/govwales/favicon/apple-touch-icon-152x152-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/themes/custom/govwales/favicon/apple-touch-icon-144x144-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/themes/custom/govwales/favicon/apple-touch-icon-120x120-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/themes/custom/govwales/favicon/apple-touch-icon-114x114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/themes/custom/govwales/favicon/apple-touch-icon-76x76-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/themes/custom/govwales/favicon/apple-touch-icon-72x72-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" href="/themes/custom/govwales/favicon/apple-touch-icon-precomposed.png">
+      <link rel="icon" sizes="192x192" href="/themes/custom/govwales/favicon/touch-icon-192.png">
+      <link rel="icon" sizes="32x32" href="/themes/custom/govwales/favicon/favicon-32.png">
+      <link rel="icon" sizes="48x48" href="/themes/custom/govwales/favicon/favicon-48.png">
+      <meta name="msapplication-TileColor" content="#b60404">
+      <meta name="msapplication-TileImage" content="/themes/custom/govwales/favicon/ms-icon-144x144.png">
+      <title>Technical Advisory Group: using behavioural science to inform policy and practice | GOV.WALES</title>
+      <link rel="stylesheet" media="all" href="/sites/default/files/css/css_MRBLMtdP9ozPkIsD-1pWPG33m8j-QGA3srvmo0UoVWs.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_MrGe9o7prsgURKh3kX_kkbe-zANLPz9Zy0a88hD6v_A.css" />
+
+      
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_3KOrO4Ww6IO1xutFjJXt_EmChmgAZ2EhqrlxszFNDA0.js"></script>
+
+      </head>
+    <body class="path-node page-node-type-publication lang-en">
+          <script>document.body.className = ((document.body.className) ? document.body.className + ' js' : 'js');</script>
+            <div class="skip-to-main" id="skip-to-main">
+      <a href="#wg_main" class="visually-hidden focusable">
+        Skip to main content
+      </a>
+    </div>
+    <noscript><iframe id="gtm-iframe" title="gtm-iframe" src="https://www.googletagmanager.com/ns.html?id=GTM-MBLNKRW" height="0" width="0" style="display:none!important;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+  <div id="page_wrapper"  class="layout-container">
+
+      
+<div role="banner" id="wg_cookie" class="wg_cookie">
+    <div>
+    <div id="block-govwalessharedcookiecontrolblock">
+  
+    
+      
+<div id="govwales-shared-cookie-message"  class="container-fluid">
+  <p id="cookiesMessageNoJs" class="cookies-banner__description">GOV.WALES uses cookies which are essential for the site to work. Non-essential cookies are also used to tailor and improve services. By continuing to use this site, you agree to our use of cookies.</p>
+  <a id="cookieOptions" class="cookies-banner__link" href="https://gov.wales/help/cookies">About cookies</a>
+</div>
+
+  </div>
+
+  </div>
+
+</div>
+  
+  <header id="wg_header" class="wg_header">
+        <div class="layout-container">
+    <div class="header" id="header">
+      <div class="header__components container-fluid">
+        <div id="block-govwales-branding">
+  
+    
+      <a href="https://gov.wales/" title="Welsh Government" class="header__logo" id="logo"><span class="visually-hidden">Home</span></a><span class="print header__logo_print"><img src="/themes/custom/govwales/images/print/logo.png" alt="Welsh Government"></span>
+</div>
+<div class="views-exposed-form components__form" data-drupal-selector="views-exposed-form-global-keyword-search-search-page" id="block-exposedformglobal-keyword-searchsearch-page">
+      <form action="https://gov.wales/search" method="get" id="views-exposed-form-global-keyword-search-search-page" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-item-global-keywords js-form-item-global-keywords">
+
+            <label for="edit-global-keywords">Search</label>
+                  
+  <input data-drupal-selector="edit-global-keywords" type="text" id="edit-global-keywords" name="global-keywords" value="" size="30" maxlength="128" class="form-text" />
+
+
+                          </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--gq-MYSQzBts"><input data-drupal-selector="edit-submit-global-keyword-search" type="submit" id="edit-submit-global-keyword-search" value="Search website" class="button js-form-submit form-submit" />
+</div>
+
+
+</form>
+
+  </div>
+<div class="language-switcher-language-url" id="block-govwales-languageswitcher" role="navigation">
+  
+    
+      <ul class="links"><li data-drupal-language="en" data-drupal-link-system-path="node/36497" class="en is-active"><a href="https://gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/36497">English</a></li><li data-drupal-language="cy" data-drupal-link-system-path="node/36497" class="cy"><a href="https://llyw.cymru/y-grwp-cyngor-technegol-defnyddio-gwyddor-ymddygiad-i-hysbysu-polisi-ac-arfer" class="language-link" hreflang="cy" data-drupal-link-system-path="node/36497">Cymraeg</a></li></ul>
+  </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  </header>
+
+        <div class="region__global-cta">
+    <div id="block-globalctablock">
+  
+    
+      
+
+<div id="global-cta" class="global-cta global-cta--block" role="banner">
+  <div class="container-fluid">
+    <div class="global-cta__content">
+      <p>All of Wales is in lockdown (alert level 4). <a href="/alert-level-4">What you need to do at alert level 4</a>.</p>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+  
+  <main id="wg_main" class="wg_main">
+    <div id="main__body" class="main__body container-fluid">
+      
+      <div class="main__body-content">
+
+
+        <div class="pre-content">
+    <div id="block-breadcrumbs">
+  
+    
+      
+<nav class="breadcrumb container-fluid">
+  <p class="visually-hidden">You are here:</p>
+  <ul>
+                                                      <li class="first">
+                  <a href="https://gov.wales/">Home</a>
+              </li>
+                                        <li>
+                  <a href="https://gov.wales/coronavirus">Coronavirus (COVID-19)</a>
+              </li>
+                                                      <li class="parent">
+                  <a href="https://gov.wales/strategy-evidence-coronavirus">Strategy and evidence: coronavirus</a>
+              </li>
+                                                      <li class="last">
+                  <a href="#content">Technical Advisory Group: using behavioural science to inform policy and practice</a>
+              </li>
+      </ul>
+</nav>
+<div id="content"></div>
+
+  </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+  
+
+
+  
+  
+
+  
+
+  
+  <div class="region-content">
+      <div id="block-logoblock">
+  
+    
+      
+  </div>
+<div id="block-govwales-content">
+  
+    
+      
+
+
+
+<article about="https://gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice">
+  
+
+        
+      <header class="page-header page-header--no-border container-fluid">
+          <div class="page-header__type">Report</div>
+              <h1 class="page-header__title page-header__title--has-type"><span>Technical Advisory Group: using behavioural science to inform policy and practice</span>
+</h1>
+      </header>
+
+    
+  
+  <section class="page-content mb-40">
+    <div id="hero-block" class="gov">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-8">
+            <div class="hero-block__summary">
+              
+            <div><p>Updates to work examining behavioural insights to support policy in Wales following the introduction of the firebreak to reduce levels of COVID-19 infection in Wales.</p>
+</div>
+      
+                          </div>
+          </div>
+          <div class="col-md-4">
+            <div class="header-meta">
+              
+  <div class="row part-of">
+    <div class="col-xs-5 label">Part of:</div>
+    <div class="col-xs-7 item">
+  <ul>
+                <li><a class="part-of-link" href="https://gov.wales/advice-coronavirus-technical-advisory-cell"><span>Advice on coronavirus from the Technical Advisory Cell</span></a><span class="comma">, </span></li>
+                    <li><a class="part-of-link" href="https://gov.wales/infections"><span>Infections</span></a><span class="comma"> and </span></li>
+                <li><a class="part-of-link" href="https://gov.wales/strategy-evidence-coronavirus"><span>Strategy and evidence: coronavirus</span></a><span class="comma"></span></li>
+      </ul>
+</div>
+  </div>
+  <div class="row provided-by">
+    <div class="col-xs-5 label">Organisation:</div>
+    <div class="col-xs-7 item"><span class="topics"><span  class="from-area"><a href="https://gov.wales/technical-advisory-cell" hreflang="en">Technical Advisory Cell</a></span><span class="comma"></span></span></div>
+  </div>
+<div class="row first-published">
+  <div class="col-xs-5 label">First published:</div>
+  <div class="col-xs-7 item">1 February 2021</div>
+</div>
+  <div class="row last-updated">
+    <div class="col-xs-5 label">Last updated:</div>
+    <div class="col-xs-7 item">
+<span>
+		  <time datetime="2021-02-01T09:56:01Z">1 February 2021</time>
+
+	</span></div>
+  </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid" >
+      <div class="row">
+        <div class="col-md-8">
+                      <div class="documents" id="documents-block">
+              <h2 class="documents__title">Documents</h2>
+              
+
+  
+<div class="document--accessible document">
+    
+
+        <a class="document__image" href="https://gov.wales/sites/default/files/publications/2021-02/technical-advisory-group-pandemic-and-beyond-using-behavioural-science-to-inform-policy-and-practice.pdf" aria-label="Technical Advisory Group: Pandemic and beyond, using behavioural science to inform policy and practice, file type: PDF, file size: 856 KB">
+      
+            <div>  <img src="/sites/default/files/styles/file_thumb/public/publication-doc-thumbnails/Technical_Advisory_Group__Pandemic_and_beyond__using_behavioural_science_to_inform_policy_and_practice.jpg?itok=Nx8-FnxY" width="160" height="230" alt="" typeof="foaf:Image" />
+
+
+</div>
+      
+    </a>
+  
+  <div class="document__details">
+
+      <h3>
+    <a href="https://gov.wales/sites/default/files/publications/2021-02/technical-advisory-group-pandemic-and-beyond-using-behavioural-science-to-inform-policy-and-practice.pdf">
+  <span>Technical Advisory Group: Pandemic and beyond, using behavioural science to inform policy and practice</span>
+
+      <span class="vo_hidden">,
+                file type: PDF, file size: 856 KB      </span>
+    </a>
+  </h3>
+
+      <div class="document__type document__type--pdf">PDF</div>
+
+              
+      <div class="document__size">
+            <div>856 KB</div>
+      </div>
+
+    
+      <div class="document__request">
+    If you need a more accessible version of this document please email <a href="mailto:digital@gov.wales?subject=Request%20for%20%27Technical%20Advisory%20Group%3A%20Pandemic%20and%20beyond%2C%20using%20behavioural%20science%20to%20inform%20policy%20and%20practice%27%20in%20an%20alternative%20format&amp;body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Technical%20Advisory%20Group%3A%20using%20behavioural%20science%20to%20inform%20policy%20and%20practice%0A%20%20Page%3A%20https%3A//gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice%0A%0ARequired%20document%20details%3A%0A%20%20Title%3A%20Technical%20Advisory%20Group%3A%20Pandemic%20and%20beyond%2C%20using%20behavioural%20science%20to%20inform%20policy%20and%20practice%0A%20%20Original%20format%3A%20pdf%0A%20%20Unique%20reference%3A%20Node%20ID%2036497%0A%0APlease%20tell%20us%3A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20would%20you%20prefer%3F">digital@gov.wales</a>. Please tell us the format you need. If you use assistive technology please tell us what this is.  </div>
+  </div>
+  <div class="clear"></div>
+</div>
+
+
+
+            </div>
+                            </div>
+                      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-8">
+          
+
+  <div class="footer-meta">
+    <div class="footer-meta__detailed">
+      <div class="row">
+        <div class="col-md-6">
+          <h2 class="footer__fp">First published</h2>
+          <span>1 February 2021</span>
+                      <h2 class="footer__lp">Last updated</h2>
+            <span>
+<span>
+		  <time datetime="2021-02-01T09:56:01Z">1 February 2021</time>
+
+	</span></span>
+                              </div>
+        <div class="col-md-6">
+                                <h2 class="footer__pb">Organisation</h2>
+            <span><span class="topics"><span  class="from-area"><a href="https://gov.wales/technical-advisory-cell" hreflang="en">Technical Advisory Cell</a></span><span class="comma"></span></span></span>
+                                <div class="footer-meta__part-of">
+              <h2 class="footer__po">Part of</h2>
+              
+  <ul>
+                <li><a class="part-of-link" href="https://gov.wales/advice-coronavirus-technical-advisory-cell"><span>Advice on coronavirus from the Technical Advisory Cell</span></a><span class="comma">, </span></li>
+                    <li><a class="part-of-link" href="https://gov.wales/infections"><span>Infections</span></a><span class="comma"> and </span></li>
+                <li><a class="part-of-link" href="https://gov.wales/strategy-evidence-coronavirus"><span>Strategy and evidence: coronavirus</span></a><span class="comma"></span></li>
+      </ul>
+
+            </div>
+                  </div>
+      </div>
+    </div>
+  </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</article>
+
+  </div>
+
+  </div>
+
+
+
+  
+
+  
+
+  
+
+    </div>
+    
+
+    </div>  </main>
+
+        <div class="pre_sharebar" id="presharebar">
+    <div class="pre_sharebar__components container-fluid">
+      
+    </div>
+  </div>
+
+  
+      <div role="banner" id="wg_pagefeedback" class="wg_pagefeedback">
+        <div>
+    <div id="block-pagefeedbackblock">
+  
+    
+      <div  class="container-fluid">
+  <a href="mailto:digital@gov.wales?url=https%3A//gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice&amp;subject=Feedback%20on%20https%3A//gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice&amp;body=Page%20URL%3A%20https%3A//gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice%0APage%20Title%3A%20Technical%20Advisory%20Group%3A%20using%20behavioural%20science%20to%20inform%20policy%20and%20practice%0AYour%20feedback%3A%0A" id="page-feedback-link">Report anything wrong with this page</a>
+</div>
+
+  </div>
+
+  </div>
+
+    </div>
+  
+      
+<div class="sharebar" id="sharebar">
+  <div class="sharebar__components container-fluid">
+        <div class="main__sharebar">
+      <div  class="block-share">
+      <h2>Share this page</h2>
+    <ul class="block-share-list active" id="sharePageLinks">
+          <li><a href="https://twitter.com/intent/tweet?url=https%3A//gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice" class="twitter"><span class="vo_hidden">Share this page via </span>Twitter</a></li>
+          <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice" class="facebook"><span class="vo_hidden">Share this page via </span>Facebook</a></li>
+          <li><a href="mailto:?body=https%3A//gov.wales/technical-advisory-group-using-behavioural-science-inform-policy-and-practice&amp;subject=Shared%20from%20gov.wales" class="email"><span class="vo_hidden">Share this page via </span>Email</a></li>
+      </ul>
+  </div>
+
+    <div id="sharebar__backtotop" class="btn--outlined btn--arrow-up">
+    <a href="#page_wrapper">Back to top</a>
+  </div>
+</div>
+
+    </div>
+</div>
+
+  
+      
+  <footer class="footer" id="footer">
+    <div class="footer__components container-fluid">
+            <nav  id="block-footer">
+  
+  
+
+        
+              <ul class="menu clearfix">
+              <li class="menu__item">
+        <a href="https://gov.wales/contact-us" data-drupal-link-system-path="node/19808">Contact us</a>
+              </li>
+          <li class="menu__item">
+        <a href="https://gov.wales/accessibility-statement-govwales" title="Accessibility" data-drupal-link-system-path="node/17">Accessibility</a>
+              </li>
+          <li class="menu__item">
+        <a href="https://gov.wales/copyright-statement" title="Copyright statement" data-drupal-link-system-path="node/15">Copyright statement</a>
+              </li>
+          <li class="menu__item">
+        <a href="https://gov.wales/help/cookies" data-drupal-link-system-path="help/cookies">Cookies</a>
+              </li>
+          <li class="menu__item">
+        <a href="https://gov.wales/website-privacy-policy" title="Privacy policy" data-drupal-link-system-path="node/16">Privacy</a>
+              </li>
+          <li class="menu__item">
+        <a href="https://gov.wales/terms-and-conditions" title="Terms and conditions" data-drupal-link-system-path="node/19">Terms and conditions</a>
+              </li>
+          <li class="menu__item">
+        <a href="https://gov.wales/alternative-languages" data-drupal-link-system-path="node/34131">Alternative languages</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+        </div>
+    <div class="footer_logo container-fluid" id="footer_logo">
+      <a href="https://gov.wales/" class="footer__logo" id="footerlogo"><span class="visually-hidden">Home</span></a>
+    </div>
+  </footer>
+
+
+
+  
+  </div>
+
+  </div>
+
+    
+          <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/36497","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"cookieControl":{"apiKey":"f8563f4f829c21ec822867d963b5ca91d31d6df7","necessaryCookies":["CookieControl","cookie_message"],"settingsCookies":["WG-path*","Drupal.*","pa*","History.store","remember_checked_on","boxNum*","WG-global*"],"usageCookies":["JSESSIONID","_ga*","_gid*","_gat*","__cfduid*","IDSYNC","fm-websync-*"],"communicationsCookies":["auth_token","csrf_same_site*","dnt","eu_cn","guest_id","kdt","lang","muc","remember_checked_on","rweb_optin","tfw_exp","twid","vwo*","fb*","gcl*","cb*","d_id","ei_client_id","europe","ga_*","tbp-*","trd_*","tuuid*","ufc*","OptanonConsentnt","__utmzzses","_mkto_trk","vis_opt*","KRTBCOOKIE_10","PUBMDCID","PugT","__adroll*","_ar*","__consent","adrl","c","cookieJartestCookie","i","obuid","t_gid","tluid","APID*","B","CM*","syndication_guest_id","personalization_id","APISID","CONSENT","HSID","NID","c_user","datr","fr","sb","spin","xs","anj","uuid*","AID","ANID","SID","_twitter*","ads_prefs","GPS","PREF","IDE","VISITOR_INFO1_LIVE","YSC"],"cookiesLink":"https:\/\/gov.wales\/help\/cookies","siteName":"GOV.WALES","settingsAcceptanceMessage":"Government services may set additional cookies and, if so, will have their own cookie policy and banner.","bannerAcceptanceMessage":"Government services may set additional cookies and, if so, will have their own cookie policy and banner. You can \u003Ca href=\u0022https:\/\/gov.wales\/help\/cookies\u0022\u003Echange your cookie settings\u003C\/a\u003E at any time.","privacyPolicy":"https:\/\/gov.wales\/details-about-cookies-govwales"},"raven":{"options":{"dsn":"https:\/\/00113d51a9464a1cb95a4ce91eeab326@o448768.ingest.sentry.io\/5430655","environment":"production"}},"ajaxTrustedUrl":{"https:\/\/gov.wales\/search":true},"user":{"uid":0,"permissionsHash":"6fa35d01d32b11a0f49aa97f6ede2ffe47df87b39942df4fc71ebde4a0cd2f11"}}</script>
+<script src="/sites/default/files/js/js_aRVJ3MdDVYsxtzIyliTzcm576TFmee9hAxhtWFHgGbw.js"></script>
+<script src="//cc.cdn.civiccomputing.com/8/cookieControl-8.2.1.min.js"></script>
+<script src="/sites/default/files/js/js_146wN4YoS5yNZSPmOhTAqpnHYfBW4BAsyCM_2IqGQGE.js"></script>
+
+        <div id="detect__breakpoint">
+      <div class="breakpoint device-xs"></div>
+      <div class="breakpoint device-sm"></div>
+      <div class="breakpoint device-md"></div>
+      <div class="breakpoint device-lg"></div>
+    </div>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"42e0ea2850","applicationID":"226112119","transactionName":"MgYBYURUXRICUxALWwtMNkdfGloPB1UcTEQNEw==","queueTime":0,"applicationTime":157,"atts":"HkECFwxOThw=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>
