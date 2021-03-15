@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,newCasesBySpecimenDate,cumCasesBySpecimenDate
+nation,England,E92000001,2021-03-15,0,3731849
 nation,England,E92000001,2021-03-14,1487,3731849
 nation,England,E92000001,2021-03-13,2948,3730362
 nation,England,E92000001,2021-03-12,4491,3727414
