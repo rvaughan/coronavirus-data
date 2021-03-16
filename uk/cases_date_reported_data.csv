@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,newCasesByPublishDate,cumCasesByPublishDate
+overview,United Kingdom,K02000001,2021-03-16,5294,4268821
 overview,United Kingdom,K02000001,2021-03-15,5089,4263527
 overview,United Kingdom,K02000001,2021-03-14,4618,4258438
 overview,United Kingdom,K02000001,2021-03-13,5534,4253820
@@ -410,30 +411,3 @@ overview,United Kingdom,K02000001,2020-02-02,0,2
 overview,United Kingdom,K02000001,2020-02-01,0,2
 overview,United Kingdom,K02000001,2020-01-31,2,2
 overview,United Kingdom,K02000001,2020-01-30,0,
-overview,United Kingdom,K02000001,2020-01-29,0,
-overview,United Kingdom,K02000001,2020-01-28,0,
-overview,United Kingdom,K02000001,2020-01-27,0,
-overview,United Kingdom,K02000001,2020-01-26,0,
-overview,United Kingdom,K02000001,2020-01-25,0,
-overview,United Kingdom,K02000001,2020-01-24,0,
-overview,United Kingdom,K02000001,2020-01-23,0,
-overview,United Kingdom,K02000001,2020-01-22,0,
-overview,United Kingdom,K02000001,2020-01-21,0,
-overview,United Kingdom,K02000001,2020-01-20,0,
-overview,United Kingdom,K02000001,2020-01-19,0,
-overview,United Kingdom,K02000001,2020-01-18,0,
-overview,United Kingdom,K02000001,2020-01-17,0,
-overview,United Kingdom,K02000001,2020-01-16,0,
-overview,United Kingdom,K02000001,2020-01-15,0,
-overview,United Kingdom,K02000001,2020-01-14,0,
-overview,United Kingdom,K02000001,2020-01-13,0,
-overview,United Kingdom,K02000001,2020-01-12,0,
-overview,United Kingdom,K02000001,2020-01-11,0,
-overview,United Kingdom,K02000001,2020-01-10,0,
-overview,United Kingdom,K02000001,2020-01-09,0,
-overview,United Kingdom,K02000001,2020-01-08,0,
-overview,United Kingdom,K02000001,2020-01-07,0,
-overview,United Kingdom,K02000001,2020-01-06,0,
-overview,United Kingdom,K02000001,2020-01-05,0,
-overview,United Kingdom,K02000001,2020-01-04,0,
-overview,United Kingdom,K02000001,2020-01-03,0,
