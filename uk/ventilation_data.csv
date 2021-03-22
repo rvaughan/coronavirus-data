@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,covidOccupiedMVBeds
+nation,England,E92000001,2021-03-21,692
 nation,England,E92000001,2021-03-20,710
 nation,England,E92000001,2021-03-19,749
 nation,England,E92000001,2021-03-18,797
