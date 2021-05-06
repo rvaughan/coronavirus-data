@@ -256,7 +256,7 @@
 		</div>
 		<a class="govuk-link govuk-link--no-visited-state bottom-aligned govuk-!-margin-top-2 ext-link"
        rel="next"
-		   style="text-decoration: none"
+		   style="text-decoration: none; justify-self: start"
 		   href="/details/vaccinations">
 			<b>All vaccination data</b>
 		</a>
@@ -392,8 +392,13 @@
 			</div>
 		</figcaption>
 		<div class="graph">
-			<img src="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-05/vaccinations/overview/K02000001_thumbnail.svg"
-			     alt="Chart displaying the percentage of adult population vaccinated in United Kingdom"/>
+			<a href="/details/vaccinations"
+				   class="govuk-link govuk-link--no-visited-state bottom-aligned"
+				   style="text-decoration: none"
+				   rel="next">
+				<img src="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-05/vaccinations/overview/K02000001_thumbnail.svg"
+				     alt="Chart displaying the percentage of adult population vaccinated in United Kingdom"/>
+			</a>
 		</div>
 
 	</figure>
