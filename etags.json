@@ -9,7 +9,7 @@
     "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv": "W/\"9a92dab2fdea74c228ac3bf6af81ce9ca11741d90c5a3ede3332b6f256259939\"",
     "https://c19downloads.azureedge.net/downloads/json/coronavirus-cases_latest.json": "0x8D837C07AAE141F",
     "https://c19downloads.azureedge.net/downloads/json/coronavirus-deaths_latest.json": "0x8D837C07AB0D3F1",
-    "https://covidtracking.com/api/v1/states/current.json": "\"6e6a83132a64926cd34d31842edc11c2-ssl\"",
+    "https://covidtracking.com/api/v1/states/current.json": "\"6e6a83132a64926cd34d31842edc11c2-ssl-df\"",
     "https://covidtracking.com/api/v1/states/daily.json": "\"4c2d5166645f3cfdac9f3decc83389dd-ssl-df\"",
     "https://covidtracking.com/api/v1/states/info.json": "\"54a0bf380905ace471cdfa95495b8078-ssl-df\"",
     "https://covidtracking.com/api/v1/us/current.json": "\"573675234ef91e0dd98660e3f8be371c-ssl\"",
