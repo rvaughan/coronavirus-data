@@ -1,15 +1,16 @@
 areaType,areaName,areaCode,date,newDeaths28DaysByDeathDate,cumDeaths28DaysByDeathDate
-nation,England,E92000001,2021-05-17,0,112315
-nation,England,E92000001,2021-05-16,5,112315
-nation,England,E92000001,2021-05-15,4,112310
-nation,England,E92000001,2021-05-14,1,112306
-nation,England,E92000001,2021-05-13,4,112305
+nation,England,E92000001,2021-05-18,0,112318
+nation,England,E92000001,2021-05-17,1,112318
+nation,England,E92000001,2021-05-16,6,112317
+nation,England,E92000001,2021-05-15,4,112311
+nation,England,E92000001,2021-05-14,1,112307
+nation,England,E92000001,2021-05-13,5,112306
 nation,England,E92000001,2021-05-12,7,112301
-nation,England,E92000001,2021-05-11,12,112294
-nation,England,E92000001,2021-05-10,7,112282
+nation,England,E92000001,2021-05-11,13,112294
+nation,England,E92000001,2021-05-10,6,112281
 nation,England,E92000001,2021-05-09,7,112275
-nation,England,E92000001,2021-05-08,8,112268
-nation,England,E92000001,2021-05-07,6,112260
+nation,England,E92000001,2021-05-08,7,112268
+nation,England,E92000001,2021-05-07,7,112261
 nation,England,E92000001,2021-05-06,8,112254
 nation,England,E92000001,2021-05-05,11,112246
 nation,England,E92000001,2021-05-04,9,112235
@@ -441,6 +442,7 @@ nation,England,E92000001,2020-03-05,3,6
 nation,England,E92000001,2020-03-04,0,3
 nation,England,E92000001,2020-03-03,2,3
 nation,England,E92000001,2020-03-02,1,1
+nation,Northern Ireland,N92000002,2021-05-18,1,2152
 nation,Northern Ireland,N92000002,2021-05-17,0,2151
 nation,Northern Ireland,N92000002,2021-05-16,2,2151
 nation,Northern Ireland,N92000002,2021-05-15,0,2149
@@ -867,6 +869,7 @@ nation,Northern Ireland,N92000002,2020-03-21,1,3
 nation,Northern Ireland,N92000002,2020-03-20,0,2
 nation,Northern Ireland,N92000002,2020-03-19,1,2
 nation,Northern Ireland,N92000002,2020-03-18,1,1
+nation,Scotland,S92000003,2021-05-18,0,7664
 nation,Scotland,S92000003,2021-05-17,0,7664
 nation,Scotland,S92000003,2021-05-16,0,7664
 nation,Scotland,S92000003,2021-05-15,0,7664
@@ -1299,6 +1302,7 @@ nation,Scotland,S92000003,2020-03-15,0,3
 nation,Scotland,S92000003,2020-03-14,2,3
 nation,Scotland,S92000003,2020-03-13,0,1
 nation,Scotland,S92000003,2020-03-12,1,1
+nation,Wales,W92000004,2021-05-18,0,5560
 nation,Wales,W92000004,2021-05-17,0,5560
 nation,Wales,W92000004,2021-05-16,0,5560
 nation,Wales,W92000004,2021-05-15,0,5560

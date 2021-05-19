@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,newDeaths28DaysByPublishDate,cumDeaths28DaysByPublishDate
+nation,England,E92000001,2021-05-19,3,112318
 nation,England,E92000001,2021-05-18,5,112315
 nation,England,E92000001,2021-05-17,3,112310
 nation,England,E92000001,2021-05-16,3,112307
@@ -438,6 +439,7 @@ nation,England,E92000001,2020-03-09,1,3
 nation,England,E92000001,2020-03-08,0,2
 nation,England,E92000001,2020-03-07,1,2
 nation,England,E92000001,2020-03-06,1,1
+nation,Northern Ireland,N92000002,2021-05-19,0,2152
 nation,Northern Ireland,N92000002,2021-05-18,2,2152
 nation,Northern Ireland,N92000002,2021-05-17,1,2150
 nation,Northern Ireland,N92000002,2021-05-16,0,2149
@@ -864,6 +866,7 @@ nation,Northern Ireland,N92000002,2020-03-22,0,2
 nation,Northern Ireland,N92000002,2020-03-21,1,2
 nation,Northern Ireland,N92000002,2020-03-20,,1
 nation,Northern Ireland,N92000002,2020-03-19,,1
+nation,Scotland,S92000003,2021-05-19,0,7664
 nation,Scotland,S92000003,2021-05-18,0,7664
 nation,Scotland,S92000003,2021-05-17,0,7664
 nation,Scotland,S92000003,2021-05-16,0,7664
@@ -1295,6 +1298,7 @@ nation,Scotland,S92000003,2020-03-17,1,2
 nation,Scotland,S92000003,2020-03-16,,1
 nation,Scotland,S92000003,2020-03-15,,1
 nation,Scotland,S92000003,2020-03-14,,1
+nation,Wales,W92000004,2021-05-19,0,5560
 nation,Wales,W92000004,2021-05-18,0,5560
 nation,Wales,W92000004,2021-05-17,1,5560
 nation,Wales,W92000004,2021-05-16,1,5559
