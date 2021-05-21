@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" itemtype="https://schema.org/WebSite" itemscope>
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -10,6 +10,8 @@
 		<meta property="og:type" content="website">
 		<meta property="og:locale" content="en_GB"/>
 		<meta property="og:image" content="https://coronavirus.data.gov.uk/assets/public/images/opengraph-image.png?tm=2021-05-20T15:00:03.4098325Z">
+		<meta itemprop="copyrightNotice" content="All content is available under the Open Government Licence v3.0, except where otherwise stated.">
+		<meta itemprop="logo" content="https://coronavirus.data.gov.uk/assets/icon/favicon.png">
 		<link rel="preload" href="https://coronavirus.data.gov.uk/assets/govuk-frontend/govuk/assets/fonts/light-94a07e06a1-v2.woff2" as="font" type="font/woff2" crossorigin>
 		<link rel="preload" href="https://coronavirus.data.gov.uk/assets/govuk-frontend/govuk/assets/fonts/bold-b542beb274-v2.woff2" as="font" type="font/woff2" crossorigin>
 		<link rel="preload" href="https://coronavirus.data.gov.uk/assets/application.css?tm=2021-05-20T15:00:03.4098325Z" as="style" type="text/css">
@@ -21,34 +23,20 @@
 		<meta property="og:title" content="Daily summary | Coronavirus in the UK">
 		<meta name="twitter:title" content="Daily summary | Coronavirus in the UK">
 		<meta name="twitter:title" content="Daily summary | Coronavirus in the UK">
-		<meta name="description" content="Official Coronavirus (COVID-19) disease situation dashboard with latest data in the UK.">
+		<meta name="description" itemprop="abstract" content="Official Coronavirus (COVID-19) disease situation dashboard with latest data in the UK.">
 		<meta property="og:description" content="Official Coronavirus (COVID-19) disease situation dashboard with latest data in the UK.">
 		<meta name="twitter:description" content="Official Coronavirus (COVID-19) disease situation dashboard with latest data in the UK.">
 		<meta name="keywords"
 		      content="official,COVID19,COVID-19,Coronavirus,Public Health England,United Kingdom,Data,Charts,Statistics,Testing,Cases,Vaccinations,Deaths,Healthcare,Download,Coronavirus tracker,PHE,UK,API,MSOA,postcode,dashboard">
-		<meta property="og:url" content="https://coronavirus.data.gov.uk">
+		<meta property="url" itemprop="url" content="https://coronavirus.data.gov.uk/">
+		<meta property="og:url" content="https://coronavirus.data.gov.uk/">
 	  
 			<meta name="robots" content="all" />
 			<meta name="googlebot" content="all" />
 			<meta name="googlebot-news" content="all" />
 		
 		<link rel="shortcut icon" href="/assets/icon/favicon.ico"><meta name="twitter:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-summary_20210520.png?tm=2021-05-20T15:00:03.4098325Z">
-				<meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-summary_20210520.png?tm=2021-05-20T15:00:03.4098325Z"><meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-summary_20210520.png?tm=2021-05-20T15:00:03.4098325Z"><meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-newCasesByPublishDate_20210520.png?tm=2021-05-20T15:00:03.4098325Z"><meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-newDeaths28DaysByPublishDate_20210520.png?tm=2021-05-20T15:00:03.4098325Z"><meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-newAdmissions_20210520.png?tm=2021-05-20T15:00:03.4098325Z"><meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-newVirusTests_20210520.png?tm=2021-05-20T15:00:03.4098325Z"><script type="application/ld+json">
-	    {
-	      "@context": "https://schema.org",
-	      "@type": "WebSite",
-		    "name": "UK Coronavirus Dashboard",
-	      "url": "https://coronavirus.data.gov.uk/",
-		    "logo": "https://coronavirus.data.gov.uk/assets/icon/favicon.png",
-	      "potentialAction": {
-	        "@type": "SearchAction",
-            "name": "Search postcode",
-	        "target": "https://coronavirus.data.gov.uk/search?postcode={postcode}",
-	        "query-input": "required maxlength=10 name=postcode"
-	      }
-	    }
-    </script>
-
+				<meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-summary_20210520.png?tm=2021-05-20T15:00:03.4098325Z"><meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-summary_20210520.png?tm=2021-05-20T15:00:03.4098325Z"><meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-newCasesByPublishDate_20210520.png?tm=2021-05-20T15:00:03.4098325Z"><meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-newDeaths28DaysByPublishDate_20210520.png?tm=2021-05-20T15:00:03.4098325Z"><meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-newAdmissions_20210520.png?tm=2021-05-20T15:00:03.4098325Z"><meta property="og:image" content="https://coronavirus.data.gov.uk/downloads/og-images/og-newVirusTests_20210520.png?tm=2021-05-20T15:00:03.4098325Z">
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161400643-2"></script>
 		<script type="application/javascript">!function(e,t,n){var a=e.location,i="script",r="instrumentationKey",o="ingestionendpoint",s="disableExceptionTracking",c="ai.device.",p="toLowerCase",l="crossOrigin",u="POST",d="appInsightsSDK",f=n.name||"appInsights";(n.name||e[d])&&(e[d]=f);var g=e[f]||function(d){var f=!1,g=!1,m={initialize:!0,queue:[],sv:"4",version:2,config:d};function v(e,t){var n={},i="Browser";return n[c+"id"]=i[p](),n[c+"type"]=i,n["ai.operation.name"]=a&&a.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||n.src;if(h){function y(t){var i,s,c,l,y,T,S,k,D,C,b;f=!0,m.queue=[],g||(g=!0,i=h,S=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][p]()]=i[1])}if(!e[o]){var r=e.endpointsuffix,s=r?e.location:null;e[o]="https://"+(s?s+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),k=S[r]||d[r]||"",C=(D=S[o])?D+"/v2/track":config.endpointUrl,(b=[]).push((s="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",c=i,l=C,(T=(y=v(k,"Exception")).data).baseType="ExceptionData",T.baseData.exceptions=[{typeName:"SDKLoadFailed",message:s.replace(/\./g,"-"),hasFullStack:!1,stack:s+"\nSnippet failed to load ["+c+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(a&&a.pathname||"_unknown_")+"\nEndpoint: "+l,parsedStack:[]}],y)),b.push(function(e,t,n,a){var i=v(k,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,i,C)),function(t,a){if(JSON){var i=e.fetch;if(i&&!n.useXhr)i(a,{method:u,body:JSON.stringify(t),mode:"cors"});else if(XMLHttpRequest){var r=new XMLHttpRequest;r.open(u,a),r.setRequestHeader("Content-type","application/json"),r.send(JSON.stringify(t))}}}(b,C))}function T(e,t){g||setTimeout(function(){!t&&m.core||y()},500)}var S=function(){var e=t.createElement(i);e.src=h;var a=n[l];return!a&&""!==a||"undefined"==e[l]||(e[l]=a),e.onload=T,e.onerror=y,e.onreadystatechange=function(t,n){"loaded"!==e.readyState&&"complete"!==e.readyState||T(0,n)},e}();n.ld<0?t.getElementsByTagName("head")[0].appendChild(S):setTimeout(function(){t.getElementsByTagName(i)[0].parentNode.appendChild(S)},n.ld||0)}try{m.cookie=t.cookie}catch(e){}function k(e){for(;e.length;)!function(e){m[e]=function(){var t=arguments;f||m.queue.push(function(){m[e].apply(m,t)})}}(e.pop())}var D="track",C="TrackPage",b="TrackEvent";k([D+"Event",D+"PageView",D+"Exception",D+"Trace",D+"DependencyData",D+"Metric",D+"PageViewPerformance","start"+C,"stop"+C,"start"+b,"stop"+b,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var w=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[s]&&!0!==w[s]){method="onerror",k(["_"+method]);var E=e[method];e[method]=function(e,t,n,a,i){var r=E&&E(e,t,n,a,i);return!0!==r&&m["_"+method]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(n.cfg);(e[f]=g).queue&&0===g.queue.length&&g.trackPageView({})}(window,document,{src:"https://az416426.vo.msecnd.net/scripts/b/ai.2.min.js",cfg:{name:"frontend",distributedTracingMode:2,instrumentationKey:"InstrumentationKey=5fdf40dc-b924-4153-a168-b9c70be0219d"}});</script>
     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}</script>
@@ -170,6 +158,12 @@
 		<p class="govuk-body-s" id="last-update">
 			Last updated on&nbsp;<time itemprop="datePosted" content="2021-05-20T15:00:03.4098325Z" datetime="2021-05-20T15:00:03.4098325Z">Thursday 20 May 2021 at 4:00pm</time>
 			<meta itemprop="expires" content="2021-05-21 15:00:03.409832"/>
+			<span itemprop="maintainer" itemscope>
+				<span itemprop="organization" itemtype="https://schema.org/Organization">
+					<meta itemprop="legalName" content="Public Health England">
+					<meta itemprop="email" content="coronavirus-tracker@phe.gov.uk">
+				</span>
+      </span>
 		</p>
 	</div>
 	<main class="govuk-main-wrapper" id="main-content" role="main">
@@ -236,7 +230,9 @@
 	</div>
 
 </aside>
-<div class="main" itemscope itemprop="SpecialAnnouncement" itemtype="https://schema.org/SpecialAnnouncement"><div>
+<div class="main" itemscope itemprop="SpecialAnnouncement" itemtype="https://schema.org/SpecialAnnouncement">
+				<meta itemprop="text"
+				      content="Daily data and visualisations on cases, deaths, healthcare, testing, and vaccinations for the coronavirus pandemic in the United Kingdom."/><div>
 			<div class="govuk-grid-row">
 				<div class="govuk-grid-column-full ">
 					<h1 class="govuk-heading-l govuk-!-margin-bottom-2 govuk-!-margin-top-2" data-nosnippet="true">UK summary</h1>
@@ -278,6 +274,10 @@
 	</span>
 	<meta itemprop="datePosted" content="2021-05-20T15:00:03.4098325Z"/>
 	<meta itemprop="expires" content="2021-05-21 15:00:03.409832"/>
+	<meta itemprop="mainEntityOfPage" content="https://coronavirus.data.gov.uk/details/vaccinations"/>
+	<meta itemprop="thumbnailUrl" content="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/vaccinations/overview/K02000001_thumbnail.svg"/>
+	<meta itemprop="description"
+	      content="Latest data on vaccinations for United Kingdom provided on 19 May 2021"/>
 	<div class="topic">
 		<div>
 			<span class="govuk-caption-m govuk-!-font-weight-regular" itemprop="name">Vaccinations</span>
@@ -478,7 +478,7 @@
 			</div>
 		</figcaption>
 		<div class="graph">
-			<a href="/details/vaccinations"
+			<a href="https://coronavirus.data.gov.uk/details/vaccinations"
 				   class="govuk-link govuk-link--no-visited-state bottom-aligned"
 				   style="text-decoration: none"
 				   rel="next">
@@ -492,10 +492,11 @@
 	<div class="mob-link additional-info">
 		<hr class="govuk-section-break govuk-section-break--visible bottom-aligned" style="margin: 0 -20px;"/>
 		<p class="bottom-aligned govuk-!-margin-top-2 govuk-!-font-size-16 govuk-!-margin-bottom-0" itemtype="https://schema.org/URL" itemprop="url" itemscope>
+			<meta itemprop="name" content="Vaccinations"/>
+			<meta itemprop="url" content="https://coronavirus.data.gov.uk/details/vaccinations"/>
 			<a class="govuk-link govuk-link--no-visited-state"
 			   style="text-decoration: none"
-			   itemprop="url"
-			   href="/details/vaccinations">
+			   href="https://coronavirus.data.gov.uk/details/vaccinations">
 				<b>All vaccination data</b>
 			</a>
 		</p>
@@ -512,6 +513,10 @@
 			</span>
 			<meta itemprop="datePosted" content="2021-05-20T15:00:03.4098325Z"/>
 			<meta itemprop="expires" content="2021-05-21 15:00:03.409832"/>
+			<meta itemprop="mainEntityOfPage" content="https://coronavirus.data.gov.uk/details/cases"/>
+			<meta itemprop="thumbnailUrl" content="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newCasesByPublishDate.svg"/>
+			<meta itemprop="description"
+			      content="Latest data on cases for United Kingdom provided on 20 May 2021"/>
 			<span class="govuk-caption-m govuk-!-font-weight-regular" itemprop="name">Cases</span><h2 class="govuk-heading-m title-mobile govuk-!-margin-bottom-0">
 					People tested positive
 				</h2></div>
@@ -618,20 +623,21 @@
 			<span class="body-small">7-day rolling rate by date of specimen as of&nbsp;15&nbsp;May&nbsp;2021</span>
 		</div>
 	</details><a href="/details/cases"
-           itemprop="thumbnailUrl"
 				   class="govuk-link govuk-link--no-visited-state bottom-aligned"
 				   style="text-decoration: none;">
 				<figure class="graph mini-card-figure">
-					<img itemprop="image" src="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newCasesByPublishDate.svg" alt="Graph - click for more details">
+					<img src="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newCasesByPublishDate.svg" alt="Graph - click for more details">
 				</figure>
 			</a>
 		
 		<hr class="govuk-section-break govuk-section-break--visible bottom-aligned" style="margin: 0 -20px;"/>
 		<div class="additional-info bottom-aligned" style="margin-top: 5px">
 				<p class="govuk-!-margin-bottom-0 govuk-!-margin-top-0 govuk-!-font-size-16">
-				<a href="/details/cases"
-				   class="govuk-link govuk-link--no-visited-state"
-				   style="text-decoration: none"><b>All cases data</b></a>
+					<meta itemprop="name" content="Cases"/>
+					<meta itemprop="url" content="https://coronavirus.data.gov.uk/details/cases"/>
+					<a href="https://coronavirus.data.gov.uk/details/cases"
+					   class="govuk-link govuk-link--no-visited-state"
+					   style="text-decoration: none"><b>All cases data</b></a>
 				</p>
 		</div>
 	</div>
@@ -646,6 +652,10 @@
 			</span>
 			<meta itemprop="datePosted" content="2021-05-20T15:00:03.4098325Z"/>
 			<meta itemprop="expires" content="2021-05-21 15:00:03.409832"/>
+			<meta itemprop="mainEntityOfPage" content="https://coronavirus.data.gov.uk/details/deaths"/>
+			<meta itemprop="thumbnailUrl" content="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newDeaths28DaysByPublishDate.svg"/>
+			<meta itemprop="description"
+			      content="Latest data on deaths for United Kingdom provided on 20 May 2021"/>
 			<span class="govuk-caption-m govuk-!-font-weight-regular" itemprop="name">Deaths</span><h2 class="govuk-heading-m title-mobile govuk-!-margin-bottom-0">
 					Deaths within 28 days of positive test
 				</h2></div>
@@ -753,20 +763,21 @@
 		</div>
 	</details>
 		<a href="/details/deaths"
-           itemprop="thumbnailUrl"
 				   class="govuk-link govuk-link--no-visited-state bottom-aligned"
 				   style="text-decoration: none;">
 				<figure class="graph mini-card-figure">
-					<img itemprop="image" src="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newDeaths28DaysByPublishDate.svg" alt="Graph - click for more details">
+					<img src="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newDeaths28DaysByPublishDate.svg" alt="Graph - click for more details">
 				</figure>
 			</a>
 		
 		<hr class="govuk-section-break govuk-section-break--visible bottom-aligned" style="margin: 0 -20px;"/>
 		<div class="additional-info bottom-aligned" style="margin-top: 5px">
 				<p class="govuk-!-margin-bottom-0 govuk-!-margin-top-0 govuk-!-font-size-16">
-				<a href="/details/deaths"
-				   class="govuk-link govuk-link--no-visited-state"
-				   style="text-decoration: none"><b>All deaths data</b></a>
+					<meta itemprop="name" content="Deaths"/>
+					<meta itemprop="url" content="https://coronavirus.data.gov.uk/details/deaths"/>
+					<a href="https://coronavirus.data.gov.uk/details/deaths"
+					   class="govuk-link govuk-link--no-visited-state"
+					   style="text-decoration: none"><b>All deaths data</b></a>
 				</p>
 		</div>
 	</div>
@@ -781,6 +792,10 @@
 			</span>
 			<meta itemprop="datePosted" content="2021-05-20T15:00:03.4098325Z"/>
 			<meta itemprop="expires" content="2021-05-21 15:00:03.409832"/>
+			<meta itemprop="mainEntityOfPage" content="https://coronavirus.data.gov.uk/details/healthcare"/>
+			<meta itemprop="thumbnailUrl" content="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newAdmissions.svg"/>
+			<meta itemprop="description"
+			      content="Latest data on healthcare for United Kingdom provided on 16 May 2021"/>
 			<span class="govuk-caption-m govuk-!-font-weight-regular" itemprop="name">Healthcare</span><h2 class="govuk-heading-m title-mobile govuk-!-margin-bottom-0">
 					Patients admitted
 				</h2></div>
@@ -878,20 +893,21 @@
 			</div>
 		</div>
 			<hr class="govuk-section-break bottom-aligned"/><a href="/details/healthcare"
-           itemprop="thumbnailUrl"
 				   class="govuk-link govuk-link--no-visited-state bottom-aligned"
 				   style="text-decoration: none;">
 				<figure class="graph mini-card-figure">
-					<img itemprop="image" src="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newAdmissions.svg" alt="Graph - click for more details">
+					<img src="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newAdmissions.svg" alt="Graph - click for more details">
 				</figure>
 			</a>
 		
 		<hr class="govuk-section-break govuk-section-break--visible bottom-aligned" style="margin: 0 -20px;"/>
 		<div class="additional-info bottom-aligned" style="margin-top: 5px">
 				<p class="govuk-!-margin-bottom-0 govuk-!-margin-top-0 govuk-!-font-size-16">
-				<a href="/details/healthcare"
-				   class="govuk-link govuk-link--no-visited-state"
-				   style="text-decoration: none"><b>All healthcare data</b></a>
+					<meta itemprop="name" content="Healthcare"/>
+					<meta itemprop="url" content="https://coronavirus.data.gov.uk/details/healthcare"/>
+					<a href="https://coronavirus.data.gov.uk/details/healthcare"
+					   class="govuk-link govuk-link--no-visited-state"
+					   style="text-decoration: none"><b>All healthcare data</b></a>
 				</p>
 		</div>
 	</div>
@@ -906,6 +922,10 @@
 			</span>
 			<meta itemprop="datePosted" content="2021-05-20T15:00:03.4098325Z"/>
 			<meta itemprop="expires" content="2021-05-21 15:00:03.409832"/>
+			<meta itemprop="mainEntityOfPage" content="https://coronavirus.data.gov.uk/details/testing"/>
+			<meta itemprop="thumbnailUrl" content="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newVirusTests.svg"/>
+			<meta itemprop="description"
+			      content="Latest data on testing for United Kingdom provided on 19 May 2021"/>
 			<span class="govuk-caption-m govuk-!-font-weight-regular" itemprop="name">Testing</span><h2 class="govuk-heading-m title-mobile govuk-!-margin-bottom-0">
 					Virus tests conducted
 				</h2></div>
@@ -1003,20 +1023,21 @@
 			</div>
 		</div>
 			<hr class="govuk-section-break bottom-aligned"/><a href="/details/testing"
-           itemprop="thumbnailUrl"
 				   class="govuk-link govuk-link--no-visited-state bottom-aligned"
 				   style="text-decoration: none;">
 				<figure class="graph mini-card-figure">
-					<img itemprop="image" src="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newVirusTests.svg" alt="Graph - click for more details">
+					<img src="https://coronavirus.data.gov.uk/downloads/homepage/2021-05-20/thumbnail_newVirusTests.svg" alt="Graph - click for more details">
 				</figure>
 			</a>
 		
 		<hr class="govuk-section-break govuk-section-break--visible bottom-aligned" style="margin: 0 -20px;"/>
 		<div class="additional-info bottom-aligned" style="margin-top: 5px">
 				<p class="govuk-!-margin-bottom-0 govuk-!-margin-top-0 govuk-!-font-size-16">
-				<a href="/details/testing"
-				   class="govuk-link govuk-link--no-visited-state"
-				   style="text-decoration: none"><b>All testing data</b></a>
+					<meta itemprop="name" content="Testing"/>
+					<meta itemprop="url" content="https://coronavirus.data.gov.uk/details/testing"/>
+					<a href="https://coronavirus.data.gov.uk/details/testing"
+					   class="govuk-link govuk-link--no-visited-state"
+					   style="text-decoration: none"><b>All testing data</b></a>
 				</p>
 		</div>
 	</div>
@@ -1025,26 +1046,33 @@
 	</div>
 	<h2 class="govuk-heading-l govuk-!-margin-top-4 govuk-!-margin-bottom-0">What&#39;s the situation in your local area?</h2>
 	<div class="card-container double-row">
-		<div class="mini-card">
+		<div class="mini-card" itemscope itemtype="https://schema.org/WebSite">
+			<meta itemprop="url" content="https://coronavirus.data.gov.uk/"/>
+			<meta itemprop="name" content="Search by postcode"/>
 			<h3 class="govuk-heading-m govuk-!-margin-bottom-2">
 				Search by postcode
-				<small class="govuk-caption-m govuk-!-margin-top-1">View data for your local area</small>
-			</h3><form action="/search" name="postcode-search" method="GET" id="regionform" rel="next" target="_self" enctype="application/x-www-form-urlencoded">
+				<small class="govuk-caption-m govuk-!-margin-top-1" itemprop="description">
+					View data for your local area
+				</small>
+			</h3><form action="https://coronavirus.data.gov.uk/search" name="postcode-search" method="GET"
+      itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction"
+      id="regionform" rel="next" target="_self" enctype="application/x-www-form-urlencoded">
+    <meta itemprop="target" content="https://coronavirus.data.gov.uk/search?postcode={postcode}"/>
 	<div class="govuk-form-group govuk-!-margin-bottom-0">
 	  <fieldset class="govuk-fieldset" role="group" aria-describedby="postcode-hint">
 			<label class="govuk-label govuk-!-font-weight-bold" for="postcode">
 				Enter a postcode
 			</label>
-	    <div class="govuk-hint govuk-!-margin-bottom-3">
+	    <div class="govuk-hint govuk-!-margin-bottom-3" itemprop="description">
 		    For example SW1A 0AA
 	    </div>
 			
 			<p class="govuk-!-margin-bottom-0">
 				<input form="regionform"
 				       class="govuk-input govuk-input--width-10"
-				       id="postcode" name="postcode" type="text"
+				       id="postcode" name="postcode" type="text" itemprop="query-input"
 				       pattern="[A-Za-z]{1,2}\d{1,2}[A-Za-z]?\s?\d{1,2}[A-Za-z]{1,2}\s{0,2}"
-				       style="text-transform: uppercase; max-width: 15ex;" maxlength="10">
+				       style="text-transform: uppercase; max-width: 15ex;" maxlength="10" required>
 				<label for="submit-postcode" class="govuk-visually-hidden">Submit</label>
 				<input class="govuk-button govuk-!-margin-bottom-0" id="submit-postcode"
 				       data-module="govuk-button" type="submit" value=""/>
@@ -1057,18 +1085,28 @@
 	  </fieldset>
 	</div>
 
-</form></div><div class="mini-card map-view">
-	<div class="">
+</form></div><div class="mini-card map-view" itemtype="https://schema.org/WebContent" itemprop="WebContent" itemscope>
+	<div>
+			<span itemprop="contentLocation" itemtype="http://schema.org/AdministrativeArea" itemscope>
+				<meta itemprop="name" content="United Kingdom"/>
+				<meta itemprop="sameAs" content="https://en.wikipedia.org/wiki/United Kingdom" />
+			</span>
+			<meta itemprop="datePosted" content="2021-05-20T15:00:03.4098325Z"/>
+			<meta itemprop="expires" content="2021-05-21 15:00:03.409832"/>
+			<meta itemprop="mainEntityOfPage" content="https://coronavirus.data.gov.uk/details/interactive-map"/>
+			<meta itemprop="thumbnailUrl" content="https://coronavirus.data.gov.uk/public/assets/frontpage/images/map.png"/>
+			<meta itemprop="description"
+			      content="Interactive map of the UK showing latest rate of cases at local authority and small area levels."/>
 		<h3 class="govuk-heading-m govuk-heading-m govuk-!-margin-bottom-3">
 			UK interactive cases map
 			<small class="govuk-caption-m govuk-!-margin-top-1">View case rates across the UK</small>
 		</h3>
-		<a href="/details/interactive-map" class="govuk-button" style="width: max-content">
+		<a href="https:://coronavirus.data.gov.uk/details/interactive-map" class="govuk-button" style="width: max-content">
 				View map
 		</a>
 
 	</div>
-	<div class="" style="text-align: center">
+	<div style="text-align: center">
 		<img src="https://coronavirus.data.gov.uk/public/assets/frontpage/images/map.png"
 		     class="map-img"
 		     alt="Map of the UK showing latest rate of new cases by specimen date for Upper Tier Local Authorities">
