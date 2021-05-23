@@ -69,14 +69,14 @@ Although we're not currently pulling this in - it's 200M - Microsoft do provide 
 
 The UK data is pulled twice an hour from the following sources:
 
-  * [England and Wales Data](https://coronavirus.data.gov.uk/)
-  * [Northern Ireland](https://www.nisra.gov.uk/publications/weekly-deaths)
+  * [England and Wales Data](https://coronavirus.data.gov.uk/) **Note:** This data is no longer updated.
+  * [Northern Ireland](https://www.nisra.gov.uk/publications/weekly-deaths) **Note:** This data is no longer updated.
   * [Scottish Data](https://www.nrscotland.gov.uk/covid19stats)
   * [Wales Data](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary)
   * [UK R Number](https://www.gov.uk/government/news/government-publishes-latest-r-number)
   * [SAGE Guidance](https://www.gov.uk/government/collections/scientific-evidence-supporting-the-government-response-to-coronavirus-covid-19)
   * [Independant SAGE Guidance](https://www.independentsage.org/)
-  * [PHE National COVID-19 surveillance reports](https://www.gov.uk/government/publications/national-covid-19-surveillance-reports). Note: This data is no longer updated.
+  * [PHE National COVID-19 surveillance reports](https://www.gov.uk/government/publications/national-covid-19-surveillance-reports). **Note:** This data is no longer updated.
   * [PHE Deaths](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary)
   * [PHE Deaths Data](https://coronavirus.data.gov.uk/deaths)
     * Specifically the data files identified on [this](https://coronavirus.data.gov.uk/about-data) page.
