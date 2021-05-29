@@ -433,8 +433,9 @@ nation,England,E92000001,2020-03-22,859,2913
 nation,England,E92000001,2020-03-21,777,2054
 nation,England,E92000001,2020-03-20,691,1277
 nation,England,E92000001,2020-03-19,586,586
-nation,Northern Ireland,N92000002,2021-05-26,0,9418
-nation,Northern Ireland,N92000002,2021-05-25,1,9418
+nation,Northern Ireland,N92000002,2021-05-27,0,9420
+nation,Northern Ireland,N92000002,2021-05-26,1,9420
+nation,Northern Ireland,N92000002,2021-05-25,2,9419
 nation,Northern Ireland,N92000002,2021-05-24,2,9417
 nation,Northern Ireland,N92000002,2021-05-23,1,9415
 nation,Northern Ireland,N92000002,2021-05-22,3,9414
@@ -884,10 +885,11 @@ nation,Northern Ireland,N92000002,2020-03-05,1,2
 nation,Northern Ireland,N92000002,2020-03-04,0,1
 nation,Northern Ireland,N92000002,2020-03-03,0,1
 nation,Northern Ireland,N92000002,2020-03-02,1,1
-nation,Scotland,S92000003,2021-05-24,16,24856
-nation,Scotland,S92000003,2021-05-23,13,24840
-nation,Scotland,S92000003,2021-05-22,19,24827
-nation,Scotland,S92000003,2021-05-21,18,24808
+nation,Scotland,S92000003,2021-05-25,19,24876
+nation,Scotland,S92000003,2021-05-24,16,24857
+nation,Scotland,S92000003,2021-05-23,13,24841
+nation,Scotland,S92000003,2021-05-22,19,24828
+nation,Scotland,S92000003,2021-05-21,19,24809
 nation,Scotland,S92000003,2021-05-20,17,24790
 nation,Scotland,S92000003,2021-05-19,16,24773
 nation,Scotland,S92000003,2021-05-18,17,24757
