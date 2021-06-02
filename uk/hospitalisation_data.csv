@@ -1,4 +1,8 @@
 areaType,areaName,areaCode,date,hospitalCases
+nation,England,E92000001,2021-06-01,776
+nation,England,E92000001,2021-05-31,773
+nation,England,E92000001,2021-05-30,755
+nation,England,E92000001,2021-05-29,748
 nation,England,E92000001,2021-05-28,743
 nation,England,E92000001,2021-05-27,742
 nation,England,E92000001,2021-05-26,745
@@ -434,7 +438,11 @@ nation,England,E92000001,2020-03-23,3183
 nation,England,E92000001,2020-03-22,2670
 nation,England,E92000001,2020-03-21,2152
 nation,England,E92000001,2020-03-20,1580
-nation,Northern Ireland,N92000002,2021-05-27,28
+nation,Northern Ireland,N92000002,2021-05-31,20
+nation,Northern Ireland,N92000002,2021-05-30,24
+nation,Northern Ireland,N92000002,2021-05-29,26
+nation,Northern Ireland,N92000002,2021-05-28,26
+nation,Northern Ireland,N92000002,2021-05-27,27
 nation,Northern Ireland,N92000002,2021-05-26,29
 nation,Northern Ireland,N92000002,2021-05-25,30
 nation,Northern Ireland,N92000002,2021-05-24,31
@@ -887,6 +895,11 @@ nation,Northern Ireland,N92000002,2020-03-04,12
 nation,Northern Ireland,N92000002,2020-03-03,12
 nation,Northern Ireland,N92000002,2020-03-02,12
 nation,Northern Ireland,N92000002,2020-03-01,11
+nation,Scotland,S92000003,2021-06-01,106
+nation,Scotland,S92000003,2021-05-31,110
+nation,Scotland,S92000003,2021-05-30,101
+nation,Scotland,S92000003,2021-05-29,86
+nation,Scotland,S92000003,2021-05-28,90
 nation,Scotland,S92000003,2021-05-27,83
 nation,Scotland,S92000003,2021-05-26,98
 nation,Scotland,S92000003,2021-05-25,97
@@ -1314,8 +1327,13 @@ nation,Scotland,S92000003,2020-03-30,627
 nation,Scotland,S92000003,2020-03-29,565
 nation,Scotland,S92000003,2020-03-28,511
 nation,Scotland,S92000003,2020-03-27,404
+nation,Wales,W92000004,2021-06-01,19
+nation,Wales,W92000004,2021-05-31,20
+nation,Wales,W92000004,2021-05-30,20
+nation,Wales,W92000004,2021-05-29,20
+nation,Wales,W92000004,2021-05-28,21
 nation,Wales,W92000004,2021-05-27,17
-nation,Wales,W92000004,2021-05-26,19
+nation,Wales,W92000004,2021-05-26,20
 nation,Wales,W92000004,2021-05-25,26
 nation,Wales,W92000004,2021-05-24,34
 nation,Wales,W92000004,2021-05-23,32
