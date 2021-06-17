@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,newPillarOneTestsByPublishDate,newPillarTwoTestsByPublishDate,newPillarThreeTestsByPublishDate,newPillarFourTestsByPublishDate,newTestsByPublishDate,cumPillarOneTestsByPublishDate,cumPillarTwoTestsByPublishDate,cumPillarThreeTestsByPublishDate,cumPillarFourTestsByPublishDate,cumTestsByPublishDate
+overview,United Kingdom,K02000001,2021-06-16,105760,982750,1660,15566,1105736,29209253,159009075,2241307,8384442,198844077
 overview,United Kingdom,K02000001,2021-06-15,112942,654065,1707,10977,779691,29103493,157975270,2238236,8368876,197685875
 overview,United Kingdom,K02000001,2021-06-14,79687,842792,792,8141,931412,28990551,157251682,2236529,8320818,196799580
 overview,United Kingdom,K02000001,2021-06-13,68211,971037,435,12974,1052657,28910864,156275376,2235737,8312677,195734654
