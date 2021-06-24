@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,hospitalCases
+nation,England,E92000001,2021-06-24,1274
 nation,England,E92000001,2021-06-23,1255
 nation,England,E92000001,2021-06-22,1301
 nation,England,E92000001,2021-06-21,1290
@@ -460,11 +461,12 @@ nation,England,E92000001,2020-03-23,3183
 nation,England,E92000001,2020-03-22,2670
 nation,England,E92000001,2020-03-21,2152
 nation,England,E92000001,2020-03-20,1580
-nation,Northern Ireland,N92000002,2021-06-21,13
-nation,Northern Ireland,N92000002,2021-06-20,15
-nation,Northern Ireland,N92000002,2021-06-19,16
-nation,Northern Ireland,N92000002,2021-06-18,17
-nation,Northern Ireland,N92000002,2021-06-17,18
+nation,Northern Ireland,N92000002,2021-06-22,17
+nation,Northern Ireland,N92000002,2021-06-21,18
+nation,Northern Ireland,N92000002,2021-06-20,17
+nation,Northern Ireland,N92000002,2021-06-19,18
+nation,Northern Ireland,N92000002,2021-06-18,18
+nation,Northern Ireland,N92000002,2021-06-17,19
 nation,Northern Ireland,N92000002,2021-06-16,18
 nation,Northern Ireland,N92000002,2021-06-15,18
 nation,Northern Ireland,N92000002,2021-06-14,16
@@ -938,6 +940,7 @@ nation,Northern Ireland,N92000002,2020-03-04,12
 nation,Northern Ireland,N92000002,2020-03-03,12
 nation,Northern Ireland,N92000002,2020-03-02,12
 nation,Northern Ireland,N92000002,2020-03-01,11
+nation,Scotland,S92000003,2021-06-23,170
 nation,Scotland,S92000003,2021-06-22,171
 nation,Scotland,S92000003,2021-06-21,159
 nation,Scotland,S92000003,2021-06-20,150
@@ -1391,6 +1394,7 @@ nation,Scotland,S92000003,2020-03-30,627
 nation,Scotland,S92000003,2020-03-29,565
 nation,Scotland,S92000003,2020-03-28,511
 nation,Scotland,S92000003,2020-03-27,404
+nation,Wales,W92000004,2021-06-23,42
 nation,Wales,W92000004,2021-06-22,44
 nation,Wales,W92000004,2021-06-21,46
 nation,Wales,W92000004,2021-06-20,45
