@@ -77,7 +77,7 @@ The UK data is pulled twice an hour from the following sources:
   * [SAGE Guidance](https://www.gov.uk/government/collections/scientific-evidence-supporting-the-government-response-to-coronavirus-covid-19)
   * [Independant SAGE Guidance](https://www.independentsage.org/)
   * [PHE National COVID-19 surveillance reports](https://www.gov.uk/government/publications/national-covid-19-surveillance-reports). **Note:** This data is no longer updated.
-  * [PHE Deaths](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary)
+  * [PHE Deaths](https://www.gov.uk/government/publications/phe-data-series-on-deaths-in-people-with-covid-19-technical-summary) **Note:** This data is no longer updated.
   * [PHE Deaths Data](https://coronavirus.data.gov.uk/deaths)
     * Specifically the data files identified on [this](https://coronavirus.data.gov.uk/about-data) page.
   * [Scottish Coronavirus (COVID-19): trends in daily data](https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/)
@@ -87,7 +87,7 @@ The UK data is pulled twice an hour from the following sources:
   * Found an API'fy data source:
     * List of available data [url](https://api.apify.com/v2/key-value-stores/tVaYRsPHLjNdNBu7S/records/LATEST?disableRedirect=true).
     * Latest UK data [url](https://api.apify.com/v2/key-value-stores/KWLojgM5r1JmMW4b4/records/LATEST?disableRedirect=true)
-    * Latest overall UK data [url](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending11june2021)
+    * Latest overall UK data [url](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending18june2021)
   * NHS Pathways
     * https://digital.nhs.uk/dashboards/nhs-pathways
     * https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online/latest
