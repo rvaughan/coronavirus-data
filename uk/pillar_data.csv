@@ -1,4 +1,7 @@
 areaType,areaName,areaCode,date,plannedCapacityByPublishDate,capacityPillarOne,capacityPillarTwo,capacityPillarThree,capacityPillarFour
+overview,United Kingdom,K02000001,2021-07-18,774803,202403,450000,120000,2400
+overview,United Kingdom,K02000001,2021-07-17,774803,202403,450000,120000,2400
+overview,United Kingdom,K02000001,2021-07-16,768803,202403,444000,120000,2400
 overview,United Kingdom,K02000001,2021-07-15,766803,202403,442000,120000,2400
 overview,United Kingdom,K02000001,2021-07-14,770860,202403,442000,120000,6457
 overview,United Kingdom,K02000001,2021-07-13,730610,202403,403000,120000,5207
