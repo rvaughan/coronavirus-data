@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,hospitalCases
+nation,England,E92000001,2021-07-23,4401
 nation,England,E92000001,2021-07-22,4230
 nation,England,E92000001,2021-07-21,4063
 nation,England,E92000001,2021-07-20,3894
@@ -489,18 +490,19 @@ nation,England,E92000001,2020-03-23,3183
 nation,England,E92000001,2020-03-22,2670
 nation,England,E92000001,2020-03-21,2152
 nation,England,E92000001,2020-03-20,1580
-nation,Northern Ireland,N92000002,2021-07-21,162
-nation,Northern Ireland,N92000002,2021-07-20,156
-nation,Northern Ireland,N92000002,2021-07-19,154
-nation,Northern Ireland,N92000002,2021-07-18,150
-nation,Northern Ireland,N92000002,2021-07-17,138
-nation,Northern Ireland,N92000002,2021-07-16,130
-nation,Northern Ireland,N92000002,2021-07-15,128
-nation,Northern Ireland,N92000002,2021-07-14,117
-nation,Northern Ireland,N92000002,2021-07-13,101
-nation,Northern Ireland,N92000002,2021-07-12,96
-nation,Northern Ireland,N92000002,2021-07-11,86
-nation,Northern Ireland,N92000002,2021-07-10,82
+nation,Northern Ireland,N92000002,2021-07-22,163
+nation,Northern Ireland,N92000002,2021-07-21,169
+nation,Northern Ireland,N92000002,2021-07-20,160
+nation,Northern Ireland,N92000002,2021-07-19,156
+nation,Northern Ireland,N92000002,2021-07-18,151
+nation,Northern Ireland,N92000002,2021-07-17,139
+nation,Northern Ireland,N92000002,2021-07-16,131
+nation,Northern Ireland,N92000002,2021-07-15,129
+nation,Northern Ireland,N92000002,2021-07-14,118
+nation,Northern Ireland,N92000002,2021-07-13,102
+nation,Northern Ireland,N92000002,2021-07-12,97
+nation,Northern Ireland,N92000002,2021-07-11,87
+nation,Northern Ireland,N92000002,2021-07-10,83
 nation,Northern Ireland,N92000002,2021-07-09,75
 nation,Northern Ireland,N92000002,2021-07-08,79
 nation,Northern Ireland,N92000002,2021-07-07,74
@@ -997,6 +999,7 @@ nation,Northern Ireland,N92000002,2020-03-04,12
 nation,Northern Ireland,N92000002,2020-03-03,12
 nation,Northern Ireland,N92000002,2020-03-02,12
 nation,Northern Ireland,N92000002,2020-03-01,11
+nation,Scotland,S92000003,2021-07-23,502
 nation,Scotland,S92000003,2021-07-22,488
 nation,Scotland,S92000003,2021-07-21,529
 nation,Scotland,S92000003,2021-07-20,529
@@ -1480,6 +1483,7 @@ nation,Scotland,S92000003,2020-03-30,627
 nation,Scotland,S92000003,2020-03-29,565
 nation,Scotland,S92000003,2020-03-28,511
 nation,Scotland,S92000003,2020-03-27,404
+nation,Wales,W92000004,2021-07-22,120
 nation,Wales,W92000004,2021-07-21,107
 nation,Wales,W92000004,2021-07-20,103
 nation,Wales,W92000004,2021-07-19,100
