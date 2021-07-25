@@ -47,6 +47,11 @@ The Google mobility data is pulled from https://www.google.com/covid19/mobility/
 
   * [Covid 19 Data](https://https://github.com/DataScienceResearchPeru/covid-19_latinoamerica)
 
+## Malaysia
+![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%Malaysian%20data/badge.svg)
+
+  * [Covid 19 Data](hhttps://github.com/MoH-Malaysia/covid19-public)
+
 ## Microsoft Bing!
 
 Although we're not currently pulling this in - it's 200M - Microsoft do provide a Bing! Covid-19 dataset which can be found in their [Pandemic Data Lake](https://azure.microsoft.com/en-gb/services/open-datasets/catalog/covid-tracking/)

@@ -1,0 +1,48 @@
+name: Fetch latest Malaysian data
+
+on:
+  repository_dispatch:
+  schedule:
+    - cron:  '0 10 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v1
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Fetch latest Malaysian data
+      run: |-
+        mkdir -p malaysia
+        cd malaysia
+        wget -q -O cases_malaysia.csv "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_malaysia.csv"
+        wget -q -O cases_state.csv "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/cases_state.csv"
+        wget -q -O clusters.csv "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/clusters.csv"
+        wget -q -O deaths_malaysia.csv "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/deaths_malaysia.csv"
+        wget -q -O deaths_state.csv "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/deaths_state.csv"
+        wget -q -O hospital.csv https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/hospital.csv"
+        wget -q -O icu.csv "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/icu.csv"
+        wget -q -O pkrc.csv "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/pkrc.csv"
+        wget -q -O tests_malaysia.csv "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/tests_malaysia.csv"
+    - name: Commit and push Malaysian data if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest Malaysia data: ${timestamp}" || exit 0
+        git push
