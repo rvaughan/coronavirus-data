@@ -3,7 +3,7 @@ name: Fetch latest Malaysian data
 on:
   repository_dispatch:
   schedule:
-    - cron:  '0 10 * * *'
+    - cron:  '12 10 * * *'
 
 jobs:
   scheduled:
