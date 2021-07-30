@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,hospitalCases
+nation,England,E92000001,2021-07-30,5111
 nation,England,E92000001,2021-07-29,5056
 nation,England,E92000001,2021-07-28,5182
 nation,England,E92000001,2021-07-27,5163
@@ -496,18 +497,19 @@ nation,England,E92000001,2020-03-23,3183
 nation,England,E92000001,2020-03-22,2670
 nation,England,E92000001,2020-03-21,2152
 nation,England,E92000001,2020-03-20,1580
-nation,Northern Ireland,N92000002,2021-07-28,234
-nation,Northern Ireland,N92000002,2021-07-27,258
-nation,Northern Ireland,N92000002,2021-07-26,276
+nation,Northern Ireland,N92000002,2021-07-29,232
+nation,Northern Ireland,N92000002,2021-07-28,248
+nation,Northern Ireland,N92000002,2021-07-27,266
+nation,Northern Ireland,N92000002,2021-07-26,277
 nation,Northern Ireland,N92000002,2021-07-25,269
 nation,Northern Ireland,N92000002,2021-07-24,248
 nation,Northern Ireland,N92000002,2021-07-23,239
 nation,Northern Ireland,N92000002,2021-07-22,228
-nation,Northern Ireland,N92000002,2021-07-21,198
+nation,Northern Ireland,N92000002,2021-07-21,199
 nation,Northern Ireland,N92000002,2021-07-20,186
 nation,Northern Ireland,N92000002,2021-07-19,174
 nation,Northern Ireland,N92000002,2021-07-18,170
-nation,Northern Ireland,N92000002,2021-07-17,154
+nation,Northern Ireland,N92000002,2021-07-17,155
 nation,Northern Ireland,N92000002,2021-07-16,144
 nation,Northern Ireland,N92000002,2021-07-15,144
 nation,Northern Ireland,N92000002,2021-07-14,130
@@ -1011,6 +1013,7 @@ nation,Northern Ireland,N92000002,2020-03-04,12
 nation,Northern Ireland,N92000002,2020-03-03,12
 nation,Northern Ireland,N92000002,2020-03-02,12
 nation,Northern Ireland,N92000002,2020-03-01,11
+nation,Scotland,S92000003,2021-07-30,474
 nation,Scotland,S92000003,2021-07-29,490
 nation,Scotland,S92000003,2021-07-28,474
 nation,Scotland,S92000003,2021-07-27,472
@@ -1501,6 +1504,7 @@ nation,Scotland,S92000003,2020-03-30,627
 nation,Scotland,S92000003,2020-03-29,565
 nation,Scotland,S92000003,2020-03-28,511
 nation,Scotland,S92000003,2020-03-27,404
+nation,Wales,W92000004,2021-07-29,138
 nation,Wales,W92000004,2021-07-28,144
 nation,Wales,W92000004,2021-07-27,142
 nation,Wales,W92000004,2021-07-26,145
