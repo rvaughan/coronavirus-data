@@ -75,7 +75,7 @@ Although we're not currently pulling this in - it's 200M - Microsoft do provide 
 The UK data is pulled twice an hour from the following sources:
 
   * [England and Wales Data](https://coronavirus.data.gov.uk/) **Note:** This data is no longer updated.
-  * [Northern Ireland](https://www.nisra.gov.uk/publications/weekly-deaths) **Note:** This data is no longer updated.
+  * [Northern Ireland](https://www.nisra.gov.uk/publications/weekly-deaths)
   * [Scottish Data](https://www.nrscotland.gov.uk/covid19stats)
   * [Wales Data](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary)
   * [UK R Number](https://www.gov.uk/government/news/government-publishes-latest-r-number)
@@ -92,7 +92,7 @@ The UK data is pulled twice an hour from the following sources:
   * Found an API'fy data source:
     * List of available data [url](https://api.apify.com/v2/key-value-stores/tVaYRsPHLjNdNBu7S/records/LATEST?disableRedirect=true).
     * Latest UK data [url](https://api.apify.com/v2/key-value-stores/KWLojgM5r1JmMW4b4/records/LATEST?disableRedirect=true)
-    * Latest overall UK data [url](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending9july2021)
+    * Latest overall UK data [url](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending16july2021)
   * NHS Pathways
     * https://digital.nhs.uk/dashboards/nhs-pathways
     * https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online/latest
