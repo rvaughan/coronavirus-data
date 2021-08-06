@@ -3,7 +3,7 @@ name: Fetch latest Latin America data
 on:
   repository_dispatch:
   schedule:
-    - cron:  '10 1,13 * * *'
+    - cron:  '0 3 * * *'
 
 jobs:
   scheduled:

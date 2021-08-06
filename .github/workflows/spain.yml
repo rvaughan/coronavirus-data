@@ -3,7 +3,7 @@ name: Fetch latest Spanish data
 on:
   repository_dispatch:
   schedule:
-    - cron:  '15 1,13 * * *'
+    - cron:  '0 4 * * *'
 
 jobs:
   scheduled:

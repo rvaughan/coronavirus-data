@@ -3,7 +3,7 @@ name: Fetch latest Italian data
 on:
   repository_dispatch:
   schedule:
-    - cron:  '20 2,14 * * *'
+    - cron:  '0 2 * * *'
 
 jobs:
   scheduled:

@@ -3,7 +3,7 @@ name: Fetch latest Swedish data
 on:
   repository_dispatch:
   schedule:
-    - cron:  '15 1,13 * * *'
+    - cron:  '30 4 * * *'
 
 jobs:
   scheduled:

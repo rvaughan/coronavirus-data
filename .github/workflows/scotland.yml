@@ -3,7 +3,7 @@ name: Fetch latest Scottish data
 on:
   repository_dispatch:
   schedule:
-    - cron:  '27,57 * * * *'
+    - cron:  '0 14 * * *'
 
 jobs:
   scheduled:

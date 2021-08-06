@@ -3,7 +3,7 @@ name: Fetch latest UK data
 on:
   repository_dispatch:
   schedule:
-    - cron:  '25,55 * * * *'
+    - cron:  '0 15 * * *'
 
 jobs:
   scheduled:
