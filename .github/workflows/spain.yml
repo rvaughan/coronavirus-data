@@ -25,7 +25,7 @@ jobs:
     - name: Install Python dependencies
       run: |
         pip install -r requirements.txt
-    - name: Fetch latest Belgian data
+    - name: Fetch latest Spanish data
       run: |-
         mkdir -p spain
         cd spain
@@ -40,6 +40,7 @@ jobs:
         wget -q -O nacional_casos_personal_sanitario.csv "https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_casos_personal_sanitario.csv"
         wget -q -O nacional_covid19.csv "https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/nacional_covid19.csv"
         wget -q -O provincias_covid19_datos_isciii_nueva_serie.csv "https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/provincias_covid19_datos_isciii_nueva_serie.csv"
+        echo "Done"
     - name: Commit and push Spanish data if it changed
       run: |-
         git config user.name "Automated"
