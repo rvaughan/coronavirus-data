@@ -29,7 +29,7 @@ jobs:
       run: |-
         mkdir -p spain
         cd spain
-        wget -q -O spain.csv "https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_long.csv"
+        #wget -q -O spain.csv "https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_long.csv"
         wget -q -O ccaa_covid19_datos_isciii_nueva_serie.csv "https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_datos_isciii_nueva_serie.csv"
         wget -q -O ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv "https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie.csv"
         wget -q -O ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv "https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos_por_fecha_defuncion_nueva_serie_long.csv"
