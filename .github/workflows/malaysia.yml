@@ -38,6 +38,7 @@ jobs:
         wget -q -O icu.csv "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/icu.csv"
         wget -q -O pkrc.csv "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/pkrc.csv"
         wget -q -O tests_malaysia.csv "https://raw.githubusercontent.com/MoH-Malaysia/covid19-public/main/epidemic/tests_malaysia.csv"
+        echo "Done"
     - name: Commit and push Malaysian data if it changed
       run: |-
         git config user.name "Automated"
