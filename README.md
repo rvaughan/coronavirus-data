@@ -19,6 +19,10 @@ repository, and with leveraging of [The Economists](https://www.economist.com) [
   * [Matt Bolton](https://github.com/M3IT/COVID-19_Data)
   * [Juliette O'Brien](https://github.com/pappubahry/AU_COVID19)
 
+## AWS Covid-19 Data Lake
+
+AWS are [hosting Covid-19 data](https://aws.amazon.com/covid-19-data-lake/) on their S3 service.
+
 ## Belgian Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Belgian%20data/badge.svg)
 
@@ -54,7 +58,7 @@ The Google mobility data is pulled from https://www.google.com/covid19/mobility/
 
 ## Microsoft Bing!
 
-Although we're not currently pulling this in - it's 200M - Microsoft do provide a Bing! Covid-19 dataset which can be found in their [Pandemic Data Lake](https://azure.microsoft.com/en-gb/services/open-datasets/catalog/covid-tracking/)
+Although we're not currently pulling this in - it's 200M - Microsoft do provide a Bing! Covid-19 dataset which can be found in their [Pandemic Data Lake](https://docs.microsoft.com/en-us/azure/open-datasets/dataset-bing-covid-19?tabs=azure-storage)
 
   * [Daily Data](https://pandemicdatalake.blob.core.windows.net/public/raw/covid-19/covid_tracking/latest/daily.json)
   * [Overall Data](https://pandemicdatalake.blob.core.windows.net/public/curated/covid-19/bing_covid-19_data/latest/bing_covid-19_data.json).
