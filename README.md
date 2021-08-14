@@ -50,7 +50,7 @@ The Google mobility data is pulled from https://www.google.com/covid19/mobility/
 ## Malaysia
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%Malaysian%20data/badge.svg)
 
-  * [Covid 19 Data](hhttps://github.com/MoH-Malaysia/covid19-public)
+  * [Covid 19 Data](https://github.com/MoH-Malaysia/covid19-public)
 
 ## Microsoft Bing!
 
