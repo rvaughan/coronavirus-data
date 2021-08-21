@@ -29,6 +29,31 @@ jobs:
       run: |-
         mkdir -p uk/england && cd uk/england
         for url in `wget -q https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/ -O - | grep -o -E 'href="([^"#]+)"' | cut -d'"' -f2 | grep uploads`; do fname=`basename $url`; wget -q -O $fname $url; done
+        wget -q -O capacityPillarOne.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=capacityPillarOne&format=csv
+        wget -q -O capacityPillarTwo.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=capacityPillarTwo&format=csv
+        wget -q -O capacityPillarThree.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=capacityPillarThree&format=csv
+        wget -q -O capacityPillarFour.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=capacityPillarFour&format=csv
+        wget -q -O covidOccupiedMVBeds.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=covidOccupiedMVBeds&format=csv
+        wget -q -O hospitalCases.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=hospitalCases&format=csv
+        wget -q -O newAdmissions.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newAdmissions&format=csv
+        wget -q -O newAntibodyTestsByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newAntibodyTestsByPublishDate&format=csv
+        wget -q -O newCasesByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newCasesByPublishDate&format=csv
+        wget -q -O newCasesBySpecimenDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newCasesBySpecimenDate&format=csv
+        wget -q -O newDailyNsoDeathsByDeathDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newDailyNsoDeathsByDeathDate&format=csv
+        wget -q -O newDeaths28DaysByDeathDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newDeaths28DaysByDeathDate&format=csv
+        wget -q -O newOnsDeathsByRegistrationDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newOnsDeathsByRegistrationDate&format=csv
+        wget -q -O newPCRTestsByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newPCRTestsByPublishDate&format=csv
+        wget -q -O newPillarOneTestsByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newPillarOneTestsByPublishDate&format=csv
+        wget -q -O newPillarTwoTestsByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newPillarTwoTestsByPublishDate&format=csv
+        wget -q -O newPillarThreeTestsByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newPillarThreeTestsByPublishDate&format=csv
+        wget -q -O newPillarFourTestsByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newPillarFourTestsByPublishDate&format=csv
+        wget -q -O newTestsByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newTestsByPublishDate&format=csv
+        wget -q -O newVaccinesGivenByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newVaccinesGivenByPublishDate&format=csv
+        wget -q -O newVirusTests.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newVirusTests&format=csv
+        wget -q -O newWeeklyNsoDeathsByRegDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=newWeeklyNsoDeathsByRegDate&format=csv
+        wget -q -O plannedAntibodyCapacityByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=plannedAntibodyCapacityByPublishDate&format=csv
+        wget -q -O plannedCapacityByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=plannedCapacityByPublishDate&format=csv
+        wget -q -O plannedPCRCapacityByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=plannedPCRCapacityByPublishDate&format=csv
     - name: Commit and push UK data if it changed
       run: |-
         git config user.name "Automated"
