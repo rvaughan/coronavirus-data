@@ -104,6 +104,7 @@ The UK data is pulled twice an hour from the following sources:
   * [Variants of Concerns](https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers/variants-distribution-of-cases-data)
   * Sanger [Variant Data](https://covid19.sanger.ac.uk/downloads)
   * Weekly [Test and Trace Data](https://www.gov.uk/government/collections/nhs-test-and-trace-statistics-england-weekly-reports)
+  * [Daily Scottish cases](https://www.opendata.nhs.scot/dataset/covid-19-in-scotland)
   * [Daily Trend of Vaccinations in Scotland](https://www.opendata.nhs.scot/dataset/covid-19-vaccination-in-scotland)
 
 ## USA Data
