@@ -103,6 +103,7 @@ The UK data is pulled twice an hour from the following sources:
     * https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online
   * [Variants of Concerns](https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers/variants-distribution-of-cases-data)
   * Sanger [Variant Data](https://covid19.sanger.ac.uk/downloads)
+  * Weekly [Test and Trace Data](https://www.gov.uk/government/collections/nhs-test-and-trace-statistics-england-weekly-reports)
 
 ## USA Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20data/badge.svg) ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20USA%20(2)%20data/badge.svg)
