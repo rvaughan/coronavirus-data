@@ -1,4 +1,7 @@
 areaType,areaName,areaCode,date,hospitalCases
+nation,England,E92000001,2021-08-23,6000
+nation,England,E92000001,2021-08-22,5749
+nation,England,E92000001,2021-08-21,5575
 nation,England,E92000001,2021-08-20,5576
 nation,England,E92000001,2021-08-19,5554
 nation,England,E92000001,2021-08-18,5514
@@ -1055,6 +1058,9 @@ nation,Northern Ireland,N92000002,2020-03-04,12
 nation,Northern Ireland,N92000002,2020-03-03,12
 nation,Northern Ireland,N92000002,2020-03-02,12
 nation,Northern Ireland,N92000002,2020-03-01,11
+nation,Scotland,S92000003,2021-08-23,356
+nation,Scotland,S92000003,2021-08-22,338
+nation,Scotland,S92000003,2021-08-21,323
 nation,Scotland,S92000003,2021-08-20,312
 nation,Scotland,S92000003,2021-08-19,317
 nation,Scotland,S92000003,2021-08-18,324
@@ -1567,6 +1573,7 @@ nation,Scotland,S92000003,2020-03-30,627
 nation,Scotland,S92000003,2020-03-29,565
 nation,Scotland,S92000003,2020-03-28,511
 nation,Scotland,S92000003,2020-03-27,404
+nation,Wales,W92000004,2021-08-20,192
 nation,Wales,W92000004,2021-08-19,182
 nation,Wales,W92000004,2021-08-18,162
 nation,Wales,W92000004,2021-08-17,152
