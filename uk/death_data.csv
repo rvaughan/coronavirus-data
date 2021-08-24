@@ -1,11 +1,12 @@
 areaType,areaName,areaCode,date,newDeaths28DaysByDeathDate,cumDeaths28DaysByDeathDate
-nation,England,E92000001,2021-08-22,5,115641
-nation,England,E92000001,2021-08-21,23,115636
-nation,England,E92000001,2021-08-20,36,115613
-nation,England,E92000001,2021-08-19,66,115577
-nation,England,E92000001,2021-08-18,71,115511
-nation,England,E92000001,2021-08-17,86,115440
-nation,England,E92000001,2021-08-16,66,115354
+nation,England,E92000001,2021-08-23,21,115793
+nation,England,E92000001,2021-08-22,61,115772
+nation,England,E92000001,2021-08-21,58,115711
+nation,England,E92000001,2021-08-20,63,115653
+nation,England,E92000001,2021-08-19,76,115590
+nation,England,E92000001,2021-08-18,72,115514
+nation,England,E92000001,2021-08-17,87,115442
+nation,England,E92000001,2021-08-16,67,115355
 nation,England,E92000001,2021-08-15,68,115288
 nation,England,E92000001,2021-08-14,75,115220
 nation,England,E92000001,2021-08-13,84,115145
@@ -21,8 +22,8 @@ nation,England,E92000001,2021-08-04,70,114449
 nation,England,E92000001,2021-08-03,64,114379
 nation,England,E92000001,2021-08-02,65,114315
 nation,England,E92000001,2021-08-01,73,114250
-nation,England,E92000001,2021-07-31,75,114177
-nation,England,E92000001,2021-07-30,91,114102
+nation,England,E92000001,2021-07-31,74,114177
+nation,England,E92000001,2021-07-30,92,114103
 nation,England,E92000001,2021-07-29,64,114011
 nation,England,E92000001,2021-07-28,67,113947
 nation,England,E92000001,2021-07-27,60,113880
@@ -538,20 +539,21 @@ nation,England,E92000001,2020-03-05,3,6
 nation,England,E92000001,2020-03-04,0,3
 nation,England,E92000001,2020-03-03,2,3
 nation,England,E92000001,2020-03-02,1,1
-nation,Northern Ireland,N92000002,2021-08-22,9,2310
-nation,Northern Ireland,N92000002,2021-08-21,11,2301
-nation,Northern Ireland,N92000002,2021-08-20,5,2290
-nation,Northern Ireland,N92000002,2021-08-19,7,2285
-nation,Northern Ireland,N92000002,2021-08-18,11,2278
-nation,Northern Ireland,N92000002,2021-08-17,7,2267
-nation,Northern Ireland,N92000002,2021-08-16,4,2260
-nation,Northern Ireland,N92000002,2021-08-15,2,2256
-nation,Northern Ireland,N92000002,2021-08-14,4,2254
-nation,Northern Ireland,N92000002,2021-08-13,6,2250
-nation,Northern Ireland,N92000002,2021-08-12,6,2244
-nation,Northern Ireland,N92000002,2021-08-11,5,2238
-nation,Northern Ireland,N92000002,2021-08-10,3,2233
-nation,Northern Ireland,N92000002,2021-08-09,2,2230
+nation,Northern Ireland,N92000002,2021-08-23,8,2321
+nation,Northern Ireland,N92000002,2021-08-22,10,2313
+nation,Northern Ireland,N92000002,2021-08-21,12,2303
+nation,Northern Ireland,N92000002,2021-08-20,5,2291
+nation,Northern Ireland,N92000002,2021-08-19,7,2286
+nation,Northern Ireland,N92000002,2021-08-18,11,2279
+nation,Northern Ireland,N92000002,2021-08-17,7,2268
+nation,Northern Ireland,N92000002,2021-08-16,4,2261
+nation,Northern Ireland,N92000002,2021-08-15,2,2257
+nation,Northern Ireland,N92000002,2021-08-14,4,2255
+nation,Northern Ireland,N92000002,2021-08-13,6,2251
+nation,Northern Ireland,N92000002,2021-08-12,6,2245
+nation,Northern Ireland,N92000002,2021-08-11,5,2239
+nation,Northern Ireland,N92000002,2021-08-10,3,2234
+nation,Northern Ireland,N92000002,2021-08-09,3,2231
 nation,Northern Ireland,N92000002,2021-08-08,8,2228
 nation,Northern Ireland,N92000002,2021-08-07,3,2220
 nation,Northern Ireland,N92000002,2021-08-06,5,2217
@@ -1061,17 +1063,18 @@ nation,Northern Ireland,N92000002,2020-03-21,1,3
 nation,Northern Ireland,N92000002,2020-03-20,0,2
 nation,Northern Ireland,N92000002,2020-03-19,1,2
 nation,Northern Ireland,N92000002,2020-03-18,1,1
-nation,Scotland,S92000003,2021-08-22,0,8070
-nation,Scotland,S92000003,2021-08-21,0,8070
-nation,Scotland,S92000003,2021-08-20,0,8070
-nation,Scotland,S92000003,2021-08-19,2,8070
-nation,Scotland,S92000003,2021-08-18,3,8068
-nation,Scotland,S92000003,2021-08-17,2,8065
-nation,Scotland,S92000003,2021-08-16,3,8063
-nation,Scotland,S92000003,2021-08-15,4,8060
-nation,Scotland,S92000003,2021-08-14,6,8056
-nation,Scotland,S92000003,2021-08-13,9,8050
-nation,Scotland,S92000003,2021-08-12,2,8041
+nation,Scotland,S92000003,2021-08-23,0,8080
+nation,Scotland,S92000003,2021-08-22,1,8080
+nation,Scotland,S92000003,2021-08-21,1,8079
+nation,Scotland,S92000003,2021-08-20,0,8078
+nation,Scotland,S92000003,2021-08-19,3,8078
+nation,Scotland,S92000003,2021-08-18,5,8075
+nation,Scotland,S92000003,2021-08-17,3,8070
+nation,Scotland,S92000003,2021-08-16,3,8067
+nation,Scotland,S92000003,2021-08-15,6,8064
+nation,Scotland,S92000003,2021-08-14,6,8058
+nation,Scotland,S92000003,2021-08-13,10,8052
+nation,Scotland,S92000003,2021-08-12,3,8042
 nation,Scotland,S92000003,2021-08-11,3,8039
 nation,Scotland,S92000003,2021-08-10,5,8036
 nation,Scotland,S92000003,2021-08-09,6,8031
@@ -1590,6 +1593,7 @@ nation,Scotland,S92000003,2020-03-15,0,3
 nation,Scotland,S92000003,2020-03-14,2,3
 nation,Scotland,S92000003,2020-03-13,0,1
 nation,Scotland,S92000003,2020-03-12,1,1
+nation,Wales,W92000004,2021-08-23,0,5658
 nation,Wales,W92000004,2021-08-22,0,5658
 nation,Wales,W92000004,2021-08-21,0,5658
 nation,Wales,W92000004,2021-08-20,1,5658
