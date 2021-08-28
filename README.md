@@ -39,7 +39,7 @@ AWS are [hosting Covid-19 data](https://aws.amazon.com/covid-19-data-lake/) on t
 ## Google Mobility Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Google%20Mobility%20data/badge.svg)
 
-The Google mobility data is pulled from https://www.google.com/covid19/mobility/ once a day.
+The Google mobility data is pulled from https://www.google.com/covid19/mobility/ once a day. **Note:** The file is no longer pulled automatically daily as the file is too large to upload to GitHub. This is now a manual, local pull only.
 
 ## Italian Data
 ![Status](https://github.com/rvaughan/coronavirus-data/workflows/Fetch%20latest%20Italian%20data/badge.svg)
@@ -96,7 +96,7 @@ The UK data is pulled twice an hour from the following sources:
   * Found an API'fy data source:
     * List of available data [url](https://api.apify.com/v2/key-value-stores/tVaYRsPHLjNdNBu7S/records/LATEST?disableRedirect=true).
     * Latest UK data [url](https://api.apify.com/v2/key-value-stores/KWLojgM5r1JmMW4b4/records/LATEST?disableRedirect=true)
-    * Latest overall UK data [url](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending6august2021)
+    * Latest overall UK data [url](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending13august2021)
   * NHS Pathways
     * https://digital.nhs.uk/dashboards/nhs-pathways
     * https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online/latest
