@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,hospitalCases
+nation,England,E92000001,2021-09-10,6400
 nation,England,E92000001,2021-09-09,6254
 nation,England,E92000001,2021-09-08,6302
 nation,England,E92000001,2021-09-07,6244
@@ -538,21 +539,22 @@ nation,England,E92000001,2020-03-23,3183
 nation,England,E92000001,2020-03-22,2670
 nation,England,E92000001,2020-03-21,2152
 nation,England,E92000001,2020-03-20,1580
-nation,Northern Ireland,N92000002,2021-09-08,472
-nation,Northern Ireland,N92000002,2021-09-07,481
-nation,Northern Ireland,N92000002,2021-09-06,488
-nation,Northern Ireland,N92000002,2021-09-05,484
-nation,Northern Ireland,N92000002,2021-09-04,477
-nation,Northern Ireland,N92000002,2021-09-03,467
+nation,Northern Ireland,N92000002,2021-09-09,461
+nation,Northern Ireland,N92000002,2021-09-08,485
+nation,Northern Ireland,N92000002,2021-09-07,487
+nation,Northern Ireland,N92000002,2021-09-06,494
+nation,Northern Ireland,N92000002,2021-09-05,488
+nation,Northern Ireland,N92000002,2021-09-04,479
+nation,Northern Ireland,N92000002,2021-09-03,469
 nation,Northern Ireland,N92000002,2021-09-02,472
 nation,Northern Ireland,N92000002,2021-09-01,483
 nation,Northern Ireland,N92000002,2021-08-31,481
 nation,Northern Ireland,N92000002,2021-08-30,480
-nation,Northern Ireland,N92000002,2021-08-29,465
-nation,Northern Ireland,N92000002,2021-08-28,455
-nation,Northern Ireland,N92000002,2021-08-27,458
-nation,Northern Ireland,N92000002,2021-08-26,459
-nation,Northern Ireland,N92000002,2021-08-25,442
+nation,Northern Ireland,N92000002,2021-08-29,466
+nation,Northern Ireland,N92000002,2021-08-28,456
+nation,Northern Ireland,N92000002,2021-08-27,459
+nation,Northern Ireland,N92000002,2021-08-26,460
+nation,Northern Ireland,N92000002,2021-08-25,443
 nation,Northern Ireland,N92000002,2021-08-24,458
 nation,Northern Ireland,N92000002,2021-08-23,447
 nation,Northern Ireland,N92000002,2021-08-22,455
@@ -1095,6 +1097,7 @@ nation,Northern Ireland,N92000002,2020-03-04,12
 nation,Northern Ireland,N92000002,2020-03-03,12
 nation,Northern Ireland,N92000002,2020-03-02,12
 nation,Northern Ireland,N92000002,2020-03-01,11
+nation,Scotland,S92000003,2021-09-10,977
 nation,Scotland,S92000003,2021-09-09,928
 nation,Scotland,S92000003,2021-09-08,883
 nation,Scotland,S92000003,2021-09-07,805
