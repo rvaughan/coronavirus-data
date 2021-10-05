@@ -1,4 +1,8 @@
 areaType,areaName,areaCode,date,hospitalCases
+nation,England,E92000001,2021-10-05,5006
+nation,England,E92000001,2021-10-04,4909
+nation,England,E92000001,2021-10-03,4778
+nation,England,E92000001,2021-10-02,4652
 nation,England,E92000001,2021-10-01,4799
 nation,England,E92000001,2021-09-30,4916
 nation,England,E92000001,2021-09-29,5017
@@ -560,31 +564,35 @@ nation,England,E92000001,2020-03-23,3183
 nation,England,E92000001,2020-03-22,2670
 nation,England,E92000001,2020-03-21,2152
 nation,England,E92000001,2020-03-20,1580
-nation,Northern Ireland,N92000002,2021-09-30,342
-nation,Northern Ireland,N92000002,2021-09-29,365
-nation,Northern Ireland,N92000002,2021-09-28,373
-nation,Northern Ireland,N92000002,2021-09-27,382
-nation,Northern Ireland,N92000002,2021-09-26,383
-nation,Northern Ireland,N92000002,2021-09-25,378
-nation,Northern Ireland,N92000002,2021-09-24,379
-nation,Northern Ireland,N92000002,2021-09-23,397
-nation,Northern Ireland,N92000002,2021-09-22,421
-nation,Northern Ireland,N92000002,2021-09-21,445
-nation,Northern Ireland,N92000002,2021-09-20,443
-nation,Northern Ireland,N92000002,2021-09-19,453
-nation,Northern Ireland,N92000002,2021-09-18,445
-nation,Northern Ireland,N92000002,2021-09-17,443
-nation,Northern Ireland,N92000002,2021-09-16,459
-nation,Northern Ireland,N92000002,2021-09-15,478
-nation,Northern Ireland,N92000002,2021-09-14,474
-nation,Northern Ireland,N92000002,2021-09-13,495
-nation,Northern Ireland,N92000002,2021-09-12,492
-nation,Northern Ireland,N92000002,2021-09-11,488
-nation,Northern Ireland,N92000002,2021-09-10,480
-nation,Northern Ireland,N92000002,2021-09-09,509
-nation,Northern Ireland,N92000002,2021-09-08,515
-nation,Northern Ireland,N92000002,2021-09-07,520
-nation,Northern Ireland,N92000002,2021-09-06,516
+nation,Northern Ireland,N92000002,2021-10-04,346
+nation,Northern Ireland,N92000002,2021-10-03,354
+nation,Northern Ireland,N92000002,2021-10-02,347
+nation,Northern Ireland,N92000002,2021-10-01,353
+nation,Northern Ireland,N92000002,2021-09-30,372
+nation,Northern Ireland,N92000002,2021-09-29,384
+nation,Northern Ireland,N92000002,2021-09-28,390
+nation,Northern Ireland,N92000002,2021-09-27,400
+nation,Northern Ireland,N92000002,2021-09-26,399
+nation,Northern Ireland,N92000002,2021-09-25,392
+nation,Northern Ireland,N92000002,2021-09-24,392
+nation,Northern Ireland,N92000002,2021-09-23,408
+nation,Northern Ireland,N92000002,2021-09-22,431
+nation,Northern Ireland,N92000002,2021-09-21,451
+nation,Northern Ireland,N92000002,2021-09-20,448
+nation,Northern Ireland,N92000002,2021-09-19,456
+nation,Northern Ireland,N92000002,2021-09-18,448
+nation,Northern Ireland,N92000002,2021-09-17,446
+nation,Northern Ireland,N92000002,2021-09-16,461
+nation,Northern Ireland,N92000002,2021-09-15,480
+nation,Northern Ireland,N92000002,2021-09-14,476
+nation,Northern Ireland,N92000002,2021-09-13,497
+nation,Northern Ireland,N92000002,2021-09-12,494
+nation,Northern Ireland,N92000002,2021-09-11,490
+nation,Northern Ireland,N92000002,2021-09-10,482
+nation,Northern Ireland,N92000002,2021-09-09,510
+nation,Northern Ireland,N92000002,2021-09-08,516
+nation,Northern Ireland,N92000002,2021-09-07,521
+nation,Northern Ireland,N92000002,2021-09-06,517
 nation,Northern Ireland,N92000002,2021-09-05,512
 nation,Northern Ireland,N92000002,2021-09-04,499
 nation,Northern Ireland,N92000002,2021-09-03,488
@@ -630,10 +638,10 @@ nation,Northern Ireland,N92000002,2021-07-26,328
 nation,Northern Ireland,N92000002,2021-07-25,313
 nation,Northern Ireland,N92000002,2021-07-24,289
 nation,Northern Ireland,N92000002,2021-07-23,278
-nation,Northern Ireland,N92000002,2021-07-22,260
-nation,Northern Ireland,N92000002,2021-07-21,227
-nation,Northern Ireland,N92000002,2021-07-20,212
-nation,Northern Ireland,N92000002,2021-07-19,198
+nation,Northern Ireland,N92000002,2021-07-22,261
+nation,Northern Ireland,N92000002,2021-07-21,228
+nation,Northern Ireland,N92000002,2021-07-20,213
+nation,Northern Ireland,N92000002,2021-07-19,199
 nation,Northern Ireland,N92000002,2021-07-18,195
 nation,Northern Ireland,N92000002,2021-07-17,177
 nation,Northern Ireland,N92000002,2021-07-16,164
@@ -1139,6 +1147,10 @@ nation,Northern Ireland,N92000002,2020-03-04,12
 nation,Northern Ireland,N92000002,2020-03-03,12
 nation,Northern Ireland,N92000002,2020-03-02,12
 nation,Northern Ireland,N92000002,2020-03-01,11
+nation,Scotland,S92000003,2021-10-05,998
+nation,Scotland,S92000003,2021-10-04,1001
+nation,Scotland,S92000003,2021-10-03,965
+nation,Scotland,S92000003,2021-10-02,965
 nation,Scotland,S92000003,2021-10-01,983
 nation,Scotland,S92000003,2021-09-30,998
 nation,Scotland,S92000003,2021-09-29,1020
@@ -1693,6 +1705,10 @@ nation,Scotland,S92000003,2020-03-30,627
 nation,Scotland,S92000003,2020-03-29,565
 nation,Scotland,S92000003,2020-03-28,511
 nation,Scotland,S92000003,2020-03-27,404
+nation,Wales,W92000004,2021-10-04,491
+nation,Wales,W92000004,2021-10-03,467
+nation,Wales,W92000004,2021-10-02,449
+nation,Wales,W92000004,2021-10-01,434
 nation,Wales,W92000004,2021-09-30,477
 nation,Wales,W92000004,2021-09-29,474
 nation,Wales,W92000004,2021-09-28,477
