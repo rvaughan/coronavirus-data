@@ -1,4 +1,7 @@
 areaType,areaName,areaCode,date,plannedPCRCapacityByPublishDate,plannedAntibodyCapacityByPublishDate,newPCRTestsByPublishDate,cumPCRTestsByPublishDate,newAntibodyTestsByPublishDate,cumAntibodyTestsByPublishDate
+overview,United Kingdom,K02000001,2021-11-14,830701,122400,337547,155923706,246,5055263
+overview,United Kingdom,K02000001,2021-11-13,830631,122400,355622,155583943,378,5054868
+overview,United Kingdom,K02000001,2021-11-12,830671,122400,396046,155223640,2981,5054490
 overview,United Kingdom,K02000001,2021-11-11,830481,122400,438485,154823779,3862,5051509
 overview,United Kingdom,K02000001,2021-11-10,826671,122400,433303,154354254,3154,5047647
 overview,United Kingdom,K02000001,2021-11-09,826580,122400,420510,153917864,2561,5043784
