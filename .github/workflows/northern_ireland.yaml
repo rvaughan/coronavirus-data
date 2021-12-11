@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
     - name: Fetch latest Northern Ireland data
       run: |-
-        mkdir -p uk/wales && cd uk/wales
+        mkdir -p uk/northern_ireland && cd uk/northern_ireland
         wget -q -O cases_and_deaths.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=N92000002&metric=newCasesByPublishDate&metric=newCasesBySpecimenDate&metric=newDailyNsoDeathsByDeathDate&metric=newOnsDeathsByRegistrationDate&format=csv
         wget -q -O testing.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=N92000002&metric=newLFDTestsBySpecimenDate&metric=newPCRTestsByPublishDate&metric=newPillarOneTestsByPublishDate&metric=newPillarTwoTestsByPublishDate&metric=newTestsByPublishDate&format=csv
         wget -q -O vaccines_and_boosters.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=N92000002&metric=newPeopleVaccinatedSecondDoseByPublishDate&metric=newPeopleVaccinatedThirdDoseByPublishDate&metric=newPeopleVaccinatedThirdInjectionByPublishDate&metric=newPeopleVaccinatedFirstDoseByPublishDate&metric=newPeopleVaccinatedBoosterDoseByPublishDate&format=csv
