@@ -25,10 +25,14 @@ jobs:
     - name: Install Python dependencies
       run: |
         pip install -r requirements.txt
-    - name: Fetch latest UK data
+    - name: Fetch latest Scottish data
       run: |-
         mkdir -p uk/scotland && cd uk/scotland
         for url in `wget -q https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/ -O - | grep -o -E 'href="([^"#]+)"' | cut -d'"' -f2 | grep publications | grep 'xlsx$'`; do fname=`basename $url`; wget -q -O $fname https://gov.scot${url}; done
+        wget -q -O cases_and_deaths.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=S92000003&metric=newCasesByPublishDate&metric=newCasesBySpecimenDate&metric=newDailyNsoDeathsByDeathDate&metric=newOnsDeathsByRegistrationDate&format=csv
+        wget -q -O testing.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=S92000003&metric=newLFDTestsBySpecimenDate&metric=newPCRTestsByPublishDate&metric=newPillarOneTestsByPublishDate&metric=newPillarTwoTestsByPublishDate&metric=newTestsByPublishDate&format=csv
+        wget -q -O vaccines_and_boosters.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=S92000003&metric=newPeopleVaccinatedSecondDoseByPublishDate&metric=newPeopleVaccinatedThirdDoseByPublishDate&metric=newPeopleVaccinatedThirdInjectionByPublishDate&metric=newPeopleVaccinatedFirstDoseByPublishDate&metric=newPeopleVaccinatedBoosterDoseByPublishDate&format=csv
+        wget -q -O admissions.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=S92000003&metric=covidOccupiedMVBeds&metric=newAdmissions&metric=hospitalCases&metric=newAdmissions&format=csv
     - name: Commit and push data if it changed
       run: |-
         git config user.name "Automated"
