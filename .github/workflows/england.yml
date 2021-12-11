@@ -54,6 +54,10 @@ jobs:
         wget -q -O plannedAntibodyCapacityByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=plannedAntibodyCapacityByPublishDate&format=csv
         wget -q -O plannedCapacityByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=plannedCapacityByPublishDate&format=csv
         wget -q -O plannedPCRCapacityByPublishDate.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=overview&metric=plannedPCRCapacityByPublishDate&format=csv
+        wget -q -O cases_and_deaths.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=E92000001&metric=newCasesByPublishDate&metric=newCasesBySpecimenDate&metric=newDailyNsoDeathsByDeathDate&metric=newOnsDeathsByRegistrationDate&format=csv
+        wget -q -O testing.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=E92000001&metric=newLFDTestsBySpecimenDate&metric=newPCRTestsByPublishDate&metric=newPillarOneTestsByPublishDate&metric=newPillarTwoTestsByPublishDate&metric=newTestsByPublishDate&format=csv
+        wget -q -O vaccines_and_boosters.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=E92000001&metric=newPeopleVaccinatedSecondDoseByPublishDate&metric=newPeopleVaccinatedThirdDoseByPublishDate&metric=newPeopleVaccinatedThirdInjectionByPublishDate&metric=newPeopleVaccinatedFirstDoseByPublishDate&metric=newPeopleVaccinatedBoosterDoseByPublishDate&format=csv
+        wget -q -O admissions.csv https://api.coronavirus.data.gov.uk/v2/data?areaType=nation&areaCode=E92000001&metric=covidOccupiedMVBeds&metric=newAdmissions&metric=hospitalCases&metric=newAdmissions&format=csv
     - name: Commit and push UK data if it changed
       run: |-
         git config user.name "Automated"
