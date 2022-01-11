@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,covidOccupiedMVBeds
+nation,England,E92000001,2022-01-10,707
 nation,England,E92000001,2022-01-09,704
 nation,England,E92000001,2022-01-08,708
 nation,England,E92000001,2022-01-07,728
@@ -647,6 +648,10 @@ nation,England,E92000001,2020-04-05,2097
 nation,England,E92000001,2020-04-04,1950
 nation,England,E92000001,2020-04-03,1788
 nation,England,E92000001,2020-04-02,1494
+nation,Northern Ireland,N92000002,2022-01-10,22
+nation,Northern Ireland,N92000002,2022-01-09,25
+nation,Northern Ireland,N92000002,2022-01-08,26
+nation,Northern Ireland,N92000002,2022-01-07,26
 nation,Northern Ireland,N92000002,2022-01-06,24
 nation,Northern Ireland,N92000002,2022-01-05,24
 nation,Northern Ireland,N92000002,2022-01-04,25
@@ -1302,8 +1307,9 @@ nation,Northern Ireland,N92000002,2020-03-26,10
 nation,Northern Ireland,N92000002,2020-03-25,10
 nation,Northern Ireland,N92000002,2020-03-24,2
 nation,Northern Ireland,N92000002,2020-03-23,6
-nation,Scotland,S92000003,2022-01-09,55
-nation,Scotland,S92000003,2022-01-08,48
+nation,Scotland,S92000003,2022-01-10,54
+nation,Scotland,S92000003,2022-01-09,53
+nation,Scotland,S92000003,2022-01-08,47
 nation,Scotland,S92000003,2022-01-07,48
 nation,Scotland,S92000003,2022-01-06,43
 nation,Scotland,S92000003,2022-01-05,42
@@ -1965,6 +1971,7 @@ nation,Scotland,S92000003,2020-03-21,20
 nation,Scotland,S92000003,2020-03-20,16
 nation,Scotland,S92000003,2020-03-19,11
 nation,Scotland,S92000003,2020-03-18,6
+nation,Wales,W92000004,2022-01-07,42
 nation,Wales,W92000004,2022-01-06,39
 nation,Wales,W92000004,2022-01-05,40
 nation,Wales,W92000004,2022-01-04,36
