@@ -4,16 +4,16 @@ This folder contains files with data that focus on the most recent period of the
 
 ## Files 
 ### breakthrough-summary.csv
-This file contains cumulative counts and average weekly rates of cases, hospitalizations, and deaths by vaccination status,  since January 17, 2021. Data are updated on Thursdays containing data through the Saturday 12 days prior.
+This file contains cumulative counts and average weekly rates of cases, hospitalizations, and deaths by vaccination status,  since January 17, 2021. Data are updated on Thursdays containing data through the Saturday 12 days prior. As of 1/6/2022, data include children age 5-11 years.
 
 It includes the following definitions:
-- "Vaccinated" means people age 12 and over who are fully vaccinated at the time of case diagnosis: 14 days after the administration of the 2nd dose in a 2-dose series, or after the administration of a single-dose vaccine. 
-- "Unvaccinated" means people age 12 and over with no record of vaccination status.
+- "Vaccinated" means people age 5 and over who are fully vaccinated at the time of case diagnosis: 14 days after the administration of the 2nd dose in a 2-dose series, or after the administration of a single-dose vaccine. 
+- "Unvaccinated" means people age 5 and over with no record of vaccination status.
 - Cases, hospitalization, and deaths: defined per this repository's common standards.
 - Rates are per 100,000 people. Hospitalization and death rates are age-adjusted. The denominator for average weekly rates for vaccinated people is the count of NYC residents recorded as fully vaccinated by the week of an event (case, hospitalization, or death) included in the rate; the denominator for unvaccinated people is the total city population minus the number of fully or partially vaccinated people  as of the week of event. 
 
 ### now-weekly-breakthrough.csv
-This file contains weekly counts and rates of cases and hospitalizations by vaccination status, and citywide. Data are updated on Thursdays containing data through the Saturday 12 days prior. As of 1/6/2022, data from the week of 12/18/2021 onward include children age 5-11 years. 
+This file contains weekly counts and rates of cases and hospitalizations by vaccination status, and citywide. Data are updated on Thursdays containing data through the Saturday 12 days prior. As of 1/6/2022, data from the week of 12/18/2021 onward include children age 5-11 years. Recent data may be incomplete due to delays in processing the surge in cases and linking to vaccination and hospitalization data.  
 
 Definitions of vaccinated and unvaccinated people are the same as for breakthrough-summary.csv.
 
