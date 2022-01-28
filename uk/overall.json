@@ -24619,4 +24619,18 @@
   "lastUpdatedAtApify": "2022-01-26T21:01:00.000Z",
   "lastUpdatedAtSource": "2022-01-26T20:13:51.949590Z",
   "readMe": "https://apify.com/katerinahronik/covid-uk"
+},
+{
+  "dailytested": 1446064,
+  "dailyDeceasedWithin28Days": 338,
+  "dailyConfirmed": 96871,
+  "infected": 16245474,
+  "tested": 442585782,
+  "deceased": 176813,
+  "country": "UK",
+  "historyData": "https://api.apify.com/v2/datasets/K1mXdufnpvr53AFk6/items?format=json&clean=1",
+  "sourceUrl": "https://coronavirus.data.gov.uk/",
+  "lastUpdatedAtApify": "2022-01-27T18:01:00.000Z",
+  "lastUpdatedAtSource": "2022-01-27T16:00:10.297573Z",
+  "readMe": "https://apify.com/katerinahronik/covid-uk"
 }]
