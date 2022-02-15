@@ -1,6 +1,7 @@
 areaType,areaName,areaCode,date,newCasesByPublishDate,cumCasesByPublishDate
-overview,United Kingdom,K02000001,2022-02-13,41270,18306859
-overview,United Kingdom,K02000001,2022-02-12,46025,18266015
+overview,United Kingdom,K02000001,2022-02-14,41648,18348029
+overview,United Kingdom,K02000001,2022-02-13,41270,18306704
+overview,United Kingdom,K02000001,2022-02-12,46025,18265918
 overview,United Kingdom,K02000001,2022-02-11,58899,18220515
 overview,United Kingdom,K02000001,2022-02-10,66638,18162199
 overview,United Kingdom,K02000001,2022-02-09,68214,18000119
