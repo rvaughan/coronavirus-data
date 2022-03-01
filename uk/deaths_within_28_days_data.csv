@@ -1,4 +1,7 @@
 areaType,areaName,areaCode,date,newDeaths28DaysByPublishDate,cumDeaths28DaysByPublishDate
+nation,England,E92000001,2022-02-28,106,140498
+nation,England,E92000001,2022-02-27,0,140392
+nation,England,E92000001,2022-02-26,0,140392
 nation,England,E92000001,2022-02-25,97,140392
 nation,England,E92000001,2022-02-24,99,140295
 nation,England,E92000001,2022-02-23,140,140196
@@ -721,6 +724,9 @@ nation,England,E92000001,2020-03-09,1,3
 nation,England,E92000001,2020-03-08,0,2
 nation,England,E92000001,2020-03-07,1,2
 nation,England,E92000001,2020-03-06,1,1
+nation,Northern Ireland,N92000002,2022-02-28,12,3208
+nation,Northern Ireland,N92000002,2022-02-27,0,3197
+nation,Northern Ireland,N92000002,2022-02-26,0,3197
 nation,Northern Ireland,N92000002,2022-02-25,2,3197
 nation,Northern Ireland,N92000002,2022-02-24,2,3195
 nation,Northern Ireland,N92000002,2022-02-23,4,3193
@@ -1430,6 +1436,9 @@ nation,Northern Ireland,N92000002,2020-03-22,0,2
 nation,Northern Ireland,N92000002,2020-03-21,1,2
 nation,Northern Ireland,N92000002,2020-03-20,,1
 nation,Northern Ireland,N92000002,2020-03-19,,1
+nation,Scotland,S92000003,2022-02-28,16,10672
+nation,Scotland,S92000003,2022-02-27,0,10656
+nation,Scotland,S92000003,2022-02-26,0,10656
 nation,Scotland,S92000003,2022-02-25,11,10656
 nation,Scotland,S92000003,2022-02-24,16,10645
 nation,Scotland,S92000003,2022-02-23,15,10629
@@ -2144,6 +2153,9 @@ nation,Scotland,S92000003,2020-03-17,1,2
 nation,Scotland,S92000003,2020-03-16,,1
 nation,Scotland,S92000003,2020-03-15,,1
 nation,Scotland,S92000003,2020-03-14,,1
+nation,Wales,W92000004,2022-02-28,4,6983
+nation,Wales,W92000004,2022-02-27,0,6979
+nation,Wales,W92000004,2022-02-26,0,6979
 nation,Wales,W92000004,2022-02-25,10,6979
 nation,Wales,W92000004,2022-02-24,8,6969
 nation,Wales,W92000004,2022-02-23,5,6961
