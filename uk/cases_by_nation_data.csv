@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,newCasesByPublishDate,cumCasesByPublishDate
+nation,England,E92000001,2022-05-19,6704,18695641
 nation,England,E92000001,2022-05-18,7388,18688946
 nation,England,E92000001,2022-05-17,8102,18681566
 nation,England,E92000001,2022-05-16,16903,18673471
@@ -838,6 +839,7 @@ nation,England,E92000001,2020-02-03,0,2
 nation,England,E92000001,2020-02-02,0,2
 nation,England,E92000001,2020-02-01,0,2
 nation,England,E92000001,2020-01-31,2,2
+nation,Northern Ireland,N92000002,2022-05-19,263,713032
 nation,Northern Ireland,N92000002,2022-05-18,332,712769
 nation,Northern Ireland,N92000002,2022-05-17,363,712437
 nation,Northern Ireland,N92000002,2022-05-16,252,712074
@@ -1642,6 +1644,9 @@ nation,Northern Ireland,N92000002,2020-03-09,3,12
 nation,Northern Ireland,N92000002,2020-03-08,5,9
 nation,Northern Ireland,N92000002,2020-03-07,2,4
 nation,Northern Ireland,N92000002,2020-03-06,2,2
+nation,Scotland,S92000003,2022-05-19,5170,1949599
+nation,Scotland,S92000003,2022-05-18,0,1944429
+nation,Scotland,S92000003,2022-05-17,0,1944429
 nation,Scotland,S92000003,2022-05-16,5108,1944429
 nation,Scotland,S92000003,2022-05-15,0,1939321
 nation,Scotland,S92000003,2022-05-14,0,1939321
@@ -2448,6 +2453,7 @@ nation,Scotland,S92000003,2020-03-05,3,6
 nation,Scotland,S92000003,2020-03-04,2,3
 nation,Scotland,S92000003,2020-03-03,0,1
 nation,Scotland,S92000003,2020-03-02,1,1
+nation,Wales,W92000004,2022-05-19,71,874105
 nation,Wales,W92000004,2022-05-18,71,874034
 nation,Wales,W92000004,2022-05-17,138,873963
 nation,Wales,W92000004,2022-05-16,74,873825
