@@ -1,4 +1,7 @@
 areaType,areaName,areaCode,date,hospitalCases
+nation,England,E92000001,2022-05-23,5010
+nation,England,E92000001,2022-05-22,5047
+nation,England,E92000001,2022-05-21,5065
 nation,England,E92000001,2022-05-20,5187
 nation,England,E92000001,2022-05-19,5356
 nation,England,E92000001,2022-05-18,5425
@@ -1601,6 +1604,10 @@ nation,Northern Ireland,N92000002,2020-03-04,12
 nation,Northern Ireland,N92000002,2020-03-03,12
 nation,Northern Ireland,N92000002,2020-03-02,12
 nation,Northern Ireland,N92000002,2020-03-01,11
+nation,Scotland,S92000003,2022-05-23,663
+nation,Scotland,S92000003,2022-05-22,636
+nation,Scotland,S92000003,2022-05-21,659
+nation,Scotland,S92000003,2022-05-20,728
 nation,Scotland,S92000003,2022-05-19,761
 nation,Scotland,S92000003,2022-05-18,804
 nation,Scotland,S92000003,2022-05-17,841
@@ -2385,6 +2392,7 @@ nation,Scotland,S92000003,2020-03-30,627
 nation,Scotland,S92000003,2020-03-29,565
 nation,Scotland,S92000003,2020-03-28,511
 nation,Scotland,S92000003,2020-03-27,404
+nation,Wales,W92000004,2022-05-20,402
 nation,Wales,W92000004,2022-05-19,407
 nation,Wales,W92000004,2022-05-18,433
 nation,Wales,W92000004,2022-05-17,461
@@ -2531,8 +2539,8 @@ nation,Wales,W92000004,2021-12-28,417
 nation,Wales,W92000004,2021-12-27,387
 nation,Wales,W92000004,2021-12-26,366
 nation,Wales,W92000004,2021-12-25,338
-nation,Wales,W92000004,2021-12-24,342
-nation,Wales,W92000004,2021-12-23,351
+nation,Wales,W92000004,2021-12-24,351
+nation,Wales,W92000004,2021-12-23,342
 nation,Wales,W92000004,2021-12-22,346
 nation,Wales,W92000004,2021-12-21,330
 nation,Wales,W92000004,2021-12-20,330
