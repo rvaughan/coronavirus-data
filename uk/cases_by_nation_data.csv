@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,newCasesByPublishDate,cumCasesByPublishDate
+nation,England,E92000001,2022-05-27,4661,18738306
 nation,England,E92000001,2022-05-26,5293,18733650
 nation,England,E92000001,2022-05-25,5810,18728368
 nation,England,E92000001,2022-05-24,6352,18722566

@@ -1,4 +1,5 @@
 areaType,areaName,areaCode,date,newDeaths28DaysByPublishDate,cumDeaths28DaysByPublishDate
+nation,England,E92000001,2022-05-27,61,155203
 nation,England,E92000001,2022-05-26,60,155142
 nation,England,E92000001,2022-05-25,91,155082
 nation,England,E92000001,2022-05-24,127,154991
