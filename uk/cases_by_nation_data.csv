@@ -1,4 +1,7 @@
 areaType,areaName,areaCode,date,newCasesByPublishDate,cumCasesByPublishDate
+nation,England,E92000001,2022-05-30,13590,18751882
+nation,England,E92000001,2022-05-29,0,18738306
+nation,England,E92000001,2022-05-28,0,18738306
 nation,England,E92000001,2022-05-27,4661,18738306
 nation,England,E92000001,2022-05-26,5293,18733650
 nation,England,E92000001,2022-05-25,5810,18728368
@@ -1653,6 +1656,10 @@ nation,Northern Ireland,N92000002,2020-03-09,3,12
 nation,Northern Ireland,N92000002,2020-03-08,5,9
 nation,Northern Ireland,N92000002,2020-03-07,2,4
 nation,Northern Ireland,N92000002,2020-03-06,2,2
+nation,Scotland,S92000003,2022-05-30,3514,1955185
+nation,Scotland,S92000003,2022-05-29,0,1951671
+nation,Scotland,S92000003,2022-05-28,0,1951671
+nation,Scotland,S92000003,2022-05-27,0,1951671
 nation,Scotland,S92000003,2022-05-26,3024,1951671
 nation,Scotland,S92000003,2022-05-25,0,1960940
 nation,Scotland,S92000003,2022-05-24,0,1960940
