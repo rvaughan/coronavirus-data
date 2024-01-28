@@ -2,15 +2,16 @@ name: Fetch latest Cardiff University data
 
 on:
   repository_dispatch:
-  schedule:
-    - cron:  '00 18 * * *'
+  # schedule:
+  #   - cron:  '00 18 * * *'
+  workflow_dispatch:
 
 jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: Fetch latest UK data
       run: |-
         mkdir -p uk/wales && cd uk/wales
