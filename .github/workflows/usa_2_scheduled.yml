@@ -1,9 +1,9 @@
 name: Fetch latest USA (2) data
 
-on:
-  repository_dispatch:
-  schedule:
-    - cron:  '0 5 * * *'
+# on:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '0 5 * * *'
 
 jobs:
   scheduled:
