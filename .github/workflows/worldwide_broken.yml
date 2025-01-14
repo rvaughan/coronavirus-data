@@ -1,9 +1,9 @@
 name: Fetch latest BROKEN worldwide data
 
-on:
-  repository_dispatch:
-  schedule:
-    - cron:  '0 16 * * *'
+# on:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '0 16 * * *'
 
 jobs:
   scheduled:
