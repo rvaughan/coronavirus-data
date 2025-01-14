@@ -1,9 +1,9 @@
 name: Fetch latest data for Northern Ireland
 
-on:
-  repository_dispatch:
-  schedule:
-    - cron:  '50 13 * * *'
+# on:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '50 13 * * *'
 
 jobs:
   scheduled:
