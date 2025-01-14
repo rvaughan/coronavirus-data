@@ -1,9 +1,9 @@
 name: Fetch latest Malaysian data
 
-on:
-  repository_dispatch:
-  schedule:
-    - cron:  '0 10 * * *'
+# on:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '0 10 * * *'
 
 jobs:
   scheduled:
