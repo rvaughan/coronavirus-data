@@ -1,9 +1,9 @@
 name: Fetch latest England data
 
-on:
-  repository_dispatch:
-  schedule:
-    - cron:  '30 13 * * *'
+# on:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '30 13 * * *'
 
 jobs:
   scheduled:
