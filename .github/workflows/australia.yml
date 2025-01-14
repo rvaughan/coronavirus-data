@@ -1,9 +1,9 @@
 name: Fetch latest Australian data
 
-on:
-  repository_dispatch:
-  schedule:
-    - cron:  '00 1 * * *'
+# on:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '00 1 * * *'
 
 jobs:
   scheduled:
