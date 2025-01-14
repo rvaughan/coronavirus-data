@@ -1,9 +1,9 @@
 name: Fetch latest Italian data
 
-on:
-  repository_dispatch:
-  schedule:
-    - cron:  '0 2 * * *'
+# on:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '0 2 * * *'
 
 jobs:
   scheduled:
