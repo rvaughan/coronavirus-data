@@ -1,9 +1,9 @@
 name: Fetch latest Welsh data
 
-on:
-  repository_dispatch:
-  schedule:
-    - cron:  '45 13 * * *'
+# on:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '45 13 * * *'
 
 jobs:
   scheduled:
