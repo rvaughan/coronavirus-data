@@ -1,9 +1,9 @@
 name: Fetch latest Spanish data
 
-on:
-  repository_dispatch:
-  schedule:
-    - cron:  '0 4 * * *'
+# on:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '0 4 * * *'
 
 jobs:
   scheduled:
