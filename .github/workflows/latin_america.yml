@@ -1,9 +1,9 @@
 name: Fetch latest Latin America data
 
-on:
-  repository_dispatch:
-  schedule:
-    - cron:  '0 3 * * *'
+# on:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '0 3 * * *'
 
 jobs:
   scheduled:
