@@ -1,9 +1,9 @@
 name: Fetch latest Google Mobility data
 
-on:
-  repository_dispatch:
-  schedule:
-    - cron:  '00 12 * * *'
+# on:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '00 12 * * *'
 
 jobs:
   scheduled:
